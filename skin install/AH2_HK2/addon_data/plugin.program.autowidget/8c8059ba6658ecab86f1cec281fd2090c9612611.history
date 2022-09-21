@@ -1,0 +1,13 @@
+{
+    "history": [
+        [
+            1662545296.8901036,
+            "80f055afca1b356523e2f203b5c59476e7ad518a"
+        ]
+    ],
+    "widgets": [
+        "d70f506e-16a6-4f04-bd9c-45ed4680c8ae",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Concerts&list_slug=concerts&owner=true&plugin_category=Concerts&user_slug=pretendah&widget=True"
+}

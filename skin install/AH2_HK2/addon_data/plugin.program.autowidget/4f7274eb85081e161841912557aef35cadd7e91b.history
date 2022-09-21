@@ -1,0 +1,13 @@
+{
+    "history": [
+        [
+            1662545277.6137714,
+            "5c6ca0947d6a2c5889d5ea21c577003dea4c636f"
+        ]
+    ],
+    "widgets": [
+        "0eb1d4a4-ac55-4f18-bf5e-0885493c547d",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Top%2010%20Jap%20anime%202021&list_slug=top-10-jap-anime-2021&plugin_category=Top%2010%20Jap%20anime%202021&user_slug=didibz&widget=True"
+}

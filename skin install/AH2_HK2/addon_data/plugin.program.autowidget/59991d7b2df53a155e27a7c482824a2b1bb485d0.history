@@ -1,0 +1,13 @@
+{
+    "history": [
+        [
+            1662545297.187003,
+            "ed2379c5ca32369743fdb710d05ae9794e356c01"
+        ]
+    ],
+    "widgets": [
+        "d70f506e-16a6-4f04-bd9c-45ed4680c8ae",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Concerts&list_slug=concerts&owner=true&plugin_category=Concerts&user_slug=grayathletica&widget=True"
+}

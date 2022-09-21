@@ -1,0 +1,13 @@
+{
+    "history": [
+        [
+            1662545272.7723508,
+            "fa90459e05bba84390ad1c31d6748fcdf02eaa07"
+        ]
+    ],
+    "widgets": [
+        "4c32e37d-c7e2-4922-ba34-24a0615a4d1d",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Films%20fran%c3%a7ais%20%3e%2070%25&list_slug=films-francais-70&plugin_category=Films%20fran%c3%a7ais%20%3e%2070%25&user_slug=atipoul&widget=True"
+}

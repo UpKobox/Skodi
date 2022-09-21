@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<window type="dialog">
+    <defaultcontrol always="true">5000</defaultcontrol>
+    <menucontrol>9000</menucontrol>
+    <onunload>ClearProperty(HasTrailer,Home)</onunload>
+    <onunload>Runscript(plugin.video.themoviedb.helper,recommendations=onback,window_id=1191,setproperty=HideInfo)</onunload>
+    <controls>
+
+        <include content="DialogInfo_MainGroup">
+            <animation effect="fade" start="100" end="0" condition="!String.IsEmpty(Window(Home).Property(TMDBHelper.Recommendations.HideInfo))">Conditional</animation>
+            <control type="group">
+                <visible>!Window.IsVisible(script-tmdbhelper-wikipedia.xml)</visible>
+                <animation type="Visible" reversible="false">
+                    <effect type="fade" start="0" end="100" time="300" delay="400" tween="sine" easing="out"/>
+                    <effect type="slide" start="-320" end="0" time="400" delay="400" tween="cubic" easing="out" />
+                </animation>
+                <animation type="Hidden" reversible="false">
+                    <effect type="fade" start="100" end="0" time="300" tween="sine" easing="out" />
+                    <effect type="slide" start="0" end="-320" time="300" tween="cubic" easing="out" />
+                </animation>
+                <include content="DialogInfo_LeftGroup">
+                </include>
+                <include content="DialogInfo_RightGroup">
+                    <!-- Info -->
+                    <control type="group">
+                        <visible>!Control.HasFocus(61)</visible>
+                        <visible>!Control.HasFocus(7001) | !Player.HasVideo</visible>
+                        <include>Animation_DialogInfo_Recommendations</include>
+
+                        <!-- Video Info -->
+                        <include content="Info_Panel" condition="!$EXP[Exp_IsPersonInfo]">
+                            <param name="plotheight" value="info_plot_large_h" />
+                        </include>
+
+                        <!-- Person Info -->
+                        <include content="Info_Panel" condition="$EXP[Exp_IsPersonInfo]">
+                            <param name="plotheight" value="info_plot_person_h" />
+                        </include>
+
+                        <!-- Button Group -->
+                        <include content="DialogInfo_ButtonGroup" condition="!$EXP[Exp_IsPersonInfo]">
+                            <param name="include">Items_DialogVideoInfo_MenuBar</param>
+                        </include>
+                        <include condition="$EXP[Exp_IsPersonInfo]">DialogInfo_ButtonHidden</include>
+
+                        <!-- Video Details -->
+                        <include content="DialogInfo_VideoDetails" condition="!$EXP[Exp_IsPersonInfo]">
+                            <top>grid_x48</top>
+                            <bottom>grid_x08</bottom>
+                        </include>
+
+                        <!-- Codecs -->
+                        <include>DialogInfo_Codecs</include>
+
+                        <!-- Mouse Nav Button -->
+                        <include>DialogInfo_MouseNavArrow</include>
+                    </control>
+
+                    <!-- Trailer and Plot -->
+                    <include>DialogInfo_VideoTrailer</include>
+                    <include>DialogInfo_PlotBox</include>
+                </include>
+            </control>
+        </include>
+
+        <include condition="Skin.HasSetting(Recommendations.UseLocal)" content="DialogInfo_LocalRecommendations">
+            <onup>5000</onup>
+            <ondown>330</ondown>
+            <visible>ControlGroup(6000).HasFocus()</visible>
+            <include>Animation_Recommendations_Visible</include>
+        </include>
+
+        <include content="Object_Control" condition="Skin.HasSetting(Recommendations.UseLocal)">
+            <param name="control">group</param>
+            <visible>ControlGroup(6000).HasFocus()</visible>
+            <include>Animation_FadeIn</include>
+            <include>Animation_FadeOut</include>
+            <include content="Object_WallFade">
+                <param name="id" value="6000" />
+                <param name="direction_buttons">true</param>
+            </include>
+        </include>
+
+        <control type="group">
+            <visible>!Window.IsVisible(script-tmdbhelper-recommendations.xml)</visible>
+            <visible>!Window.IsVisible(script-tmdbhelper-wikipedia.xml)</visible>
+            <include>Furniture_Top_Right</include>
+            <include>Furniture_Top_Left</include>
+        </control>
+
+        <include content="Object_Options_Menu">
+            <param name="grouplist_items" value="Items_DialogVideoInfo_Options" />
+            <param name="visible" value="!$EXP[Exp_OverlayDialogs]" />
+            <param name="onback" value="5000" />
+            <param name="usemousefocus">true</param>
+        </include>
+
+        <include>DialogInfo_VideoTrailerFullscreen</include>
+        <include>DialogInfo_RecommendationsButton</include>
+        <include>DialogInfo_FilePathInfo</include>
+
+    </controls>
+</window>

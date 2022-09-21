@@ -1,0 +1,13 @@
+{
+    "history": [
+        [
+            1662545287.7300472,
+            "7b3ca43275807707308ee90f389c574d001ee6e1"
+        ]
+    ],
+    "widgets": [
+        "d70f506e-16a6-4f04-bd9c-45ed4680c8ae",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=CONCERTS&list_slug=concerts&owner=true&plugin_category=CONCERTS&user_slug=ezzer_man&widget=True"
+}

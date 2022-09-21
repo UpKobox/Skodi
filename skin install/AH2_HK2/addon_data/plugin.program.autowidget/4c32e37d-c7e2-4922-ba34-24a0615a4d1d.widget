@@ -1,0 +1,18 @@
+{
+    "action": "random",
+    "id": "4c32e37d-c7e2-4922-ba34-24a0615a4d1d",
+    "group": "films_francais_autowidget-1661599398.3946514",
+    "refresh": 2.0,
+    "path": "films_francais__70-1661599617.530323",
+    "version": "3.7.0",
+    "current": 2,
+    "cycle_paths": [
+        "charts_-_trending_french_movies-1661599405.368357",
+        "charts_-_top_french_movies-1661599420.9505973",
+        "fr-2020-2025-1661599484.8977497",
+        "films_francais__70-1661599617.530323"
+    ],
+    "stack": [],
+    "label": "Films fran\u00e7ais > 70%",
+    "updated": 1662542414.5256145
+}

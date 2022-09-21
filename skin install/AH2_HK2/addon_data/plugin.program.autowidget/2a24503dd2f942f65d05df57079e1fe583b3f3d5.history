@@ -1,0 +1,13 @@
+{
+    "history": [
+        [
+            1662545291.5029979,
+            "fd299d961f856bdabc00df271d61dc615e38c1d3"
+        ]
+    ],
+    "widgets": [
+        "d70f506e-16a6-4f04-bd9c-45ed4680c8ae",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Live%20concerts&list_slug=live-concerts&owner=true&plugin_category=Live%20concerts&user_slug=hazeyboy&widget=True"
+}

@@ -1,0 +1,13 @@
+{
+    "history": [
+        [
+            1662545277.8666596,
+            "144b9197303adb72aafe83226be8fa64390c31c1"
+        ]
+    ],
+    "widgets": [
+        "a55d1795-6478-492c-ae63-94d472544a9b",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Disney%2b%20Shows&list_slug=disney-shows&plugin_category=Disney%2b%20Shows&user_slug=garycrawfordgc&widget=True"
+}

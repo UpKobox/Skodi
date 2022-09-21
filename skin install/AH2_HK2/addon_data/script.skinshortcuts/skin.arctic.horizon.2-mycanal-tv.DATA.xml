@@ -1,0 +1,26 @@
+<shortcuts>
+	<shortcut>
+		<defaultID>mycanal</defaultID>
+		<label>myCANAL (application Android)</label>
+		<label2>Favoris</label2>
+		<icon>special://skin/extras/icons/folder.png</icon>
+		<thumb>special://home/media/Arctic Horizon 2/Network-icon.png</thumb>
+		<action>StartAndroidActivity("com.canal.android.canal")</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>1036</defaultID>
+		<label>1036</label>
+		<label2>Elément de menu commun</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/media/png/luminight_general_free/LUMINIGHT/general/png/72/star.png</thumb>
+		<action>ActivateWindow(Favourites)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>20244</defaultID>
+		<label>20244</label>
+		<label2>Programmes</label2>
+		<icon>special://skin/extras/icons/addons.png</icon>
+		<thumb>special://home/media/png/x-mac_general_free/X-MAC/general/png/72/tool.png</thumb>
+		<action>ActivateWindow(Programs,androidapp://sources/apps,return)</action>
+		</shortcut>
+	</shortcuts>

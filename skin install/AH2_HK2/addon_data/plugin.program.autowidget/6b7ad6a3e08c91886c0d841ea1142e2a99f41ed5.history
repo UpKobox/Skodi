@@ -1,0 +1,13 @@
+{
+    "history": [
+        [
+            1662545287.9764845,
+            "943306cd3c25efcb2ed0fce370825f44a0674c9d"
+        ]
+    ],
+    "widgets": [
+        "d70f506e-16a6-4f04-bd9c-45ed4680c8ae",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Concerts&list_slug=concerts&owner=true&plugin_category=Concerts&user_slug=specialsauce&widget=True"
+}

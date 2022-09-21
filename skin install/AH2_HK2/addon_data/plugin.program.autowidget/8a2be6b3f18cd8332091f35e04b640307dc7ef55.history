@@ -1,0 +1,13 @@
+{
+    "history": [
+        [
+            1662545305.7074432,
+            "932253f8cbecd7c822061e906d424116eeb9cd11"
+        ]
+    ],
+    "widgets": [
+        "4c32e37d-c7e2-4922-ba34-24a0615a4d1d",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Films+franc%CC%A7ais+%3E+70%25&list_slug=films-francais-70&plugin_category=Films+franc%CC%A7ais+%3E+70%25&user_slug=atipoul&page=2&widget=true&reload=$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]"
+}

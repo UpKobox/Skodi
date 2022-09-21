@@ -1,0 +1,13 @@
+{
+    "history": [
+        [
+            1662545287.7300472,
+            "b7acc2d403168e71c9bae2dc2c1f8bc0e0cbd132"
+        ]
+    ],
+    "widgets": [
+        "d70f506e-16a6-4f04-bd9c-45ed4680c8ae",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Concert&list_slug=concert&owner=true&plugin_category=Concert&user_slug=jealad&widget=True"
+}

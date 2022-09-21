@@ -1,0 +1,82 @@
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>Films HK2</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>plugin://plugin.video.sendtokodiU2P/?action=findf&amp;nom=recherche</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Séries HK2</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>plugin://plugin.video.sendtokodiU2P/?action=findss&amp;nom=recherche</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Acteurs HK2</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>plugin://plugin.video.sendtokodiU2P/?action=findc&amp;nom=recherche</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>radiode</defaultID>
+		<label>Radio DE</label>
+		<label2>Prédéfini</label2>
+		<icon>special://skin/extras/icons/radio.png</icon>
+		<thumb />
+		<action>DefaultSearch-RadioDE</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>31168</defaultID>
+		<label>$SKIN[31168|skin.arctic.horizon.2|None]</label>
+		<label2>Prédéfini</label2>
+		<icon>special://skin/extras/icons/film.png</icon>
+		<thumb />
+		<action>DefaultSearch-TMDBMovies</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>31169</defaultID>
+		<label>$SKIN[31169|skin.arctic.horizon.2|None]</label>
+		<label2>Prédéfini</label2>
+		<icon>special://skin/extras/icons/tv.png</icon>
+		<thumb />
+		<action>DefaultSearch-TMDBShows</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>31171</defaultID>
+		<label>$SKIN[31171|skin.arctic.horizon.2|None]</label>
+		<label2>Prédéfini</label2>
+		<icon>special://skin/extras/icons/person.png</icon>
+		<thumb />
+		<action>DefaultSearch-TMDBPeople</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>31170</defaultID>
+		<label>$SKIN[31170|skin.arctic.horizon.2|None]</label>
+		<label2>Prédéfini</label2>
+		<icon>special://skin/extras/icons/sets.png</icon>
+		<thumb />
+		<action>DefaultSearch-TMDBSets</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>traktlists</defaultID>
+		<label>Trakt Lists</label>
+		<label2>Prédéfini</label2>
+		<icon>special://skin/extras/icons/trakt.png</icon>
+		<thumb />
+		<action>DefaultSearch-TMDBListsTrakt</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>mdblists</defaultID>
+		<label>MDB Lists</label>
+		<label2>Prédéfini</label2>
+		<icon>special://skin/extras/icons/list.png</icon>
+		<thumb />
+		<action>DefaultSearch-TMDBListsMDBList</action>
+		</shortcut>
+	</shortcuts>

@@ -1,0 +1,13 @@
+{
+    "history": [
+        [
+            1662545296.8901036,
+            "fc0f46b6ed7a0fa4d389fab565d10b932285dd16"
+        ]
+    ],
+    "widgets": [
+        "d70f506e-16a6-4f04-bd9c-45ed4680c8ae",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Music%20%26%20Live%20Concerts&list_slug=music-live-concerts&owner=true&plugin_category=Music%20%26%20Live%20Concerts&user_slug=condemned&widget=True"
+}

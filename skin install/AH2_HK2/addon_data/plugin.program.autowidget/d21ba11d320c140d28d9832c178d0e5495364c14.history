@@ -1,0 +1,13 @@
+{
+    "history": [
+        [
+            1662545297.3789682,
+            "9b807c394689f1dd6fd1976613e7378350ba37ca"
+        ]
+    ],
+    "widgets": [
+        "d70f506e-16a6-4f04-bd9c-45ed4680c8ae",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Live%20Concerts%20%26%20Music&list_slug=live-concerts-music&owner=true&plugin_category=Live%20Concerts%20%26%20Music&user_slug=dwarnes1970&widget=True"
+}
