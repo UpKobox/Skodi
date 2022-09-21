@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<settings>
+    <category label="Import et Maj Database">
+        <setting label="Maj Database" type="lsep" />
+        <setting id="majhk2S" label="Maj HK2 et Skin rafraichissement" type="action" action="RunScript(special://home/addons/service.U2PplayMaj/U2Pplay.py,True)"/>
+        <setting id="majhk2" label="Maj HK2 seulement (rapide)" type="action" action="RunScript(special://home/addons/service.U2PplayMaj/U2PplayFast.py,True)"/>
+        <setting label="Import Database" type="lsep" />
+        <setting label="Import Database" type="action" action="RunPlugin(plugin://plugin.video.sendtokodiU2P/?action=folderPastebin&maj=false)"/>
+        <setting label="Reset Database" type="action" action="RunPlugin(plugin://plugin.video.sendtokodiU2P/?action=resetBDhkNew)"/>
+    </category>
+
+    <category label="Installation et choix Skin">
+        <setting label="Installation Skin" type="lsep" />
+        <setting id="InstaSkin" label="Installation des repo" type="action" action="RunPlugin(plugin://plugin.program.Skodi/?action=inst_tout)"/>
+        <setting id="ActiSkin" label="Activation  des repo" type="action" action="RunPlugin(plugin://plugin.program.Skodi/?action=au_maj2)"/>
+        <setting label="Choisir et activer Skin" type="lsep" />
+        <setting label="Choisir Skin" type="lsep" />
+        <setting id="ChoixSkin" label="Choisir Skin (AH2 CoKodico)" type="action" action="RunPlugin(plugin://plugin.program.Skodi/?action=hk2AH2)"/>
+        <setting id="LancerSkin" label="Lancer Skin (AH2 CoKodico)" type="action" action="RunScript(special://home/addons/plugin.program.Skodi/resources/ChangeSkin-AH2.py)"/>
+    </category>
+
+        <category label="Sauvegarde Skin">
+        <setting label="Sauvegarde Skin" type="lsep" />
+        <setting label="Sauvegarde Skin Arctic Horizon 2" type="action" action="RunPlugin(plugin://plugin.program.Skodi/?action=skin_save1)"/>
+        <setting label="Restauration Skin Arctic Horizon 2" type="action" action="RunPlugin(plugin://plugin.program.Skodi/?action=skin_restor1)" />
+        <setting label="Sauvegarde Skin Rayflix" type="action" action="RunPlugin(plugin://plugin.program.Skodi/?action=skin_save2)"/>
+        <setting label="Restauration Skin Rayflix" type="action" action="RunPlugin(plugin://plugin.program.Skodi/?action=skin_restor2)" />
+        <setting label="Sauvegarde Skin 3" type="action" action="RunPlugin(plugin://plugin.program.Skodi/?action=skin_save3)"/>
+        <setting label="Restauration Skin 3" type="action" action="RunPlugin(plugin://plugin.program.Skodi/?action=skin_restor3)" />
+    </category>
+
+    <category label="Nettoyage Kodi">
+        <setting label="Nettoyer" type="lsep" />
+        <setting label="nettoyer tout" type="action" action="RunPlugin(plugin://plugin.program.Skodi/?action=vider_cache)" />
+        <setting label="nettoyer cache uniquement" type="action" action="RunPlugin(plugin://plugin.program.Skodi/?action=cache_seul)" />
+        <setting label="nettoyer tmp uniquement" type="action" action="RunPlugin(plugin://plugin.program.Skodi/?action=tmp_seul)" />
+        <setting label="nettoyer packages uniquement" type="action" action="RunPlugin(plugin://plugin.program.Skodi/?action=package_seul)" />
+        <setting label="nettoyer thumbnails uniquement" type="action" action="RunPlugin(plugin://plugin.program.Skodi/?action=thumb_seul)" />        
+    </category>
+    
+</settings>
