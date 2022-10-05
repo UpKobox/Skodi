@@ -89,29 +89,6 @@
         <setting label="Création liste TMDB" type="action" action="RunPlugin(plugin://plugin.video.sendtokodiU2P/?action=createLTMDB)" visible="eq(-1,true)" />
         <setting label="Suppréssion liste TMDB" type="action" action="RunPlugin(plugin://plugin.video.sendtokodiU2P/?action=suppLTMDB)" visible="eq(-2,true)" />
     </category>        
-    <!-- Installation avancée -->
-    <!--<category label="Installation avancée">
-        <setting label="Maj HK² & HK" type="lsep" />
-        <setting label="Mise en place de la MAJ au restart KODI" type="action" option="close" action="RunPlugin(plugin://plugin.video.sendtokodiU2P/?action=mepautostart)"/>
-        <setting id="majhk2" label="Activer la MAJ au restart" type="bool" default="false" />
-        <setting label="Base de données" type="lsep" />
-        <setting id="skinhk" label="Num Skin HK" type="text" default="4j82p"/>
-        <setting id="epg" label="EPG" type="text" default="lk4Xb"/>
-        <setting label="Importer EPG" type="action" action="RunPlugin(plugin://plugin.video.sendtokodiU2P/?action=bd)" />
-        <setting label="Importer une base de données Kodi" type="action" action="RunPlugin(plugin://plugin.video.sendtokodiU2P/?action=bd)" />
-        <setting label="Effacer la base de données Kodi" type="action" action="RunPlugin(plugin://plugin.video.sendtokodiU2P/?action=delDta)" />
-        <setting label="Visuels" type="lsep" />
-        <setting id="thumbnails" label="Nombre d'images en cache (0 = illimité)" type="number" default="0" />
-        <setting label="Gestion des STRM" type="lsep" />
-        <setting id="paste" label="Identifiant aNotepad" type="text" default="" />
-        <setting id="osVersion" label="Dossier des fichiers STRM" type="folder" />
-        <setting label="Créer les fichiers STRM" type="action" action="RunPlugin(plugin://plugin.video.sendtokodiU2P/?action=strms)"/>
-        <setting label="Créer les groupes" type="action" action="RunPlugin(plugin://plugin.video.sendtokodiU2P/?action=groupe)" />
-        <setting label="Actualiser les fichiers STRM" type="action" action="RunPlugin(plugin://plugin.video.sendtokodiU2P/?action=clearStrms)"/>
-        <setting label="Filtres" type="lsep" />
-        <setting label="Importer des catégories" type="action" action="RunPlugin(plugin://plugin.video.sendtokodiU2P/?action=choixrepo)" />
-        <setting label="Importer des listes intelligentes" type="action" action="RunPlugin(plugin://plugin.video.sendtokodiU2P/?action=choixliste)" />-->
-    <!--</category>-->
     <!-- Débrideurs -->
     <!-- Skins -->
     <category label="Skins">
@@ -139,6 +116,29 @@
     <category label="Bande Annonce">
         <setting label="Bande Annonce" type="lsep" />
         <setting id="numba" label="Numero" type="text" default="1yjXN"/>
+    </category>
+    <!-- Installation avancée -->
+    <category label="Installation avancée">
+        <setting label="Maj HK² & HK" type="lsep" />
+        <setting label="Mise en place de la MAJ au restart KODI" type="action" option="close" action="RunPlugin(plugin://plugin.video.sendtokodiU2P/?action=mepautostart)"/>
+        <setting id="majhk2" label="Activer la MAJ au restart" type="bool" default="false" />
+        <setting label="Base de données" type="lsep" />
+        <setting id="skinhk" label="Num Skin HK" type="text" default="4j82p"/>
+        <setting id="epg" label="EPG" type="text" default="lk4Xb"/>
+        <setting label="Importer EPG" type="action" action="RunPlugin(plugin://plugin.video.sendtokodiU2P/?action=bd)" />
+        <setting label="Importer une base de données Kodi" type="action" action="RunPlugin(plugin://plugin.video.sendtokodiU2P/?action=bd)" />
+        <setting label="Effacer la base de données Kodi" type="action" action="RunPlugin(plugin://plugin.video.sendtokodiU2P/?action=delDta)" />
+        <setting label="Visuels" type="lsep" />
+        <setting id="thumbnails" label="Nombre d'images en cache (0 = illimité)" type="number" default="0" />
+        <!--<setting label="Gestion des STRM" type="lsep" />
+        <setting id="paste" label="Identifiant aNotepad" type="text" default="" />
+        <setting id="osVersion" label="Dossier des fichiers STRM" type="folder" />
+        <setting label="Créer les fichiers STRM" type="action" action="RunPlugin(plugin://plugin.video.sendtokodiU2P/?action=strms)"/>
+        <setting label="Créer les groupes" type="action" action="RunPlugin(plugin://plugin.video.sendtokodiU2P/?action=groupe)" />
+        <setting label="Actualiser les fichiers STRM" type="action" action="RunPlugin(plugin://plugin.video.sendtokodiU2P/?action=clearStrms)"/>
+        <setting label="Filtres" type="lsep" />
+        <setting label="Importer des catégories" type="action" action="RunPlugin(plugin://plugin.video.sendtokodiU2P/?action=choixrepo)" />
+        <setting label="Importer des listes intelligentes" type="action" action="RunPlugin(plugin://plugin.video.sendtokodiU2P/?action=choixliste)" />-->
     </category>
     
 </settings>
