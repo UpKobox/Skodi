@@ -1,25 +1,46 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <settings>
-    <!-- Général -->
-    <category label="listes">
-        <setting label="Liste Perso" type="lsep" />
-        <setting label="Création liste Perso" type="action" action="RunPlugin(plugin://plugin.video.sendtokodiU2P/?action=createL)"/>
-        <setting label="Suppréssion liste Perso" type="action" action="RunPlugin(plugin://plugin.video.sendtokodiU2P/?action=supL)"/>
-        <setting label="Liste Lecture" type="lsep" />
-        <setting label="Création liste Lecture" type="action" action="RunPlugin(plugin://plugin.video.sendtokodiU2P/?action=createLV)"/>
-        <setting label="Suppréssion liste Lecture" type="action" action="RunPlugin(plugin://plugin.video.sendtokodiU2P/?action=suppLV)"/>
-        <setting label="Liste TRAKT" type="lsep" />
-        <setting label="Création liste TRAKT" type="action" action="RunPlugin(plugin://plugin.video.sendtokodiU2P/?action=createLT)"/>
-        <setting label="Suppréssion groupe/liste TRAKT" type="action" action="RunPlugin(plugin://plugin.video.sendtokodiU2P/?action=suppLT)"/>
-        <setting label="Liste PASTEBIN" type="lsep" />
-        <setting id="actifpastebin" label="Mon Pastebin" type="bool" default="false" />
-        <setting label="Création liste Pastebin" type="action" action="RunPlugin(plugin://plugin.video.sendtokodiU2P/?action=createLP)" visible="eq(-1,true)"/>
-        <setting label="Suppréssion liste Pastebin" type="action" action="RunPlugin(plugin://plugin.video.sendtokodiU2P/?action=suppLP)" visible="eq(-2,true)"/>
-        <setting label="Liste MOVIE-DB" type="lsep" />
-        <setting id="actiftmdb" label="Mon MOVIE-DB" type="bool" default="false" />
-        <setting label="Création liste TMDB" type="action" action="RunPlugin(plugin://plugin.video.sendtokodiU2P/?action=createLTMDB)" visible="eq(-1,true)" />
-        <setting label="Suppréssion liste TMDB" type="action" action="RunPlugin(plugin://plugin.video.sendtokodiU2P/?action=suppLTMDB)" visible="eq(-2,true)" />
-        <setting label="Repo Uptobox" type="lsep" />
+    <category label="DataBase HK2">
+        <setting label="Médiathéque  HK2" type="lsep" />
+        <setting id="actifnewpaste" label="Activer Médiathéque HK²" type="bool"  default="true" />
+        <setting id="heberg" label="Hébergeur liste DB" type="labelenum" values="Anotepad|Pastebin|Rentry|Textup" default="Anotepad"  visible="eq(-1,true)"/>
+        <setting id="numHeberg" label="Numero Anotepad/Pastebin/Rentry/Textup" type="text" default="" visible="eq(-2,true)"/>
+        <setting label="Ajouter contenu" type="action" action="RunPlugin(plugin://plugin.video.sendtokodiU2P/?action=folderPastebin&maj=false)" visible="eq(-3,true)"/>
+        <setting label="Reset database" type="action" action="RunPlugin(plugin://plugin.video.sendtokodiU2P/?action=resetBDhkNew)" visible="eq(-4,true)"/>
+        <setting id="nbHmaj" label="Nombre d'heures entre deux M.A.J auto de la DataBase HK2(0=jamais)" type="number" default="1" visible="eq(-5,true)"/>
+        <setting label="DataBase HK1" type="lsep" />
+        <setting id="actifhk" label="Activer HK" type="bool" default="false" />
+        <setting id="numhk" label="Num HK" type="text" default="0000" visible="eq(-1,true)"/>
+    </category>
+    <category label="Débrideurs">
+        <setting label="Clés API de débridage" type="lsep" />
+        <setting id="keyupto" label="Uptobox" type="text" default=""/>
+        <setting id="keyalldebrid" label="AllDebrid" type="text" default=""/>
+        <setting id="keyrealdebrid" label="RealDebrid" type="text" default=""/>
+        <setting id="apikey" type="text" label="TMDB"  default="96139384ce46fd4ffac13e1ad770db7a"/>
+    </category>
+    <!-- bookmak en ligne -->
+    <category label="Bookmark Online">
+        <setting id="bookonline" label="Bookmark en ligne" type="bool" default="false" />
+        <setting id="bookonline_name" label="Pass" type="text" default="" visible="eq(-1,true)" />
+        <setting id="bookonline_site" label="Site" type="text" default="lesalkodiques.com/u2pplay" visible="eq(-2,true)" />
+        <setting label="Créer Profil" type="action" action="RunPlugin(plugin://plugin.video.sendtokodiU2P/?action=ajoutP)" visible="eq(-3,true)"/>
+        <setting label="Supprimer Profil" type="action" action="RunPlugin(plugin://plugin.video.sendtokodiU2P/?action=suppP)" visible="eq(-4,true)"/>
+        <setting id="rentry" type="text" label="Code Import Config"  default=""  visible="eq(-5,true)"/>
+        <setting label="Import Config" type="action" option="close" action="RunPlugin(plugin://plugin.video.sendtokodiU2P/?action=impHK,return)" visible="eq(-6,true)"/>
+    </category>
+    <category label="Trakt">
+        <setting id="clientid" type="text" label="Trakt Client Id"  default="29ed315a4ca3ead741a0844a44d8a3103e00071b89fd107aa54f13dc7795605f"/>
+        <setting id="clientsecret" type="text" label="Trakt Client Secret"  default="ab17d047a094f0386f7c15eba3f6c945d29848ebe745aa84db168d45e08925ad"/>
+        <setting id="clientacces" type="text" label="Trakt Acces"  default=""/>
+        <setting id="clientrefresh" type="text" label="Trakt Refresh"  default=""/>
+        <setting id="clientexpire" type="text" label="Trakt key expire"  default=""/>
+        <setting id="traktperso" label="Mon Trakt" type="bool" default="false" />
+        <setting id="usertrakt" label="User" type="text" default="" visible="eq(-1,true)" />
+        <setting id="profiltrakt" label="Profil Bookmark Online" type="text" default="" visible="eq(-2,true)" />
+    </category>
+    <category label="Mes Comptes">
+        <setting label="Compte Uptobox" type="lsep" />
         <setting id="actifupto" label="Mon Uptobox" type="bool" default="false" />
         <setting label="Création accés répertoire" type="action" action="RunPlugin(plugin://plugin.video.sendtokodiU2P/?action=createRUPTO)" visible="eq(-1,true)" />
         <setting label="Création accés répertoire Publique" type="action" action="RunPlugin(plugin://plugin.video.sendtokodiU2P/?action=createRUPTOP)" visible="eq(-2,true)" />
@@ -27,21 +48,11 @@
         <setting label="Supprimer Repertoire" type="action" action="RunPlugin(plugin://plugin.video.sendtokodiU2P/?action=suppLUPTO)" visible="eq(-4,true)" />
         <setting id="nbupto" label="Pagination Uptobox" type="number" default="20" visible="eq(-5,true)" />
         <setting id="modeadd" label="Mode ajout à son compte" type="labelenum" values="alias|std" default="alias"  visible="eq(-6,true)"/>
+        <setting label="Compte Alldebrid" type="lsep" />
         <setting id="actifalldeb" label="Mon Alldebrid" type="bool" default="false" />
     </category>
+    <!-- Général -->
     <category label="Général">
-        <setting label="DataBase HK1" type="lsep" />
-        <setting id="actifhk" label="Activer HK" type="bool" default="false" />
-        <setting id="numhk" label="Num HK" type="text" default="0000" visible="eq(-1,true)"/>
-        <setting label="DataBase HK²" type="lsep" />
-        <setting id="actifnewpaste" label="Activer Médiathéque HK²" type="bool" default="false" />
-        <setting id="heberg" label="Hébergeur liste DB" type="labelenum" values="Anotepad|Pastebin|Rentry|Textup" default="Anotepad"  visible="eq(-1,true)"/>
-        <setting id="numHeberg" label="Numero Anotepad/Pastebin/Rentry/Textup" type="text" default="" visible="eq(-2,true)"/>
-        <setting label="Ajouter contenu" type="action" action="RunPlugin(plugin://plugin.video.sendtokodiU2P/?action=folderPastebin&maj=false)" visible="eq(-3,true)"/>
-        <setting label="Reset database" type="action" action="RunPlugin(plugin://plugin.video.sendtokodiU2P/?action=resetBDhkNew)" visible="eq(-4,true)"/>
-        <setting id="nbHmaj" label="Nombre d'heures entre deux M.A.J auto (0=jamais)" type="number" default="1" visible="eq(-5,true)"/>
-        <!--<setting id="actiflocal" label="Activer BD locale" type="bool" default="false" visible="false" />
-        <setting id="numpastes" label="Num Pastes" type="text" default="" visible="eq(-1,true)"/>-->
         <setting label="Lecture" type="lsep" />
         <setting id="resos" label="Résolution prioritaire" type="labelenum" values="720|1080|2160" default="1080" />
         <setting id="autoplay" label="Lecture automatique" type="bool" default="false" />
@@ -56,21 +67,30 @@
         <setting label="Visuels" type="lsep" />
         <setting id="images_sizes" label="Résolution des images" type="labelenum" values="Basse|Moyenne|Haute" default="Moyenne"  />
         <!--<setting id="newfen" label="Nouvelle fenêtre" type="bool" default="true" />-->
-        <setting label="Base de données" type="lsep" />
-        <setting label="Importer la base de données" type="action" action="RunPlugin(plugin://plugin.video.sendtokodiU2P/?action=bd)" />
-    </category>
-    <!-- bookmak en ligne -->
-    <category label="Bookmark Online">
-        <setting id="bookonline" label="Bookmark en ligne" type="bool" default="false" />
-        <setting id="bookonline_name" label="Pass" type="text" default="" visible="eq(-1,true)" />
-        <setting id="bookonline_site" label="Site" type="text" default="lesalkodiques.com/u2pplay" visible="eq(-2,true)" />
-        <setting label="Créer Profil" type="action" action="RunPlugin(plugin://plugin.video.sendtokodiU2P/?action=ajoutP)" visible="eq(-3,true)"/>
-        <setting label="Supprimer Profil" type="action" action="RunPlugin(plugin://plugin.video.sendtokodiU2P/?action=suppP)" visible="eq(-4,true)"/>
-        <setting id="rentry" type="text" label="Code Import Config"  default=""  visible="eq(-5,true)"/>
-        <setting label="Import Config" type="action" option="close" action="RunPlugin(plugin://plugin.video.sendtokodiU2P/?action=impHK,return)" visible="eq(-6,true)"/>
-    </category>
+        <!--<setting label="Base de données" type="lsep" />
+        <setting label="Importer la base de données" type="action" action="RunPlugin(plugin://plugin.video.sendtokodiU2P/?action=bd)" />-->
+    </category>    
+    <category label="listes">
+        <setting label="Liste Perso" type="lsep" />
+        <setting label="Création liste Perso" type="action" action="RunPlugin(plugin://plugin.video.sendtokodiU2P/?action=createL)"/>
+        <setting label="Suppréssion liste Perso" type="action" action="RunPlugin(plugin://plugin.video.sendtokodiU2P/?action=supL)"/>
+        <setting label="Liste Lecture" type="lsep" />
+        <setting label="Création liste Lecture" type="action" action="RunPlugin(plugin://plugin.video.sendtokodiU2P/?action=createLV)"/>
+        <setting label="Suppréssion liste Lecture" type="action" action="RunPlugin(plugin://plugin.video.sendtokodiU2P/?action=suppLV)"/>
+        <setting label="Liste TRAKT" type="lsep" />
+        <setting label="Création liste TRAKT" type="action" action="RunPlugin(plugin://plugin.video.sendtokodiU2P/?action=createLT)"/>
+        <setting label="Suppréssion groupe/liste TRAKT" type="action" action="RunPlugin(plugin://plugin.video.sendtokodiU2P/?action=suppLT)"/>
+        <!--<setting label="Liste PASTEBIN" type="lsep" />
+        <setting id="actifpastebin" label="Mon Pastebin" type="bool" default="false" />
+        <setting label="Création liste Pastebin" type="action" action="RunPlugin(plugin://plugin.video.sendtokodiU2P/?action=createLP)" visible="eq(-1,true)"/>
+        <setting label="Suppréssion liste Pastebin" type="action" action="RunPlugin(plugin://plugin.video.sendtokodiU2P/?action=suppLP)" visible="eq(-2,true)"/>-->
+        <setting label="Liste MOVIE-DB" type="lsep" />
+        <setting id="actiftmdb" label="Mon MOVIE-DB" type="bool" default="false" />
+        <setting label="Création liste TMDB" type="action" action="RunPlugin(plugin://plugin.video.sendtokodiU2P/?action=createLTMDB)" visible="eq(-1,true)" />
+        <setting label="Suppréssion liste TMDB" type="action" action="RunPlugin(plugin://plugin.video.sendtokodiU2P/?action=suppLTMDB)" visible="eq(-2,true)" />
+    </category>        
     <!-- Installation avancée -->
-    <category label="Installation avancée">
+    <!--<category label="Installation avancée">
         <setting label="Maj HK² & HK" type="lsep" />
         <setting label="Mise en place de la MAJ au restart KODI" type="action" option="close" action="RunPlugin(plugin://plugin.video.sendtokodiU2P/?action=mepautostart)"/>
         <setting id="majhk2" label="Activer la MAJ au restart" type="bool" default="false" />
@@ -90,26 +110,9 @@
         <setting label="Actualiser les fichiers STRM" type="action" action="RunPlugin(plugin://plugin.video.sendtokodiU2P/?action=clearStrms)"/>
         <setting label="Filtres" type="lsep" />
         <setting label="Importer des catégories" type="action" action="RunPlugin(plugin://plugin.video.sendtokodiU2P/?action=choixrepo)" />
-        <setting label="Importer des listes intelligentes" type="action" action="RunPlugin(plugin://plugin.video.sendtokodiU2P/?action=choixliste)" />
-    </category>
+        <setting label="Importer des listes intelligentes" type="action" action="RunPlugin(plugin://plugin.video.sendtokodiU2P/?action=choixliste)" />-->
+    <!--</category>-->
     <!-- Débrideurs -->
-    <category label="Débrideurs">
-        <setting label="Clés API de débridage" type="lsep" />
-        <setting id="keyupto" label="Uptobox" type="text" default=""/>
-        <setting id="keyalldebrid" label="AllDebrid" type="text" default=""/>
-        <setting id="keyrealdebrid" label="RealDebrid" type="text" default=""/>
-        <setting id="apikey" type="text" label="TMDB"  default="96139384ce46fd4ffac13e1ad770db7a"/>
-    </category>
-    <category label="Trakt">
-    	<setting id="clientid" type="text" label="Trakt Client Id"  default="29ed315a4ca3ead741a0844a44d8a3103e00071b89fd107aa54f13dc7795605f"/>
-        <setting id="clientsecret" type="text" label="Trakt Client Secret"  default="ab17d047a094f0386f7c15eba3f6c945d29848ebe745aa84db168d45e08925ad"/>
-        <setting id="clientacces" type="text" label="Trakt Acces"  default=""/>
-        <setting id="clientrefresh" type="text" label="Trakt Refresh"  default=""/>
-        <setting id="clientexpire" type="text" label="Trakt key expire"  default=""/>
-        <setting id="traktperso" label="Mon Trakt" type="bool" default="false" />
-        <setting id="usertrakt" label="User" type="text" default="" visible="eq(-1,true)" />
-        <setting id="profiltrakt" label="Profil Bookmark Online" type="text" default="" visible="eq(-2,true)" />
-    </category>
     <!-- Skins -->
     <category label="Skins">
         <setting label="Étape 1" type="lsep" />
