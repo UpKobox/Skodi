@@ -1,0 +1,19 @@
+{
+    "action": "random",
+    "id": "a55d1795-6478-492c-ae63-94d472544a9b",
+    "group": "series_autowidget-1661598940.8711307",
+    "refresh": 2.0,
+    "path": "disney_shows-1661599831.6610835",
+    "version": "3.7.0",
+    "current": 4,
+    "cycle_paths": [
+        "amazon-netflix-hulu-disney-appletv-tv-show-combined-80-rating_by_porkie16_(tvshows)-1661598947.2604542",
+        "hbo_shows-1661599800.848179",
+        "disney_shows-1661599831.6610835",
+        "netflix_shows-1661599850.446551",
+        "hbo_max-1661599936.04886"
+    ],
+    "stack": [],
+    "label": "Disney+ Shows",
+    "updated": 1662542414.4986079
+}

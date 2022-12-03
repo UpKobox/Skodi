@@ -1,0 +1,61 @@
+{
+    "history": [
+        [
+            1662545277.8666596,
+            "144b9197303adb72aafe83226be8fa64390c31c1"
+        ],
+        [
+            1664347349.809251,
+            "91aacbb4fdfe4eaff992b8c65c80c030a9b64434"
+        ],
+        [
+            1664347974.721366,
+            "91aacbb4fdfe4eaff992b8c65c80c030a9b64434"
+        ],
+        [
+            1664348310.881585,
+            "91aacbb4fdfe4eaff992b8c65c80c030a9b64434"
+        ],
+        [
+            1664348680.4490063,
+            "91aacbb4fdfe4eaff992b8c65c80c030a9b64434"
+        ],
+        [
+            1664349348.6896615,
+            "1946ef7d3ce8a47c13ecc146b8b7e2010670fdba"
+        ],
+        [
+            1664349664.850925,
+            "91aacbb4fdfe4eaff992b8c65c80c030a9b64434"
+        ],
+        [
+            1664350010.024087,
+            "91aacbb4fdfe4eaff992b8c65c80c030a9b64434"
+        ],
+        [
+            1664351914.7079847,
+            "f986fa05a6b068dcabc5431d343e2692eb666a40"
+        ],
+        [
+            1664354926.9423726,
+            "f986fa05a6b068dcabc5431d343e2692eb666a40"
+        ],
+        [
+            1664356119.6479197,
+            "f986fa05a6b068dcabc5431d343e2692eb666a40"
+        ],
+        [
+            1664358200.1147008,
+            "f986fa05a6b068dcabc5431d343e2692eb666a40"
+        ],
+        [
+            1669991048.7656896,
+            "12f9115cfa45cee64fdeafb1f265f324bf29bed5"
+        ]
+    ],
+    "widgets": [
+        "a55d1795-6478-492c-ae63-94d472544a9b",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Disney%2b%20Shows&list_slug=disney-shows&plugin_category=Disney%2b%20Shows&user_slug=garycrawfordgc&widget=True"
+}

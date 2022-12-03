@@ -1,0 +1,272 @@
+{
+    "label": "Concerts",
+    "type": "widget",
+    "paths": [
+        {
+            "label": "Concerts",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Concert&list_slug=concert&owner=true&plugin_category=Concert&user_slug=jealad&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "studio": "Jeremy A Adkins",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "concerts-1662286274.0343134",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Concerts",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Concerts&list_slug=concerts&owner=true&plugin_category=Concerts&user_slug=gpus&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "studio": "gpus",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "concerts-1662286310.1231759",
+            "version": "3.7.0"
+        },
+        {
+            "label": "CONCERTS",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=CONCERTS&list_slug=concerts&owner=true&plugin_category=CONCERTS&user_slug=ezzer_man&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "studio": "EzZeRmAn",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "concerts-1662286328.7977178",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Concerts",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Concerts&list_slug=concerts&owner=true&plugin_category=Concerts&user_slug=specialsauce&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "studio": "specialsauce",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "concerts-1662286351.822666",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Live concerts",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Live%20concerts&list_slug=live-concerts&owner=true&plugin_category=Live%20concerts&user_slug=hazeyboy&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "studio": "hazeyboy",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "live_concerts-1662286383.7229917",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Concerts",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Concerts&list_slug=concerts&owner=true&plugin_category=Concerts&user_slug=pretendah&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "plot": "These are some of best concerts of all time. I've \"borrowed\" some from lists of other members.",
+                "studio": "Pretender",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "concerts-1662286414.4935958",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Live Concerts & Music",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Live%20Concerts%20%26%20Music&list_slug=live-concerts-music&owner=true&plugin_category=Live%20Concerts%20%26%20Music&user_slug=dwarnes1970&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "studio": "dwarnes1970",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "live_concerts__music-1662286453.744102",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Music & Live Concerts",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Music%20%26%20Live%20Concerts&list_slug=music-live-concerts&owner=true&plugin_category=Music%20%26%20Live%20Concerts&user_slug=condemned&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "studio": "Condemned",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "music__live_concerts-1662286479.8201358",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Concerts",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Concerts&list_slug=concerts&owner=true&plugin_category=Concerts&user_slug=grayathletica&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "plot": "Concerts",
+                "studio": "grayathletica",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "concerts-1662286500.793139",
+            "version": "3.7.0"
+        },
+        {
+            "label": "concerts",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=concerts&list_slug=concerts&owner=true&plugin_category=concerts&user_slug=jmacca87&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "studio": "jmacca87",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "concerts-1662286520.2532017",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Concerts",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Concerts&list_slug=concerts&owner=true&plugin_category=Concerts&user_slug=rjchignell&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "studio": "Chiggerz",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "concerts-1662286563.3965967",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Concerts",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Concerts&list_slug=concerts&owner=true&plugin_category=Concerts&user_slug=bassman22pu&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "studio": "bassman22pu",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "concerts-1662286587.8412688",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Concerts",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Concerts&list_slug=concerts&owner=true&plugin_category=Concerts&user_slug=vazoon&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "plot": "These are some of best concerts of all time. I've \"borrowed\" some from lists of other members.",
+                "studio": "Haynez",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "concerts-1662286641.013021",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Concerts",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Concerts&list_slug=concerts&owner=true&plugin_category=Concerts&user_slug=ukpommy&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "studio": "ukpommy",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "concerts-1662286662.3413813",
+            "version": "3.7.0"
+        }
+    ],
+    "id": "concerts-1662286265.1350222",
+    "art": {
+        "banner": "special://home/addons/plugin.program.autowidget/resources/media/banner/folder-sync.png",
+        "fanart": "special://home/addons/plugin.program.autowidget/resources/media/fanart/folder-sync.png",
+        "icon": "special://home/addons/plugin.program.autowidget/resources/media/icon/folder-sync.png",
+        "poster": "special://home/addons/plugin.program.autowidget/resources/media/poster/folder-sync.png",
+        "thumb": "special://home/addons/plugin.program.autowidget/resources/media/icon/folder-sync.png"
+    },
+    "version": "3.7.0",
+    "content": "",
+    "sort_order": "25"
+}

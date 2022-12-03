@@ -1,0 +1,18 @@
+<shortcuts>
+	<shortcut>
+		<defaultID>1037</defaultID>
+		<label>1037</label>
+		<label2 />
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,addons://sources/video/,return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>31219</defaultID>
+		<label>$SKIN[31219|skin.arctic.horizon.2|None]</label>
+		<label2 />
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,library://video/,return)</action>
+		</shortcut>
+	</shortcuts>

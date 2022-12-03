@@ -1,0 +1,2009 @@
+{
+    "id": 1,
+    "jsonrpc": "2.0",
+    "result": {
+        "files": [
+            {
+                "album": "",
+                "art": {
+                    "clearlogo": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f393478%2fhdtvlogo%2ftokyo-revengers-612bc6dd5e761.png/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f1VZ8gN6tPoAd7EdfCzVPmtDczhD.jpg/",
+                    "fanart1": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f393478%2fshowbackground%2ftokyo-revengers-5fd9fa8122186.jpg/",
+                    "fanart2": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f393478%2fshowbackground%2ftokyo-revengers-60e88166c0bca.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fkvsFvhZ9DPKm0KV7TY9nOeXYsWC.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fkvsFvhZ9DPKm0KV7TY9nOeXYsWC.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Yuuki Shin",
+                        "order": 0,
+                        "role": "Takemichi Hanagaki (voice)"
+                    },
+                    {
+                        "name": "Azumi Waki",
+                        "order": 1,
+                        "role": "Hinata Tachibana (voice)"
+                    },
+                    {
+                        "name": "Ryota Osaka",
+                        "order": 2,
+                        "role": "Naoto Tachibana (voice)"
+                    },
+                    {
+                        "name": "Yuu Hayashi",
+                        "order": 3,
+                        "role": "Manjiro \"Mikey\" Sano (voice)"
+                    },
+                    {
+                        "name": "Tatsuhisa Suzuki",
+                        "order": 4,
+                        "role": "Ken \"Doraken\"  Ryuguji (voice)"
+                    },
+                    {
+                        "name": "Takuma Terashima",
+                        "order": 5,
+                        "role": "Atsushi Sendo (voice)"
+                    },
+                    {
+                        "name": "Yuya Hirose",
+                        "order": 6,
+                        "role": "Takuya Yamamoto (voice)"
+                    },
+                    {
+                        "name": "Shunsuke Takeuchi",
+                        "order": 7,
+                        "role": "Makoto Suzuki (voice)"
+                    },
+                    {
+                        "name": "Shota Hayama",
+                        "order": 8,
+                        "role": "Kazushi Yamagishi (voice)"
+                    },
+                    {
+                        "name": "Satoshi Hino",
+                        "order": 9,
+                        "role": "Masataka Koyomizu (voice)"
+                    },
+                    {
+                        "name": "Masaaki Mizunaka",
+                        "order": 10,
+                        "role": "Keisuke Baji (voice)"
+                    },
+                    {
+                        "name": "Subaru Kimura",
+                        "order": 11,
+                        "role": "Haruki Hayashida (voice)"
+                    },
+                    {
+                        "name": "Yukihiro Nozuyama",
+                        "order": 12,
+                        "role": "Ryohei Hayashi (voice)"
+                    },
+                    {
+                        "name": "Kengo Kawanishi",
+                        "order": 13,
+                        "role": "Nahoya Kawata (voice)"
+                    },
+                    {
+                        "name": "Daisuke Ono",
+                        "order": 14,
+                        "role": "Yasuhiro Muto (voice)"
+                    },
+                    {
+                        "name": "Eiji Takeuchi",
+                        "order": 15,
+                        "role": "Nobutaka Osanai (voice)"
+                    },
+                    {
+                        "name": "Yoshitsugu Matsuoka",
+                        "order": 16,
+                        "role": "Takashi Mitsuya (voice)"
+                    },
+                    {
+                        "name": "Showtaro Morikubo",
+                        "order": 17,
+                        "role": "Tetta Kisaki (voice)"
+                    },
+                    {
+                        "name": "Takuya Eguchi",
+                        "order": 18,
+                        "role": "Shuji Hanma (voice)"
+                    }
+                ],
+                "country": [
+                    "JP",
+                    "Japan"
+                ],
+                "customproperties": {
+                    "cast": "Yuuki Shin / Azumi Waki / Ryota Osaka / Yuu Hayashi / Tatsuhisa Suzuki / Takuma Terashima / Yuya Hirose / Shunsuke Takeuchi / Shota Hayama / Satoshi Hino / Masaaki Mizunaka / Subaru Kimura / Yukihiro Nozuyama / Kengo Kawanishi / Daisuke Ono / Eiji Takeuchi / Yoshitsugu Matsuoka / Showtaro Morikubo / Takuya Eguchi",
+                    "contextmenuaction(0)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=tv,tmdb_id=105009)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=tv,tmdb_id=105009)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=tv,tmdb_id=105009)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=tv,tmdb_id=105009)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=tv,tmdb_id=105009)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(4)": "$LOCALIZE[20444]",
+                    "dbtype": "tvshow",
+                    "imdb_id": "tt13196080",
+                    "item.info": "seasons",
+                    "item.tmdb_id": "105009",
+                    "item.tmdb_type": "tv",
+                    "item.type": "tv",
+                    "last_aired": "19/09/2021",
+                    "last_aired.day": "Sunday",
+                    "last_aired.day_short": "Sun",
+                    "last_aired.episode": "24",
+                    "last_aired.long": "Sunday 19 September 2021",
+                    "last_aired.name": "A Cry Baby",
+                    "last_aired.original": "2021-09-19",
+                    "last_aired.plot": "Au rassemblement du Toman, Takemichi est surpris de voir Hanma figurer aux c\u00f4t\u00e9s de Chifuyu et Mikey. L'ancien membre de Walhalla fait alors une annonce inattendue\u2026",
+                    "last_aired.rating": "7.0",
+                    "last_aired.season": "1",
+                    "last_aired.short": "19 Sep",
+                    "last_aired.thumb": "https://image.tmdb.org/t/p/original/bQH23udylJmaQByLhUo7RMejQzX.jpg",
+                    "last_aired.tmdb_id": "3057389",
+                    "last_aired.votes": "1",
+                    "last_aired.year": "2021",
+                    "network": "MBS",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Top 10 Jap anime 2021",
+                    "param.list_slug": "top-10-jap-anime-2021",
+                    "param.plugin_category": "Top 10 Jap anime 2021",
+                    "param.user_slug": "didibz",
+                    "param.widget": "True",
+                    "popularity": "150.656",
+                    "provider.link": "https://www.themoviedb.org/tv/105009/watch?locale=FR",
+                    "providers": "Crunchyroll",
+                    "slug_id": "tokyo-revengers",
+                    "studio": "Lidenfilms",
+                    "tmdb_id": "105009",
+                    "tmdb_rating": "8.6",
+                    "tmdb_type": "tv",
+                    "tmdb_votes": "905",
+                    "totalepisodes": "24",
+                    "totalseasons": "1",
+                    "trakt_id": "170863",
+                    "tvdb_id": "393478",
+                    "widget": "Top 10 Jap anime 2021"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": 24,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f1VZ8gN6tPoAd7EdfCzVPmtDczhD.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=seasons&tmdb_type=tv&tmdb_id=105009",
+                "filetype": "directory",
+                "firstaired": "",
+                "genre": [
+                    "Drame",
+                    "Animation",
+                    "Action & Adventure",
+                    "Crime"
+                ],
+                "imdbnumber": "",
+                "label": "Tokyo Revengers",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "x-directory/normal",
+                "mpaa": "",
+                "originaltitle": "\u6771\u4eac\u30ea\u30d9\u30f3\u30b8\u30e3\u30fc\u30ba",
+                "playcount": 0,
+                "plot": "Takemichi Hanagaki n'a pas vraiment r\u00e9ussi sa vie. Il fait des petits boulots sans int\u00e9r\u00eat et lorsqu'il apprend que la seule petite amie qu'il ait jamais eu au coll\u00e8ge, Hinata Tachibana, a \u00e9t\u00e9 tu\u00e9e par l'impitoyable gang Tokyo Manji-kai, il est an\u00e9anti. Le lendemain, toujours sous le choc, il est pouss\u00e9 sur les rails de la gare lors d'un mouvement de foule. Mais Takemichi ne meurt pas et quand il se r\u00e9veille, il est revenu douze ans en arri\u00e8re. Il va ainsi retrouver ses meilleures ann\u00e9es, mais aussi tenter de sauver celle qui l'aime et prendre sa revanche sur la vie...",
+                "plotoutline": "",
+                "premiered": "2021-04-11",
+                "productioncode": "",
+                "rating": 8.600000381469727,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 1440,
+                "season": 1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "Tokyo Revengers",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "MBS",
+                    "Lidenfilms"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Tokyo Revengers",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=5K43BSTYXew",
+                "tvshowid": -1,
+                "type": "tvshow",
+                "uniqueid": {
+                    "imdb": "tt13196080",
+                    "slug": "tokyo-revengers",
+                    "tmdb": "105009",
+                    "trakt": "170863",
+                    "tvdb": "393478"
+                },
+                "votes": "905",
+                "watchedepisodes": 0,
+                "writer": [
+                    "Ken Wakui",
+                    "Yasuyuki Muto"
+                ],
+                "year": 2021
+            },
+            {
+                "album": "",
+                "art": {
+                    "banner": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f388593%2ftvbanner%2fhorimiya-617d0aa382f90.jpg/",
+                    "characterart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f388593%2fcharacterart%2fhorimiya-603b40b3a3e6e.png/",
+                    "clearart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f388593%2fhdclearart%2fhorimiya-617d0b0b0f357.png/",
+                    "clearlogo": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f388593%2fhdtvlogo%2fhorimiya-60bc8797794e8.png/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f4u64tHtUkna1y4OkJcrXLEhhLLy.jpg/",
+                    "fanart1": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f388593%2fshowbackground%2fhorimiya-617d0a9719464.jpg/",
+                    "fanart2": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f388593%2fshowbackground%2fhorimiya-5fbfff383f115.jpg/",
+                    "fanart3": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f388593%2fshowbackground%2fhorimiya-5fbfe9e0d00d3.jpg/",
+                    "fanart4": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f388593%2fshowbackground%2fhorimiya-5fbe926b8858d.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f8wXYsRcCnf5G5g8Eq0AEzBUlGt6.jpg/",
+                    "landscape": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f388593%2ftvthumb%2fhorimiya-617d0afcc5ec5.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f8wXYsRcCnf5G5g8Eq0AEzBUlGt6.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Haruka Tomatsu",
+                        "order": 0,
+                        "role": "Kyouko Hori (voice)"
+                    },
+                    {
+                        "name": "Koki Uchiyama",
+                        "order": 1,
+                        "role": "Izumi Miyamura (voice)"
+                    },
+                    {
+                        "name": "Seiichiro Yamashita",
+                        "order": 2,
+                        "role": "Toru Ishikawa (voice)"
+                    },
+                    {
+                        "name": "Yurie Kozakai",
+                        "order": 3,
+                        "role": "Yuki Yoshikawa (voice)"
+                    },
+                    {
+                        "name": "Nobuhiko Okamoto",
+                        "order": 4,
+                        "role": "Kakeru Sengoku (voice)"
+                    },
+                    {
+                        "name": "Mao Ichimichi",
+                        "order": 5,
+                        "role": "Remi Ayasaki (voice)"
+                    },
+                    {
+                        "name": "Reina Kondo",
+                        "order": 6,
+                        "role": "Sakura K\u014dno (voice)"
+                    },
+                    {
+                        "name": "Daiki Yamashita",
+                        "order": 7,
+                        "role": "Shuu Iura (voice)"
+                    },
+                    {
+                        "name": "Jun Fukuyama",
+                        "order": 8,
+                        "role": "Akane Yanagi (voice)"
+                    },
+                    {
+                        "name": "Taku Yashiro",
+                        "order": 9,
+                        "role": "Kouichi Shindou (voice)"
+                    },
+                    {
+                        "name": "Shoya Chiba",
+                        "order": 10,
+                        "role": "Makio Tanihara (voice)"
+                    },
+                    {
+                        "name": "Momo Asakura",
+                        "order": 11,
+                        "role": "Honoka Sawada (voice)"
+                    },
+                    {
+                        "name": "Daisuke Ono",
+                        "order": 12,
+                        "role": "Kyousuke Hori (voice)"
+                    },
+                    {
+                        "name": "Ai Kayano",
+                        "order": 13,
+                        "role": "Yuriko Hori (voice)"
+                    },
+                    {
+                        "name": "Yuka Terasaki",
+                        "order": 14,
+                        "role": "S\u014dta Hori (voice)"
+                    },
+                    {
+                        "name": "Hisako Kanemoto",
+                        "order": 15,
+                        "role": "Motoko Iura (voice)"
+                    }
+                ],
+                "country": [
+                    "JP",
+                    "Japan"
+                ],
+                "customproperties": {
+                    "cast": "Haruka Tomatsu / Koki Uchiyama / Seiichiro Yamashita / Yurie Kozakai / Nobuhiko Okamoto / Mao Ichimichi / Reina Kondo / Daiki Yamashita / Jun Fukuyama / Taku Yashiro / Shoya Chiba / Momo Asakura / Daisuke Ono / Ai Kayano / Yuka Terasaki / Hisako Kanemoto",
+                    "contextmenuaction(0)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=tv,tmdb_id=110070)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=tv,tmdb_id=110070)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=tv,tmdb_id=110070)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=tv,tmdb_id=110070)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=tv,tmdb_id=110070)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(4)": "$LOCALIZE[20444]",
+                    "dbtype": "tvshow",
+                    "imdb_id": "tt13103134",
+                    "item.info": "seasons",
+                    "item.tmdb_id": "110070",
+                    "item.tmdb_type": "tv",
+                    "item.type": "tv",
+                    "last_aired": "04/04/2021",
+                    "last_aired.day": "Sunday",
+                    "last_aired.day_short": "Sun",
+                    "last_aired.episode": "13",
+                    "last_aired.long": "Sunday 04 April 2021",
+                    "last_aired.name": "J'aimerais au moins t'offrir ce ciel presque sans nuage - page.13",
+                    "last_aired.original": "2021-04-04",
+                    "last_aired.plot": "",
+                    "last_aired.rating": "8.8",
+                    "last_aired.season": "1",
+                    "last_aired.short": "04 Apr",
+                    "last_aired.thumb": "https://image.tmdb.org/t/p/original/aj2h0cfsP5OM6yUeznvO43icvoo.jpg",
+                    "last_aired.tmdb_id": "2626146",
+                    "last_aired.votes": "4",
+                    "last_aired.year": "2021",
+                    "network": "Tokyo MX / BS11",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Top 10 Jap anime 2021",
+                    "param.list_slug": "top-10-jap-anime-2021",
+                    "param.plugin_category": "Top 10 Jap anime 2021",
+                    "param.user_slug": "didibz",
+                    "param.widget": "True",
+                    "popularity": "82.194",
+                    "provider.link": "https://www.themoviedb.org/tv/110070/watch?locale=FR",
+                    "providers": "Crunchyroll / WAKANIM",
+                    "slug_id": "horimiya-2021",
+                    "studio": "Aniplex",
+                    "tmdb_id": "110070",
+                    "tmdb_rating": "8.7",
+                    "tmdb_type": "tv",
+                    "tmdb_votes": "672",
+                    "totalepisodes": "13",
+                    "totalseasons": "1",
+                    "trakt_id": "167186",
+                    "tvdb_id": "388593",
+                    "widget": "Top 10 Jap anime 2021"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": 13,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f4u64tHtUkna1y4OkJcrXLEhhLLy.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=seasons&tmdb_type=tv&tmdb_id=110070",
+                "filetype": "directory",
+                "firstaired": "",
+                "genre": [
+                    "Animation",
+                    "Com\u00e9die",
+                    "Drame"
+                ],
+                "imdbnumber": "",
+                "label": "Horimiya",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "x-directory/normal",
+                "mpaa": "",
+                "originaltitle": "\u30db\u30ea\u30df\u30e4",
+                "playcount": 0,
+                "plot": "Bien qu'admir\u00e9e \u00e0 l'\u00e9cole pour sa gentillesse et ses prouesses acad\u00e9miques, Ky\u00f4ko Hori est cependant diff\u00e9rente chez elle. Avec ses parents souvent absents pour travailler, Hori doit s'occuper de son jeune fr\u00e8re et faire le m\u00e9nage, l'emp\u00eachant ainsi de se socialiser en dehors de l'\u00e9cole.\n\nIzumi Miyamura, un camarade de classe d'Hori, est consid\u00e9r\u00e9 comme un otaku maussade avec ses grandes lunettes, ses longs cheveux et sa nature timide et calme. Cependant, il est en r\u00e9alit\u00e9 une personne gentille et serviable poss\u00e9dant neuf piercings cach\u00e9s derri\u00e8re ses longs cheveux et un tatouage le long du dos et de l'\u00e9paule gauche.\n\nUn jour, Hori et Miyamura se croisent en dehors de l'\u00e9cole par pur hasard. Comment ces deux personnes vont r\u00e9agir en d\u00e9couvrant la face cach\u00e9e de l'autre ?",
+                "plotoutline": "",
+                "premiered": "2021-01-10",
+                "productioncode": "",
+                "rating": 8.699999809265137,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 1440,
+                "season": 1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "Horimiya",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Tokyo MX",
+                    "BS11",
+                    "Aniplex",
+                    "MBS",
+                    "Movic",
+                    "Square Enix",
+                    "CloverWorks",
+                    "My Theater D.D.",
+                    "Kanetsu Investment",
+                    "Global Solutions",
+                    "Mirai Kojo"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Horimiya",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=tzWy6E7Onr4",
+                "tvshowid": -1,
+                "type": "tvshow",
+                "uniqueid": {
+                    "imdb": "tt13103134",
+                    "slug": "horimiya-2021",
+                    "tmdb": "110070",
+                    "trakt": "167186",
+                    "tvdb": "388593"
+                },
+                "votes": "672",
+                "watchedepisodes": 0,
+                "writer": [
+                    "Takao Yoshioka",
+                    "Daisuke Hagiwara",
+                    "Hero"
+                ],
+                "year": 2021
+            },
+            {
+                "album": "",
+                "art": {
+                    "clearlogo": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f388858%2fhdtvlogo%2fsk-606a3013119b9.png/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fohOrfdh80HVY5QBD8kV2FYYSVwF.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f9eJ9RhdXqrkWURK8j3pTDOBMVqc.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f9eJ9RhdXqrkWURK8j3pTDOBMVqc.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Chiaki Kobayashi",
+                        "order": 0,
+                        "role": "Langa Hasegawa (voice)"
+                    },
+                    {
+                        "name": "Tasuku Hatanaka",
+                        "order": 1,
+                        "role": "Reki Kyan (voice)"
+                    },
+                    {
+                        "name": "Takehito Koyasu",
+                        "order": 2,
+                        "role": "Adam (voice)"
+                    },
+                    {
+                        "name": "Hikaru Midorikawa",
+                        "order": 3,
+                        "role": "Cherry blossom (voice)"
+                    },
+                    {
+                        "name": "Takuma Nagatsuka",
+                        "order": 4,
+                        "role": "Miya Chinen (voice)"
+                    },
+                    {
+                        "name": "Yasunori Matsumoto",
+                        "order": 5,
+                        "role": "Joe (voice)"
+                    },
+                    {
+                        "name": "Kenta Miyake",
+                        "order": 6,
+                        "role": "Shadow (voice)"
+                    }
+                ],
+                "country": [
+                    "JP",
+                    "Japan"
+                ],
+                "customproperties": {
+                    "cast": "Chiaki Kobayashi / Tasuku Hatanaka / Takehito Koyasu / Hikaru Midorikawa / Takuma Nagatsuka / Yasunori Matsumoto / Kenta Miyake",
+                    "contextmenuaction(0)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=tv,tmdb_id=110309)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=tv,tmdb_id=110309)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=tv,tmdb_id=110309)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=tv,tmdb_id=110309)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=tv,tmdb_id=110309)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(4)": "$LOCALIZE[20444]",
+                    "dbtype": "tvshow",
+                    "imdb_id": "tt13129190",
+                    "item.info": "seasons",
+                    "item.tmdb_id": "110309",
+                    "item.tmdb_type": "tv",
+                    "item.type": "tv",
+                    "last_aired": "04/04/2021",
+                    "last_aired.day": "Sunday",
+                    "last_aired.day_short": "Sun",
+                    "last_aired.episode": "12",
+                    "last_aired.long": "Sunday 04 April 2021",
+                    "last_aired.name": "Notre skate n'a pas de limite !",
+                    "last_aired.original": "2021-04-04",
+                    "last_aired.plot": "La course orageuse entre Reki et Adam a \u00e9t\u00e9 gagn\u00e9e par Adam. Cependant, seul Reki a appr\u00e9ci\u00e9 cette course. Ce qui interpelle Kikuchi, qui se rend d\u00e9sormais compte que Langa est le seul \u00e0 pouvoir r\u00e9veiller Adam et abandonne donc sa course contre Langa. Alors que la finale va d\u00e9buter, Reki et Adam se font une certaine promesse. La course entre Adam et Langa est sur le point de commencer !",
+                    "last_aired.rating": "9.0",
+                    "last_aired.season": "1",
+                    "last_aired.short": "04 Apr",
+                    "last_aired.thumb": "https://image.tmdb.org/t/p/original/sRCNtT7CyEGIZhQKmogUxZhWEQv.jpg",
+                    "last_aired.tmdb_id": "2631171",
+                    "last_aired.votes": "1",
+                    "last_aired.year": "2021",
+                    "network": "tv asahi / Nagoya TV / ABC TV / ABEMA",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Top 10 Jap anime 2021",
+                    "param.list_slug": "top-10-jap-anime-2021",
+                    "param.plugin_category": "Top 10 Jap anime 2021",
+                    "param.user_slug": "didibz",
+                    "param.widget": "True",
+                    "popularity": "35.048",
+                    "provider.link": "https://www.themoviedb.org/tv/110309-sk/watch?locale=FR",
+                    "providers": "Crunchyroll / WAKANIM",
+                    "slug_id": "sk8-the-infinity",
+                    "studio": "BONES",
+                    "tmdb_id": "110309",
+                    "tmdb_rating": "8.7",
+                    "tmdb_type": "tv",
+                    "tmdb_votes": "240",
+                    "totalepisodes": "12",
+                    "totalseasons": "1",
+                    "trakt_id": "167372",
+                    "tvdb_id": "388858",
+                    "widget": "Top 10 Jap anime 2021"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": 12,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fohOrfdh80HVY5QBD8kV2FYYSVwF.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=seasons&tmdb_type=tv&tmdb_id=110309",
+                "filetype": "directory",
+                "firstaired": "",
+                "genre": [
+                    "Animation",
+                    "Action & Adventure"
+                ],
+                "imdbnumber": "",
+                "label": "SK8 the Infinity",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "x-directory/normal",
+                "mpaa": "",
+                "originaltitle": "SK\u221e \u30a8\u30b9\u30b1\u30fc\u30a8\u30a4\u30c8",
+                "playcount": 0,
+                "plot": "L'histoire se centre sur Reki, un lyc\u00e9en fan de skate qui se retrouve pris dans \"S\", une course de skateboard sans r\u00e8gles dans une mine souterraine abandonn\u00e9e. Ranga, qui vient de revenir au Japon apr\u00e8s un voyage au Canada, se retrouve lui aussi embarquer dans cette course alors qu'il n'a jamais fait de skate auparavant. C'est ainsi que nous allons suivre ces deux personnes dans cette dangereuse course de skateboard.",
+                "plotoutline": "",
+                "premiered": "2021-01-10",
+                "productioncode": "",
+                "rating": 8.699999809265137,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 1440,
+                "season": 1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "SK8 the Infinity",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "tv asahi",
+                    "Nagoya TV",
+                    "ABC TV",
+                    "ABEMA",
+                    "BONES",
+                    "Aniplex",
+                    "Movic",
+                    "ABC Animation"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "SK8 the Infinity",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=d9CwprusO8k",
+                "tvshowid": -1,
+                "type": "tvshow",
+                "uniqueid": {
+                    "imdb": "tt13129190",
+                    "slug": "sk8-the-infinity",
+                    "tmdb": "110309",
+                    "trakt": "167372",
+                    "tvdb": "388858"
+                },
+                "votes": "240",
+                "watchedepisodes": 0,
+                "writer": [
+                    "Ichir\u014d \u014ckouchi",
+                    "Hiroko Utsumi",
+                    "Hiroko Utsumi"
+                ],
+                "year": 2021
+            },
+            {
+                "album": "",
+                "art": {
+                    "banner": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f375271%2ftvbanner%2fto-your-eternity-6162b7849a24e.jpg/",
+                    "characterart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f375271%2fcharacterart%2fto-your-eternity-6162baca82d33.png/",
+                    "clearart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f375271%2fhdclearart%2fto-your-eternity-6163d92d4edae.png/",
+                    "clearlogo": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f375271%2fhdtvlogo%2fto-your-eternity-6107a98348fe8.png/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fqmeC99iX9YPbxi3Dwsw5VvxIbCC.jpg/",
+                    "fanart1": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f375271%2fshowbackground%2fto-your-eternity-6162b7a821410.jpg/",
+                    "fanart2": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f375271%2fshowbackground%2fto-your-eternity-6162bab773636.jpg/",
+                    "fanart3": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f375271%2fshowbackground%2fto-your-eternity-6162bab799ea0.jpg/",
+                    "fanart4": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f375271%2fshowbackground%2fto-your-eternity-6162b878ae3fb.jpg/",
+                    "fanart5": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f375271%2fshowbackground%2fto-your-eternity-60de441eb2d20.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f54ivU8Mua9p6dkMPVhZM5NrCAOA.jpg/",
+                    "landscape": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f375271%2ftvthumb%2fto-your-eternity-6162b7ba347fd.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f54ivU8Mua9p6dkMPVhZM5NrCAOA.jpg/"
+                },
+                "artist": [],
+                "cast": [],
+                "country": [
+                    "JP",
+                    "Japan"
+                ],
+                "customproperties": {
+                    "contextmenuaction(0)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=tv,tmdb_id=97525)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=tv,tmdb_id=97525)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=tv,tmdb_id=97525)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=tv,tmdb_id=97525)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=tv,tmdb_id=97525)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(4)": "$LOCALIZE[20444]",
+                    "dbtype": "tvshow",
+                    "imdb_id": "tt12063450",
+                    "item.info": "seasons",
+                    "item.tmdb_id": "97525",
+                    "item.tmdb_type": "tv",
+                    "item.type": "tv",
+                    "last_aired": "30/08/2021",
+                    "last_aired.day": "Monday",
+                    "last_aired.day_short": "Mon",
+                    "last_aired.episode": "20",
+                    "last_aired.long": "Monday 30 August 2021",
+                    "last_aired.name": "Echos",
+                    "last_aired.original": "2021-08-30",
+                    "last_aired.plot": "Laissant loin derri\u00e8re lui Jananda aux mains de Tonali et Sandel, Imm revient au port d\u2019o\u00f9 il a embarqu\u00e9 pour l\u2019\u00eele-prison. Lui qui \u00e9tait pr\u00eat \u00e0 tout mettre sens dessus dessous pour retrouver Piolan, le voici qui h\u00e9site\u2026 Un humain est-il fait pour vivre aux c\u00f4t\u00e9s d\u2019un immortel, surtout quand ce dernier est l\u2019ennemi d\u00e9sign\u00e9 des frappeurs ?",
+                    "last_aired.rating": "7.8",
+                    "last_aired.season": "1",
+                    "last_aired.short": "30 Aug",
+                    "last_aired.thumb": "https://image.tmdb.org/t/p/original/rFLHtQ4K4U2nxOo4JwjZo4UDJ8e.jpg",
+                    "last_aired.tmdb_id": "2206922",
+                    "last_aired.votes": "4",
+                    "last_aired.year": "2021",
+                    "network": "NHK Educational TV",
+                    "next_aired": "23/10/2022",
+                    "next_aired.day": "Sunday",
+                    "next_aired.day_short": "Sun",
+                    "next_aired.episode": "1",
+                    "next_aired.long": "Sunday 23 October 2022",
+                    "next_aired.name": "\u00c9pisode 1",
+                    "next_aired.original": "2022-10-23",
+                    "next_aired.plot": "",
+                    "next_aired.rating": "0.0",
+                    "next_aired.season": "2",
+                    "next_aired.short": "23 Oct",
+                    "next_aired.thumb": "",
+                    "next_aired.tmdb_id": "3659589",
+                    "next_aired.votes": "0",
+                    "next_aired.year": "2022",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Top 10 Jap anime 2021",
+                    "param.list_slug": "top-10-jap-anime-2021",
+                    "param.plugin_category": "Top 10 Jap anime 2021",
+                    "param.user_slug": "didibz",
+                    "param.widget": "True",
+                    "popularity": "33.12",
+                    "provider.link": "https://www.themoviedb.org/tv/97525/watch?locale=FR",
+                    "providers": "Crunchyroll",
+                    "slug_id": "to-your-eternity",
+                    "studio": "NHK Enterprises",
+                    "tmdb_id": "97525",
+                    "tmdb_rating": "8.3",
+                    "tmdb_type": "tv",
+                    "tmdb_votes": "145",
+                    "totalepisodes": "40",
+                    "totalseasons": "2",
+                    "trakt_id": "159569",
+                    "tvdb_id": "375271",
+                    "widget": "Top 10 Jap anime 2021"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": 40,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fqmeC99iX9YPbxi3Dwsw5VvxIbCC.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=seasons&tmdb_type=tv&tmdb_id=97525",
+                "filetype": "directory",
+                "firstaired": "",
+                "genre": [
+                    "Animation",
+                    "Drame",
+                    "Action & Adventure",
+                    "Science-Fiction & Fantastique"
+                ],
+                "imdbnumber": "",
+                "label": "To Your Eternity",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "x-directory/normal",
+                "mpaa": "",
+                "originaltitle": "\u4e0d\u6ec5\u306e\u3042\u306a\u305f\u3078",
+                "playcount": 0,
+                "plot": "Un gar\u00e7on solitaire errant dans les r\u00e9gions arctiques de l'Am\u00e9rique du Nord rencontre un loup. Tous deux deviennent rapidement amis, d\u00e9pendant l'un de l'autre pour survivre dans cet environnement hostile. Mais ce gar\u00e7on a une histoire et sa rencontre avec ce loup n'est pas fortuite...",
+                "plotoutline": "",
+                "premiered": "2021-04-12",
+                "productioncode": "",
+                "rating": 8.300000190734863,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 1500,
+                "season": 2,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "To Your Eternity",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "NHK Educational TV",
+                    "NHK Enterprises",
+                    "NHK",
+                    "Brain's Base",
+                    "Drive"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "To Your Eternity",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=8cVLWEkUMrY",
+                "tvshowid": -1,
+                "type": "tvshow",
+                "uniqueid": {
+                    "imdb": "tt12063450",
+                    "slug": "to-your-eternity",
+                    "tmdb": "97525",
+                    "trakt": "159569",
+                    "tvdb": "375271"
+                },
+                "votes": "145",
+                "watchedepisodes": 0,
+                "writer": [],
+                "year": 2021
+            },
+            {
+                "album": "",
+                "art": {
+                    "clearlogo": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2ftWcHryFQpFL1JMuyFZzEKklnzTv.png/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f1c1SDpDayNCr4EkC6dQH7Eun4BR.jpg/",
+                    "fanart1": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f388645%2fshowbackground%2fedens-zero-6286e2da12301.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fzwj3sFZksoFsKqYPMmqGB95H3XJ.jpg/",
+                    "landscape": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f388645%2ftvthumb%2fedens-zero-615f4298a3138.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fzwj3sFZksoFsKqYPMmqGB95H3XJ.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Takuma Terashima",
+                        "order": 0,
+                        "role": "Shiki Granbell (voice)"
+                    },
+                    {
+                        "name": "Mikako Komatsu",
+                        "order": 1,
+                        "role": "Rebecca Bluegarden (voice)"
+                    },
+                    {
+                        "name": "Rie Kugimiya",
+                        "order": 2,
+                        "role": "Happy (voice)"
+                    },
+                    {
+                        "name": "Hiromichi Tezuka",
+                        "order": 3,
+                        "role": "Weisz Steiner (voice)"
+                    },
+                    {
+                        "name": "Shiori Izawa",
+                        "order": 4,
+                        "role": "E.M. Pino (voice)"
+                    },
+                    {
+                        "name": "Shiki Aoki",
+                        "order": 5,
+                        "role": "Homura Kougetsu (voice)"
+                    },
+                    {
+                        "name": "Sayaka Ohara",
+                        "order": 6,
+                        "role": "Elsie Crimson (voice)"
+                    },
+                    {
+                        "name": "Hochu Otsuka",
+                        "order": 7,
+                        "role": "Ziggy (voice)"
+                    },
+                    {
+                        "name": "Kikuko Inoue",
+                        "order": 8,
+                        "role": "Mother (voice)"
+                    }
+                ],
+                "country": [
+                    "JP",
+                    "Japan"
+                ],
+                "customproperties": {
+                    "cast": "Takuma Terashima / Mikako Komatsu / Rie Kugimiya / Hiromichi Tezuka / Shiori Izawa / Shiki Aoki / Sayaka Ohara / Hochu Otsuka / Kikuko Inoue",
+                    "contextmenuaction(0)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=tv,tmdb_id=104711)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=tv,tmdb_id=104711)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=tv,tmdb_id=104711)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=tv,tmdb_id=104711)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=tv,tmdb_id=104711)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(4)": "$LOCALIZE[20444]",
+                    "dbtype": "tvshow",
+                    "imdb_id": "tt13167196",
+                    "item.info": "seasons",
+                    "item.tmdb_id": "104711",
+                    "item.tmdb_type": "tv",
+                    "item.type": "tv",
+                    "last_aired": "03/10/2021",
+                    "last_aired.day": "Sunday",
+                    "last_aired.day_short": "Sun",
+                    "last_aired.episode": "25",
+                    "last_aired.long": "Sunday 03 October 2021",
+                    "last_aired.name": "Ceux qu'on aime",
+                    "last_aired.original": "2021-10-03",
+                    "last_aired.plot": "Le combat s'approche \u00e0 son terme entre Shiki et le Chevalier d'Acier \u00c9carlate. \u00c0 la fin du combat, Shiki ram\u00e8ne alors Kurenai vers sa fille Homura, conform\u00e9ment au souhait de Valkyrie. Comment la jeune fille va-t-elle r\u00e9agir \u00e0 ses retrouvailles ? Tout comme les \u00c9toiles Brillantes du Roi-D\u00e9mon, qui attendent le retour de leur amie sur l'Edens Zero...",
+                    "last_aired.rating": "6.0",
+                    "last_aired.season": "1",
+                    "last_aired.short": "03 Oct",
+                    "last_aired.thumb": "https://image.tmdb.org/t/p/original/iBMMoXepXQp3HFz2N01GlUhs1iN.jpg",
+                    "last_aired.tmdb_id": "2865827",
+                    "last_aired.votes": "1",
+                    "last_aired.year": "2021",
+                    "network": "Nippon TV / RNB / RAB / TVI / YBC / UMK TV Miyazaki",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Top 10 Jap anime 2021",
+                    "param.list_slug": "top-10-jap-anime-2021",
+                    "param.plugin_category": "Top 10 Jap anime 2021",
+                    "param.user_slug": "didibz",
+                    "param.widget": "True",
+                    "popularity": "32.057",
+                    "provider.link": "https://www.themoviedb.org/tv/104711-edens-zero/watch?locale=FR",
+                    "providers": "Netflix",
+                    "slug_id": "edens-zero",
+                    "studio": "J.C.Staff",
+                    "tmdb_id": "104711",
+                    "tmdb_rating": "7.9",
+                    "tmdb_type": "tv",
+                    "tmdb_votes": "160",
+                    "totalepisodes": "25",
+                    "totalseasons": "2",
+                    "trakt_id": "167222",
+                    "tvdb_id": "388645",
+                    "widget": "Top 10 Jap anime 2021"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": 25,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f1c1SDpDayNCr4EkC6dQH7Eun4BR.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=seasons&tmdb_type=tv&tmdb_id=104711",
+                "filetype": "directory",
+                "firstaired": "",
+                "genre": [
+                    "Animation",
+                    "Com\u00e9die",
+                    "Action & Adventure",
+                    "Science-Fiction & Fantastique"
+                ],
+                "imdbnumber": "",
+                "label": "Edens Zero",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "x-directory/normal",
+                "mpaa": "",
+                "originaltitle": "EDENS ZERO",
+                "playcount": 0,
+                "plot": "L'histoire nous entra\u00eene dans le quotidien de Shiki, un orphelin qui a \u00e9t\u00e9 \u00e9lev\u00e9 par des animatroniques dot\u00e9s d'une conscience dans un parc d'attraction abandonn\u00e9 nomm\u00e9 Granbell Kingdom. Un jour, Rebecca et son chat Happy se rendent \u00e0 ce parc afin d'enregistrer des vid\u00e9os pour le site B-Cube, un cousin \u00e9loign\u00e9 de YouTube. Peu de temps apr\u00e8s leur arriv\u00e9e, ils se font enlever par les r\u00e9sidents du parc. En r\u00e9alit\u00e9, il s'agit d'une mise en sc\u00e8ne qui est cens\u00e9e forcer Shiki \u00e0 quitter la plan\u00e8te avec Rebecca et Happy \u00e9tant donn\u00e9 que les batteries des animatroniques sont en fin de vie.  Apr\u00e8s vaincu \u00e0 contre contrec\u0153ur les robots, Shiki s'\u00e9chappe de la plan\u00e8te en compagnie de Rebecca et Happy avec pour but d'explorer le Cosmos Sakura et ainsi trouver Mother, d\u00e9esse myst\u00e9rieuse de l'univers.",
+                "plotoutline": "",
+                "premiered": "2021-04-11",
+                "productioncode": "",
+                "rating": 7.900000095367432,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 1440,
+                "season": 2,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "Edens Zero",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Nippon TV",
+                    "RNB",
+                    "RAB",
+                    "TVI",
+                    "YBC",
+                    "UMK TV Miyazaki",
+                    "J.C.Staff"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Edens Zero",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=Y0T5TwEB7xo",
+                "tvshowid": -1,
+                "type": "tvshow",
+                "uniqueid": {
+                    "imdb": "tt13167196",
+                    "slug": "edens-zero",
+                    "tmdb": "104711",
+                    "trakt": "167222",
+                    "tvdb": "388645"
+                },
+                "votes": "160",
+                "watchedepisodes": 0,
+                "writer": [
+                    "Hiro Mashima",
+                    "Mitsutaka Hirota"
+                ],
+                "year": 2021
+            },
+            {
+                "album": "",
+                "art": {
+                    "banner": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f371310%2ftvbanner%2fmushoku-tensei-jobless-reincarnation-6075aff645053.jpg/",
+                    "characterart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f371310%2fcharacterart%2fmushoku-tensei-jobless-reincarnation-61c5d9318768a.png/",
+                    "clearart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f371310%2fhdclearart%2fmushoku-tensei-jobless-reincarnation-60751b173fb37.png/",
+                    "clearlogo": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f371310%2fhdtvlogo%2fmushoku-tensei-jobless-reincarnation-606a34e7acdcf.png/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fj9fRIimor0AMFJR9kjZubXcABzZ.jpg/",
+                    "fanart1": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f371310%2fshowbackground%2fmushoku-tensei-jobless-reincarnation-61c9a0abd4bbd.jpg/",
+                    "fanart10": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f371310%2fshowbackground%2fmushoku-tensei-jobless-reincarnation-6044b3b87e697.jpg/",
+                    "fanart2": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f371310%2fshowbackground%2fmushoku-tensei-jobless-reincarnation-604cf91cb5838.jpg/",
+                    "fanart3": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f371310%2fshowbackground%2fmushoku-tensei-jobless-reincarnation-6044b3b9e415c.jpg/",
+                    "fanart4": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f371310%2fshowbackground%2fmushoku-tensei-jobless-reincarnation-6044b39bd927f.jpg/",
+                    "fanart5": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f371310%2fshowbackground%2fmushoku-tensei-jobless-reincarnation-6044b3bb07690.jpg/",
+                    "fanart6": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f371310%2fshowbackground%2fmushoku-tensei-jobless-reincarnation-61c6f1f36017c.jpg/",
+                    "fanart7": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f371310%2fshowbackground%2fmushoku-tensei-jobless-reincarnation-61c6f1eed3e1e.jpg/",
+                    "fanart8": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f371310%2fshowbackground%2fmushoku-tensei-jobless-reincarnation-61c6f1ec7c607.jpg/",
+                    "fanart9": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f371310%2fshowbackground%2fmushoku-tensei-jobless-reincarnation-61c6f1e8ed87b.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fjp3nrI6D8h3mwsCLIgv6MFQvV6Q.jpg/",
+                    "landscape": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f371310%2ftvthumb%2fmushoku-tensei-jobless-reincarnation-61c481d128695.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fjp3nrI6D8h3mwsCLIgv6MFQvV6Q.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Yumi Uchiyama",
+                        "order": 0,
+                        "role": "Rudeus Greyrat (voice)"
+                    },
+                    {
+                        "name": "Tomokazu Sugita",
+                        "order": 1,
+                        "role": "Rudeus Greyrat's former self (voice)"
+                    },
+                    {
+                        "name": "Ai Kakuma",
+                        "order": 2,
+                        "role": "Eris Boreas Greyrat (voice)"
+                    },
+                    {
+                        "name": "Ai Kayano",
+                        "order": 3,
+                        "role": "Sylphiette (voice)"
+                    },
+                    {
+                        "name": "Konomi Kohara",
+                        "order": 4,
+                        "role": "Roxy Migurdia (voice)"
+                    },
+                    {
+                        "name": "Daisuke Namikawa",
+                        "order": 5,
+                        "role": "Ruijerd Superdia (voice)"
+                    },
+                    {
+                        "name": "Toshiyuki Morikawa",
+                        "order": 6,
+                        "role": "Paul Greyrat (voice)"
+                    },
+                    {
+                        "name": "Hisako Kanemoto",
+                        "order": 7,
+                        "role": "Zenith Greyrat (voice)"
+                    },
+                    {
+                        "name": "Lynn",
+                        "order": 8,
+                        "role": "Lilia (voice)"
+                    },
+                    {
+                        "name": "Kujira",
+                        "order": 9,
+                        "role": "Man-God (voice)"
+                    }
+                ],
+                "country": [
+                    "JP",
+                    "Japan"
+                ],
+                "customproperties": {
+                    "cast": "Yumi Uchiyama / Tomokazu Sugita / Ai Kakuma / Ai Kayano / Konomi Kohara / Daisuke Namikawa / Toshiyuki Morikawa / Hisako Kanemoto / Lynn / Kujira",
+                    "contextmenuaction(0)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=tv,tmdb_id=94664)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=tv,tmdb_id=94664)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=tv,tmdb_id=94664)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=tv,tmdb_id=94664)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=tv,tmdb_id=94664)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(4)": "$LOCALIZE[20444]",
+                    "dbtype": "tvshow",
+                    "imdb_id": "tt13293588",
+                    "item.info": "seasons",
+                    "item.tmdb_id": "94664",
+                    "item.tmdb_type": "tv",
+                    "item.type": "tv",
+                    "last_aired": "20/12/2021",
+                    "last_aired.day": "Monday",
+                    "last_aired.day_short": "Mon",
+                    "last_aired.episode": "23",
+                    "last_aired.long": "Monday 20 December 2021",
+                    "last_aired.name": "Pas \u00e0 pas apr\u00e8s l'\u00e9veil",
+                    "last_aired.original": "2021-12-20",
+                    "last_aired.plot": "Au r\u00e9veil de Rudeus, son monde s'est \u00e9croul\u00e9. Parviendra-t-il \u00e0 vaincre sa douleur ? Saura-t-il aller de l'avant, alors que sa m\u00e8re reste introuvable et qu'il doit la secourir au plus vite ?",
+                    "last_aired.rating": "8.9",
+                    "last_aired.season": "1",
+                    "last_aired.short": "20 Dec",
+                    "last_aired.thumb": "https://image.tmdb.org/t/p/original/2Wen3Widg6xKNbZOqSME2Y5NBKr.jpg",
+                    "last_aired.tmdb_id": "3348337",
+                    "last_aired.votes": "8",
+                    "last_aired.year": "2021",
+                    "network": "Tokyo MX / BS11 / Niconico / KBS Kyoto",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Top 10 Jap anime 2021",
+                    "param.list_slug": "top-10-jap-anime-2021",
+                    "param.plugin_category": "Top 10 Jap anime 2021",
+                    "param.user_slug": "didibz",
+                    "param.widget": "True",
+                    "popularity": "137.914",
+                    "provider.link": "https://www.themoviedb.org/tv/94664/watch?locale=FR",
+                    "providers": "Crunchyroll / WAKANIM",
+                    "slug_id": "mushoku-tensei-jobless-reincarnation",
+                    "studio": "Kadokawa",
+                    "tmdb_id": "94664",
+                    "tmdb_rating": "8.7",
+                    "tmdb_type": "tv",
+                    "tmdb_votes": "568",
+                    "totalepisodes": "23",
+                    "totalseasons": "2",
+                    "trakt_id": "156460",
+                    "tvdb_id": "371310",
+                    "widget": "Top 10 Jap anime 2021"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": 23,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fj9fRIimor0AMFJR9kjZubXcABzZ.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=seasons&tmdb_type=tv&tmdb_id=94664",
+                "filetype": "directory",
+                "firstaired": "",
+                "genre": [
+                    "Animation",
+                    "Com\u00e9die",
+                    "Action & Adventure",
+                    "Science-Fiction & Fantastique"
+                ],
+                "imdbnumber": "",
+                "label": "Mushoku Tensei : Jobless Reincarnation",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "x-directory/normal",
+                "mpaa": "",
+                "originaltitle": "\u7121\u8077\u8ee2\u751f \uff5e\u7570\u4e16\u754c\u884c\u3063\u305f\u3089\u672c\u6c17\u3060\u3059\uff5e",
+                "playcount": 0,
+                "plot": "\u00ab Ici, je vais me transcender ! \u00bb Un anonyme de 34 ans, c\u00e9libataire endurci, reclus et au ch\u00f4mage se fait \u00e9craser par un camion peu apr\u00e8s avoir \u00e9t\u00e9 chass\u00e9 de la maison familiale. Quelle ne fut pas sa surprise lorsqu'il se r\u00e9veilla b\u00e9b\u00e9 dans un monde d'\u00e9p\u00e9es et de magie ! Rudeus, comme il s'appelait d\u00e9sormais, jura alors de r\u00e9ussir sa deuxi\u00e8me vie et de tirer un trait sur l'immonde d\u00e9chet qu'il avait \u00e9t\u00e9 34 ans durant. D\u00e8s son jeune \u00e2ge, il nouera de nombreux liens dans ce nouveau monde, notamment une solide amiti\u00e9 avec trois fillettes, avant de partir pour une aventure aussi palpitante que p\u00e9rilleuse. Une seconde chance lui a \u00e9t\u00e9 accord\u00e9e\u2026 et elle ne sera pas de tout repos !",
+                "plotoutline": "",
+                "premiered": "2021-01-11",
+                "productioncode": "",
+                "rating": 8.699999809265137,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 1440,
+                "season": 2,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "Mushoku Tensei : Jobless Reincarnation",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Tokyo MX",
+                    "BS11",
+                    "Niconico",
+                    "KBS Kyoto",
+                    "Kadokawa",
+                    "Frontier Works",
+                    "TOHO Animation",
+                    "EGG FIRM",
+                    "Studio Bind",
+                    "Hakuhodo DY Music & Pictures",
+                    "Gree Entertainment"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Mushoku Tensei : Jobless Reincarnation",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=k5VxfJpzy1Q",
+                "tvshowid": -1,
+                "type": "tvshow",
+                "uniqueid": {
+                    "imdb": "tt13293588",
+                    "slug": "mushoku-tensei-jobless-reincarnation",
+                    "tmdb": "94664",
+                    "trakt": "156460",
+                    "tvdb": "371310"
+                },
+                "votes": "568",
+                "watchedepisodes": 0,
+                "writer": [
+                    "Manabu Okamoto",
+                    "Rifujin na Magonote"
+                ],
+                "year": 2021
+            },
+            {
+                "album": "",
+                "art": {
+                    "banner": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f391625%2ftvbanner%2franking-of-kings-62e8f3979ccf7.jpg/",
+                    "clearlogo": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f391625%2fhdtvlogo%2franking-of-kings-617b41a61a642.png/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fkVy22x3xZPsbxE3LKHCH7qXwTBz.jpg/",
+                    "fanart1": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f391625%2fshowbackground%2franking-of-kings-62e8f6290e88a.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f35fJYd6M6yuts9OfRJXdL00wfdU.jpg/",
+                    "landscape": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f391625%2ftvthumb%2franking-of-kings-61bb8225ce7bb.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f35fJYd6M6yuts9OfRJXdL00wfdU.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Minami Hinata",
+                        "order": 0,
+                        "role": "Bojji (voice)"
+                    },
+                    {
+                        "name": "Ayumu Murase",
+                        "order": 1,
+                        "role": "Kage (voice)"
+                    },
+                    {
+                        "name": "Yuki Kaji",
+                        "order": 2,
+                        "role": "Daida (voice)"
+                    },
+                    {
+                        "name": "Takuya Eguchi",
+                        "order": 3,
+                        "role": "Domas (voice)"
+                    },
+                    {
+                        "name": "Youji Ueda",
+                        "order": 4,
+                        "role": "Bebin (voice)"
+                    },
+                    {
+                        "name": "Daiki Yamashita",
+                        "order": 5,
+                        "role": "Hokuro (voice)"
+                    }
+                ],
+                "country": [
+                    "JP",
+                    "Japan"
+                ],
+                "customproperties": {
+                    "cast": "Minami Hinata / Ayumu Murase / Yuki Kaji / Takuya Eguchi / Youji Ueda / Daiki Yamashita",
+                    "contextmenuaction(0)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=tv,tmdb_id=112613)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=tv,tmdb_id=112613)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=tv,tmdb_id=112613)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=tv,tmdb_id=112613)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=tv,tmdb_id=112613)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(4)": "$LOCALIZE[20444]",
+                    "dbtype": "tvshow",
+                    "imdb_id": "tt13409432",
+                    "item.info": "seasons",
+                    "item.tmdb_id": "112613",
+                    "item.tmdb_type": "tv",
+                    "item.type": "tv",
+                    "last_aired": "25/03/2022",
+                    "last_aired.day": "Friday",
+                    "last_aired.day_short": "Fri",
+                    "last_aired.episode": "23",
+                    "last_aired.long": "Friday 25 March 2022",
+                    "last_aired.name": "Le roi et son soleil",
+                    "last_aired.original": "2022-03-25",
+                    "last_aired.plot": "Afin que son pardon envers Miranjo soit accept\u00e9, Daida est d\u00e9termin\u00e9 \u00e0 expier ses propres crimes.",
+                    "last_aired.rating": "0.0",
+                    "last_aired.season": "1",
+                    "last_aired.short": "25 Mar",
+                    "last_aired.thumb": "https://image.tmdb.org/t/p/original/vuIULyWBYhtVXhjvuCJQdc4bTz8.jpg",
+                    "last_aired.tmdb_id": "3281838",
+                    "last_aired.votes": "0",
+                    "last_aired.year": "2022",
+                    "network": "Fuji TV",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Top 10 Jap anime 2021",
+                    "param.list_slug": "top-10-jap-anime-2021",
+                    "param.plugin_category": "Top 10 Jap anime 2021",
+                    "param.user_slug": "didibz",
+                    "param.widget": "True",
+                    "popularity": "55.817",
+                    "provider.link": "https://www.themoviedb.org/tv/112613/watch?locale=FR",
+                    "providers": "Crunchyroll / WAKANIM",
+                    "slug_id": "ranking-of-kings",
+                    "studio": "dentsu",
+                    "tmdb_id": "112613",
+                    "tmdb_rating": "8.3",
+                    "tmdb_type": "tv",
+                    "tmdb_votes": "89",
+                    "totalepisodes": "23",
+                    "totalseasons": "1",
+                    "trakt_id": "169358",
+                    "tvdb_id": "391625",
+                    "widget": "Top 10 Jap anime 2021"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": 23,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fkVy22x3xZPsbxE3LKHCH7qXwTBz.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=seasons&tmdb_type=tv&tmdb_id=112613",
+                "filetype": "directory",
+                "firstaired": "",
+                "genre": [
+                    "Animation",
+                    "Com\u00e9die",
+                    "Action & Adventure",
+                    "Science-Fiction & Fantastique"
+                ],
+                "imdbnumber": "",
+                "label": "Ranking of Kings",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "x-directory/normal",
+                "mpaa": "",
+                "originaltitle": "\u738b\u69d8\u30e9\u30f3\u30ad\u30f3\u30b0",
+                "playcount": 0,
+                "plot": "Dans un monde o\u00f9 les rois sont class\u00e9s entre eux, le jeune prince Bojji commence en bas de l\u2019\u00e9chelle. Na\u00eff, sourd et fr\u00eale, son peuple ne compte pas sur lui pour faire briller le royaume. Mais sa rencontre avec Ombre, monstre de bas \u00e9tage au grand c\u0153ur, va allumer en lui une petite \u00e9tincelle de courage. \u00c0 deux tout devient possible, y compris faire grimper Bojji jusqu\u2019en haut du classement des rois !",
+                "plotoutline": "",
+                "premiered": "2021-10-15",
+                "productioncode": "",
+                "rating": 8.300000190734863,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 1380,
+                "season": 1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "Ranking of Kings",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Fuji TV",
+                    "dentsu",
+                    "Kadokawa",
+                    "Aniplex",
+                    "Fuji Television Network",
+                    "Wit Studio",
+                    "Bandai Spirits"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Ranking of Kings",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=KcR8QyzF4yQ",
+                "tvshowid": -1,
+                "type": "tvshow",
+                "uniqueid": {
+                    "imdb": "tt13409432",
+                    "slug": "ranking-of-kings",
+                    "tmdb": "112613",
+                    "trakt": "169358",
+                    "tvdb": "391625"
+                },
+                "votes": "89",
+                "watchedepisodes": 0,
+                "writer": [
+                    "Sosuke Toka",
+                    "Taku Kishimoto"
+                ],
+                "year": 2021
+            },
+            {
+                "album": "",
+                "art": {
+                    "banner": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f385278%2ftvbanner%2fdont-toy-with-me-miss-nagatoro-6163e6a34635d.jpg/",
+                    "characterart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f385278%2fcharacterart%2fdont-toy-with-me-miss-nagatoro-5fa546c873180.png/",
+                    "clearart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f385278%2fhdclearart%2fdont-toy-with-me-miss-nagatoro-6163e8db3abbc.png/",
+                    "clearlogo": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f385278%2fhdtvlogo%2fdont-toy-with-me-miss-nagatoro-61d60921042aa.png/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f4PsMNbOPNXWWposVBwO8LtfV66U.jpg/",
+                    "fanart1": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f385278%2fshowbackground%2fdont-toy-with-me-miss-nagatoro-5fb6b932c7bf7.jpg/",
+                    "fanart2": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f385278%2fshowbackground%2fdont-toy-with-me-miss-nagatoro-60bd62f4c1008.jpg/",
+                    "fanart3": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f385278%2fshowbackground%2fdont-toy-with-me-miss-nagatoro-5fa546db0a225.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fWcNfWD9zaj2wKCUZdCqeKP1uhm.jpg/",
+                    "landscape": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f385278%2ftvthumb%2fdont-toy-with-me-miss-nagatoro-6163e68930d00.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fWcNfWD9zaj2wKCUZdCqeKP1uhm.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Sumire Uesaka",
+                        "order": 0,
+                        "role": "Hayase Nagatoro (voice)"
+                    },
+                    {
+                        "name": "Daiki Yamashita",
+                        "order": 1,
+                        "role": "Naoto \"Senpai\" Hachioji (voice)"
+                    },
+                    {
+                        "name": "Aina Suzuki",
+                        "order": 2,
+                        "role": "Yoshi (voice)"
+                    },
+                    {
+                        "name": "Mikako Komatsu",
+                        "order": 3,
+                        "role": "Gamo-chan (voice)"
+                    },
+                    {
+                        "name": "Shiori Izawa",
+                        "order": 4,
+                        "role": "Sakura (voice)"
+                    },
+                    {
+                        "name": "Nana Mizuki",
+                        "order": 5,
+                        "role": "Art Club President (voice)"
+                    }
+                ],
+                "country": [
+                    "JP",
+                    "Japan"
+                ],
+                "customproperties": {
+                    "cast": "Sumire Uesaka / Daiki Yamashita / Aina Suzuki / Mikako Komatsu / Shiori Izawa / Nana Mizuki",
+                    "contextmenuaction(0)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=tv,tmdb_id=105556)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=tv,tmdb_id=105556)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=tv,tmdb_id=105556)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=tv,tmdb_id=105556)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=tv,tmdb_id=105556)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(4)": "$LOCALIZE[20444]",
+                    "dbtype": "tvshow",
+                    "imdb_id": "tt12635162",
+                    "item.info": "seasons",
+                    "item.tmdb_id": "105556",
+                    "item.tmdb_type": "tv",
+                    "item.type": "tv",
+                    "last_aired": "27/06/2021",
+                    "last_aired.day": "Sunday",
+                    "last_aired.day_short": "Sun",
+                    "last_aired.episode": "12",
+                    "last_aired.long": "Sunday 27 June 2021",
+                    "last_aired.name": "Le printemps est-il arriv\u00e9 m\u00eame pour toi, l'impopulaire pouilleux Senpai ? / Tu l'as entendue parler d'amour, Senpai ?",
+                    "last_aired.original": "2021-06-27",
+                    "last_aired.plot": "Senpai n'est pas s\u00fbr de pouvoir battre le pr\u00e9sident du club artistique en popularit\u00e9 au festival culturel. Nagatoro et la bande font tout ce qu'ils peuvent pour l'aider.",
+                    "last_aired.rating": "8.0",
+                    "last_aired.season": "1",
+                    "last_aired.short": "27 Jun",
+                    "last_aired.thumb": "https://image.tmdb.org/t/p/original/lJYv3eVHRJ8zBH8BGg5J2z6DdrQ.jpg",
+                    "last_aired.tmdb_id": "2847112",
+                    "last_aired.votes": "1",
+                    "last_aired.year": "2021",
+                    "network": "Tokyo MX",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Top 10 Jap anime 2021",
+                    "param.list_slug": "top-10-jap-anime-2021",
+                    "param.plugin_category": "Top 10 Jap anime 2021",
+                    "param.user_slug": "didibz",
+                    "param.widget": "True",
+                    "popularity": "39.477",
+                    "provider.link": "https://www.themoviedb.org/tv/105556/watch?locale=FR",
+                    "providers": "Crunchyroll",
+                    "slug_id": "don-t-toy-with-me-miss-nagatoro",
+                    "studio": "OLM",
+                    "tmdb_id": "105556",
+                    "tmdb_rating": "8.2",
+                    "tmdb_type": "tv",
+                    "tmdb_votes": "594",
+                    "totalepisodes": "12",
+                    "totalseasons": "1",
+                    "trakt_id": "164304",
+                    "tvdb_id": "385278",
+                    "widget": "Top 10 Jap anime 2021"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": 12,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f4PsMNbOPNXWWposVBwO8LtfV66U.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=seasons&tmdb_type=tv&tmdb_id=105556",
+                "filetype": "directory",
+                "firstaired": "",
+                "genre": [
+                    "Animation",
+                    "Com\u00e9die"
+                ],
+                "imdbnumber": "",
+                "label": "Arr\u00eate de me chauffer, Nagatoro !",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "x-directory/normal",
+                "mpaa": "",
+                "originaltitle": "\u30a4\u30b8\u3089\u306a\u3044\u3067\u3001\u9577\u701e\u3055\u3093",
+                "playcount": 0,
+                "plot": "L'histoire nous entra\u00eene dans le quotidien d'un lyc\u00e9en timide passant ses apr\u00e8s-midis seul dans la salle du club d'art. Un jour, il attire l'attention de Nagatoro, une lyc\u00e9enne en premi\u00e8re ann\u00e9e au caract\u00e8re tr\u00e8s taquin. En effet, cette derni\u00e8re passe ses journ\u00e9es \u00e0 se moquer de lui et \u00e0 le martyriser.\n\nCependant, entre l'intimidation et les taquineries, quelque chose d'autre commence \u00e0 fleurir.",
+                "plotoutline": "",
+                "premiered": "2021-04-11",
+                "productioncode": "",
+                "rating": 8.199999809265137,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 1440,
+                "season": 1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "Arr\u00eate de me chauffer, Nagatoro !",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Tokyo MX",
+                    "OLM",
+                    "Telecom Animation Film",
+                    "King Records"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Arr\u00eate de me chauffer, Nagatoro !",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=PBu_MYkEoEU",
+                "tvshowid": -1,
+                "type": "tvshow",
+                "uniqueid": {
+                    "imdb": "tt12635162",
+                    "slug": "don-t-toy-with-me-miss-nagatoro",
+                    "tmdb": "105556",
+                    "trakt": "164304",
+                    "tvdb": "385278"
+                },
+                "votes": "594",
+                "watchedepisodes": 0,
+                "writer": [
+                    "Taku Kishimoto",
+                    "Nanashi"
+                ],
+                "year": 2021
+            },
+            {
+                "album": "",
+                "art": {
+                    "banner": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f402834%2ftvbanner%2fsuper-crooks-60cd499ac8d0c.jpg/",
+                    "clearlogo": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f402834%2fhdtvlogo%2fsuper-crooks-61500f5dce2dd.png/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f3DboDz3BRyrP7GkgodEfMz1TTSx.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f9j4Tl5XbRaaiHEXpkFUF4WCfIlt.jpg/",
+                    "landscape": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f402834%2ftvthumb%2fsuper-crooks-61c6648741916.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f9j4Tl5XbRaaiHEXpkFUF4WCfIlt.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Kenjiro Tsuda",
+                        "order": 0,
+                        "role": "Johnny Bolt (voice)"
+                    },
+                    {
+                        "name": "Maaya Sakamoto",
+                        "order": 1,
+                        "role": "Kasey (voice)"
+                    },
+                    {
+                        "name": "Hiroshi Yanaka",
+                        "order": 2,
+                        "role": "Christopher Matts (voice)"
+                    },
+                    {
+                        "name": "Yasuji Kimura",
+                        "order": 3,
+                        "role": "Carmine (voice)"
+                    },
+                    {
+                        "name": "Pierre Taki",
+                        "order": 4,
+                        "role": "The Gladiator (voice)"
+                    },
+                    {
+                        "name": "Junichi Suwabe",
+                        "order": 5,
+                        "role": "Josh (voice)"
+                    },
+                    {
+                        "name": "Hisao Egawa",
+                        "order": 6,
+                        "role": "The Salamander (voice)"
+                    },
+                    {
+                        "name": "Eiji Takemoto",
+                        "order": 7,
+                        "role": "TK McCabe (voice)"
+                    },
+                    {
+                        "name": "Subaru Kimura",
+                        "order": 8,
+                        "role": "Sammy Diesel (voice)"
+                    },
+                    {
+                        "name": "Tetsu Inada",
+                        "order": 9,
+                        "role": "Roddy Diesel (voice)"
+                    },
+                    {
+                        "name": "Wataru Hatano",
+                        "order": 10,
+                        "role": "the Praetorian (voice)"
+                    },
+                    {
+                        "name": "KENN",
+                        "order": 11,
+                        "role": "Forecast (voice)"
+                    }
+                ],
+                "country": [
+                    "JP",
+                    "Japan"
+                ],
+                "customproperties": {
+                    "cast": "Kenjiro Tsuda / Maaya Sakamoto / Hiroshi Yanaka / Yasuji Kimura / Pierre Taki / Junichi Suwabe / Hisao Egawa / Eiji Takemoto / Subaru Kimura / Tetsu Inada / Wataru Hatano / KENN",
+                    "contextmenuaction(0)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=tv,tmdb_id=127599)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=tv,tmdb_id=127599)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=tv,tmdb_id=127599)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=tv,tmdb_id=127599)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=tv,tmdb_id=127599)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(4)": "$LOCALIZE[20444]",
+                    "dbtype": "tvshow",
+                    "imdb_id": "tt14272628",
+                    "item.info": "seasons",
+                    "item.tmdb_id": "127599",
+                    "item.tmdb_type": "tv",
+                    "item.type": "tv",
+                    "last_aired": "25/11/2021",
+                    "last_aired.day": "Thursday",
+                    "last_aired.day_short": "Thu",
+                    "last_aired.episode": "13",
+                    "last_aired.long": "Thursday 25 November 2021",
+                    "last_aired.name": "Super Crooks",
+                    "last_aired.original": "2021-11-25",
+                    "last_aired.plot": "Christopher Matts charge le Pr\u00e9torien de neutraliser Johnny et sa bande, mais cette fois-ci, le Gladiateur se range du c\u00f4t\u00e9 des super-m\u00e9chants.",
+                    "last_aired.rating": "8.5",
+                    "last_aired.season": "1",
+                    "last_aired.short": "25 Nov",
+                    "last_aired.thumb": "https://image.tmdb.org/t/p/original/t4ZqkOrYuKDWHtLRccwKFqsd0JZ.jpg",
+                    "last_aired.tmdb_id": "3344328",
+                    "last_aired.votes": "2",
+                    "last_aired.year": "2021",
+                    "network": "Netflix",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Top 10 Jap anime 2021",
+                    "param.list_slug": "top-10-jap-anime-2021",
+                    "param.plugin_category": "Top 10 Jap anime 2021",
+                    "param.user_slug": "didibz",
+                    "param.widget": "True",
+                    "popularity": "6.642",
+                    "provider.link": "https://www.themoviedb.org/tv/127599/watch?locale=FR",
+                    "providers": "Netflix",
+                    "slug_id": "super-crooks",
+                    "studio": "BONES",
+                    "tmdb_id": "127599",
+                    "tmdb_rating": "6.8",
+                    "tmdb_type": "tv",
+                    "tmdb_votes": "25",
+                    "totalepisodes": "13",
+                    "totalseasons": "1",
+                    "trakt_id": "182181",
+                    "tvdb_id": "402834",
+                    "widget": "Top 10 Jap anime 2021"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": 13,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f3DboDz3BRyrP7GkgodEfMz1TTSx.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=seasons&tmdb_type=tv&tmdb_id=127599",
+                "filetype": "directory",
+                "firstaired": "",
+                "genre": [
+                    "Animation",
+                    "Crime",
+                    "Science-Fiction & Fantastique",
+                    "Action & Adventure"
+                ],
+                "imdbnumber": "",
+                "label": "Super Crooks",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "x-directory/normal",
+                "mpaa": "",
+                "originaltitle": "\u30b9\u30fc\u30d1\u30fc\u30fb\u30af\u30eb\u30c3\u30af\u30b9",
+                "playcount": 0,
+                "plot": "Johnny Bolt recrute un groupe de crapules pour un dernier casse. La cible : un impitoyable baron du crime dot\u00e9 de super-pouvoirs. Tout devrait bien se passer...",
+                "plotoutline": "",
+                "premiered": "2021-11-25",
+                "productioncode": "",
+                "rating": 6.800000190734863,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 1440,
+                "season": 1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "Super Crooks",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Netflix",
+                    "BONES",
+                    "Voltage Unlimited"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Super Crooks",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=qOCFaeaJVDQ",
+                "tvshowid": -1,
+                "type": "tvshow",
+                "uniqueid": {
+                    "imdb": "tt14272628",
+                    "slug": "super-crooks",
+                    "tmdb": "127599",
+                    "trakt": "182181",
+                    "tvdb": "402834"
+                },
+                "votes": "25",
+                "watchedepisodes": 0,
+                "writer": [
+                    "Dai Sato",
+                    "Mark Millar",
+                    "Leinil Yu"
+                ],
+                "year": 2021
+            },
+            {
+                "album": "",
+                "art": {
+                    "banner": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f388006%2ftvbanner%2fthe-hidden-dungeon-only-i-can-enter-60e6a426bee59.jpg/",
+                    "characterart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f388006%2fcharacterart%2fthe-hidden-dungeon-only-i-can-enter-5f8d5224d6b07.png/",
+                    "clearart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f388006%2fhdclearart%2fthe-hidden-dungeon-only-i-can-enter-603917c5caa1d.png/",
+                    "clearlogo": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f388006%2fhdtvlogo%2fthe-hidden-dungeon-only-i-can-enter-60e69e2099a50.png/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f3g7XI4IuwGiXipyBbreJDpc0fwN.jpg/",
+                    "fanart1": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f388006%2fshowbackground%2fthe-hidden-dungeon-only-i-can-enter-60e69e980db29.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f3VNinMIgdqOoldpd5MBmul74wN8.jpg/",
+                    "landscape": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2ftv%2f388006%2ftvthumb%2fthe-hidden-dungeon-only-i-can-enter-60e6a8301ab83.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f3VNinMIgdqOoldpd5MBmul74wN8.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Ryota Osaka",
+                        "order": 0,
+                        "role": "Noir (voice)"
+                    },
+                    {
+                        "name": "Miyu Tomita",
+                        "order": 1,
+                        "role": "Emma (voice)"
+                    },
+                    {
+                        "name": "Rumi Okubo",
+                        "order": 2,
+                        "role": "Lola (voice)"
+                    },
+                    {
+                        "name": "Yui Horie",
+                        "order": 3,
+                        "role": "Olivia (voice)"
+                    },
+                    {
+                        "name": "Akari Kito",
+                        "order": 4,
+                        "role": "Luna (voice)"
+                    },
+                    {
+                        "name": "Yuki  Nagano",
+                        "order": 5,
+                        "role": "Alice (voice)"
+                    }
+                ],
+                "country": [
+                    "JP",
+                    "Japan"
+                ],
+                "customproperties": {
+                    "cast": "Ryota Osaka / Miyu Tomita / Rumi Okubo / Yui Horie / Akari Kito / Yuki  Nagano",
+                    "contextmenuaction(0)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=tv,tmdb_id=103157)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=tv,tmdb_id=103157)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=tv,tmdb_id=103157)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=tv,tmdb_id=103157)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=tv,tmdb_id=103157)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(4)": "$LOCALIZE[20444]",
+                    "dbtype": "tvshow",
+                    "imdb_id": "tt12728856",
+                    "item.info": "seasons",
+                    "item.tmdb_id": "103157",
+                    "item.tmdb_type": "tv",
+                    "item.type": "tv",
+                    "last_aired": "26/03/2021",
+                    "last_aired.day": "Friday",
+                    "last_aired.day_short": "Fri",
+                    "last_aired.episode": "12",
+                    "last_aired.long": "Friday 26 March 2021",
+                    "last_aired.name": "La bataille \u00e0 gagner",
+                    "last_aired.original": "2021-03-26",
+                    "last_aired.plot": "Noir utilise pour la premi\u00e8re fois la capacit\u00e9 Sacrifice, mais cette derni\u00e8re n'est pas de taille face aux Fers mortels. Heureusement qu'il peut compter sur ses amies pour mener cette bataille qu'il tient plus que tout \u00e0 remporter pour son ma\u00eetre Olivia.",
+                    "last_aired.rating": "7.5",
+                    "last_aired.season": "1",
+                    "last_aired.short": "26 Mar",
+                    "last_aired.thumb": "https://image.tmdb.org/t/p/original/hJ8ltIlBLJ9wbRFzrkwDDru9ilS.jpg",
+                    "last_aired.tmdb_id": "2614575",
+                    "last_aired.votes": "2",
+                    "last_aired.year": "2021",
+                    "network": "MBS",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Top 10 Jap anime 2021",
+                    "param.list_slug": "top-10-jap-anime-2021",
+                    "param.plugin_category": "Top 10 Jap anime 2021",
+                    "param.user_slug": "didibz",
+                    "param.widget": "True",
+                    "popularity": "50.716",
+                    "provider.link": "https://www.themoviedb.org/tv/103157/watch?locale=FR",
+                    "providers": "Crunchyroll",
+                    "slug_id": "the-hidden-dungeon-only-i-can-enter",
+                    "studio": "Okuruto Noboru",
+                    "tmdb_id": "103157",
+                    "tmdb_rating": "8.1",
+                    "tmdb_type": "tv",
+                    "tmdb_votes": "374",
+                    "totalepisodes": "12",
+                    "totalseasons": "1",
+                    "trakt_id": "167287",
+                    "tvdb_id": "388006",
+                    "widget": "Top 10 Jap anime 2021"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": 12,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f3g7XI4IuwGiXipyBbreJDpc0fwN.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=seasons&tmdb_type=tv&tmdb_id=103157",
+                "filetype": "directory",
+                "firstaired": "",
+                "genre": [
+                    "Animation",
+                    "Com\u00e9die",
+                    "Action & Adventure",
+                    "Science-Fiction & Fantastique"
+                ],
+                "imdbnumber": "",
+                "label": "The Hidden Dungeon Only I Can Enter",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "x-directory/normal",
+                "mpaa": "",
+                "originaltitle": "\u4ffa\u3060\u3051\u5165\u308c\u308b\u96a0\u3057\u30c0\u30f3\u30b8\u30e7\u30f3 \uff5e\u3053\u3063\u305d\u308a\u935b\u3048\u3066\u4e16\u754c\u6700\u5f37\uff5e",
+                "playcount": 0,
+                "plot": "Une l\u00e9gende raconte qu'il existe un donjon cach\u00e9 renfermant des tr\u00e9sors et des objets rares. Troisi\u00e8me fils d'une famille noble ayant \u00e9t\u00e9 ruin\u00e9e, Noir a aussi perdu son travail. Il acquiert alors une comp\u00e9tence lui permettant de cr\u00e9er, d'attribuer et de modifier d'autres comp\u00e9tences. Pour l'utiliser, il doit accumuler des points en effectuant des t\u00e2ches telles que manger des repas d\u00e9licieux ou s\u00e9duire de jolies filles\u2026",
+                "plotoutline": "",
+                "premiered": "2021-01-08",
+                "productioncode": "",
+                "rating": 8.100000381469727,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 1440,
+                "season": 1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "The Hidden Dungeon Only I Can Enter",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "MBS",
+                    "Okuruto Noboru"
+                ],
+                "tag": [],
+                "tagline": "The Hidden Dungeon Only I Can Enter",
+                "thumbnail": "",
+                "title": "The Hidden Dungeon Only I Can Enter",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=UOAywWzUc2k",
+                "tvshowid": -1,
+                "type": "tvshow",
+                "uniqueid": {
+                    "imdb": "tt12728856",
+                    "slug": "the-hidden-dungeon-only-i-can-enter",
+                    "tmdb": "103157",
+                    "trakt": "167287",
+                    "tvdb": "388006"
+                },
+                "votes": "374",
+                "watchedepisodes": 0,
+                "writer": [
+                    "Kenta Ihara",
+                    "Seto Meguru",
+                    "Tooru Kitahata"
+                ],
+                "year": 2021
+            }
+        ],
+        "limits": {
+            "end": 10,
+            "start": 0,
+            "total": 10
+        }
+    }
+}

@@ -1,0 +1,2426 @@
+{
+    "id": 1,
+    "jsonrpc": "2.0",
+    "result": {
+        "files": [
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fAtPSPpS62Os0oEkh8uHeZJDg7r8.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fAq0rBVhfWLMJShDSjqoV4FX9b1c.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fAq0rBVhfWLMJShDSjqoV4FX9b1c.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Meat Loaf",
+                        "order": 0,
+                        "role": "Himself",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f7gKLR1u46OB8WJ6m06LemNBCMx6.jpg/"
+                    }
+                ],
+                "country": [],
+                "customproperties": {
+                    "available_releases": "Theatrical",
+                    "budget": "$120",
+                    "cast": "Meat Loaf",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=228098&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=228098)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=228098)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=228098)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=228098)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=228098)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Meat Loaf - Guilty Pleasure Tour Live from Sydney,tmdb_type=movie,tmdb_id=228098)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "dbtype": "movie",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "228098",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.page": "2",
+                    "param.plugin_category": "Concerts",
+                    "param.reload": "$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]",
+                    "param.user_slug": "ukpommy",
+                    "param.widget": "true",
+                    "popularity": "0.6",
+                    "provider.link": "https://www.themoviedb.org/movie/228098-meat-loaf-guilty-pleasure-tour-live-from-sydney/watch?locale=US",
+                    "providers": "Amazon Video / Tubi TV / Plex",
+                    "revenue": "$0",
+                    "slug_id": "meat-loaf-guilty-pleasure-tour-live-from-sydney-2012",
+                    "theatrical_release": "2012-11-06",
+                    "tmdb_id": "228098",
+                    "tmdb_rating": "8.7",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "3",
+                    "trakt_id": "139410",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Meat Loaf"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fAtPSPpS62Os0oEkh8uHeZJDg7r8.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=228098",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Music",
+                    "Documentary"
+                ],
+                "imdbnumber": "",
+                "label": "Meat Loaf - Guilty Pleasure Tour Live from Sydney",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "Rated NR",
+                "originaltitle": "Meat Loaf - Guilty Pleasure Tour Live from Sydney",
+                "playcount": 0,
+                "plot": "64-year-old Meat Loaf hits the stage in Sydney accompanied by an army of HD cameras filming what he announced to fans would be one of his final trips to perform in Australia/New Zealand.  The Set-list:  Hot Patootie - Bless My Soul/Time Warp  If It Ain't Broke, Break It  Bat Out of Hell  Peace on Earth  Living on the Outside  Los Angeloser  You Took the Words Right Out of My Mouth (Hot Summer Night)  Rock and Roll Dreams Come Through  Stand in the Storm  I'd Do Anything for Love (But I Won't Do That)  Two Out of Three Ain't Bad  Paradise by the Dashboard Light  Boneyard/Freebird/All Revved Up medley  Mercury Blues  +a 30-minute documentary offering a backstage look at Meat in preparation for taking the stage",
+                "plotoutline": "",
+                "premiered": "2012-11-06",
+                "productioncode": "",
+                "rating": 8.699999809265137,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 7440,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Meat Loaf - Guilty Pleasure Tour Live from Sydney",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "slug": "meat-loaf-guilty-pleasure-tour-live-from-sydney-2012",
+                    "tmdb": "228098",
+                    "trakt": "139410"
+                },
+                "userrating": 0,
+                "votes": "3",
+                "writer": [],
+                "year": 2012
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f1mXTYiWlOWYRZuvTzNJs9Hn86cG.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f8IbeFZSxaNWWORpzl01aCx29PlQ.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f8IbeFZSxaNWWORpzl01aCx29PlQ.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Meat Loaf",
+                        "order": 0,
+                        "role": "Himself - Artist",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f7gKLR1u46OB8WJ6m06LemNBCMx6.jpg/"
+                    },
+                    {
+                        "name": "Patti Russo",
+                        "order": 1,
+                        "role": "Herself - Lead Female Vocals",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f7Cv6EXgELnsuMI9uFz1aJOfeN5O.jpg/"
+                    },
+                    {
+                        "name": "Kasim Sulton",
+                        "order": 2,
+                        "role": "Himself - Bass Guitar/Music Director"
+                    },
+                    {
+                        "name": "John Miceli",
+                        "order": 3,
+                        "role": "Himself - Drummer",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fguyB1c8bxdP7oWzfvJ9vXMU3CjH.jpg/"
+                    },
+                    {
+                        "name": "Mark Alexander",
+                        "order": 4,
+                        "role": "Himself - Keyboards",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fiAcJ32T7jEG0ItvTKAOIAuyGQIZ.jpg/"
+                    },
+                    {
+                        "name": "Paul Crook",
+                        "order": 5,
+                        "role": "Himself - Guitar"
+                    },
+                    {
+                        "name": "Randy Flowers",
+                        "order": 6,
+                        "role": "Himself - Guitar / Keyboards",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fyBxA93AiTMik46Cc40x5Xr4oG16.jpg/"
+                    },
+                    {
+                        "name": "Carolyn Coletti",
+                        "order": 7,
+                        "role": "Herself - Backing Vocals (as CC)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f9GRhWzYlBGD1ELQeKY0IgWQPkjQ.jpg/"
+                    },
+                    {
+                        "name": "Keith Levenson",
+                        "order": 8,
+                        "role": "Himself - Conductor",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fyRm77rZ13BhsTkgjGrQsIdnK0dp.jpg/"
+                    }
+                ],
+                "country": [],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Meat Loaf / Patti Russo / Kasim Sulton / John Miceli / Mark Alexander / Paul Crook / Randy Flowers / Carolyn Coletti / Keith Levenson",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=64247&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=64247)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=64247)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=64247)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=64247)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=64247)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Meat Loaf: Live with the Melbourne Symphony Orchestra,tmdb_type=movie,tmdb_id=64247)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt0437327",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "64247",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.page": "2",
+                    "param.plugin_category": "Concerts",
+                    "param.reload": "$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]",
+                    "param.user_slug": "ukpommy",
+                    "param.widget": "true",
+                    "popularity": "0.783",
+                    "revenue": "$0",
+                    "slug_id": "meat-loaf-live-with-the-melbourne-symphony-orchestra-2004",
+                    "tmdb_id": "64247",
+                    "tmdb_rating": "6.6",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "4",
+                    "trakt_id": "46375",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Michael Simon"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f1mXTYiWlOWYRZuvTzNJs9Hn86cG.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=64247",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Music"
+                ],
+                "imdbnumber": "tt0437327",
+                "label": "Meat Loaf: Live with the Melbourne Symphony Orchestra",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Meat Loaf - Live with the Melbourne Symphony Orchestra",
+                "playcount": 0,
+                "plot": "Recorded Live in Melbourne, Australia with the Melbourne Symphony Orchestra February 20 & 22, 2004.",
+                "plotoutline": "",
+                "premiered": "2004-10-18",
+                "productioncode": "",
+                "rating": 6.599999904632568,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 8700,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Meat Loaf: Live with the Melbourne Symphony Orchestra",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt0437327",
+                    "slug": "meat-loaf-live-with-the-melbourne-symphony-orchestra-2004",
+                    "tmdb": "64247",
+                    "trakt": "46375",
+                    "unknown": "tt0437327"
+                },
+                "userrating": 0,
+                "votes": "4",
+                "writer": [],
+                "year": 2004
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fmfn0SNexlDiJXj87t3M52buftWs.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ffKiI5qwr1hv6MDvf9Ucq3IFvjrR.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ffKiI5qwr1hv6MDvf9Ucq3IFvjrR.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Shane Filan",
+                        "order": 0,
+                        "role": "Himself",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2frD46XTz1NtzKxJrbdiAYqbm4qCX.jpg/"
+                    },
+                    {
+                        "name": "Mark Feehily",
+                        "order": 1,
+                        "role": "Himself",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fhyFjPQY5yw2pxKrXL3f7X0VtlTn.jpg/"
+                    },
+                    {
+                        "name": "Kian Egan",
+                        "order": 2,
+                        "role": "Himself",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f1YrdVFHBF705G4gz5q3ig6dzVgQ.jpg/"
+                    },
+                    {
+                        "name": "Nicky Byrne",
+                        "order": 3,
+                        "role": "Himself",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f8AdjkcLr3CuDA14DlFxzChGeih2.jpg/"
+                    }
+                ],
+                "country": [
+                    "United Kingdom"
+                ],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Shane Filan / Mark Feehily / Kian Egan / Nicky Byrne",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=147315&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=147315)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=147315)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=147315)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=147315)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=147315)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Westlife: The Farewell Tour Live at Croke Park,tmdb_type=movie,tmdb_id=147315)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt4699462",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "147315",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.page": "2",
+                    "param.plugin_category": "Concerts",
+                    "param.reload": "$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]",
+                    "param.user_slug": "ukpommy",
+                    "param.widget": "true",
+                    "popularity": "1.466",
+                    "revenue": "$0",
+                    "slug_id": "westlife-the-farewell-tour-live-at-croke-park-2012",
+                    "studio": "Nineteen Fifteen Productions",
+                    "tmdb_id": "147315",
+                    "tmdb_rating": "9.5",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "2",
+                    "trakt_id": "97375",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Maurice Linnane"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fmfn0SNexlDiJXj87t3M52buftWs.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=147315",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Music"
+                ],
+                "imdbnumber": "tt4699462",
+                "label": "Westlife: The Farewell Tour Live at Croke Park",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Westlife: The Farewell Tour Live at Croke Park",
+                "playcount": 0,
+                "plot": "One of the most successful bands of all time, Westlife have had 14 number one singles, more than 20 top 10 hits and have sold a staggering 45 million albums during their 14 year career.  In 2012 Westlife embark on what will be their final tour together. Over a three month period The Farewell Tour travels to more than 100 venues worldwide culminating in a spectacular homecoming concert to 85,000 fans at Croke Park Stadium in Dublin..  Essential for all Westlife fans, this DVD captures this once in a lifetime moment recorded at their final concert at Croke Park and invites fans to join Shane, Mark, Kian and Nicky for an epic music event and unforgettable farewell.",
+                "plotoutline": "",
+                "premiered": "2012-11-19",
+                "productioncode": "",
+                "rating": 9.5,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 7620,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Nineteen Fifteen Productions",
+                    "Longgrass Productions"
+                ],
+                "tag": [],
+                "tagline": "This DVD will be a great memory for all Westlife fans!",
+                "thumbnail": "",
+                "title": "Westlife: The Farewell Tour Live at Croke Park",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt4699462",
+                    "slug": "westlife-the-farewell-tour-live-at-croke-park-2012",
+                    "tmdb": "147315",
+                    "trakt": "97375",
+                    "unknown": "tt4699462"
+                },
+                "userrating": 0,
+                "votes": "2",
+                "writer": [],
+                "year": 2012
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f71jft7p3jnqrFTizptt5dbTK3gh.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fwC3qjKzQTZ5yHEkTTyjsoRS0gir.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fwC3qjKzQTZ5yHEkTTyjsoRS0gir.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Harry Styles",
+                        "order": 0,
+                        "role": "Himself",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f84IKkPy5udiiMpXgYIC6Q1jB5WE.jpg/"
+                    },
+                    {
+                        "name": "Niall Horan",
+                        "order": 1,
+                        "role": "Himself",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fuNTmtPViI8UNTlS1u46RlgpoOZy.jpg/"
+                    },
+                    {
+                        "name": "Zayn Malik",
+                        "order": 2,
+                        "role": "Himself",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fnzCk09tN15NOMpKPoCwegcJnx3j.jpg/"
+                    },
+                    {
+                        "name": "Louis Tomlinson",
+                        "order": 3,
+                        "role": "Himself",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fgnw3BXDU9eE6DYcmCUM0nXCt7xu.jpg/"
+                    },
+                    {
+                        "name": "Liam Payne",
+                        "order": 4,
+                        "role": "Himself",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fqEcguZf134qEvshZRzAcfChll7c.jpg/"
+                    }
+                ],
+                "country": [
+                    "Italy",
+                    "United Kingdom"
+                ],
+                "customproperties": {
+                    "available_releases": "Theatrical",
+                    "budget": "$0",
+                    "cast": "Harry Styles / Niall Horan / Zayn Malik / Louis Tomlinson / Liam Payne",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=283559&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=283559)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=283559)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=283559)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=283559)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=283559)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=One Direction: Where We Are \u2013 The Concert Film,tmdb_type=movie,tmdb_id=283559)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt3785068",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "283559",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.page": "2",
+                    "param.plugin_category": "Concerts",
+                    "param.reload": "$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]",
+                    "param.user_slug": "ukpommy",
+                    "param.widget": "true",
+                    "popularity": "7.628",
+                    "provider.link": "https://www.themoviedb.org/movie/283559-one-direction-where-we-are-the-concert-film/watch?locale=US",
+                    "providers": "Apple iTunes / Vudu / AMC on Demand",
+                    "revenue": "$15",
+                    "slug_id": "one-direction-where-we-are-the-concert-film-2014",
+                    "studio": "Sony Music Entertainment",
+                    "theatrical_release": "2014-10-11",
+                    "tmdb_id": "283559",
+                    "tmdb_rating": "8.5",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "155",
+                    "trakt_id": "180841",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Paul Dugdale"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f71jft7p3jnqrFTizptt5dbTK3gh.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=283559",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Documentary",
+                    "Music"
+                ],
+                "imdbnumber": "tt3785068",
+                "label": "One Direction: Where We Are \u2013 The Concert Film",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "Rated PG",
+                "originaltitle": "One Direction: Where We Are \u2013 The Concert Film",
+                "playcount": 0,
+                "plot": "Where We Are: Live from San Siro Stadium features the entire 23 track concert filmed at San Siro Stadium in Milan in June 2014, as well as 24 minutes of bonus content including backstage footage of One Direction and their crew.",
+                "plotoutline": "",
+                "premiered": "2014-10-08",
+                "productioncode": "",
+                "rating": 8.519000053405762,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 6360,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Sony Music Entertainment",
+                    "Fulwell 73",
+                    "Arts Alliance",
+                    "Syco Entertainment"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "One Direction: Where We Are \u2013 The Concert Film",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt3785068",
+                    "slug": "one-direction-where-we-are-the-concert-film-2014",
+                    "tmdb": "283559",
+                    "trakt": "180841",
+                    "unknown": "tt3785068"
+                },
+                "userrating": 0,
+                "votes": "155",
+                "writer": [],
+                "year": 2014
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fhap3jF8lbL4rDNPz5R03WZ3PgEv.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fevC6gDZCufGYMkLFTRbDe07UG8N.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fevC6gDZCufGYMkLFTRbDe07UG8N.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Louis Tomlinson",
+                        "order": 0,
+                        "role": "Himself - Vocals",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fgnw3BXDU9eE6DYcmCUM0nXCt7xu.jpg/"
+                    },
+                    {
+                        "name": "Niall Horan",
+                        "order": 1,
+                        "role": "Himself - Vocals, Guitar",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fuNTmtPViI8UNTlS1u46RlgpoOZy.jpg/"
+                    },
+                    {
+                        "name": "Liam Payne",
+                        "order": 2,
+                        "role": "Himself - Vocals",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fqEcguZf134qEvshZRzAcfChll7c.jpg/"
+                    },
+                    {
+                        "name": "Harry Styles",
+                        "order": 3,
+                        "role": "Himself - Vocals",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f84IKkPy5udiiMpXgYIC6Q1jB5WE.jpg/"
+                    },
+                    {
+                        "name": "Zayn Malik",
+                        "order": 4,
+                        "role": "Himself - Vocals",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fnzCk09tN15NOMpKPoCwegcJnx3j.jpg/"
+                    },
+                    {
+                        "name": "Josh Devine",
+                        "order": 5,
+                        "role": "Himself - Drums"
+                    },
+                    {
+                        "name": "Abbes Zahmani",
+                        "order": 6,
+                        "role": "Himself - Vocals",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fhMhnkowqeIXu1De3pjIvAIFlorY.jpg/"
+                    },
+                    {
+                        "name": "Dan Richards",
+                        "order": 7,
+                        "role": "Himself - Guitar",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ft2FbC7SON2eln4CLT1w0XeRQd8Q.jpg/"
+                    },
+                    {
+                        "name": "Jon Shone",
+                        "order": 8,
+                        "role": "Himself - Music Director, Keyboards"
+                    },
+                    {
+                        "name": "Sandy Beales",
+                        "order": 9,
+                        "role": "Himself - Bass Guitar"
+                    }
+                ],
+                "country": [
+                    "United Kingdom"
+                ],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Louis Tomlinson / Niall Horan / Liam Payne / Harry Styles / Zayn Malik / Josh Devine / Abbes Zahmani / Dan Richards / Jon Shone / Sandy Beales",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=111349&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=111349)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=111349)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=111349)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=111349)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=111349)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=One Direction: Up All Night - The Live Tour,tmdb_type=movie,tmdb_id=111349)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt2178476",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "111349",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.page": "2",
+                    "param.plugin_category": "Concerts",
+                    "param.reload": "$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]",
+                    "param.user_slug": "ukpommy",
+                    "param.widget": "true",
+                    "popularity": "6.186",
+                    "provider.link": "https://www.themoviedb.org/movie/111349-one-direction-up-all-night-the-live-tour/watch?locale=US",
+                    "providers": "Apple iTunes / Google Play Movies / YouTube / Microsoft Store",
+                    "revenue": "$0",
+                    "slug_id": "one-direction-up-all-night-the-live-tour-2012",
+                    "tmdb_id": "111349",
+                    "tmdb_rating": "8.2",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "67",
+                    "trakt_id": "78408",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Andy Saunders"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fhap3jF8lbL4rDNPz5R03WZ3PgEv.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=111349",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Music",
+                    "Documentary"
+                ],
+                "imdbnumber": "tt2178476",
+                "label": "One Direction: Up All Night - The Live Tour",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "One Direction: Up All Night - The Live Tour",
+                "playcount": 0,
+                "plot": "Up All Night: The Live Tour is a DVD release from the British-Irish boy band One Direction, which was released on 28 May 2012. The video concert DVD was recorded as part of One Direction's Up All Night Tour at the International Centre in Bournemouth, includes songs from their multi-platinum debut album Up All Night and five covers, including \"I Gotta Feeling\", \"Stereo Hearts\", \"Valerie\", \"Torn\" and \"Use Somebody\".",
+                "plotoutline": "",
+                "premiered": "2012-05-16",
+                "productioncode": "",
+                "rating": 8.199999809265137,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 4380,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "One Direction: Up All Night - The Live Tour",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt2178476",
+                    "slug": "one-direction-up-all-night-the-live-tour-2012",
+                    "tmdb": "111349",
+                    "trakt": "78408",
+                    "unknown": "tt2178476"
+                },
+                "userrating": 0,
+                "votes": "67",
+                "writer": [],
+                "year": 2012
+            },
+            {
+                "album": "",
+                "art": {
+                    "icon": "image://C%3a%5cKodiTest%5ckodi%2020%20testu2p%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fdefault.png/"
+                },
+                "artist": [],
+                "cast": [],
+                "country": [],
+                "customproperties": {
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=260534&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=260534)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=260534)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=260534)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=260534)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=260534)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Lionel Richie: Live In Paris,tmdb_type=movie,tmdb_id=260534)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "imdb_id": "tt1079149",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "260534",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.page": "2",
+                    "param.plugin_category": "Concerts",
+                    "param.reload": "$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]",
+                    "param.user_slug": "ukpommy",
+                    "param.widget": "true",
+                    "slug_id": "lionel-richie-live-in-paris-2007",
+                    "tmdb_id": "260534",
+                    "tmdb_type": "movie",
+                    "trakt_id": "159645",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=260534",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [],
+                "imdbnumber": "",
+                "label": "[COLOR=ffcc0000][I]Lionel Richie: Live In Paris[/I][/COLOR]",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "",
+                "plotoutline": "",
+                "premiered": "",
+                "productioncode": "",
+                "rating": 0.0,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 0,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Lionel Richie: Live In Paris",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt1079149",
+                    "slug": "lionel-richie-live-in-paris-2007",
+                    "tmdb": "260534",
+                    "trakt": "159645"
+                },
+                "userrating": 0,
+                "votes": "0",
+                "writer": [],
+                "year": 2007
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2faKDCGY0tf47TbksXv0jDnjYUmXM.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2feQmH9lFsWlFElKfGWMqJGKkQSnW.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2feQmH9lFsWlFElKfGWMqJGKkQSnW.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Lionel Richie",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ffths3YsxhPuPw6NCKOdUjqKCtZa.jpg/"
+                    },
+                    {
+                        "name": "Candy Dulfer",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Trijntje Oosterhuis",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fjhyF4bT0wVmRerwSpcMiVGLlALj.jpg/"
+                    },
+                    {
+                        "name": "Alain Clark",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f9mFFmuzN5J46mreBywje3z1YiPT.jpg/"
+                    }
+                ],
+                "country": [
+                    "Netherlands"
+                ],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Lionel Richie / Candy Dulfer / Trijntje Oosterhuis / Alain Clark",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=71199&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=71199)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=71199)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=71199)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=71199)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=71199)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Lionel Richie: Symphonica in Rosso,tmdb_type=movie,tmdb_id=71199)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "dbtype": "movie",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "71199",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.page": "2",
+                    "param.plugin_category": "Concerts",
+                    "param.reload": "$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]",
+                    "param.user_slug": "ukpommy",
+                    "param.widget": "true",
+                    "popularity": "1.4",
+                    "revenue": "$0",
+                    "slug_id": "lionel-richie-symphonica-in-rosso-2008",
+                    "studio": "Universal Music Group",
+                    "tmdb_id": "71199",
+                    "tmdb_rating": "6.9",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "4",
+                    "trakt_id": "52209",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2faKDCGY0tf47TbksXv0jDnjYUmXM.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=71199",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Music"
+                ],
+                "imdbnumber": "",
+                "label": "Lionel Richie: Symphonica in Rosso",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Lionel Richie: Symphonica in Rosso",
+                "playcount": 0,
+                "plot": "Lionel Richie, live from the Arnhem Gelredome\u200f on September 10, 2008. Featuring special guests Candy Dulfer, Alain Clark, Trijntje Oosterhuis and Guido's Orchestra",
+                "plotoutline": "",
+                "premiered": "2008-12-08",
+                "productioncode": "",
+                "rating": 6.900000095367432,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 0,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Universal Music Group"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Lionel Richie: Symphonica in Rosso",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=sTcueR2AYyI",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "slug": "lionel-richie-symphonica-in-rosso-2008",
+                    "tmdb": "71199",
+                    "trakt": "52209"
+                },
+                "userrating": 0,
+                "votes": "4",
+                "writer": [],
+                "year": 2008
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fxPvqWZUzPPj6OJkDvBXOdKTYrNw.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f23JoID07399c5haE7Tki4aF0mcH.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f23JoID07399c5haE7Tki4aF0mcH.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Elton John",
+                        "order": 0,
+                        "role": "Piano, vocals",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f9G3k29OWPyZtScEDZEAsFJpqiM7.jpg/"
+                    },
+                    {
+                        "name": "Nigel Olsson",
+                        "order": 1,
+                        "role": "Drums, vocals",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fiUoEwB6z1OQposivZqkkKvaXyY6.jpg/"
+                    },
+                    {
+                        "name": "Davey Johnstone",
+                        "order": 2,
+                        "role": "Guitars, vocals",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f3kqpJTEOjSTwggMDLlOdjGzncD4.jpg/"
+                    },
+                    {
+                        "name": "Bob Birch",
+                        "order": 3,
+                        "role": "Bass, vocals"
+                    },
+                    {
+                        "name": "Kim Bullard",
+                        "order": 4,
+                        "role": "Keyboards",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2foDPp75UqkzvvUOMO46jbvCbfNJC.jpg/"
+                    },
+                    {
+                        "name": "Ray Cooper",
+                        "order": 5,
+                        "role": "Percussion",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fwsjvdiNio4pHaC3wzwZ4K2wihaG.jpg/"
+                    },
+                    {
+                        "name": "John Mahon",
+                        "order": 6,
+                        "role": "Drums, percussion, horns / Percussion; Vocals"
+                    },
+                    {
+                        "name": "Stjepan Hauser",
+                        "order": 7,
+                        "role": "Cello"
+                    },
+                    {
+                        "name": "Luca Sulic",
+                        "order": 8,
+                        "role": "Cello"
+                    },
+                    {
+                        "name": "Tata Vega",
+                        "order": 9,
+                        "role": "Backing vocals",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f9SdaK2vly0Gx5yvI5rrTszh31vt.jpg/"
+                    },
+                    {
+                        "name": "Rose Stone",
+                        "order": 10,
+                        "role": "Backing vocals"
+                    },
+                    {
+                        "name": "Jean Witherspoon",
+                        "order": 11,
+                        "role": "Backing vocals"
+                    },
+                    {
+                        "name": "Lisa Stone",
+                        "order": 12,
+                        "role": "Backing vocals"
+                    }
+                ],
+                "country": [
+                    "United States of America"
+                ],
+                "customproperties": {
+                    "available_releases": "Theatrical",
+                    "budget": "$0",
+                    "cast": "Elton John / Nigel Olsson / Davey Johnstone / Bob Birch / Kim Bullard / Ray Cooper / John Mahon / Stjepan Hauser / Luca Sulic / Tata Vega / Rose Stone / Jean Witherspoon / Lisa Stone",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=280390&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=280390)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=280390)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=280390)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=280390)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=280390)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Elton John - The Million Dollar Piano,tmdb_type=movie,tmdb_id=280390)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt4238844",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "280390",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.page": "2",
+                    "param.plugin_category": "Concerts",
+                    "param.reload": "$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]",
+                    "param.user_slug": "ukpommy",
+                    "param.widget": "true",
+                    "popularity": "2.275",
+                    "provider.link": "https://www.themoviedb.org/movie/280390-elton-john-the-million-dollar-piano/watch?locale=US",
+                    "providers": "Apple iTunes / Amazon Video / Google Play Movies / YouTube",
+                    "revenue": "$0",
+                    "slug_id": "elton-john-the-million-dollar-piano-2014",
+                    "studio": "Eagle Rock Entertainment",
+                    "theatrical_release": "2014-07-01",
+                    "tmdb_id": "280390",
+                    "tmdb_rating": "5.9",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "4",
+                    "trakt_id": "177867",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Chris Gero"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fxPvqWZUzPPj6OJkDvBXOdKTYrNw.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=280390",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Music"
+                ],
+                "imdbnumber": "tt4238844",
+                "label": "Elton John - The Million Dollar Piano",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Elton John - The Million Dollar Piano",
+                "playcount": 0,
+                "plot": "Elton John's 'The Million Dollar Piano' is a residency at The Colosseum at Caesars Palace in Las Vegas. The show has been running since September 2011 with the most recent leg being 16 shows between March 29 and April 26 2014. The concerts are the culmination of Elton John's decades long partnership with Yamaha pianos. This film features classic Elton John tracks from across his extraordinary career performed either with his band, with percussionist Ray Cooper or solo. The multimedia staging is extraordinary with vast screens behind the stage illustrating the songs, and the piano itself acting as a screen for graphics and animations. Elton John is the ultimate live showman and this is the definitive Elton John concert experience.",
+                "plotoutline": "",
+                "premiered": "2014-07-01",
+                "productioncode": "",
+                "rating": 5.900000095367432,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 6660,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Eagle Rock Entertainment"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Elton John - The Million Dollar Piano",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=67zQSuMG6rY",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt4238844",
+                    "slug": "elton-john-the-million-dollar-piano-2014",
+                    "tmdb": "280390",
+                    "trakt": "177867",
+                    "unknown": "tt4238844"
+                },
+                "userrating": 0,
+                "votes": "4",
+                "writer": [],
+                "year": 2014
+            },
+            {
+                "album": "",
+                "art": {
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f96sbYZ1bG5LAcgEB5kH49Eo7u6i.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f96sbYZ1bG5LAcgEB5kH49Eo7u6i.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Elton John",
+                        "order": 0,
+                        "role": "Himself",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f9G3k29OWPyZtScEDZEAsFJpqiM7.jpg/"
+                    },
+                    {
+                        "name": "John Mahon",
+                        "order": 1,
+                        "role": "Self / Percussion / Vocals"
+                    }
+                ],
+                "country": [],
+                "customproperties": {
+                    "available_releases": "Theatrical",
+                    "budget": "$0",
+                    "cast": "Elton John / John Mahon",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=27247&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=27247)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=27247)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=27247)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=27247)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=27247)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Elton John: The Red Piano,tmdb_type=movie,tmdb_id=27247)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt0494223",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "27247",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.page": "2",
+                    "param.plugin_category": "Concerts",
+                    "param.reload": "$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]",
+                    "param.user_slug": "ukpommy",
+                    "param.widget": "true",
+                    "popularity": "0.741",
+                    "revenue": "$0",
+                    "slug_id": "elton-john-the-red-piano-2005",
+                    "theatrical_release": "2005-12-12",
+                    "tmdb_id": "27247",
+                    "tmdb_rating": "7.4",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "4",
+                    "trakt_id": "16700",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=27247",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Music"
+                ],
+                "imdbnumber": "tt0494223",
+                "label": "Elton John: The Red Piano",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Elton John: The Red Piano",
+                "playcount": 0,
+                "plot": "The Bitch is Back, indeed! One of the finest songwriters of the 20th century is well showcased on this DVD. The Red Piano's set list features some of Sir Elton John's best-known crowd pleasers and he delivers each performance with gusto. One can't help but get enraptured by his enthusiasm, and I found myself tapping my toes to a few tunes that I wouldn't even count among my favorites, ie: Benny and the Jets. There's something about seeing the songss performed live that makes them that much more engaging. Vocally, Elton is in excellent form, and though he modifies a few melodies (he doesn't hit the high notes like he used to - he leaves that to his back-up vocalists), his voice sounds rich and full.",
+                "plotoutline": "",
+                "premiered": "2005-12-12",
+                "productioncode": "",
+                "rating": 7.400000095367432,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 5940,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Elton John: The Red Piano",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=VeAiY7MwHvk",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt0494223",
+                    "slug": "elton-john-the-red-piano-2005",
+                    "tmdb": "27247",
+                    "trakt": "16700",
+                    "unknown": "tt0494223"
+                },
+                "userrating": 0,
+                "votes": "4",
+                "writer": [],
+                "year": 2005
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fo6c9L27rgQ46NrY4sl8dfaNeBZb.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fz7a7KV7IA6d6mPfNmm3CDEqg5H9.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fz7a7KV7IA6d6mPfNmm3CDEqg5H9.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Elton John",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f9G3k29OWPyZtScEDZEAsFJpqiM7.jpg/"
+                    },
+                    {
+                        "name": "Anastacia",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f2Vv9fRk8CnG3CKVlejJkw2E0Occ.jpg/"
+                    },
+                    {
+                        "name": "Bryan Adams",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2feuHc6JOhHIGrZCuM7WXn9PQaOtW.jpg/"
+                    },
+                    {
+                        "name": "Mary J. Blige",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fiyDuLxAEXrc67C3dQFEOl6OTfSa.jpg/"
+                    },
+                    {
+                        "name": "Kiki Dee",
+                        "order": 4,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fjytisD7ULWSv4EISYTAIdloUIqM.jpg/"
+                    },
+                    {
+                        "name": "Billy Joel",
+                        "order": 5,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fwXlIKgFnXK2Af6cetw9oF0kGcRc.jpg/"
+                    },
+                    {
+                        "name": "Ronan Keating",
+                        "order": 6,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fv7ofKk5F50zRTjgkvK9A8hzWiKf.jpg/"
+                    }
+                ],
+                "country": [],
+                "customproperties": {
+                    "available_releases": "Theatrical / Theatrical",
+                    "budget": "$0",
+                    "cast": "Elton John / Anastacia / Bryan Adams / Mary J. Blige / Kiki Dee / Billy Joel / Ronan Keating",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=27184&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=27184)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=27184)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=27184)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=27184)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=27184)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Elton John: One Night Only, The Greatest Hits,tmdb_type=movie,tmdb_id=27184)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt0303960",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "27184",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.page": "2",
+                    "param.plugin_category": "Concerts",
+                    "param.reload": "$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]",
+                    "param.user_slug": "ukpommy",
+                    "param.widget": "true",
+                    "popularity": "2.215",
+                    "revenue": "$0",
+                    "slug_id": "elton-john-one-night-only-the-greatest-hits-2000",
+                    "theatrical_release": "2001-01-01",
+                    "tmdb_id": "27184",
+                    "tmdb_rating": "8.0",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "2",
+                    "trakt_id": "16642",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fo6c9L27rgQ46NrY4sl8dfaNeBZb.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=27184",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Music"
+                ],
+                "imdbnumber": "tt0303960",
+                "label": "Elton John: One Night Only, The Greatest Hits",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Elton John: One Night Only, The Greatest Hits",
+                "playcount": 0,
+                "plot": "One of the biggest musical legends in pop music today, Elton John performs one of his most memorable concerts ever at the world famous Madison Square Garden in New York City. This stunningly visual concert special was filmed over two nights in October 2000, and Elton and his band play some of his greatest hits from over four decades, including \"Your Song\", \"Crocodile Rock\", \"Candle In The Wind\" and \"Rocket Man\". Elton also invites some special guests to share the microphone on stage with him, among them Billy Joel, Bryan Adams, Kiki Dee, Mary J. Blige and Anastacia. You've never seen Elton like this before... a \"must see\" and a \"must have\" for any true Elton fan.",
+                "plotoutline": "",
+                "premiered": "2000-10-20",
+                "productioncode": "",
+                "rating": 8.0,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 9000,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Elton John: One Night Only, The Greatest Hits",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt0303960",
+                    "slug": "elton-john-one-night-only-the-greatest-hits-2000",
+                    "tmdb": "27184",
+                    "trakt": "16642",
+                    "unknown": "tt0303960"
+                },
+                "userrating": 0,
+                "votes": "2",
+                "writer": [],
+                "year": 2000
+            },
+            {
+                "album": "",
+                "art": {
+                    "icon": "image://C%3a%5cKodiTest%5ckodi%2020%20testu2p%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fdefault.png/"
+                },
+                "artist": [],
+                "cast": [],
+                "country": [],
+                "customproperties": {
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=57610&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=57610)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=57610)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=57610)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=57610)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=57610)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Elton 60 - Live at Madison Square Garden,tmdb_type=movie,tmdb_id=57610)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "imdb_id": "tt0999889",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "57610",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.page": "2",
+                    "param.plugin_category": "Concerts",
+                    "param.reload": "$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]",
+                    "param.user_slug": "ukpommy",
+                    "param.widget": "true",
+                    "slug_id": "elton-60-live-at-madison-square-garden-2007",
+                    "tmdb_id": "57610",
+                    "tmdb_type": "movie",
+                    "trakt_id": "41145",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=57610",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [],
+                "imdbnumber": "",
+                "label": "[COLOR=ffcc0000][I]Elton 60 - Live at Madison Square Garden[/I][/COLOR]",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "",
+                "plotoutline": "",
+                "premiered": "",
+                "productioncode": "",
+                "rating": 0.0,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 0,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Elton 60 - Live at Madison Square Garden",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt0999889",
+                    "slug": "elton-60-live-at-madison-square-garden-2007",
+                    "tmdb": "57610",
+                    "trakt": "41145"
+                },
+                "userrating": 0,
+                "votes": "0",
+                "writer": [],
+                "year": 2007
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fiYErqBPDfdDi43rcX1SfxiLhKId.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f5VCA3p9IWp8DPs5YMY24CAi1Wo2.jpg/",
+                    "landscape": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f3OueBHPAWxu4wYSKp8v8d80HWnU.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f5VCA3p9IWp8DPs5YMY24CAi1Wo2.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Justin Bieber",
+                        "order": 0,
+                        "role": "Himself",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fmMbpZKhwXGXw87W450kky6z1A26.jpg/"
+                    },
+                    {
+                        "name": "Ryan Good",
+                        "order": 1,
+                        "role": "Himself",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ffn7tyf5i26NOpoKITpE5eAiSKkP.jpg/"
+                    },
+                    {
+                        "name": "Usher",
+                        "order": 2,
+                        "role": "Himself",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f5LGTj79RPTJdBD19E30HtItbx5y.jpg/"
+                    },
+                    {
+                        "name": "Pattie Mallette",
+                        "order": 3,
+                        "role": "Herself",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2foFyKHRzYReDjKjqYRURg3nKrId3.jpg/"
+                    },
+                    {
+                        "name": "Jeremy Bieber",
+                        "order": 4,
+                        "role": "Himself",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2flA7LHUQIkWG64g0gUfiwPq1eiVL.jpg/"
+                    },
+                    {
+                        "name": "Mike Posner",
+                        "order": 5,
+                        "role": "Himself",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fmMASI6PgDlrLs5WKoWx5IU9Miri.jpg/"
+                    },
+                    {
+                        "name": "Max Martin",
+                        "order": 6,
+                        "role": "Self",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fpY1HNi0OwwJ4VMyyzNO7wRBWyOO.jpg/"
+                    },
+                    {
+                        "name": "Will.i.am",
+                        "order": 7,
+                        "role": "Self",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fuQgowLkEJyB5oBm34sqSKTPcZwv.jpg/"
+                    },
+                    {
+                        "name": "Rodney Jerkins",
+                        "order": 8,
+                        "role": "Self",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fonC1Idabw98R5ZUEVXPJJKc6CBT.jpg/"
+                    },
+                    {
+                        "name": "Alfredo Flores",
+                        "order": 9,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Kenny Hamilton",
+                        "order": 10,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Ellen DeGeneres",
+                        "order": 11,
+                        "role": "Self",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fz8IEEid4z63CBlJtxrTKEfsW7NA.jpg/"
+                    },
+                    {
+                        "name": "John Brooks",
+                        "order": 12,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Ryan Seacrest",
+                        "order": 13,
+                        "role": "Self",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f8U9EJAcOkXHdHcrdmF1dhL559uk.jpg/"
+                    },
+                    {
+                        "name": "Kuk Harrell",
+                        "order": 14,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Jon M. Chu",
+                        "order": 15,
+                        "role": "Self",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f7ZszF1IvIq8EoDLEdKLi2zVBt64.jpg/"
+                    },
+                    {
+                        "name": "Nick DeMoura",
+                        "order": 16,
+                        "role": "Self",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f9ZT2VDApip7GxkhYX0JfQlJGyHR.jpg/"
+                    },
+                    {
+                        "name": "Nicki Minaj",
+                        "order": 17,
+                        "role": "Self",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fabRoqdpjyKGlVquw7BzNT7yHO6P.jpg/"
+                    },
+                    {
+                        "name": "Allison Kaye",
+                        "order": 18,
+                        "role": "Self",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fbkMPGafB7ZN5oodinEpoHlgfP62.jpg/"
+                    },
+                    {
+                        "name": "Big Sean",
+                        "order": 19,
+                        "role": "Self",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fkX2FGIRnFqG8cnUKLVpI9MMzGmZ.jpg/"
+                    },
+                    {
+                        "name": "Bruce Dale",
+                        "order": 20,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Zach Galifianakis",
+                        "order": 21,
+                        "role": "Self",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fhghR9AhS8OKsO4ziq5Yf7w2ZguB.jpg/"
+                    },
+                    {
+                        "name": "Matt Lauer",
+                        "order": 22,
+                        "role": "Self",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fvWU4vwj8GR42FbCRcmxrgGfpa9i.jpg/"
+                    },
+                    {
+                        "name": "Miles Brown",
+                        "order": 23,
+                        "role": "Self",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2femQj2h72FGwK5nBOao0yXFFZvHt.jpg/"
+                    },
+                    {
+                        "name": "Ludacris",
+                        "order": 24,
+                        "role": "Self",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ferkJijujhe48vhJ8iCEtVpNEeVn.jpg/"
+                    },
+                    {
+                        "name": "Jaxon Bieber",
+                        "order": 25,
+                        "role": "Self",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f8JcEAszf5w7HXOBGGw6sBtxIjH.jpg/"
+                    },
+                    {
+                        "name": "Jazmyn Bieber",
+                        "order": 26,
+                        "role": "Self",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fdPFfEcgdvCGPwvr9yo8ifZVE5m2.jpg/"
+                    },
+                    {
+                        "name": "Daniel Kanter",
+                        "order": 27,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "DJ Tay James",
+                        "order": 28,
+                        "role": "Self",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ftHrOLt2Ne9mPIZh3eBaBxGjZ4HO.jpg/"
+                    },
+                    {
+                        "name": "Reginald Jones",
+                        "order": 29,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Melvin Baldwin",
+                        "order": 30,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Bernard Harvey",
+                        "order": 31,
+                        "role": "Self",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fqZRDKkxC60d9gF48BKZ2LSpdHAm.jpg/"
+                    },
+                    {
+                        "name": "Michael D. Brown",
+                        "order": 32,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Vernon Burris Jr.",
+                        "order": 33,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Brandon Winbush",
+                        "order": 34,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Laura Edwards",
+                        "order": 35,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Kevin Maher",
+                        "order": 36,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Tucker Barkley",
+                        "order": 37,
+                        "role": "Self",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fze3D2hmO7DpHhZ3LdRJ5a1mRxT8.jpg/"
+                    },
+                    {
+                        "name": "Travis Wall",
+                        "order": 38,
+                        "role": "Self",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fm4pZozfL9vuGXya5QCCKBhiuVPk.jpg/"
+                    },
+                    {
+                        "name": "Teddy Forance",
+                        "order": 39,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Deirdre Barnes",
+                        "order": 40,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Kaili Bright",
+                        "order": 41,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Carlena Britch",
+                        "order": 42,
+                        "role": "Self",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fqVc7VumNeyulQaMab1YnoJxmf4D.jpg/"
+                    },
+                    {
+                        "name": "Luke Broadlick",
+                        "order": 43,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Christina Chandler",
+                        "order": 44,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Justin de Vera",
+                        "order": 45,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Johnny Erasme",
+                        "order": 46,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Shaun Evaristo",
+                        "order": 47,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Salemah Gabriel",
+                        "order": 48,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Elysandra Quinones",
+                        "order": 49,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Jonathan Rabon",
+                        "order": 50,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "C.J. Salvador",
+                        "order": 51,
+                        "role": "Self",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fqSIkG5I5McMLLq5zpkdoNS7jIgC.jpg/"
+                    },
+                    {
+                        "name": "Aubree Storm",
+                        "order": 52,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Jesse 'Casper' Brown",
+                        "order": 53,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Jaime Burgos III",
+                        "order": 54,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Luis Rosado",
+                        "order": 55,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "David Shreibman",
+                        "order": 56,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Vanessa Price",
+                        "order": 57,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Scooter Braun",
+                        "order": 58,
+                        "role": "Himself",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fkjpSj1Z7boL5yazKFLsDrRLuU0E.jpg/"
+                    }
+                ],
+                "country": [
+                    "United States of America"
+                ],
+                "customproperties": {
+                    "available_releases": "Theatrical",
+                    "budget": "$0",
+                    "cast": "Justin Bieber / Ryan Good / Usher / Pattie Mallette / Jeremy Bieber / Mike Posner / Max Martin / Will.i.am / Rodney Jerkins / Alfredo Flores / Kenny Hamilton / Ellen DeGeneres / John Brooks / Ryan Seacrest / Kuk Harrell / Jon M. Chu / Nick DeMoura / Nicki Minaj / Allison Kaye / Big Sean / Bruce Dale / Zach Galifianakis / Matt Lauer / Miles Brown / Ludacris / Jaxon Bieber / Jazmyn Bieber / Daniel Kanter / DJ Tay James / Reginald Jones / Melvin Baldwin / Bernard Harvey / Michael D. Brown / Vernon Burris Jr. / Brandon Winbush / Laura Edwards / Kevin Maher / Tucker Barkley / Travis Wall / Teddy Forance / Deirdre Barnes / Kaili Bright / Carlena Britch / Luke Broadlick / Christina Chandler / Justin de Vera / Johnny Erasme / Shaun Evaristo / Salemah Gabriel / Elysandra Quinones / Jonathan Rabon / C.J. Salvador / Aubree Storm / Jesse 'Casper' Brown / Jaime Burgos III / Luis Rosado / David Shreibman / Vanessa Price / Scooter Braun",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=229296&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=229296)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=229296)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=229296)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=229296)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=229296)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Justin Bieber's Believe,tmdb_type=movie,tmdb_id=229296)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt3165608",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "229296",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.page": "2",
+                    "param.plugin_category": "Concerts",
+                    "param.reload": "$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]",
+                    "param.user_slug": "ukpommy",
+                    "param.widget": "true",
+                    "popularity": "6.556",
+                    "provider.link": "https://www.themoviedb.org/movie/229296-justin-bieber-s-believe/watch?locale=US",
+                    "providers": "Apple iTunes / Amazon Video / Google Play Movies / YouTube / Vudu / Microsoft Store / Redbox / DIRECTV / Spectrum On Demand",
+                    "revenue": "$0",
+                    "slug_id": "justin-bieber-s-believe-2013",
+                    "studio": "Scooter Braun Films",
+                    "theatrical_release": "2013-12-25",
+                    "tmdb_id": "229296",
+                    "tmdb_rating": "7.4",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "183",
+                    "trakt_id": "140034",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Jon M. Chu"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fiYErqBPDfdDi43rcX1SfxiLhKId.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=229296",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Documentary",
+                    "Music"
+                ],
+                "imdbnumber": "tt3165608",
+                "label": "Justin Bieber's Believe",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "Rated PG",
+                "originaltitle": "Justin Bieber's Believe",
+                "playcount": 0,
+                "plot": "A backstage and on-stage look at Justin Bieber during his rise to super stardom.",
+                "plotoutline": "",
+                "premiered": "2013-12-19",
+                "productioncode": "",
+                "rating": 7.400000095367432,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 5520,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Scooter Braun Films",
+                    "Open Road Films",
+                    "Bieber Time Films"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Justin Bieber's Believe",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=c7yWNSHCpeY",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt3165608",
+                    "slug": "justin-bieber-s-believe-2013",
+                    "tmdb": "229296",
+                    "trakt": "140034",
+                    "unknown": "tt3165608"
+                },
+                "userrating": 0,
+                "votes": "183",
+                "writer": [
+                    "Sarah Landman"
+                ],
+                "year": 2013
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fxvP2u31iASeswlGfNl1UbLl7Bln.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f7Ikd4jdFwtqQ98qT9dvW59VaAdp.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f7Ikd4jdFwtqQ98qT9dvW59VaAdp.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Robbie Williams",
+                        "order": 0,
+                        "role": "Himself",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fnVfknSjFcU8qy83K47l7ykLgYdZ.jpg/"
+                    },
+                    {
+                        "name": "Jason Orange",
+                        "order": 1,
+                        "role": "Himself",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fpxMlyJueqxs6y8oufTJiqjS5Lfl.jpg/"
+                    },
+                    {
+                        "name": "Howard Donald",
+                        "order": 2,
+                        "role": "Himself",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2flpoAt0GnoIcPyxi0ICX6G5Dt4wh.jpg/"
+                    },
+                    {
+                        "name": "Mark Owen",
+                        "order": 3,
+                        "role": "Himself",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f4Uk8KXKFN5P0ksgj4kKuOpwQ6Mq.jpg/"
+                    },
+                    {
+                        "name": "Gary Barlow",
+                        "order": 4,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f88Zz8fSBn6QpmIvvaKHsL24cK73.jpg/"
+                    }
+                ],
+                "country": [
+                    "United Kingdom"
+                ],
+                "customproperties": {
+                    "available_releases": "Theatrical",
+                    "budget": "$0",
+                    "cast": "Robbie Williams / Jason Orange / Howard Donald / Mark Owen / Gary Barlow",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=79536&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=79536)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=79536)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=79536)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=79536)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=79536)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Take That: Progress Live,tmdb_type=movie,tmdb_id=79536)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt2166163",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "79536",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.page": "2",
+                    "param.plugin_category": "Concerts",
+                    "param.reload": "$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]",
+                    "param.user_slug": "ukpommy",
+                    "param.widget": "true",
+                    "popularity": "1.764",
+                    "revenue": "$0",
+                    "slug_id": "take-that-progress-live-2011",
+                    "studio": "Universal Home Entertainment",
+                    "theatrical_release": "2011-12-02",
+                    "tmdb_id": "79536",
+                    "tmdb_rating": "7.1",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "7",
+                    "trakt_id": "59105",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fxvP2u31iASeswlGfNl1UbLl7Bln.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=79536",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Music"
+                ],
+                "imdbnumber": "tt2166163",
+                "label": "Take That: Progress Live",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "Rated NR",
+                "originaltitle": "Take That: Progress Live",
+                "playcount": 0,
+                "plot": "This year Take That embarked on the biggest tour the UK and Ireland had ever seen breaking all previous records. The Progress Live Tour went through 29 UK stadiums and played to over 1.8 million people. Progress Live 2011 tour, was one of the biggest and most anticipated reunions of the summer, with Gary Barlow, Howard Donald, Jason Orange, Mark Owen and Robbie Williams, playing to massive sell-out audiences around the UK and Ireland.",
+                "plotoutline": "",
+                "premiered": "2011-11-20",
+                "productioncode": "",
+                "rating": 7.099999904632568,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 8220,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Universal Home Entertainment"
+                ],
+                "tag": [],
+                "tagline": "Take That  Progress Live (2011)",
+                "thumbnail": "",
+                "title": "Take That: Progress Live",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt2166163",
+                    "slug": "take-that-progress-live-2011",
+                    "tmdb": "79536",
+                    "trakt": "59105",
+                    "unknown": "tt2166163"
+                },
+                "userrating": 0,
+                "votes": "7",
+                "writer": [],
+                "year": 2011
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fmFD5NxKpKnc9IYM7L0iwrrosjZ3.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fzxfaudxTmkfcTiXeuPqMNwM26Yj.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fzxfaudxTmkfcTiXeuPqMNwM26Yj.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Howard Donald",
+                        "order": 0,
+                        "role": "Himself",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2flpoAt0GnoIcPyxi0ICX6G5Dt4wh.jpg/"
+                    },
+                    {
+                        "name": "Jason Orange",
+                        "order": 1,
+                        "role": "Himself",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fpxMlyJueqxs6y8oufTJiqjS5Lfl.jpg/"
+                    },
+                    {
+                        "name": "Gary Barlow",
+                        "order": 2,
+                        "role": "Himself",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f88Zz8fSBn6QpmIvvaKHsL24cK73.jpg/"
+                    },
+                    {
+                        "name": "Mark Owen",
+                        "order": 3,
+                        "role": "Himself",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f4Uk8KXKFN5P0ksgj4kKuOpwQ6Mq.jpg/"
+                    }
+                ],
+                "country": [],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Howard Donald / Jason Orange / Gary Barlow / Mark Owen",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=28014&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=28014)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=28014)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=28014)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=28014)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=28014)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Take That: The Circus Live,tmdb_type=movie,tmdb_id=28014)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt1526309",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "28014",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.page": "2",
+                    "param.plugin_category": "Concerts",
+                    "param.reload": "$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]",
+                    "param.user_slug": "ukpommy",
+                    "param.widget": "true",
+                    "popularity": "0.812",
+                    "revenue": "$0",
+                    "slug_id": "take-that-the-circus-live-2010",
+                    "tmdb_id": "28014",
+                    "tmdb_rating": "7.1",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "5",
+                    "trakt_id": "17364",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Matt Askem"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fmFD5NxKpKnc9IYM7L0iwrrosjZ3.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=28014",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Music"
+                ],
+                "imdbnumber": "tt1526309",
+                "label": "Take That: The Circus Live",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Take That: The Circus Live",
+                "playcount": 0,
+                "plot": "A concert tour video by reunited British boyband, Take That promoting their fifth studio album, The Circus. The tour began on 5 June 2009 in Sunderland and finished on 5 July 2009 at London's Wembley Stadium.",
+                "plotoutline": "",
+                "premiered": "2010-11-11",
+                "productioncode": "",
+                "rating": 7.099999904632568,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 10620,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Take That: The Circus Live",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt1526309",
+                    "slug": "take-that-the-circus-live-2010",
+                    "tmdb": "28014",
+                    "trakt": "17364",
+                    "unknown": "tt1526309"
+                },
+                "userrating": 0,
+                "votes": "5",
+                "writer": [],
+                "year": 2010
+            }
+        ],
+        "limits": {
+            "end": 14,
+            "start": 0,
+            "total": 14
+        }
+    }
+}

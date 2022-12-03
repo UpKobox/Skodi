@@ -1,0 +1,42 @@
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>Spectacle</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/media/png/x-mac_general_free/X-MAC/general/png/72/wizard.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&amp;famille=spectacle&amp;offset=0",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Documentaires</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/media/Arctic Horizon 2/Documentary-icon.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&amp;famille=docu&amp;offset=0",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Divers</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/media/Arctic Horizon 2/activites-SLVie-tarn-et-Garonne.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=folderPubDetails&amp;offset=0&amp;typM=divers",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Setting U2P</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/media/Arctic Horizon 2/Device-Harddisk-icon.png</thumb>
+		<action>PlayMedia("plugin://plugin.video.sendtokodiU2P/?action=setting")</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.sendtokodiU2P</defaultID>
+		<label>U2Pplay</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons/plugin.video.sendtokodiU2P/icon.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P",return)</action>
+		</shortcut>
+	</shortcuts>

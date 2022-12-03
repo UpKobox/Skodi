@@ -1,0 +1,57 @@
+{
+    "history": [
+        [
+            1662545272.7723508,
+            "fa90459e05bba84390ad1c31d6748fcdf02eaa07"
+        ],
+        [
+            1664347347.1586127,
+            "59cfb9c7413bdc5c64f069bc622b7e5f77e1a317"
+        ],
+        [
+            1664347972.287089,
+            "59cfb9c7413bdc5c64f069bc622b7e5f77e1a317"
+        ],
+        [
+            1664348308.128552,
+            "59cfb9c7413bdc5c64f069bc622b7e5f77e1a317"
+        ],
+        [
+            1664348676.1489882,
+            "59cfb9c7413bdc5c64f069bc622b7e5f77e1a317"
+        ],
+        [
+            1664349349.3741238,
+            "3e1062080e88ca42c758c830bd25deee1a90be5b"
+        ],
+        [
+            1664349659.9754503,
+            "59cfb9c7413bdc5c64f069bc622b7e5f77e1a317"
+        ],
+        [
+            1664350006.5573082,
+            "59cfb9c7413bdc5c64f069bc622b7e5f77e1a317"
+        ],
+        [
+            1664351912.2873404,
+            "02764833f30295b1cd1df2e778f58522df051817"
+        ],
+        [
+            1664354971.572739,
+            "02764833f30295b1cd1df2e778f58522df051817"
+        ],
+        [
+            1664358224.1546888,
+            "02764833f30295b1cd1df2e778f58522df051817"
+        ],
+        [
+            1669991045.6640499,
+            "759f9be86aec9a7632f49147cbc5da6899f6ab38"
+        ]
+    ],
+    "widgets": [
+        "4c32e37d-c7e2-4922-ba34-24a0615a4d1d",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Films%20fran%c3%a7ais%20%3e%2070%25&list_slug=films-francais-70&plugin_category=Films%20fran%c3%a7ais%20%3e%2070%25&user_slug=atipoul&widget=True"
+}

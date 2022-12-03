@@ -1,0 +1,3284 @@
+{
+    "id": 1,
+    "jsonrpc": "2.0",
+    "result": {
+        "files": [
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fvvlN0fcwRqxoq7KxY3EiGAYzx4K.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fvb4fzYMvEGi0eSICH2gF0OrcFt1.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fvb4fzYMvEGi0eSICH2gF0OrcFt1.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Jon Bon Jovi",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f6tyDC79NckUuSgwjNRhxStQ0Q2j.jpg/"
+                    },
+                    {
+                        "name": "Richie Sambora",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fwWju1eVS1UK3xXpk9Xho5stOzPY.jpg/"
+                    },
+                    {
+                        "name": "Tico Torres",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "David Bryan",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fb00CPqXD4oj35LE1DgNjYPKiSeA.jpg/"
+                    },
+                    {
+                        "name": "Bill Gerber",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Hugh McDonald",
+                        "order": 5,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fjcBbS5xCshoN24MebJFhVHWKXax.jpg/"
+                    }
+                ],
+                "country": [
+                    "United States of America"
+                ],
+                "customproperties": {
+                    "available_releases": "Theatrical",
+                    "budget": "$0",
+                    "cast": "Jon Bon Jovi / Richie Sambora / Tico Torres / David Bryan / Bill Gerber / Hugh McDonald",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=33793&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=33793)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=33793)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=33793)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=33793)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=33793)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Bon Jovi: When We Were Beautiful,tmdb_type=movie,tmdb_id=33793)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt1411663",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "33793",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "ukpommy",
+                    "param.widget": "True",
+                    "popularity": "2.22",
+                    "provider.link": "https://www.themoviedb.org/movie/33793-bon-jovi-when-we-were-beautiful/watch?locale=US",
+                    "providers": "Amazon Video",
+                    "revenue": "$0",
+                    "slug_id": "bon-jovi-when-we-were-beautiful-2009",
+                    "studio": "RadicalMedia",
+                    "theatrical_release": "2009-10-24",
+                    "tmdb_id": "33793",
+                    "tmdb_rating": "6.7",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "9",
+                    "trakt_id": "21654",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Phil Griffin"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fvvlN0fcwRqxoq7KxY3EiGAYzx4K.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=33793",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Documentary",
+                    "Music"
+                ],
+                "imdbnumber": "tt1411663",
+                "label": "Bon Jovi: When We Were Beautiful",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Bon Jovi: When We Were Beautiful",
+                "playcount": 0,
+                "plot": "A documentary filmed behind the scenes of the Bon Jovi's Lost Highway tour in 2008.",
+                "plotoutline": "",
+                "premiered": "2009-10-24",
+                "productioncode": "",
+                "rating": 6.699999809265137,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 4860,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "RadicalMedia"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Bon Jovi: When We Were Beautiful",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt1411663",
+                    "slug": "bon-jovi-when-we-were-beautiful-2009",
+                    "tmdb": "33793",
+                    "trakt": "21654",
+                    "unknown": "tt1411663"
+                },
+                "userrating": 0,
+                "votes": "9",
+                "writer": [],
+                "year": 2009
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f2JahjLMy934gmnmEEwBTCcmNEp7.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2frjIUb4AAXassEhltBxysIjpFJQD.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2frjIUb4AAXassEhltBxysIjpFJQD.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Rick Allen",
+                        "order": 0,
+                        "role": "Drums",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f7iI0N9eYAXglK7uOn11dWIDYs9o.jpg/"
+                    },
+                    {
+                        "name": "Joe Elliott",
+                        "order": 1,
+                        "role": "Vocals",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fgOwf3IiQkQBwnd9oDrZpjENyUdj.jpg/"
+                    },
+                    {
+                        "name": "Rick Savage",
+                        "order": 2,
+                        "role": "Bass",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fkZc94qIq1lDhPj1Gw6qiewtbsjt.jpg/"
+                    },
+                    {
+                        "name": "Phil Collen",
+                        "order": 3,
+                        "role": "Guitars",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fmXOoAynWn1uOYpGp2eAt1tQOLMj.jpg/"
+                    },
+                    {
+                        "name": "Vivian Campbell",
+                        "order": 4,
+                        "role": "Guitars",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fvIHtg00CtESVgmKvpbfn9LyEpgA.jpg/"
+                    }
+                ],
+                "country": [],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Rick Allen / Joe Elliott / Rick Savage / Phil Collen / Vivian Campbell",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=225341&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=225341)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=225341)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=225341)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=225341)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=225341)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Def Leppard: Viva! Hysteria,tmdb_type=movie,tmdb_id=225341)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt3109048",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "225341",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "ukpommy",
+                    "param.widget": "True",
+                    "popularity": "1.599",
+                    "provider.link": "https://www.themoviedb.org/movie/225341-def-leppard-viva-hysteria/watch?locale=US",
+                    "providers": "Amazon Video / Tubi TV / Plex",
+                    "revenue": "$0",
+                    "slug_id": "def-leppard-viva-hysteria-2013",
+                    "tmdb_id": "225341",
+                    "tmdb_rating": "6.6",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "4",
+                    "trakt_id": "138043",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f2JahjLMy934gmnmEEwBTCcmNEp7.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=225341",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Music"
+                ],
+                "imdbnumber": "tt3109048",
+                "label": "Def Leppard: Viva! Hysteria",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Def Leppard: Viva! Hysteria",
+                "playcount": 0,
+                "plot": "A performance captured live over nine nights during the band's spring 2013 residency at The Joint located in the Hard Rock Hotel, Las Vegas in which Def Leppard plays through the entirety of their most successful album, \"Hysteria,\" in its entirety.  Plus two additional hits, \"Rock of Ages\" and \"Photograph\" as an encore.  Finally \"Viva! HYSTERIA\" showcases for the first time a career-defining album (excluding concept albums) performed live in its entirety - from start to finish - for a commercial audio/video release. \"Viva! HYSTERIA\"! is unlike any show Def Leppard has ever done or will ever do again.",
+                "plotoutline": "",
+                "premiered": "2013-10-02",
+                "productioncode": "",
+                "rating": 6.599999904632568,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 5220,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Def Leppard: Viva! Hysteria",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=Qq73DjaK5DQ",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt3109048",
+                    "slug": "def-leppard-viva-hysteria-2013",
+                    "tmdb": "225341",
+                    "trakt": "138043",
+                    "unknown": "tt3109048"
+                },
+                "userrating": 0,
+                "votes": "4",
+                "writer": [],
+                "year": 2013
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f8ly6ZrxZPNYra1GCUxTC0vfNA2I.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f3IBHZxJbhpeFgWbIZNdr8aHTl3h.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f3IBHZxJbhpeFgWbIZNdr8aHTl3h.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Angus Young",
+                        "order": 0,
+                        "role": "Guitars",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fwQbsQEQkM9QUZPytmCIfo70D2G5.jpg/"
+                    },
+                    {
+                        "name": "Malcolm Young",
+                        "order": 1,
+                        "role": "Guitars",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fmWp3SVP3S0fos4UaF7sM8kNWmQJ.jpg/"
+                    },
+                    {
+                        "name": "Brian Johnson",
+                        "order": 2,
+                        "role": "Vocals",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f4NhaYlN1yf4QK1PNpRCySf9O11P.jpg/"
+                    },
+                    {
+                        "name": "Cliff Williams",
+                        "order": 3,
+                        "role": "Bass",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f7nXedWc1NpW7Uky0FTnrtWcFMqU.jpg/"
+                    },
+                    {
+                        "name": "Phil Rudd",
+                        "order": 4,
+                        "role": "Drums",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fh5KTDmdg2iWKEqscJgVOOLaLFH3.jpg/"
+                    }
+                ],
+                "country": [
+                    "Argentina",
+                    "United States of America"
+                ],
+                "customproperties": {
+                    "available_releases": "Theatrical",
+                    "budget": "$0",
+                    "cast": "Angus Young / Malcolm Young / Brian Johnson / Cliff Williams / Phil Rudd",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=63973&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=63973)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=63973)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=63973)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=63973)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=63973)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=AC/DC: Live at River Plate,tmdb_type=movie,tmdb_id=63973)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt1933535",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "63973",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "ukpommy",
+                    "param.widget": "True",
+                    "popularity": "9.29",
+                    "provider.link": "https://www.themoviedb.org/movie/63973-ac-dc-live-at-river-plate/watch?locale=US",
+                    "providers": "Apple iTunes / Amazon Video / Google Play Movies / YouTube / Vudu / Microsoft Store",
+                    "revenue": "$0",
+                    "slug_id": "ac-dc-live-at-river-plate-2009",
+                    "studio": "Leidseplein Presse",
+                    "theatrical_release": "2009-12-11",
+                    "tmdb_id": "63973",
+                    "tmdb_rating": "8.1",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "78",
+                    "trakt_id": "46137",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "David Mallet"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f8ly6ZrxZPNYra1GCUxTC0vfNA2I.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=63973",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Music",
+                    "Documentary"
+                ],
+                "imdbnumber": "tt1933535",
+                "label": "AC/DC: Live at River Plate",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "AC/DC: Live at River Plate",
+                "playcount": 0,
+                "plot": "A definitive live concert film documenting AC/DC\u2019s massive Black Ice World Tour. Shot in December of 2009, AC/DC Live at River Plate marks AC/DC\u2019s triumphant return to Buenos Aires where nearly 200,000 fans, and 3 sold-out shows, welcomed the band back after a 13 year absence from Argentina. This stunning live footage of AC/DC underscores what Argentina\u2019s Pagina 12 newspaper reported by saying \u201cno one is on the same level when it comes to pure and clear Rock \u2018n Roll.\u201d",
+                "plotoutline": "",
+                "premiered": "2009-12-11",
+                "productioncode": "",
+                "rating": 8.050999641418457,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 6600,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Leidseplein Presse"
+                ],
+                "tag": [],
+                "tagline": "Estadio River Plate in Buenos Aires, Argentina on December 2009",
+                "thumbnail": "",
+                "title": "AC/DC: Live at River Plate",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=xnQ_f-lqp_s",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt1933535",
+                    "slug": "ac-dc-live-at-river-plate-2009",
+                    "tmdb": "63973",
+                    "trakt": "46137",
+                    "unknown": "tt1933535"
+                },
+                "userrating": 0,
+                "votes": "78",
+                "writer": [],
+                "year": 2009
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fs96brP1I5ZfDBHt660uJtjAzF7F.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fqA9I3QLxiTzkds9qdSDgkWCyHzW.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fqA9I3QLxiTzkds9qdSDgkWCyHzW.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Joey Tempest",
+                        "order": 0,
+                        "role": "Vocals",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f638zDPBfNkUv6mtlupTK4nRGofl.jpg/"
+                    },
+                    {
+                        "name": "John Norum",
+                        "order": 1,
+                        "role": "Guitars",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fslD4wamHFQMPy1mDIWfGR57IJCF.jpg/"
+                    },
+                    {
+                        "name": "Mic Michaeli",
+                        "order": 2,
+                        "role": "Keyboards",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fkLKkce7iwCyt1PjPM670KP8vSHg.jpg/"
+                    },
+                    {
+                        "name": "John Leven",
+                        "order": 3,
+                        "role": "Bass"
+                    },
+                    {
+                        "name": "Ian Haugland",
+                        "order": 4,
+                        "role": "Drums",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f6n0Ngh5uBpC4oyOxOKTddmOmrsT.jpg/"
+                    },
+                    {
+                        "name": "Gorham Scott",
+                        "order": 5,
+                        "role": "Guitars (Special Guest)"
+                    },
+                    {
+                        "name": "Michael Schenker",
+                        "order": 6,
+                        "role": "Guitars (Special Guest)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f7ozaKMAZAZ2o2debf07YJAJqppC.jpg/"
+                    }
+                ],
+                "country": [
+                    "Sweden"
+                ],
+                "customproperties": {
+                    "available_releases": "Theatrical",
+                    "budget": "$0",
+                    "cast": "Joey Tempest / John Norum / Mic Michaeli / John Leven / Ian Haugland / Gorham Scott / Michael Schenker",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=236385&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=236385)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=236385)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=236385)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=236385)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=236385)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Europe: Live at Sweden Rock - 30th Anniversary Show,tmdb_type=movie,tmdb_id=236385)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt3292180",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "236385",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "ukpommy",
+                    "param.widget": "True",
+                    "popularity": "0.6",
+                    "revenue": "$0",
+                    "slug_id": "europe-live-at-sweden-rock-30th-anniversary-show-2013",
+                    "studio": "Revolver Film Company",
+                    "theatrical_release": "2013-11-05",
+                    "tmdb_id": "236385",
+                    "tmdb_rating": "6.5",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "2",
+                    "trakt_id": "144290",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Patric Ullaeus"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fs96brP1I5ZfDBHt660uJtjAzF7F.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=236385",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Music"
+                ],
+                "imdbnumber": "tt3292180",
+                "label": "Europe: Live at Sweden Rock - 30th Anniversary Show",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Europe: Live at Sweden Rock - 30th Anniversary Show",
+                "playcount": 0,
+                "plot": "On 7th June 2013, Europe took the stage in their home country Sweden for a special occasion: celebrating 30 years of rock music. The Swedish rock band celebrated this event together with 30,000 fans at the prestigious Sweden Rock Festival. Europe performed 28 songs, selecting their personal favourite moments spanning from their earlier years up to their most recent songs taken from albums including Last Look At Eden and Bag Of Bones; plus songs performed for the very first time.",
+                "plotoutline": "",
+                "premiered": "2013-10-20",
+                "productioncode": "",
+                "rating": 6.5,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 8340,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Revolver Film Company"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Europe: Live at Sweden Rock - 30th Anniversary Show",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=HyWajWueH2w",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt3292180",
+                    "slug": "europe-live-at-sweden-rock-30th-anniversary-show-2013",
+                    "tmdb": "236385",
+                    "trakt": "144290",
+                    "unknown": "tt3292180"
+                },
+                "userrating": 0,
+                "votes": "2",
+                "writer": [],
+                "year": 2013
+            },
+            {
+                "album": "",
+                "art": {
+                    "clearlogo": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fcNiUyWRQgEC5Gi9phYE3IM527sY.png/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fvOEGRBIQhITwOKBje1DXMuo9bJe.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2frnZ5uZHjdC5qGCgEaH6YSbWftnI.jpg/",
+                    "landscape": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f4qL7XSVyTMYm3k9khLO71LII77Z.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2frnZ5uZHjdC5qGCgEaH6YSbWftnI.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Michael Jackson",
+                        "order": 0,
+                        "role": "Self",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2foc5FWwO5VYBjkKkIHTxoCtFXJ1G.jpg/"
+                    },
+                    {
+                        "name": "Orianthi",
+                        "order": 1,
+                        "role": "Self",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f4MGPiMfoTOwJlKzx4nG5n1Vul11.jpg/"
+                    },
+                    {
+                        "name": "Kenny Ortega",
+                        "order": 2,
+                        "role": "Self",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fcZrsOBr1tp1nNPJ5xj3uao2XQbJ.jpg/"
+                    },
+                    {
+                        "name": "Dorian Holley",
+                        "order": 3,
+                        "role": "Self",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fkEEuW78PSqiUd3lK7pfsHBkJzsC.jpg/"
+                    },
+                    {
+                        "name": "Patrick Woodroffe",
+                        "order": 4,
+                        "role": "Self",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fsywI8Srvh7fozPwzoOFEVoFE4Lj.jpg/"
+                    },
+                    {
+                        "name": "Bashiri Johnson",
+                        "order": 5,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Mo Pleasure",
+                        "order": 6,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Jonathan Moffett",
+                        "order": 7,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Tommy Organ",
+                        "order": 8,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Jasmine Alveran",
+                        "order": 9,
+                        "role": "Earth Child"
+                    }
+                ],
+                "country": [
+                    "United States of America"
+                ],
+                "customproperties": {
+                    "available_releases": "Theatrical",
+                    "budget": "$60,000,000",
+                    "cast": "Michael Jackson / Orianthi / Kenny Ortega / Dorian Holley / Patrick Woodroffe / Bashiri Johnson / Mo Pleasure / Jonathan Moffett / Tommy Organ / Jasmine Alveran",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=13576&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=13576)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=13576)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=13576)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=13576)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=13576)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=This Is It,tmdb_type=movie,tmdb_id=13576)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt1477715",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "13576",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "ukpommy",
+                    "param.widget": "True",
+                    "popularity": "11.184",
+                    "provider.link": "https://www.themoviedb.org/movie/13576-this-is-it/watch?locale=US",
+                    "providers": "Apple iTunes / Amazon Video / Google Play Movies / YouTube / Vudu / Microsoft Store / Redbox / DIRECTV / AMC on Demand",
+                    "revenue": "$261,200,000",
+                    "slug_id": "this-is-it-2009",
+                    "studio": "Columbia Pictures",
+                    "theatrical_release": "2009-10-28",
+                    "tmdb_id": "13576",
+                    "tmdb_rating": "7.2",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "773",
+                    "trakt_id": "8025",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Kenny Ortega"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fvOEGRBIQhITwOKBje1DXMuo9bJe.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=13576",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Music",
+                    "Documentary"
+                ],
+                "imdbnumber": "tt1477715",
+                "label": "This Is It",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "Rated PG",
+                "originaltitle": "This Is It",
+                "playcount": 0,
+                "plot": "A compilation of interviews, rehearsals and backstage footage of Michael Jackson as he prepared for his series of sold-out shows in London.",
+                "plotoutline": "",
+                "premiered": "2009-10-28",
+                "productioncode": "",
+                "rating": 7.185999870300293,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 6660,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Columbia Pictures",
+                    "AEG Live"
+                ],
+                "tag": [],
+                "tagline": "Like You've Never Seen Him Before",
+                "thumbnail": "",
+                "title": "This Is It",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=FsVYuGwAuR0",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt1477715",
+                    "slug": "this-is-it-2009",
+                    "tmdb": "13576",
+                    "trakt": "8025",
+                    "unknown": "tt1477715"
+                },
+                "userrating": 0,
+                "votes": "773",
+                "writer": [],
+                "year": 2009
+            },
+            {
+                "album": "",
+                "art": {
+                    "clearlogo": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fr8rvIQZsjfunj4hT8LoAWs03EkD.png/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2frPWfZW0494nkLkXEhd5WjvWcsj3.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fiF58vbVsnIgApB8Corlnq3Ml0P9.jpg/",
+                    "landscape": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f251FHBelhcSYgxWbHkG6K1eJaev.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fiF58vbVsnIgApB8Corlnq3Ml0P9.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Michael Jackson",
+                        "order": 0,
+                        "role": "Himself - Lead Vocals",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2foc5FWwO5VYBjkKkIHTxoCtFXJ1G.jpg/"
+                    },
+                    {
+                        "name": "Siedah Garrett",
+                        "order": 1,
+                        "role": "Herself - Backing Vocals, Duet Partner on \"I Just Can't Stop Loving You\"",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fqNsQialjZQV8a0CRlhzOCHFVF0U.jpg/"
+                    },
+                    {
+                        "name": "David Williams",
+                        "order": 2,
+                        "role": "Himself - Lead Guitar, Rhythm Guitar"
+                    },
+                    {
+                        "name": "Jennifer Batten",
+                        "order": 3,
+                        "role": "Herself - Lead Guitar, Rhythm Guitar",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fw1y1wsNwrM0RRc2aaDW4qtSAPnc.jpg/"
+                    },
+                    {
+                        "name": "Don Boyette",
+                        "order": 4,
+                        "role": "Himself - Bass, Synth Bass"
+                    },
+                    {
+                        "name": "Ricky Lawson",
+                        "order": 5,
+                        "role": "Himself - Drums, Percussions"
+                    },
+                    {
+                        "name": "Darryl Phinnessee",
+                        "order": 6,
+                        "role": "Himself - Backing Vocals",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fs8kl2b4rIDt7yKFiR2YcYUPYRa1.jpg/"
+                    },
+                    {
+                        "name": "Dorian Holley",
+                        "order": 7,
+                        "role": "Himself - Backing Vocals",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fkEEuW78PSqiUd3lK7pfsHBkJzsC.jpg/"
+                    },
+                    {
+                        "name": "Brad Buxer",
+                        "order": 8,
+                        "role": "Himself - Keyboards, Synthesizers"
+                    },
+                    {
+                        "name": "Greg Phillinganes",
+                        "order": 9,
+                        "role": "Himself - Keyboards, Synthesizers"
+                    },
+                    {
+                        "name": "Kevin Dorsey",
+                        "order": 10,
+                        "role": "Himself - Backing Vocals"
+                    },
+                    {
+                        "name": "LaVelle Smith",
+                        "order": 11,
+                        "role": "Himself - Dancer"
+                    },
+                    {
+                        "name": "Jamie King",
+                        "order": 12,
+                        "role": "Himself - Dancer",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fmek2ww0aeqqOfopF5qIFoZqCrgE.jpg/"
+                    },
+                    {
+                        "name": "Evaldo Garcia",
+                        "order": 13,
+                        "role": "Himself - Dancer"
+                    },
+                    {
+                        "name": "Randy Allaire",
+                        "order": 14,
+                        "role": "Himself - Dancer"
+                    },
+                    {
+                        "name": "Damon Navandi",
+                        "order": 15,
+                        "role": "Himself - Dancer"
+                    },
+                    {
+                        "name": "Taco Falcon",
+                        "order": 16,
+                        "role": "Himself - Dancer"
+                    },
+                    {
+                        "name": "Michelle Berube",
+                        "order": 17,
+                        "role": "Herself - Dancer",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fgXTMzVet4EZVOYkZcEpAvaInetf.jpg/"
+                    },
+                    {
+                        "name": "Yoko Sumida",
+                        "order": 18,
+                        "role": "Herself - Dancer"
+                    },
+                    {
+                        "name": "Macaulay Culkin",
+                        "order": 19,
+                        "role": "Himself - Boy in video",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fhVagDqi5o8lZ21b1kXAl45Sj9wt.jpg/"
+                    },
+                    {
+                        "name": "George Wendt",
+                        "order": 20,
+                        "role": "Himself - Dad in video",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fnoQKS06TbuPJQ9o91CzKbEvTwZR.jpg/"
+                    }
+                ],
+                "country": [
+                    "United States of America",
+                    "Romania"
+                ],
+                "customproperties": {
+                    "available_releases": "TV",
+                    "budget": "$0",
+                    "cast": "Michael Jackson / Siedah Garrett / David Williams / Jennifer Batten / Don Boyette / Ricky Lawson / Darryl Phinnessee / Dorian Holley / Brad Buxer / Greg Phillinganes / Kevin Dorsey / LaVelle Smith / Jamie King / Evaldo Garcia / Randy Allaire / Damon Navandi / Taco Falcon / Michelle Berube / Yoko Sumida / Macaulay Culkin / George Wendt",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=20227&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=20227)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=20227)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=20227)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=20227)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=20227)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Michael Jackson: Live in Bucharest - The Dangerous Tour,tmdb_type=movie,tmdb_id=20227)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt0480827",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "20227",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "ukpommy",
+                    "param.widget": "True",
+                    "popularity": "8.381",
+                    "provider.link": "https://www.themoviedb.org/movie/20227-michael-jackson-live-in-bucharest-the-dangerous-tour/watch?locale=US",
+                    "providers": "Apple iTunes / Amazon Video / Google Play Movies / YouTube / Microsoft Store",
+                    "revenue": "$0",
+                    "slug_id": "michael-jackson-live-in-bucharest-the-dangerous-tour-1992",
+                    "studio": "HBO",
+                    "tmdb_id": "20227",
+                    "tmdb_rating": "8.6",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "86",
+                    "trakt_id": "12415",
+                    "tv_release": "1992-10-10",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Andrew Morahan"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2frPWfZW0494nkLkXEhd5WjvWcsj3.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=20227",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Music"
+                ],
+                "imdbnumber": "tt0480827",
+                "label": "Michael Jackson: Live in Bucharest - The Dangerous Tour",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "Rated NR",
+                "originaltitle": "Michael Jackson: Live in Bucharest - The Dangerous Tour",
+                "playcount": 0,
+                "plot": "Michael Jackson's Dangerous Tour Live in Bucharest. Set-List: 1. Intro / 2. Jam / 3. Wanna Be Startin' Somethin' / 4. Human Nature / 5. Smooth Criminal / 6. I Just Can't Stop Loving You feat. Siedah Garrett / 7. She's Out Of My Life / 8. I Want You Back/The Love You Save / 9. I'll Be There / 10. Thriller / 11. Billie Jean / 12. Workin' Day And Night / 13. Beat It / 14. Will You Be There / 15. Black Or White / 16. Heal The World / 17. Man In The Mirror / 18. Credits.",
+                "plotoutline": "",
+                "premiered": "1992-10-02",
+                "productioncode": "",
+                "rating": 8.552000045776367,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 7320,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "HBO",
+                    "BBC",
+                    "Sony BMG Music Entertainment",
+                    "Epic Records",
+                    "Optimum Productions"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Michael Jackson: Live in Bucharest - The Dangerous Tour",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt0480827",
+                    "slug": "michael-jackson-live-in-bucharest-the-dangerous-tour-1992",
+                    "tmdb": "20227",
+                    "trakt": "12415",
+                    "unknown": "tt0480827"
+                },
+                "userrating": 0,
+                "votes": "86",
+                "writer": [],
+                "year": 1992
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fpQOs5bwFpaimeaK5PA2XXteU1Ly.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ft4yJoAIRZGGlIjljv0qGcv8rSiU.jpg/",
+                    "landscape": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fzzYZt5jvGRvnMiCxKFD11qmHbcH.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ft4yJoAIRZGGlIjljv0qGcv8rSiU.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Freddie Mercury",
+                        "order": 0,
+                        "role": "Lead Singer",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f29YpQZNzrGJtoa49ZVo2XLKZuQr.jpg/"
+                    },
+                    {
+                        "name": "Brian May",
+                        "order": 1,
+                        "role": "Guitar",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fdcSrV82AWt21t6XNa5UsYGeBzqx.jpg/"
+                    },
+                    {
+                        "name": "Roger Taylor",
+                        "order": 2,
+                        "role": "Drums",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f3RK6HF5pPgpOMDLzxkKhptjlJzv.jpg/"
+                    },
+                    {
+                        "name": "John Deacon",
+                        "order": 3,
+                        "role": "Bass",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fucbtgzdLR5oeVXfsTkbxl5TBU5z.jpg/"
+                    },
+                    {
+                        "name": "Spike Edney",
+                        "order": 4,
+                        "role": "Keyboards",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2frUnmXEwC4BdRrXROpXhhfIDvCO8.jpg/"
+                    }
+                ],
+                "country": [
+                    "United Kingdom"
+                ],
+                "customproperties": {
+                    "available_releases": "TV",
+                    "budget": "$0",
+                    "cast": "Freddie Mercury / Brian May / Roger Taylor / John Deacon / Spike Edney",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=20575&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=20575)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=20575)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=20575)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=20575)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=20575)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Queen: Live at Wembley Stadium,tmdb_type=movie,tmdb_id=20575)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt0158874",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "20575",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "ukpommy",
+                    "param.widget": "True",
+                    "popularity": "8.214",
+                    "provider.link": "https://www.themoviedb.org/movie/20575-queen-live-at-wembley-stadium/watch?locale=US",
+                    "providers": "Apple iTunes / Amazon Video / Google Play Movies / YouTube",
+                    "revenue": "$0",
+                    "slug_id": "queen-live-at-wembley-stadium-1986",
+                    "studio": "Channel 4 Television",
+                    "tmdb_id": "20575",
+                    "tmdb_rating": "8.5",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "117",
+                    "trakt_id": "12637",
+                    "tv_release": "1986-07-12",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Gavin Taylor"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fpQOs5bwFpaimeaK5PA2XXteU1Ly.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=20575",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Music"
+                ],
+                "imdbnumber": "tt0158874",
+                "label": "Queen: Live at Wembley Stadium",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Queen: Live at Wembley Stadium",
+                "playcount": 0,
+                "plot": "One of the world's biggest bands returns to the scene of their Live Aid triumph (one year earlier in 1985) to play all their greatest hits in front of a packed Wembley Stadium.",
+                "plotoutline": "",
+                "premiered": "1986-07-12",
+                "productioncode": "",
+                "rating": 8.5,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 6600,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Channel 4 Television",
+                    "Queen Films"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Queen: Live at Wembley Stadium",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=9duYNTthw04",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt0158874",
+                    "slug": "queen-live-at-wembley-stadium-1986",
+                    "tmdb": "20575",
+                    "trakt": "12637",
+                    "unknown": "tt0158874"
+                },
+                "userrating": 0,
+                "votes": "117",
+                "writer": [],
+                "year": 1986
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fzASC1wA1BMKskNbbwvaJs9XgJw0.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fvp1ZcEmlIGyV9nmRQVZxMI4PWOv.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fvp1ZcEmlIGyV9nmRQVZxMI4PWOv.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Noel Gallagher",
+                        "order": 0,
+                        "role": "Himself",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2faBFYsStheYLMxlmyugFBgEEa7dA.jpg/"
+                    },
+                    {
+                        "name": "Liam Gallagher",
+                        "order": 1,
+                        "role": "Himself",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f4lE3FR6ToSBSU5186W1hmP04QJv.jpg/"
+                    },
+                    {
+                        "name": "Gem Archer",
+                        "order": 2,
+                        "role": "Himself",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fauXwK7uyGxbAhWt6rNi0PZK4kd6.jpg/"
+                    },
+                    {
+                        "name": "Andy Bell",
+                        "order": 3,
+                        "role": "Himself"
+                    }
+                ],
+                "country": [
+                    "United Kingdom"
+                ],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Noel Gallagher / Liam Gallagher / Gem Archer / Andy Bell",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=38383&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=38383)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=38383)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=38383)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=38383)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=38383)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Oasis: Live at Wembley Arena,tmdb_type=movie,tmdb_id=38383)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt1562865",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "38383",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "ukpommy",
+                    "param.widget": "True",
+                    "popularity": "2.232",
+                    "revenue": "$0",
+                    "slug_id": "oasis-live-at-wembley-arena-2008",
+                    "studio": "MTV Europe",
+                    "tmdb_id": "38383",
+                    "tmdb_rating": "7.2",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "6",
+                    "trakt_id": "24789",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Dick Carruthers"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fzASC1wA1BMKskNbbwvaJs9XgJw0.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=38383",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Music"
+                ],
+                "imdbnumber": "tt1562865",
+                "label": "Oasis: Live at Wembley Arena",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Oasis: Live at Wembley Arena",
+                "playcount": 0,
+                "plot": "Oasis. There should be no need for introduction; one of the most successful and critically acclaimed British rock bands ever are back and MTV has exclusive access to the London leg of their UK tour. Our cameras will go live for a gig not to be missed. You can\u2019t buy a ticket, as the tour as ever sold-out in record time. Enjoy a front-row seat at MTV\u2019s exclusive night with Oasis, one of the most exciting live bands ever.",
+                "plotoutline": "",
+                "premiered": "2008-05-06",
+                "productioncode": "",
+                "rating": 7.199999809265137,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 2580,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "MTV Europe"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Oasis: Live at Wembley Arena",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt1562865",
+                    "slug": "oasis-live-at-wembley-arena-2008",
+                    "tmdb": "38383",
+                    "trakt": "24789",
+                    "unknown": "tt1562865"
+                },
+                "userrating": 0,
+                "votes": "6",
+                "writer": [],
+                "year": 2008
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f1mMw9nfoyNUYISMsrEWPq14H68L.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fzWVj1LYqSKY4ShkzTb42sUyHlgH.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fzWVj1LYqSKY4ShkzTb42sUyHlgH.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "The Edge",
+                        "order": 0,
+                        "role": "Guitar",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fxHPqYog6UiYKdw8PcQaW4unGvg7.jpg/"
+                    },
+                    {
+                        "name": "Larry Mullen Jr.",
+                        "order": 1,
+                        "role": "Drums",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fzL4CxIHJSeBeL324fBLraEPkbDN.jpg/"
+                    },
+                    {
+                        "name": "Adam Clayton",
+                        "order": 2,
+                        "role": "Bass",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f7YMNUrUte44ZajlvYbflpOKLZQo.jpg/"
+                    },
+                    {
+                        "name": "Bono",
+                        "order": 3,
+                        "role": "Vocals",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fr1jCFctRrEAHBHOyJun8rWCH0AD.jpg/"
+                    },
+                    {
+                        "name": "Terry Lawless",
+                        "order": 4,
+                        "role": "keyboards"
+                    }
+                ],
+                "country": [
+                    "United States of America"
+                ],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "The Edge / Larry Mullen Jr. / Adam Clayton / Bono / Terry Lawless",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=39081&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=39081)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=39081)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=39081)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=39081)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=39081)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=U2: 360\u00b0 at the Rose Bowl,tmdb_type=movie,tmdb_id=39081)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt1694546",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "39081",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "ukpommy",
+                    "param.widget": "True",
+                    "popularity": "3.518",
+                    "revenue": "$0",
+                    "slug_id": "u2-360-at-the-rose-bowl-2010",
+                    "studio": "Mercury",
+                    "tmdb_id": "39081",
+                    "tmdb_rating": "7.8",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "21",
+                    "trakt_id": "25343",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Tom Krueger"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f1mMw9nfoyNUYISMsrEWPq14H68L.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=39081",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Music"
+                ],
+                "imdbnumber": "tt1694546",
+                "label": "U2: 360\u00b0 at the Rose Bowl",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "U2: 360\u00b0 at the Rose Bowl",
+                "playcount": 0,
+                "plot": "U2's 360\u00b0 concert at the famous Pasadena Rose Bowl was U2's biggest ever show in the United States with a box office attendance in excess of 97,000.  The first live streaming of a full-length stadium concert, U2360\u00b0 at the Rose Bowl streamed across seven continents, making history with over 10 million views in one week. Shot entirely in HD, this ground breaking concert was filmed with 28 cameras and directed by Tom Krueger who previously shot the concert film U23D. U2360\u00b0 resumes in Europe in August with North American dates to follow in 2011.",
+                "plotoutline": "",
+                "premiered": "2010-06-04",
+                "productioncode": "",
+                "rating": 7.800000190734863,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 7860,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Mercury",
+                    "Interscope"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "U2: 360\u00b0 at the Rose Bowl",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=lxPJa7q3Uvc",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt1694546",
+                    "slug": "u2-360-at-the-rose-bowl-2010",
+                    "tmdb": "39081",
+                    "trakt": "25343",
+                    "unknown": "tt1694546"
+                },
+                "userrating": 0,
+                "votes": "21",
+                "writer": [],
+                "year": 2010
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fgKl80nCfEpLjVOxRVTfH8hJ7ETO.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fwxBgb4jGV5lR1IsOsbvB3CR5Mhw.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fwxBgb4jGV5lR1IsOsbvB3CR5Mhw.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Geddy Lee",
+                        "order": 0,
+                        "role": "Himself",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fraaVKa1Dr29hLCZhY7ryOsaNSqx.jpg/"
+                    },
+                    {
+                        "name": "Neil Peart",
+                        "order": 1,
+                        "role": "Himself",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fq5VO9FDmiG7iz36SBfj5m1UfH33.jpg/"
+                    },
+                    {
+                        "name": "Alex Lifeson",
+                        "order": 2,
+                        "role": "Himself",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f7daAAB0ZXXsq82IxdBPoCFcyoOz.jpg/"
+                    }
+                ],
+                "country": [],
+                "customproperties": {
+                    "available_releases": "Theatrical",
+                    "budget": "$0",
+                    "cast": "Geddy Lee / Neil Peart / Alex Lifeson",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=236768&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=236768)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=236768)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=236768)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=236768)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=236768)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Rush - Clockwork Angels Tour,tmdb_type=movie,tmdb_id=236768)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt3238448",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "236768",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "ukpommy",
+                    "param.widget": "True",
+                    "popularity": "1.47",
+                    "provider.link": "https://www.themoviedb.org/movie/236768-rush-clockwork-angels-tour/watch?locale=US",
+                    "providers": "Amazon Video",
+                    "revenue": "$0",
+                    "slug_id": "rush-clockwork-angels-tour-2013",
+                    "theatrical_release": "2013-11-19",
+                    "tmdb_id": "236768",
+                    "tmdb_rating": "7.6",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "14",
+                    "trakt_id": "144589",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Dale Heslip"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fgKl80nCfEpLjVOxRVTfH8hJ7ETO.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=236768",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Music"
+                ],
+                "imdbnumber": "tt3238448",
+                "label": "Rush - Clockwork Angels Tour",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "Rated NR",
+                "originaltitle": "Rush - Clockwork Angels Tour",
+                "playcount": 0,
+                "plot": "Rush Clockwork Angels Tour captures the Rock & Roll Hall of Famers' 2012-2013 sold-out tour from a unique point-of-view approach to film-making utilizing distinct composition and a voyeuristic style that at varying moments puts the viewer on the stage, at the side of the stage, and throughout the arena. For the first time ever the legendary band  was accompanied on this tour by an eight-piece string section!",
+                "plotoutline": "",
+                "premiered": "2013-11-19",
+                "productioncode": "",
+                "rating": 7.60699987411499,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 14520,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Rush - Clockwork Angels Tour",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=EA4hSlSjiec",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt3238448",
+                    "slug": "rush-clockwork-angels-tour-2013",
+                    "tmdb": "236768",
+                    "trakt": "144589",
+                    "unknown": "tt3238448"
+                },
+                "userrating": 0,
+                "votes": "14",
+                "writer": [],
+                "year": 2013
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f7F1jrGf5J4AM7auz1vzzNDUMAV1.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f5lxeZ97WrAFoN4BALpaPqVLyB0B.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f5lxeZ97WrAFoN4BALpaPqVLyB0B.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "David Bowie",
+                        "order": 0,
+                        "role": "Self",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fqrqQJivS0zLzxZKfgNZnDtjbqpI.jpg/"
+                    }
+                ],
+                "country": [
+                    "United States of America"
+                ],
+                "customproperties": {
+                    "available_releases": "Physical",
+                    "budget": "$0",
+                    "cast": "David Bowie",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=47019&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=47019)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=47019)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=47019)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=47019)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=47019)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=David Bowie - A Reality Tour,tmdb_type=movie,tmdb_id=47019)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt0432815",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "47019",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "ukpommy",
+                    "param.widget": "True",
+                    "physical_release": "2004-10-13",
+                    "popularity": "2.272",
+                    "provider.link": "https://www.themoviedb.org/movie/47019-david-bowie-a-reality-tour/watch?locale=US",
+                    "providers": "Apple iTunes / Amazon Video / Google Play Movies / YouTube / Vudu / Microsoft Store",
+                    "revenue": "$0",
+                    "slug_id": "david-bowie-a-reality-tour-2004",
+                    "studio": "Sony BMG Music Entertainment",
+                    "tmdb_id": "47019",
+                    "tmdb_rating": "8.3",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "9",
+                    "trakt_id": "32383",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Marcus Viner"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f7F1jrGf5J4AM7auz1vzzNDUMAV1.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=47019",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Music",
+                    "Documentary"
+                ],
+                "imdbnumber": "tt0432815",
+                "label": "David Bowie - A Reality Tour",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "David Bowie - A Reality Tour",
+                "playcount": 0,
+                "plot": "In a career chock full of 'you've never seen him like this' moments, you've never seen David Bowie as you will in A Reality Tour. The rock legend and his ace band blaze through stunners from Bowie's Reality album plus dozens of his greatest hits.",
+                "plotoutline": "",
+                "premiered": "2004-10-13",
+                "productioncode": "",
+                "rating": 8.300000190734863,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 8820,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Sony BMG Music Entertainment"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "David Bowie - A Reality Tour",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=VA1IEZwcvLY",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt0432815",
+                    "slug": "david-bowie-a-reality-tour-2004",
+                    "tmdb": "47019",
+                    "trakt": "32383",
+                    "unknown": "tt0432815"
+                },
+                "userrating": 0,
+                "votes": "9",
+                "writer": [
+                    "David Bowie"
+                ],
+                "year": 2004
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2feFiyd4y0BNql4mGrBEatjIuzyqi.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2furfiXtIJFyfW0oR2c9aoLGr9SWv.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2furfiXtIJFyfW0oR2c9aoLGr9SWv.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Steven Tyler",
+                        "order": 0,
+                        "role": "Vocals",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fnPZR2MKMnTMO3ugOb5FA0Hxi7fC.jpg/"
+                    },
+                    {
+                        "name": "Joe Perry",
+                        "order": 1,
+                        "role": "Guitar",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f2yM9WrIwIJe2XIhCU2tgJfjDrQ3.jpg/"
+                    },
+                    {
+                        "name": "Tom Hamilton",
+                        "order": 2,
+                        "role": "Bass",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f4oAtpgZdM5e9MdzCCKeMblhDEJc.jpg/"
+                    },
+                    {
+                        "name": "Joey Kramer",
+                        "order": 3,
+                        "role": "Drums",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fkC3WVndiEaMJXVlXhu7nqMjqYV5.jpg/"
+                    },
+                    {
+                        "name": "Brad Whitford",
+                        "order": 4,
+                        "role": "Guitar",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f5NeYqTuGZXffdFxOSFSUA85Em2l.jpg/"
+                    }
+                ],
+                "country": [
+                    "Japan"
+                ],
+                "customproperties": {
+                    "available_releases": "Theatrical",
+                    "budget": "$200,000",
+                    "cast": "Steven Tyler / Joe Perry / Tom Hamilton / Joey Kramer / Brad Whitford",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=209999&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=209999)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=209999)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=209999)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=209999)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=209999)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Aerosmith - Rock for the Rising Sun,tmdb_type=movie,tmdb_id=209999)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt2820346",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "209999",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "ukpommy",
+                    "param.widget": "True",
+                    "popularity": "1.041",
+                    "provider.link": "https://www.themoviedb.org/movie/209999-aerosmith-rock-for-the-rising-sun/watch?locale=US",
+                    "providers": "Apple iTunes / Peacock / Peacock Premium / Amazon Video / Tubi TV / Pluto TV / FILMRISE / Freevee Amazon Channel",
+                    "revenue": "$0",
+                    "slug_id": "aerosmith-rock-for-the-rising-sun-2013",
+                    "studio": "Eagle Rock Entertainment",
+                    "theatrical_release": "2013-07-03",
+                    "tmdb_id": "209999",
+                    "tmdb_rating": "8.2",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "2",
+                    "trakt_id": "130095",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Casey Tebo"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2feFiyd4y0BNql4mGrBEatjIuzyqi.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=209999",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Music"
+                ],
+                "imdbnumber": "tt2820346",
+                "label": "Aerosmith - Rock for the Rising Sun",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Aerosmith - Rock for the Rising Sun",
+                "playcount": 0,
+                "plot": "In March 2011 Japan was beset by a huge earthquake, a monstrous tsunami and the subsequent meltdown of the Fukushima nuclear plant. In the autumn of 2011, despite advice to the contrary, Aerosmith brought their Back On The Road tour to Japan, a country with which they'd always had a special relationship. The Japanese fans came out in their droves and Aerosmith responded with some of the finest gigs of their distinguished career. This film follows the band on that tour combining full length live tracks with behind the scenes footage which is at times touching and emotional and at others humorous and insightful. More than anything else it demonstrates the Japanese fans love affair with Aerosmith and their music.",
+                "plotoutline": "",
+                "premiered": "2013-07-03",
+                "productioncode": "",
+                "rating": 8.199999809265137,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 6840,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Eagle Rock Entertainment"
+                ],
+                "tag": [],
+                "tagline": "A concert film event",
+                "thumbnail": "",
+                "title": "Aerosmith - Rock for the Rising Sun",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=OQLRSqnBVkc",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt2820346",
+                    "slug": "aerosmith-rock-for-the-rising-sun-2013",
+                    "tmdb": "209999",
+                    "trakt": "130095",
+                    "unknown": "tt2820346"
+                },
+                "userrating": 0,
+                "votes": "2",
+                "writer": [],
+                "year": 2013
+            },
+            {
+                "album": "",
+                "art": {
+                    "icon": "image://C%3a%5cKodiTest%5ckodi%2020%20testu2p%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fdefault.png/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Steven Tyler",
+                        "order": 0,
+                        "role": "Himself",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fnPZR2MKMnTMO3ugOb5FA0Hxi7fC.jpg/"
+                    },
+                    {
+                        "name": "Joe Perry",
+                        "order": 1,
+                        "role": "Himself",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f2yM9WrIwIJe2XIhCU2tgJfjDrQ3.jpg/"
+                    },
+                    {
+                        "name": "Tom Hamilton",
+                        "order": 2,
+                        "role": "Himself",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f4oAtpgZdM5e9MdzCCKeMblhDEJc.jpg/"
+                    },
+                    {
+                        "name": "Brad Whitford",
+                        "order": 3,
+                        "role": "Himself",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f5NeYqTuGZXffdFxOSFSUA85Em2l.jpg/"
+                    },
+                    {
+                        "name": "Joey Kramer",
+                        "order": 4,
+                        "role": "Himself",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fkC3WVndiEaMJXVlXhu7nqMjqYV5.jpg/"
+                    }
+                ],
+                "country": [],
+                "customproperties": {
+                    "available_releases": "Theatrical",
+                    "budget": "$0",
+                    "cast": "Steven Tyler / Joe Perry / Tom Hamilton / Brad Whitford / Joey Kramer",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=90501&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=90501)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=90501)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=90501)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=90501)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=90501)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Aerosmith: Live at Javits Center,tmdb_type=movie,tmdb_id=90501)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "dbtype": "movie",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "90501",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "ukpommy",
+                    "param.widget": "True",
+                    "popularity": "0.6",
+                    "revenue": "$0",
+                    "slug_id": "aerosmith-live-at-javits-center-2007",
+                    "theatrical_release": "2007-05-04",
+                    "tmdb_id": "90501",
+                    "tmdb_rating": "4.0",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "1",
+                    "trakt_id": "67309",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=90501",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Music"
+                ],
+                "imdbnumber": "",
+                "label": "Aerosmith: Live at Javits Center",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "Rated PG-13",
+                "originaltitle": "Aerosmith: Live at Javits Center",
+                "playcount": 0,
+                "plot": "Near Perfect quality broadcast recording of Aerosmith, live at the Javits Center, in New York City, on May 4th, 2007.  This is the Robin Hood Foundation benefit show, and I can\u2019t rave enough about the quality of this recording.  Total running time is 89 minutes, quality is 10/10.",
+                "plotoutline": "",
+                "premiered": "2007-05-04",
+                "productioncode": "",
+                "rating": 4.0,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 5340,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Aerosmith: Live at Javits Center",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "slug": "aerosmith-live-at-javits-center-2007",
+                    "tmdb": "90501",
+                    "trakt": "67309"
+                },
+                "userrating": 0,
+                "votes": "1",
+                "writer": [],
+                "year": 2007
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fnolbOdNHiglSBk2po4xUCVhPoYz.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fniobNGnThoYLyiQ0tycdkIge8zc.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fniobNGnThoYLyiQ0tycdkIge8zc.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Steven Tyler",
+                        "order": 0,
+                        "role": "Vocals",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fnPZR2MKMnTMO3ugOb5FA0Hxi7fC.jpg/"
+                    },
+                    {
+                        "name": "Tom Hamilton",
+                        "order": 1,
+                        "role": "Bass",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f4oAtpgZdM5e9MdzCCKeMblhDEJc.jpg/"
+                    },
+                    {
+                        "name": "Brad Whitford",
+                        "order": 2,
+                        "role": "Guitars",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f5NeYqTuGZXffdFxOSFSUA85Em2l.jpg/"
+                    },
+                    {
+                        "name": "Joey Kramer",
+                        "order": 3,
+                        "role": "Drums",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fkC3WVndiEaMJXVlXhu7nqMjqYV5.jpg/"
+                    },
+                    {
+                        "name": "Joe Perry",
+                        "order": 4,
+                        "role": "Guitars",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f2yM9WrIwIJe2XIhCU2tgJfjDrQ3.jpg/"
+                    }
+                ],
+                "country": [
+                    "Brazil"
+                ],
+                "customproperties": {
+                    "available_releases": "Theatrical",
+                    "budget": "$0",
+                    "cast": "Steven Tyler / Tom Hamilton / Brad Whitford / Joey Kramer / Joe Perry",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=252825&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=252825)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=252825)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=252825)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=252825)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=252825)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Aerosmith: Monsters Of Rock 2013,tmdb_type=movie,tmdb_id=252825)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "dbtype": "movie",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "252825",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "ukpommy",
+                    "param.widget": "True",
+                    "popularity": "0.94",
+                    "revenue": "$0",
+                    "slug_id": "aerosmith-monsters-of-rock-2013-2013",
+                    "theatrical_release": "2013-10-20",
+                    "tmdb_id": "252825",
+                    "tmdb_rating": "4.5",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "2",
+                    "trakt_id": "153446",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fnolbOdNHiglSBk2po4xUCVhPoYz.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=252825",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Music"
+                ],
+                "imdbnumber": "",
+                "label": "Aerosmith: Monsters Of Rock 2013",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Aerosmith: Monsters Of Rock 2013",
+                "playcount": 0,
+                "plot": "Aerosmith live in Brazil in 2013. Setlist:  01. Intro  02. Back In The Saddle  03. Love In An Elevator  04. Toys In The Attic  05. Oh Yeah  06. Pink  07. Dude (Looks Like A Lady)  08. Rag Doll  09. Cryin'  10. Last Child  11. Jaded  12. Boogie Man  13. Combination  14. Eat The Rich / Whole Lotta Love  15. What It Takes  16. Livin' On The Edge  17. I Don't Want To Miss A Thing  18. No More No More  19. Come Together  20. Mother Popcorn  21. Walk This Way  22. Dream On  23. Sweet Emotion",
+                "plotoutline": "",
+                "premiered": "2013-10-20",
+                "productioncode": "",
+                "rating": 4.5,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 7260,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Aerosmith: Monsters Of Rock 2013",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "slug": "aerosmith-monsters-of-rock-2013-2013",
+                    "tmdb": "252825",
+                    "trakt": "153446"
+                },
+                "userrating": 0,
+                "votes": "2",
+                "writer": [],
+                "year": 2013
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f9CC8Ttq2yTwSd4dy7IJl0EGBooK.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fxDZouFlJ94R48Pd5v1tUvNuRmih.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fxDZouFlJ94R48Pd5v1tUvNuRmih.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Rihanna",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fidQMtwmB3LMvNXMfod6vIBzXvDg.jpg/"
+                    }
+                ],
+                "country": [],
+                "customproperties": {
+                    "available_releases": "Theatrical",
+                    "budget": "$0",
+                    "cast": "Rihanna",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=123184&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=123184)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=123184)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=123184)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=123184)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=123184)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Rihanna: Good Girl, Bad Girl,tmdb_type=movie,tmdb_id=123184)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt2339617",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "123184",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "ukpommy",
+                    "param.widget": "True",
+                    "popularity": "0.6",
+                    "provider.link": "https://www.themoviedb.org/movie/123184-rihanna-good-girl-bad-girl/watch?locale=US",
+                    "providers": "Amazon Video / Google Play Movies / YouTube / VUDU Free / Tubi TV / Microsoft Store / FILMRISE / Plex / Freevee Amazon Channel",
+                    "revenue": "$0",
+                    "slug_id": "rihanna-good-girl-bad-girl-2012",
+                    "theatrical_release": "2012-07-12",
+                    "tmdb_id": "123184",
+                    "tmdb_rating": "5.0",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "1",
+                    "trakt_id": "85018",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Thomas Gibson"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f9CC8Ttq2yTwSd4dy7IJl0EGBooK.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=123184",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Documentary"
+                ],
+                "imdbnumber": "tt2339617",
+                "label": "Rihanna: Good Girl, Bad Girl",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Rihanna: Good Girl, Bad Girl",
+                "playcount": 0,
+                "plot": "Good Girl Bad Girl tells the story of Rihanna, and her triumphant journey from poverty and obscurity on the Caribbean island of Barbados, to becoming a worldwide pop sensation.",
+                "plotoutline": "",
+                "premiered": "2012-07-12",
+                "productioncode": "",
+                "rating": 5.0,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 3300,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Rihanna: Good Girl, Bad Girl",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt2339617",
+                    "slug": "rihanna-good-girl-bad-girl-2012",
+                    "tmdb": "123184",
+                    "trakt": "85018",
+                    "unknown": "tt2339617"
+                },
+                "userrating": 0,
+                "votes": "1",
+                "writer": [
+                    "Thomas Gibson"
+                ],
+                "year": 2012
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fvuzMap2zNKmR3WPIWFttJvyajDI.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f9ee3yHWVF8iDVvvon8LirL7gTZK.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f9ee3yHWVF8iDVvvon8LirL7gTZK.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Joey Tempest",
+                        "order": 0,
+                        "role": "Vocals",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f638zDPBfNkUv6mtlupTK4nRGofl.jpg/"
+                    },
+                    {
+                        "name": "John Norum",
+                        "order": 1,
+                        "role": "Guitars",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fslD4wamHFQMPy1mDIWfGR57IJCF.jpg/"
+                    },
+                    {
+                        "name": "John Lev\u00e9n",
+                        "order": 2,
+                        "role": "Bass",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fxCSLrkNUZ5slUTgsKpcNrxVP4cr.jpg/"
+                    },
+                    {
+                        "name": "Mic Michaeli",
+                        "order": 3,
+                        "role": "Keyboards",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fkLKkce7iwCyt1PjPM670KP8vSHg.jpg/"
+                    },
+                    {
+                        "name": "Ian Haugland",
+                        "order": 4,
+                        "role": "Drums",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f6n0Ngh5uBpC4oyOxOKTddmOmrsT.jpg/"
+                    }
+                ],
+                "country": [],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Joey Tempest / John Norum / John Lev\u00e9n / Mic Michaeli / Ian Haugland",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=81809&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=81809)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=81809)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=81809)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=81809)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=81809)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Europe: Live! At Shepherd's Bush, London,tmdb_type=movie,tmdb_id=81809)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt2035500",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "81809",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "ukpommy",
+                    "param.widget": "True",
+                    "popularity": "0.6",
+                    "provider.link": "https://www.themoviedb.org/movie/81809-europe-live-at-shepherd-s-bush-london/watch?locale=US",
+                    "providers": "Google Play Movies / YouTube",
+                    "revenue": "$0",
+                    "slug_id": "europe-live-at-shepherd-s-bush-london-2011",
+                    "tmdb_id": "81809",
+                    "tmdb_rating": "2.9",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "4",
+                    "trakt_id": "61112",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fvuzMap2zNKmR3WPIWFttJvyajDI.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=81809",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Music"
+                ],
+                "imdbnumber": "tt2035500",
+                "label": "Europe: Live! At Shepherd's Bush, London",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Europe: Live! At Shepherd's Bush, London",
+                "playcount": 0,
+                "plot": "Live at Shepherd's Bush, London is a DVD by the Swedish hard rock band Europe. The main feature is a concert filmed at the O2 Shepherds Bush Empire in London, England on February 19, 2011. It was released on DVD and Blu-ray on June 15, 2011. Both the DVD and Blu-ray editions will include an extra CD that includes the same concert, except for three songs due to time constraints.",
+                "plotoutline": "",
+                "premiered": "2011-06-15",
+                "productioncode": "",
+                "rating": 2.9000000953674316,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 10800,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Europe: Live! At Shepherd's Bush, London",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt2035500",
+                    "slug": "europe-live-at-shepherd-s-bush-london-2011",
+                    "tmdb": "81809",
+                    "trakt": "61112",
+                    "unknown": "tt2035500"
+                },
+                "userrating": 0,
+                "votes": "4",
+                "writer": [],
+                "year": 2011
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fh0Ys8VX7bKRNa6AFuUZ7LJFo5c2.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fekMrcb6FpM4UvwAXodKuuXRX7q.jpg/",
+                    "landscape": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fm0uGlx0VIrDo5OSXnCXHsAwlb5s.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fekMrcb6FpM4UvwAXodKuuXRX7q.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Pink",
+                        "order": 0,
+                        "role": "P!NK",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fkRSHST66hj4B6KVuXBJzi6Q0jy3.jpg/"
+                    },
+                    {
+                        "name": "Alison Faulk",
+                        "order": 1,
+                        "role": "Choreographer / Dancer"
+                    }
+                ],
+                "country": [
+                    "Australia"
+                ],
+                "customproperties": {
+                    "available_releases": "Physical",
+                    "budget": "$0",
+                    "cast": "Pink / Alison Faulk",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=27308&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=27308)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=27308)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=27308)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=27308)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=27308)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=P!nk: Funhouse Tour - Live in Australia,tmdb_type=movie,tmdb_id=27308)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt1596280",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "27308",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "ukpommy",
+                    "param.widget": "True",
+                    "physical_release": "2009-12-08",
+                    "popularity": "3.421",
+                    "provider.link": "https://www.themoviedb.org/movie/27308-p-nk-funhouse-tour-live-in-australia/watch?locale=US",
+                    "providers": "Apple iTunes / Amazon Video / Google Play Movies / YouTube / Vudu",
+                    "revenue": "$0",
+                    "slug_id": "p-nk-funhouse-tour-live-in-australia-2009",
+                    "studio": "LaFace Records",
+                    "tmdb_id": "27308",
+                    "tmdb_rating": "8.4",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "14",
+                    "trakt_id": "16749",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Pink",
+                    "Baz Halpin",
+                    "Larn Poland"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fh0Ys8VX7bKRNa6AFuUZ7LJFo5c2.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=27308",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Music"
+                ],
+                "imdbnumber": "tt1596280",
+                "label": "P!nk: Funhouse Tour - Live in Australia",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "P!nk: Funhouse Tour - Live in Australia",
+                "playcount": 0,
+                "plot": "Funhouse Tour: Live in Australia is a live show by American pop singer P!NK. It was released on DVD, Blu-ray and also as a separate live album audio version. The album contains the July 17 and 18, 2009 shows from the Funhouse Tour, recorded at the Sydney Entertainment Centre in Sydney, Australia. It was released on October 14, 2009 by LaFace Records. In Australia, the release has been certified 32x Platinum.",
+                "plotoutline": "",
+                "premiered": "2009-12-08",
+                "productioncode": "",
+                "rating": 8.399999618530273,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 7200,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "LaFace Records"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "P!nk: Funhouse Tour - Live in Australia",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=wNxBPL-_T2M",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt1596280",
+                    "slug": "p-nk-funhouse-tour-live-in-australia-2009",
+                    "tmdb": "27308",
+                    "trakt": "16749",
+                    "unknown": "tt1596280"
+                },
+                "userrating": 0,
+                "votes": "14",
+                "writer": [
+                    "Pink"
+                ],
+                "year": 2009
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fabJnmkvQfzCxMODN0qmigcZnyfJ.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ftTyfHtiEEIkZ2FUf0tk9sqUywiM.jpg/",
+                    "landscape": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f1ZLelycBarGMeDh3AhNG3dainsc.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ftTyfHtiEEIkZ2FUf0tk9sqUywiM.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "George Michael",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f97ZAoQtREhnQJ7VM5013SAAhOXu.jpg/"
+                    },
+                    {
+                        "name": "Chris Cameron",
+                        "order": 1,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Danny Cummings",
+                        "order": 2,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Lea Mullen",
+                        "order": 3,
+                        "role": "Herself"
+                    },
+                    {
+                        "name": "Phil Palmer",
+                        "order": 4,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Andy Hamilton",
+                        "order": 5,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Steve Walters",
+                        "order": 6,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Mike Brown",
+                        "order": 7,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Carlos Hercules",
+                        "order": 8,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Graham Kearns",
+                        "order": 9,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Luke Smith",
+                        "order": 10,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Shirley Lewis",
+                        "order": 11,
+                        "role": "Herself"
+                    },
+                    {
+                        "name": "Jay Henry",
+                        "order": 12,
+                        "role": "Herself"
+                    },
+                    {
+                        "name": "Lincoln Jean-Marie",
+                        "order": 13,
+                        "role": "Herself"
+                    },
+                    {
+                        "name": "Lori Perry",
+                        "order": 14,
+                        "role": "Herself"
+                    },
+                    {
+                        "name": "Sharon Perry",
+                        "order": 15,
+                        "role": "Herself"
+                    },
+                    {
+                        "name": "Lucita Jules",
+                        "order": 16,
+                        "role": "Herself"
+                    }
+                ],
+                "country": [
+                    "United Kingdom"
+                ],
+                "customproperties": {
+                    "available_releases": "Theatrical",
+                    "budget": "$0",
+                    "cast": "George Michael / Chris Cameron / Danny Cummings / Lea Mullen / Phil Palmer / Andy Hamilton / Steve Walters / Mike Brown / Carlos Hercules / Graham Kearns / Luke Smith / Shirley Lewis / Jay Henry / Lincoln Jean-Marie / Lori Perry / Sharon Perry / Lucita Jules",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=26695&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=26695)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=26695)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=26695)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=26695)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=26695)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=George Michael: Live in London,tmdb_type=movie,tmdb_id=26695)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt1418353",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "26695",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "ukpommy",
+                    "param.widget": "True",
+                    "popularity": "2.84",
+                    "provider.link": "https://www.themoviedb.org/movie/26695-george-michael-live-in-london/watch?locale=US",
+                    "providers": "Amazon Video / Google Play Movies / YouTube / Vudu / Microsoft Store / AMC on Demand",
+                    "revenue": "$0",
+                    "slug_id": "george-michael-live-in-london-2009",
+                    "theatrical_release": "2009-12-03",
+                    "tmdb_id": "26695",
+                    "tmdb_rating": "7.9",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "14",
+                    "trakt_id": "16275",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Andrew Morahan"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fabJnmkvQfzCxMODN0qmigcZnyfJ.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=26695",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Music"
+                ],
+                "imdbnumber": "tt1418353",
+                "label": "George Michael: Live in London",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "George Michael: Live in London",
+                "playcount": 0,
+                "plot": "Live in London is a live concert recording of George Michael's final two concerts in London's Earl's Court arena on 24th and 25th August 2008 as part of his 25 Live tour. It features a career-spanning set that includes Wham! classics and his solo hits. This is the first live DVD of George Michael's career.",
+                "plotoutline": "",
+                "premiered": "2009-12-03",
+                "productioncode": "",
+                "rating": 7.900000095367432,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 8040,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "George Michael: Live in London",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt1418353",
+                    "slug": "george-michael-live-in-london-2009",
+                    "tmdb": "26695",
+                    "trakt": "16275",
+                    "unknown": "tt1418353"
+                },
+                "userrating": 0,
+                "votes": "14",
+                "writer": [],
+                "year": 2009
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f3PPCbVTEIQohe9JmecvFM9u44Zp.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f55hBIFPBNIYCqxJDXCJsoBxFIDW.jpg/",
+                    "landscape": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fkHxOdI75bzYswXG0ZCc8MnbFuvs.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f55hBIFPBNIYCqxJDXCJsoBxFIDW.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Meat Loaf",
+                        "order": 0,
+                        "role": "Himself",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f7gKLR1u46OB8WJ6m06LemNBCMx6.jpg/"
+                    },
+                    {
+                        "name": "Kasim Sulton",
+                        "order": 1,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "John Miceli",
+                        "order": 2,
+                        "role": "Himself",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fguyB1c8bxdP7oWzfvJ9vXMU3CjH.jpg/"
+                    },
+                    {
+                        "name": "Mark Alexander",
+                        "order": 3,
+                        "role": "Himself",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fiAcJ32T7jEG0ItvTKAOIAuyGQIZ.jpg/"
+                    },
+                    {
+                        "name": "Paul Crook",
+                        "order": 4,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Randy Flowers",
+                        "order": 5,
+                        "role": "Himself",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fyBxA93AiTMik46Cc40x5Xr4oG16.jpg/"
+                    },
+                    {
+                        "name": "Dave Luther",
+                        "order": 6,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Marion Raven",
+                        "order": 7,
+                        "role": "Herself",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fjn7ss9d2Iutpe5KXrqWpnx9NTLi.jpg/"
+                    },
+                    {
+                        "name": "Aspen Miller",
+                        "order": 8,
+                        "role": "Herself",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fgldqp9Zm3PHgDOAqmWpSGJzT18i.jpg/"
+                    },
+                    {
+                        "name": "\"C.C\" Coletti-Jablonski",
+                        "order": 9,
+                        "role": "Herself"
+                    },
+                    {
+                        "name": "Carolyn Coletti",
+                        "order": 10,
+                        "role": "Herself",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f9GRhWzYlBGD1ELQeKY0IgWQPkjQ.jpg/"
+                    }
+                ],
+                "country": [],
+                "customproperties": {
+                    "available_releases": "Physical",
+                    "budget": "$0",
+                    "cast": "Meat Loaf / Kasim Sulton / John Miceli / Mark Alexander / Paul Crook / Randy Flowers / Dave Luther / Marion Raven / Aspen Miller / \"C.C\" Coletti-Jablonski / Carolyn Coletti",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=44822&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=44822)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=44822)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=44822)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=44822)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=44822)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Meat Loaf: Three Bats Live,tmdb_type=movie,tmdb_id=44822)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt1164615",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "44822",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "ukpommy",
+                    "param.widget": "True",
+                    "physical_release": "2007-11-20",
+                    "popularity": "2.161",
+                    "revenue": "$0",
+                    "slug_id": "meat-loaf-three-bats-live-2007",
+                    "studio": "Hip-O Records",
+                    "tmdb_id": "44822",
+                    "tmdb_rating": "6.7",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "6",
+                    "trakt_id": "30470",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Red Hamilton"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f3PPCbVTEIQohe9JmecvFM9u44Zp.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=44822",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Music"
+                ],
+                "imdbnumber": "tt1164615",
+                "label": "Meat Loaf: Three Bats Live",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Meat Loaf: Three Bats Live",
+                "playcount": 0,
+                "plot": "3 Bats Live is a music DVD by rock singer Meat Loaf. Recorded on March 18, 2007 at London, Ontario during his Seize the Night tour, it mainly features songs from the Bat Out of Hell trilogy.",
+                "plotoutline": "",
+                "premiered": "2007-10-15",
+                "productioncode": "",
+                "rating": 6.699999809265137,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 8700,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Hip-O Records"
+                ],
+                "tag": [],
+                "tagline": "London (Ontario), Kanada on 18 March 2007",
+                "thumbnail": "",
+                "title": "Meat Loaf: Three Bats Live",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=Emm07Dyob1w",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt1164615",
+                    "slug": "meat-loaf-three-bats-live-2007",
+                    "tmdb": "44822",
+                    "trakt": "30470",
+                    "unknown": "tt1164615"
+                },
+                "userrating": 0,
+                "votes": "6",
+                "writer": [],
+                "year": 2007
+            },
+            {
+                "album": "",
+                "art": {
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fhpO4QKp2tgmF9PgvxhrZNYW1Jm0.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fhpO4QKp2tgmF9PgvxhrZNYW1Jm0.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Meat Loaf",
+                        "order": 0,
+                        "role": "Himself - Lead Vocals",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f7gKLR1u46OB8WJ6m06LemNBCMx6.jpg/"
+                    },
+                    {
+                        "name": "Jim Steinman",
+                        "order": 1,
+                        "role": "Himself - Piano / Backing Vocals",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f3a3ZvWLwZ2G8GQK6XdIRc2qJ2fc.jpg/"
+                    },
+                    {
+                        "name": "Karla DeVito",
+                        "order": 2,
+                        "role": "Herself - Female Lead Vocals / Backing Vocals (archive footage)"
+                    },
+                    {
+                        "name": "Bruce Kulick",
+                        "order": 3,
+                        "role": "Himself - Guitar (archive footage)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fJRgA9PDgWZIjFqLREsrbD0s0su.jpg/"
+                    },
+                    {
+                        "name": "Bob Kulick",
+                        "order": 4,
+                        "role": "Himself - Guitar (archive footage)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f7CRQVQ3B68oxAi9m9CFqqRthGYp.jpg/"
+                    },
+                    {
+                        "name": "Paul Glanz",
+                        "order": 5,
+                        "role": "Himself - Keyboards (archive footage)"
+                    },
+                    {
+                        "name": "Steve Buslowe",
+                        "order": 6,
+                        "role": "Himself - Bass (archive footage)"
+                    },
+                    {
+                        "name": "Joe Stefko",
+                        "order": 7,
+                        "role": "Himself - Drums (archive footage)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fcs9rml4vzxkYux4Mju8ViXCvB4n.jpg/"
+                    },
+                    {
+                        "name": "Rory Dodd",
+                        "order": 8,
+                        "role": "Himself - Backing Vocals (archive footage)"
+                    },
+                    {
+                        "name": "J\u00f6rg G\u00fclden",
+                        "order": 9,
+                        "role": "Himself - Interviewer"
+                    }
+                ],
+                "country": [
+                    "United Kingdom",
+                    "United States of America"
+                ],
+                "customproperties": {
+                    "available_releases": "Digital",
+                    "budget": "$0",
+                    "cast": "Meat Loaf / Jim Steinman / Karla DeVito / Bruce Kulick / Bob Kulick / Paul Glanz / Steve Buslowe / Joe Stefko / Rory Dodd / J\u00f6rg G\u00fclden",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=166021&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=166021)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=166021)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=166021)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=166021)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=166021)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Meat Loaf: Bat Out Of Hell - The Original Tour,tmdb_type=movie,tmdb_id=166021)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "dbtype": "movie",
+                    "digital_release": "2009-11-10",
+                    "imdb_id": "tt2981424",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "166021",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "ukpommy",
+                    "param.widget": "True",
+                    "popularity": "2.631",
+                    "revenue": "$0",
+                    "slug_id": "meat-loaf-bat-out-of-hell-the-original-tour-2009",
+                    "studio": "Eagle Rock Entertainment",
+                    "tmdb_id": "166021",
+                    "tmdb_rating": "7.0",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "1",
+                    "trakt_id": "106483",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Christian Wagner"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=166021",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Music",
+                    "Documentary"
+                ],
+                "imdbnumber": "tt2981424",
+                "label": "Meat Loaf: Bat Out Of Hell - The Original Tour",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Meat Loaf: Bat Out Of Hell - The Original Tour",
+                "playcount": 0,
+                "plot": "This concert from the Stadthalle Offenbach in Germany was filmed on June 11th. 1978 for the German Rockpalast TV series and perfectly captures the raw excitement of the original Bat Out Of Hell tour with Meat Loaf dominating the stage and the album s songwriter Jim Steinman contributing heavily.",
+                "plotoutline": "",
+                "premiered": "2009-11-09",
+                "productioncode": "",
+                "rating": 7.0,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 6300,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Eagle Rock Entertainment"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Meat Loaf: Bat Out Of Hell - The Original Tour",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt2981424",
+                    "slug": "meat-loaf-bat-out-of-hell-the-original-tour-2009",
+                    "tmdb": "166021",
+                    "trakt": "106483",
+                    "unknown": "tt2981424"
+                },
+                "userrating": 0,
+                "votes": "1",
+                "writer": [
+                    "Meat Loaf",
+                    "Jim Steinman"
+                ],
+                "year": 2009
+            }
+        ],
+        "limits": {
+            "end": 20,
+            "start": 0,
+            "total": 20
+        }
+    }
+}

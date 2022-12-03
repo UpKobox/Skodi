@@ -1,0 +1,28 @@
+{
+    "action": "random",
+    "id": "42643716-6273-46a7-ad5f-1112912b60c0",
+    "group": "concerts-1662286265.1350222",
+    "refresh": 2.0,
+    "path": "concerts-1662286662.3413813",
+    "version": "3.7.0",
+    "current": 7,
+    "cycle_paths": [
+        "concerts-1662286274.0343134",
+        "concerts-1662286310.1231759",
+        "concerts-1662286328.7977178",
+        "concerts-1662286351.822666",
+        "live_concerts-1662286383.7229917",
+        "concerts-1662286414.4935958",
+        "live_concerts__music-1662286453.744102",
+        "music__live_concerts-1662286479.8201358",
+        "concerts-1662286500.793139",
+        "concerts-1662286520.2532017",
+        "concerts-1662286563.3965967",
+        "concerts-1662286587.8412688",
+        "concerts-1662286641.013021",
+        "concerts-1662286662.3413813"
+    ],
+    "stack": [],
+    "label": "Concerts",
+    "updated": 1662542414.5525894
+}

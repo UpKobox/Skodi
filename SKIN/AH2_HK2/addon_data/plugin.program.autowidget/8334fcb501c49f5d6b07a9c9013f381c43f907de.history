@@ -1,0 +1,61 @@
+{
+    "history": [
+        [
+            1662545287.7300472,
+            "7b3ca43275807707308ee90f389c574d001ee6e1"
+        ],
+        [
+            1664347366.929243,
+            "02822c1dc94994a1eee8e21ad7ceea0727235275"
+        ],
+        [
+            1664347990.1700058,
+            "02822c1dc94994a1eee8e21ad7ceea0727235275"
+        ],
+        [
+            1664348326.6435192,
+            "02822c1dc94994a1eee8e21ad7ceea0727235275"
+        ],
+        [
+            1664348692.9423275,
+            "02822c1dc94994a1eee8e21ad7ceea0727235275"
+        ],
+        [
+            1664349360.4221578,
+            "cd269c5fc920106ce82cf052c7fec52ccd7f3b68"
+        ],
+        [
+            1664349675.7607014,
+            "02822c1dc94994a1eee8e21ad7ceea0727235275"
+        ],
+        [
+            1664350020.4446006,
+            "02822c1dc94994a1eee8e21ad7ceea0727235275"
+        ],
+        [
+            1664351926.1311634,
+            "278cf3be571651790e218b00a2dbe67be51bc527"
+        ],
+        [
+            1664354945.7088196,
+            "278cf3be571651790e218b00a2dbe67be51bc527"
+        ],
+        [
+            1664356132.0665584,
+            "278cf3be571651790e218b00a2dbe67be51bc527"
+        ],
+        [
+            1664358212.3502526,
+            "278cf3be571651790e218b00a2dbe67be51bc527"
+        ],
+        [
+            1669991055.4595556,
+            "cfb103ae04e1790beb0824ea7f61f73c20b33a87"
+        ]
+    ],
+    "widgets": [
+        "d70f506e-16a6-4f04-bd9c-45ed4680c8ae",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=CONCERTS&list_slug=concerts&owner=true&plugin_category=CONCERTS&user_slug=ezzer_man&widget=True"
+}
