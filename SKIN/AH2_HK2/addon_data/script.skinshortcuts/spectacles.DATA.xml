@@ -1,0 +1,42 @@
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>Recherche</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/search.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=affSearch",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Spectacles</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/person3.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&amp;famille=spectacle&amp;offset=0",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Concerts</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/songs.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&amp;famille=concert&amp;offset=0",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Theatre</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/person2.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&amp;famille=groupes&amp;offset=0&amp;nom=theatre",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Catch Ufc</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/wwe-network.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&amp;famille=groupes&amp;offset=0&amp;nom=ufc+catch",return)</action>
+		</shortcut>
+	</shortcuts>

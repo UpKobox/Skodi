@@ -8,7 +8,6 @@
                 "art": {
                     "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fd8akeoGhUnK1UwvRemU0of7WiY1.jpg/",
                     "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fk3ReV8hweNxRBZ4BvLetbxDgd0w.jpg/",
-                    "landscape": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fd8akeoGhUnK1UwvRemU0of7WiY1.jpg/",
                     "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fk3ReV8hweNxRBZ4BvLetbxDgd0w.jpg/"
                 },
                 "artist": [],
@@ -41,7 +40,6 @@
                 ],
                 "country": [],
                 "customproperties": {
-                    "available_releases": "Theatrical",
                     "budget": "$0",
                     "cast": "Nick Hexum / Doug \"SA\" Martinez / Aaron \"P-Nut\" Wills / Chad Sexton / Tim Mahoney",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=143116&ignore_default=true)",
@@ -72,10 +70,9 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "specialsauce",
                     "param.widget": "True",
-                    "popularity": "1.4",
+                    "popularity": "1.151",
                     "revenue": "$0",
                     "slug_id": "311-day-live-in-new-orleans-2004",
-                    "theatrical_release": "2004-10-26",
                     "tmdb_id": "143116",
                     "tmdb_rating": "5.2",
                     "tmdb_type": "movie",
@@ -94,7 +91,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "tt0440989",
                 "label": "311 Day: Live in New Orleans",
@@ -104,14 +101,14 @@
                 "mpaa": "",
                 "originaltitle": "311 Day: Live in New Orleans",
                 "playcount": 0,
-                "plot": "311 has had a history of celebrating their namesake on the 11th of the third month (March) each even-numbered year, almost always after having released an album the previous summer. The celebration consisted of a live concert, a tradition over recent years has developed for the band to out-perform themselves in regard to the previous '311 Day'. The result is a 64-song set list featuring album tracks and a large collection of b-sides recorded at UNO Lakefront Arena in New Orleans on March 11, 2004.",
+                "plot": "",
                 "plotoutline": "",
                 "premiered": "2004-10-26",
                 "productioncode": "",
                 "rating": 5.199999809265137,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 18000.0
                 },
                 "runtime": 18000,
                 "season": -1,
@@ -241,7 +238,6 @@
                     "Sweden"
                 ],
                 "customproperties": {
-                    "available_releases": "Physical",
                     "budget": "$0",
                     "cast": "Benny Andersson / Agnetha F\u00e4ltskog / Anni-Frid Lyngstad / Bj\u00f6rn Ulvaeus / Tomas Ledin / Birgitta Wollg\u00e5rd / Liza \u00d6hman / Ola Brunkert / Anders Eljas / Rutger Gunnarsson / Mats Ronander / \u00c5ke Sundqvist / Lars Wellander / Phillip Page",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=26236&ignore_default=true)",
@@ -250,7 +246,7 @@
                     "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=26236)",
                     "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=26236)",
                     "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=26236)",
-                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=ABBA: In Concert,tmdb_type=movie,tmdb_id=26236)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=ABBA : Live \u00e0 Wembley,tmdb_type=movie,tmdb_id=26236)",
                     "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
                     "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
                     "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
@@ -272,8 +268,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "specialsauce",
                     "param.widget": "True",
-                    "physical_release": "1979-12-31",
-                    "popularity": "1.908",
+                    "popularity": "1.39",
                     "revenue": "$0",
                     "slug_id": "abba-in-concert-1979",
                     "studio": "SVT",
@@ -295,27 +290,27 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music",
-                    "Documentary"
+                    "Musique",
+                    "Documentaire"
                 ],
                 "imdbnumber": "tt0416453",
-                "label": "ABBA: In Concert",
+                "label": "ABBA : Live \u00e0 Wembley",
                 "lastmodified": "",
                 "lastplayed": "",
                 "mimetype": "application/octet-stream",
                 "mpaa": "",
                 "originaltitle": "ABBA: In Concert",
                 "playcount": 0,
-                "plot": "ABBA's 1979 tour of North America and Europe, with emphasis on performances at Wembley Arena, London.",
+                "plot": "A mi chemin entre la captation de concert et du documentaire, ce spectacle alterne entre moments sur sc\u00e8ne et s\u00e9quences en coulisses. Une cascade de tubes irr\u00e9sistibles.",
                 "plotoutline": "",
                 "premiered": "1979-12-31",
                 "productioncode": "",
                 "rating": 6.400000095367432,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 3060.0
                 },
-                "runtime": 3120,
+                "runtime": 3060,
                 "season": -1,
                 "set": "",
                 "setid": -1,
@@ -337,7 +332,7 @@
                 "tag": [],
                 "tagline": "",
                 "thumbnail": "",
-                "title": "ABBA: In Concert",
+                "title": "ABBA : Live \u00e0 Wembley",
                 "top250": 0,
                 "track": -1,
                 "trailer": "",
@@ -427,9 +422,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "specialsauce",
                     "param.widget": "True",
-                    "popularity": "0.6",
-                    "provider.link": "https://www.themoviedb.org/movie/122307-ac-dc-live-at-the-circus-krone/watch?locale=US",
-                    "providers": "Google Play Movies / YouTube / Microsoft Store",
+                    "popularity": "0.841",
                     "revenue": "$0",
                     "slug_id": "ac-dc-live-at-the-circus-krone-2003-06-17",
                     "studio": "Columbia Music Video",
@@ -451,7 +444,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "",
                 "label": "AC/DC: Live At The Circus Krone",
@@ -461,14 +454,14 @@
                 "mpaa": "",
                 "originaltitle": "AC/DC: Live At The Circus Krone",
                 "playcount": 0,
-                "plot": "2003 was a big year for AC/DC which included their induction into the Rock and Roll Hall of Fame to European dates with the Rolling Stones, the band made several high-profile public appearances (including the SARS concert in Toronto for 200,000 people). One run of shows found the band returning to their roots and playing clubs and theaters where fans were treated to sweaty, stripped-down shows and even playing some rarities they hadn't played in years. This DVD show from Munich, Germany was filmed at Circus Krone 2003 and this disc only available on the Deluxe Edition.",
+                "plot": "",
                 "plotoutline": "",
                 "premiered": "2003-06-17",
                 "productioncode": "",
                 "rating": 0.0,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 2700.0
                 },
                 "runtime": 2700,
                 "season": -1,
@@ -511,9 +504,21 @@
             {
                 "album": "",
                 "art": {
+                    "banner": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f63973%2fmoviebanner%2facdc-live-at-river-plate-546650540a773.jpg/",
+                    "clearart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f63973%2fhdmovieclearart%2facdc-live-at-river-plate-5299d44e71a32.png/",
+                    "clearlogo": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f63973%2fhdmovielogo%2facdc-live-at-river-plate-53ec6429bfa50.png/",
+                    "discart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f63973%2fmoviedisc%2facdc-live-at-river-plate-5298f4b57eeef.png/",
                     "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f8ly6ZrxZPNYra1GCUxTC0vfNA2I.jpg/",
-                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f3IBHZxJbhpeFgWbIZNdr8aHTl3h.jpg/",
-                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f3IBHZxJbhpeFgWbIZNdr8aHTl3h.jpg/"
+                    "fanart1": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f63973%2fmoviebackground%2facdc-live-at-river-plate-54575b1437004.jpg/",
+                    "fanart2": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f63973%2fmoviebackground%2facdc-live-at-river-plate-54575b1436805.jpg/",
+                    "fanart3": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f63973%2fmoviebackground%2facdc-live-at-river-plate-54575b1437a76.jpg/",
+                    "fanart4": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f63973%2fmoviebackground%2facdc-live-at-river-plate-54575b1437712.jpg/",
+                    "fanart5": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f63973%2fmoviebackground%2facdc-live-at-river-plate-54575b14373bc.jpg/",
+                    "fanart6": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f63973%2fmoviebackground%2facdc-live-at-river-plate-54575b1436c1e.jpg/",
+                    "fanart7": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f63973%2fmoviebackground%2facdc-live-at-river-plate-54575b1436254.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fcfAxBsSkcbpOVla9VhAFzlXYPSo.jpg/",
+                    "landscape": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f63973%2fmoviethumb%2facdc-live-at-river-plate-54575bc7d8469.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fcfAxBsSkcbpOVla9VhAFzlXYPSo.jpg/"
                 },
                 "artist": [],
                 "cast": [
@@ -584,9 +589,9 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "specialsauce",
                     "param.widget": "True",
-                    "popularity": "9.29",
-                    "provider.link": "https://www.themoviedb.org/movie/63973-ac-dc-live-at-river-plate/watch?locale=US",
-                    "providers": "Apple iTunes / Amazon Video / Google Play Movies / YouTube / Vudu / Microsoft Store",
+                    "popularity": "8.013",
+                    "provider.link": "https://www.themoviedb.org/movie/63973-ac-dc-live-at-river-plate/watch?locale=FR",
+                    "providers": "Apple iTunes",
                     "revenue": "$0",
                     "slug_id": "ac-dc-live-at-river-plate-2009",
                     "studio": "Leidseplein Presse",
@@ -609,8 +614,8 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music",
-                    "Documentary"
+                    "Musique",
+                    "Documentaire"
                 ],
                 "imdbnumber": "tt1933535",
                 "label": "AC/DC: Live at River Plate",
@@ -620,16 +625,16 @@
                 "mpaa": "",
                 "originaltitle": "AC/DC: Live at River Plate",
                 "playcount": 0,
-                "plot": "A definitive live concert film documenting AC/DC\u2019s massive Black Ice World Tour. Shot in December of 2009, AC/DC Live at River Plate marks AC/DC\u2019s triumphant return to Buenos Aires where nearly 200,000 fans, and 3 sold-out shows, welcomed the band back after a 13 year absence from Argentina. This stunning live footage of AC/DC underscores what Argentina\u2019s Pagina 12 newspaper reported by saying \u201cno one is on the same level when it comes to pure and clear Rock \u2018n Roll.\u201d",
+                "plot": "Les cloches de l\u2019enfer du groupe le plus rock de la plan\u00e8te r\u00e9sonnent \u00e0 nouveau ! Tourn\u00e9 en 2009 au \u00ab\u202fEl Monumental\u202f\u00bb River Plate Stadium, le programme marque le retour du groupe \u00e0 Buenos Aires, o\u00f9 200 000 fans et 3 spectacles \u00e0 guichets ferm\u00e9s ont salu\u00e9 l\u2019une des dates les plus spectaculaires du \u00ab\u202fBlack Ice World Tour\u202f\u00bb des AC/DC. R\u00e9alis\u00e9 par David Mallet et produit par Rocky Oldman, \u00ab\u202fLive at River Plate\u202f\u00bb a \u00e9t\u00e9 tourn\u00e9 avec 32 cam\u00e9ras HD et d\u00e9voile la derni\u00e8re tourn\u00e9e mondiale d\u2019Angus Young & C dans toute sa splendeur. Incontournable !  1.  Rock N Roll Train  2.  Hell Ain\u2019t A Bad Place To Be  3.  Back In Black  4.  Big Jack  5.  Dirty Deeds Done Dirt Cheap  6.  Shot Down In Flames  7.  Thunderstruck  8.  Black Ice  9.  The Jack  10. Hells Bells  11. Shoot To Thrill  12. War Machine  13. Dog Eat Dog  14. You Shook Me All Night Long  15. T.N.T.  16. Whole Lotta Rosie  17. Let There Be Rock  18. Highway To Hell  19. For Those About To Rock (We Salute You)",
                 "plotoutline": "",
                 "premiered": "2009-12-11",
                 "productioncode": "",
-                "rating": 8.050999641418457,
+                "rating": 8.100000381469727,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 6660.0
                 },
-                "runtime": 6600,
+                "runtime": 6660,
                 "season": -1,
                 "set": "",
                 "setid": -1,
@@ -648,7 +653,7 @@
                     "Leidseplein Presse"
                 ],
                 "tag": [],
-                "tagline": "Estadio River Plate in Buenos Aires, Argentina on December 2009",
+                "tagline": "",
                 "thumbnail": "",
                 "title": "AC/DC: Live at River Plate",
                 "top250": 0,
@@ -678,7 +683,6 @@
                 "cast": [],
                 "country": [],
                 "customproperties": {
-                    "available_releases": "Theatrical",
                     "budget": "$0",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=69259&ignore_default=true)",
                     "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=69259)",
@@ -711,7 +715,6 @@
                     "popularity": "0.6",
                     "revenue": "$0",
                     "slug_id": "alice-in-chains-live-facelift-1991",
-                    "theatrical_release": "1991-07-30",
                     "tmdb_id": "69259",
                     "tmdb_rating": "7.9",
                     "tmdb_type": "movie",
@@ -728,7 +731,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "tt0317880",
                 "label": "Alice in Chains: Live Facelift",
@@ -738,14 +741,14 @@
                 "mpaa": "",
                 "originaltitle": "Alice in Chains: Live Facelift",
                 "playcount": 0,
-                "plot": "Heavy-hitting alternative rockers Alice in Chains serve up their dark guitar-driven music before a hometown crowd in this live video shot at the Moore Theater in Seattle. Along with five live versions of songs from the Facelift album (including \"Man in the Box,\" \"Bleed the Freak,\" and \"Love, Hate, Love\"), Alice in Chains: Live Facelift also includes three bonus music videos, including \"Sea of Sorrow\" and \"We Die Young.\"",
+                "plot": "",
                 "plotoutline": "",
                 "premiered": "1991-07-30",
                 "productioncode": "",
                 "rating": 7.900000095367432,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 2400.0
                 },
                 "runtime": 2400,
                 "season": -1,
@@ -824,7 +827,6 @@
                     "United States of America"
                 ],
                 "customproperties": {
-                    "available_releases": "Physical",
                     "budget": "$0",
                     "cast": "Charlie Clouser / Robin Finck / Jerome Dillon / Danny Lohner / Trent Reznor",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=25202&ignore_default=true)",
@@ -855,8 +857,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "specialsauce",
                     "param.widget": "True",
-                    "physical_release": "2002-01-22",
-                    "popularity": "2.641",
+                    "popularity": "2.602",
                     "revenue": "$0",
                     "slug_id": "and-all-that-could-have-been-2002",
                     "tmdb_id": "25202",
@@ -877,8 +878,8 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music",
-                    "Documentary"
+                    "Musique",
+                    "Documentaire"
                 ],
                 "imdbnumber": "tt0287594",
                 "label": "And All That Could Have Been",
@@ -888,14 +889,14 @@
                 "mpaa": "",
                 "originaltitle": "And All That Could Have Been",
                 "playcount": 0,
-                "plot": "Rob Sheridan and other members of the band's crew filmed the Fragility 2.0 tour using consumer DV cameras.",
+                "plot": "Concert de Nine Inch Nails qui comprend des s\u00e9quences vid\u00e9o de la tourn\u00e9e Fragility V2.0 (2000).",
                 "plotoutline": "",
                 "premiered": "2002-01-22",
                 "productioncode": "",
                 "rating": 7.400000095367432,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 5160.0
                 },
                 "runtime": 5160,
                 "season": -1,
@@ -971,7 +972,6 @@
                     "United States of America"
                 ],
                 "customproperties": {
-                    "available_releases": "Theatrical",
                     "budget": "$0",
                     "cast": "Ani DiFranco / Todd Sickafoose / Allison Miller / Mike Dillon",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=37328&ignore_default=true)",
@@ -1001,11 +1001,10 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "specialsauce",
                     "param.widget": "True",
-                    "popularity": "0.949",
+                    "popularity": "0.91",
                     "revenue": "$0",
                     "slug_id": "ani-difranco-live-at-babeville-2008",
                     "studio": "RIGHTEOUS BABE",
-                    "theatrical_release": "2008-04-01",
                     "tmdb_id": "37328",
                     "tmdb_rating": "4.0",
                     "tmdb_type": "movie",
@@ -1022,24 +1021,24 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "",
                 "label": "Ani DiFranco - Live at Babeville",
                 "lastmodified": "",
                 "lastplayed": "",
                 "mimetype": "application/octet-stream",
-                "mpaa": "Rated PG-13",
+                "mpaa": "",
                 "originaltitle": "Ani DiFranco - Live at Babeville",
                 "playcount": 0,
-                "plot": "On September 11 and 12, 2007, singer / songwriter / guitarist Ani DiFranco played two sold-out shows before a hometown audience in Buffalo, New York. What made those nights so special wasn\u2019t just the music\u2014because that\u2019s always special at an Ani show\u2014but the fact that she was playing the inaugural shows in her very own venue, a downtown church once slated for demolition that has been beautifully restored as a state-of-the-art music hall and newly renamed \u201cBabeville.\u201d Ani took the opportunity to fashion a two-night retrospective of sorts, performing songs from every stage of her fabled career in breathtaking new arrangements with her latest touring band; Allison Miller on drums, Todd Sickafoose on upright bass and Mike Dillon on vibes and percussion. The spirit of celebration was in the air, and energy in the room-both onstage and in the audience\u2014was extraordinary.",
+                "plot": "",
                 "plotoutline": "",
                 "premiered": "2008-04-01",
                 "productioncode": "",
                 "rating": 4.0,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 5400.0
                 },
                 "runtime": 5400,
                 "season": -1,
@@ -1089,7 +1088,6 @@
                 "cast": [],
                 "country": [],
                 "customproperties": {
-                    "available_releases": "Theatrical",
                     "budget": "$0",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=242897&ignore_default=true)",
                     "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=242897)",
@@ -1121,7 +1119,6 @@
                     "popularity": "0.6",
                     "revenue": "$0",
                     "slug_id": "annie-lennox-live-in-central-park-1995",
-                    "theatrical_release": "1995-01-01",
                     "tmdb_id": "242897",
                     "tmdb_rating": "0.0",
                     "tmdb_type": "movie",
@@ -1146,14 +1143,14 @@
                 "mpaa": "",
                 "originaltitle": "Annie Lennox: Live in Central Park",
                 "playcount": 0,
-                "plot": "The 2004 Oscar winner for Best Song (from Lord of the Rings: Return of the King) is seen in her first U.S. solo concert, taped at the Central Park Summerstage in New York on September 8, 1995. Lennox performs such classics as \"Sweet Dreams,\" \"No More 'I Love You's',\" \"A Whiter Shade of Pale,\" \"Waiting in Vain\" and \"Something So Right\" as well as other tunes from her 1992 debut album, \"Diva.\" Also includes four music videos.",
+                "plot": "",
                 "plotoutline": "",
                 "premiered": "1995-01-01",
                 "productioncode": "",
                 "rating": 0.0,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 5400.0
                 },
                 "runtime": 5400,
                 "season": -1,
@@ -1226,7 +1223,6 @@
                     "Japan"
                 ],
                 "customproperties": {
-                    "available_releases": "Theatrical",
                     "budget": "$0",
                     "cast": "Steve Howe / John Wetton / Carl Palmer / Geoff Downes",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=52572&ignore_default=true)",
@@ -1235,7 +1231,7 @@
                     "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=52572)",
                     "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=52572)",
                     "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=52572)",
-                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Asia: Fantasia - Live in Tokyo,tmdb_type=movie,tmdb_id=52572)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Asia : Fantasia - Live in Tokyo,tmdb_type=movie,tmdb_id=52572)",
                     "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
                     "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
                     "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
@@ -1258,11 +1254,8 @@
                     "param.user_slug": "specialsauce",
                     "param.widget": "True",
                     "popularity": "0.6",
-                    "provider.link": "https://www.themoviedb.org/movie/52572-asia-fantasia-live-in-tokyo/watch?locale=US",
-                    "providers": "Amazon Video / Google Play Movies / YouTube",
                     "revenue": "$0",
                     "slug_id": "asia-fantasia-live-in-tokyo-2007",
-                    "theatrical_release": "2007-09-24",
                     "tmdb_id": "52572",
                     "tmdb_rating": "5.9",
                     "tmdb_type": "movie",
@@ -1281,24 +1274,24 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "tt1194099",
-                "label": "Asia: Fantasia - Live in Tokyo",
+                "label": "Asia : Fantasia - Live in Tokyo",
                 "lastmodified": "",
                 "lastplayed": "",
                 "mimetype": "application/octet-stream",
                 "mpaa": "",
                 "originaltitle": "Asia: Fantasia - Live in Tokyo",
                 "playcount": 0,
-                "plot": "This album is the Asia fan's dream come true. An outstanding music BDDisc (filmed in Tokyo) which features the 4 original members (John Wetton, Steve Howe, Geoffrey Downes, and Carl Palmer), accompanied by excellent sound quality and camera work. The camera focusses on the band members playing and does not dart back and forth from the audience to the band members. What a relief! This album marks the 25th anniversary of the 1st Asia album, which came out in 1982.",
+                "plot": "Cet album est le r\u00eave devenu r\u00e9alit\u00e9 des fans d'Asia. Un BDDisc musical exceptionnel (tourn\u00e9 \u00e0 Tokyo) qui met en vedette les 4 membres originaux (John Wetton, Steve Howe, Geoffrey Downes et Carl Palmer), accompagn\u00e9 d'une excellente qualit\u00e9 sonore et visuel. Cet album marque le 25e anniversaire du 1er album d'Asie, sorti en 1982.",
                 "plotoutline": "",
                 "premiered": "2007-09-24",
                 "productioncode": "",
                 "rating": 5.900000095367432,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 9300.0
                 },
                 "runtime": 9300,
                 "season": -1,
@@ -1319,7 +1312,7 @@
                 "tag": [],
                 "tagline": "",
                 "thumbnail": "",
-                "title": "Asia: Fantasia - Live in Tokyo",
+                "title": "Asia : Fantasia - Live in Tokyo",
                 "top250": 0,
                 "track": -1,
                 "trailer": "",
@@ -1380,7 +1373,7 @@
                     "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=459312)",
                     "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=459312)",
                     "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=459312)",
-                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Asia: Symfonia - Live In Bulgaria 2013,tmdb_type=movie,tmdb_id=459312)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Asia : Symfonia - Live In Bulgaria,tmdb_type=movie,tmdb_id=459312)",
                     "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
                     "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
                     "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
@@ -1401,7 +1394,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "specialsauce",
                     "param.widget": "True",
-                    "popularity": "1.4",
+                    "popularity": "0.6",
                     "revenue": "$0",
                     "slug_id": "asia-symfonia-live-in-bulgaria-2013-2017",
                     "studio": "Soulfood Entertainment",
@@ -1423,26 +1416,26 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "",
-                "label": "Asia: Symfonia - Live In Bulgaria 2013",
+                "label": "Asia : Symfonia - Live In Bulgaria",
                 "lastmodified": "",
                 "lastplayed": "",
                 "mimetype": "application/octet-stream",
                 "mpaa": "",
                 "originaltitle": "Asia: Symfonia - Live In Bulgaria 2013",
                 "playcount": 0,
-                "plot": "",
+                "plot": "Concert de d'Asia enregistr\u00e9 en Bulgrie en 2013. Le groupe nous offre quatorze titres dont de nombreux tubes incontournables comme \u2018Heat Of The moment\u2019, \u2018Only Time Will Tell\u2019, \u2018\u2019The Smile Has Left Your Eyes\u2019, \u2018An Extraordinary Life\u2019 ou bien \u2018Sole Survivor\u2019.",
                 "plotoutline": "",
                 "premiered": "2017-02-24",
                 "productioncode": "",
                 "rating": 9.0,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 4620.0
                 },
-                "runtime": 0,
+                "runtime": 4620,
                 "season": -1,
                 "set": "",
                 "setid": -1,
@@ -1463,7 +1456,7 @@
                 "tag": [],
                 "tagline": "",
                 "thumbnail": "",
-                "title": "Asia: Symfonia - Live In Bulgaria 2013",
+                "title": "Asia : Symfonia - Live In Bulgaria",
                 "top250": 0,
                 "track": -1,
                 "trailer": "",
@@ -1520,7 +1513,6 @@
                     "United States of America"
                 ],
                 "customproperties": {
-                    "available_releases": "Theatrical",
                     "budget": "$0",
                     "cast": "B.B. King / Muhammad Ali / Bobby Forte / Sonny Freeman / Don King",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=69063&ignore_default=true)",
@@ -1555,7 +1547,6 @@
                     "revenue": "$0",
                     "slug_id": "b-b-king-live-in-africa-74-1998",
                     "studio": "Gravity Limited",
-                    "theatrical_release": "1998-05-13",
                     "tmdb_id": "69063",
                     "tmdb_rating": "7.0",
                     "tmdb_type": "movie",
@@ -1574,25 +1565,25 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Documentary",
-                    "Music"
+                    "Documentaire",
+                    "Musique"
                 ],
                 "imdbnumber": "tt0157338",
                 "label": "B.B. King: Live In Africa '74",
                 "lastmodified": "",
                 "lastplayed": "",
                 "mimetype": "application/octet-stream",
-                "mpaa": "Rated NR",
+                "mpaa": "",
                 "originaltitle": "B.B. King: Live In Africa '74",
                 "playcount": 0,
-                "plot": "In 1974, Muhammad Ali and George Foreman held their heavyweight title fight in Zaire, billing it as the \"Rumble in the Jungle\". A three-day music festival was staged concurrently, and B.B. King was the headlining act. Anyone who has ever had the fortune to see B.B. King play live, even in his later, seated years knows that he is a consummate showman. B.B. King: Live in Africa '74 presents the man at the peak of his powers, as a performer and as a player.",
+                "plot": "Mini - concert de B.B. King donn\u00e9 en 1974 dans l'ex pays du Za\u00eere",
                 "plotoutline": "",
                 "premiered": "1998-05-13",
                 "productioncode": "",
                 "rating": 7.0,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 2580.0
                 },
                 "runtime": 2580,
                 "season": -1,
@@ -1673,7 +1664,6 @@
                 ],
                 "country": [],
                 "customproperties": {
-                    "available_releases": "Theatrical",
                     "budget": "$0",
                     "cast": "Billy Idol / Steve Stevens / Brian Tichy / Stephen McGrath / Derek Sherinian",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=46077&ignore_default=true)",
@@ -1704,12 +1694,9 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "specialsauce",
                     "param.widget": "True",
-                    "popularity": "1.646",
-                    "provider.link": "https://www.themoviedb.org/movie/46077-billy-idol-in-super-overdrive-live/watch?locale=US",
-                    "providers": "Apple iTunes / Amazon Video / Google Play Movies / YouTube",
+                    "popularity": "1.241",
                     "revenue": "$0",
                     "slug_id": "billy-idol-in-super-overdrive-live-2009",
-                    "theatrical_release": "2009-11-17",
                     "tmdb_id": "46077",
                     "tmdb_rating": "6.6",
                     "tmdb_type": "movie",
@@ -1726,7 +1713,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "tt1472498",
                 "label": "Billy Idol: In Super Overdrive Live",
@@ -1736,14 +1723,14 @@
                 "mpaa": "",
                 "originaltitle": "Billy Idol: In Super Overdrive Live",
                 "playcount": 0,
-                "plot": "Filmed at the Congress Theater, Chicago for the US TV series Soundstage and originally broadcast in U.S. in July 2009, the show sees Billy Idol, with trademark sneer and peroxide hair very much to the fore, reunited with guitarist Steve Stevens, who played on (& sometimes co-wrote) all his 1980s hits. The tracklist runs from early Generation X favorites, through his classic solo singles and up to tracks from his most recent album, \"The Devil\u2019s Playground.\"",
+                "plot": "Tourn\u00e9 au Congress Theatre de Chicago pour la s\u00e9rie t\u00e9l\u00e9vis\u00e9e am\u00e9ricaine Soundstage et diffus\u00e9 \u00e0 l'origine aux \u00c9tats-Unis en juillet 2009, le spectacle voit Billy Idol, avec un ricanement de marque et des cheveux de peroxyde au premier plan, r\u00e9uni avec le guitariste Steve Stevens, qui a jou\u00e9 sur ( et parfois co-\u00e9crit) tous ses tubes des ann\u00e9es 1980. La liste des morceaux va des premiers favoris de la g\u00e9n\u00e9ration X, en passant par ses singles solo classiques et jusqu'aux morceaux de son album le plus r\u00e9cent, \"The Devil's Playground\".",
                 "plotoutline": "",
                 "premiered": "2009-11-17",
                 "productioncode": "",
                 "rating": 6.599999904632568,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 4200.0
                 },
                 "runtime": 4200,
                 "season": -1,
@@ -1800,7 +1787,8 @@
                     {
                         "name": "Graham Coxon",
                         "order": 1,
-                        "role": "Guitars and Vocals"
+                        "role": "Guitars and Vocals",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fukdXKfn88RizOG7rZIQtOnIR7RD.jpg/"
                     },
                     {
                         "name": "Alex James",
@@ -1811,7 +1799,8 @@
                     {
                         "name": "Dave Rowntree",
                         "order": 3,
-                        "role": "Drums"
+                        "role": "Drums",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f3vvipmjUUkaREQF6DizIzbyqji2.jpg/"
                     },
                     {
                         "name": "Mike Smith",
@@ -1829,7 +1818,6 @@
                     "United Kingdom"
                 ],
                 "customproperties": {
-                    "available_releases": "Theatrical",
                     "budget": "$0",
                     "cast": "Damon Albarn / Graham Coxon / Alex James / Dave Rowntree / Mike Smith / Phil Daniels",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=52917&ignore_default=true)",
@@ -1860,13 +1848,12 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "specialsauce",
                     "param.widget": "True",
-                    "popularity": "1.416",
-                    "provider.link": "https://www.themoviedb.org/movie/52917-blur-live-at-hyde-park/watch?locale=US",
+                    "popularity": "0.803",
+                    "provider.link": "https://www.themoviedb.org/movie/52917-blur-live-at-hyde-park/watch?locale=FR",
                     "providers": "Apple iTunes",
                     "revenue": "$0",
                     "slug_id": "blur-live-at-hyde-park-2010",
                     "studio": "EMI",
-                    "theatrical_release": "2010-02-15",
                     "tmdb_id": "52917",
                     "tmdb_rating": "8.6",
                     "tmdb_type": "movie",
@@ -1885,7 +1872,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "tt1737114",
                 "label": "Blur - Live at Hyde Park",
@@ -1895,14 +1882,14 @@
                 "mpaa": "",
                 "originaltitle": "Blur - Live at Hyde Park",
                 "playcount": 0,
-                "plot": "Hyde Park Concert Film, July 2009.  Blur: Live At Hyde Park is the definitive live Blur concert film. Directed by Giorgio Testi, the film was shot on the 2nd of July 2009 in front of a crowd of 55,000 fans in London's Hyde Park. The gigs were the climax of their hugely successful 2009 comeback tour and saw the band play a 25-song, career spanning set to a rapturous reception from fans. Shot using 18 cameras and featuring stunning HD cinematography, the film lovingly documents Blur's incredible Hyde Park performances.  Intro / She's So High / Girls & Boys / Tracy Jacks / There's No Other Way / Jubilee / Badhead / Beetlebum / Out Of Time / Trimm Trabb / Coffee and TV / Tender / Country House / Oily Water / Chemical World / Sunday Sunday / Parklife / End Of Century / To The End / This Is A Low / Popscene / Advert / Song 2 / Death Of A Party / For Tomorrow / The Universal",
+                "plot": "Hyde Park Concert Film, juillet 2009. Blur: Live At Hyde Park est le film de concert en direct ultime de Blur. R\u00e9alis\u00e9 par Giorgio Testi, le film a \u00e9t\u00e9 tourn\u00e9 le 2 juillet 2009 devant une foule de 55 000 fans \u00e0 Hyde Park \u00e0 Londres. Les concerts ont \u00e9t\u00e9 le point culminant de leur tourn\u00e9e de retour extr\u00eamement r\u00e9ussie en 2009 et ont vu le groupe jouer une carri\u00e8re de 25 chansons, avec un accueil enthousiaste de la part des fans. Tourn\u00e9 \u00e0 l'aide de 18 cam\u00e9ras et dot\u00e9 d'une cin\u00e9matographie HD \u00e9poustouflante, le film documente avec amour les incroyables performances de Blur \u00e0 Hyde Park.",
                 "plotoutline": "",
                 "premiered": "2010-02-15",
                 "productioncode": "",
                 "rating": 8.571000099182129,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 7440.0
                 },
                 "runtime": 7440,
                 "season": -1,
@@ -1925,7 +1912,7 @@
                     "Pulse Films"
                 ],
                 "tag": [],
-                "tagline": "A two hour concert film of Blur's euphoric performance at London's Hyde Park.",
+                "tagline": "",
                 "thumbnail": "",
                 "title": "Blur - Live at Hyde Park",
                 "top250": 0,
@@ -1948,111 +1935,9 @@
             {
                 "album": "",
                 "art": {
-                    "icon": "image://C%3a%5cKodiTest%5ckodi%2020%20testu2p%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fdefault.png/"
-                },
-                "artist": [],
-                "cast": [],
-                "country": [],
-                "customproperties": {
-                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=296644&ignore_default=true)",
-                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=296644)",
-                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=296644)",
-                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=296644)",
-                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=296644)",
-                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=296644)",
-                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Bob Marley & The Wailers: Live in Concert,tmdb_type=movie,tmdb_id=296644)",
-                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
-                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
-                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
-                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
-                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
-                    "contextmenulabel(5)": "$LOCALIZE[20444]",
-                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
-                    "isplayable": "true",
-                    "item.info": "play",
-                    "item.tmdb_id": "296644",
-                    "item.tmdb_type": "movie",
-                    "item.type": "movie",
-                    "param.info": "trakt_userlist",
-                    "param.list_name": "Concerts",
-                    "param.list_slug": "concerts",
-                    "param.owner": "true",
-                    "param.plugin_category": "Concerts",
-                    "param.user_slug": "specialsauce",
-                    "param.widget": "True",
-                    "slug_id": "bob-marley-the-wailers-live-in-concert-2012",
-                    "tmdb_id": "296644",
-                    "tmdb_type": "movie",
-                    "trakt_id": "314031",
-                    "widget": "Concerts"
-                },
-                "dateadded": "",
-                "director": [],
-                "episode": -1,
-                "episodeguide": "",
-                "fanart": "",
-                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=296644",
-                "filetype": "file",
-                "firstaired": "",
-                "genre": [],
-                "imdbnumber": "",
-                "label": "[COLOR=ffcc0000][I]Bob Marley & The Wailers: Live in Concert[/I][/COLOR]",
-                "lastmodified": "",
-                "lastplayed": "",
-                "mimetype": "application/octet-stream",
-                "mpaa": "",
-                "originaltitle": "",
-                "playcount": 0,
-                "plot": "",
-                "plotoutline": "",
-                "premiered": "",
-                "productioncode": "",
-                "rating": 0.0,
-                "resume": {
-                    "position": 0.0,
-                    "total": 0.0
-                },
-                "runtime": 0,
-                "season": -1,
-                "set": "",
-                "setid": -1,
-                "showlink": [],
-                "showtitle": "",
-                "size": 0,
-                "sorttitle": "",
-                "specialsortepisode": -1,
-                "specialsortseason": -1,
-                "streamdetails": {
-                    "audio": [],
-                    "subtitle": [],
-                    "video": []
-                },
-                "studio": [],
-                "tag": [],
-                "tagline": "",
-                "thumbnail": "",
-                "title": "Bob Marley & The Wailers: Live in Concert",
-                "top250": 0,
-                "track": -1,
-                "trailer": "",
-                "tvshowid": -1,
-                "type": "movie",
-                "uniqueid": {
-                    "slug": "bob-marley-the-wailers-live-in-concert-2012",
-                    "tmdb": "296644",
-                    "trakt": "314031"
-                },
-                "userrating": 0,
-                "votes": "0",
-                "writer": [],
-                "year": 2012
-            },
-            {
-                "album": "",
-                "art": {
+                    "clearlogo": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f121441%2fhdmovielogo%2fbob-marley---live-in-concert-5677fd6d5d5a2.png/",
                     "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f5zWpTXlv10hNeGh2N3MGWRFpEG4.jpg/",
                     "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f8KGJTvaDlpWhKgT6WZYyP0xYv5m.jpg/",
-                    "landscape": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f5zWpTXlv10hNeGh2N3MGWRFpEG4.jpg/",
                     "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f8KGJTvaDlpWhKgT6WZYyP0xYv5m.jpg/"
                 },
                 "artist": [],
@@ -2096,7 +1981,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "specialsauce",
                     "param.widget": "True",
-                    "popularity": "1.323",
+                    "popularity": "1.577",
                     "revenue": "$0",
                     "slug_id": "bob-marley-live-in-concert-2012-04-12",
                     "tmdb_id": "121441",
@@ -2117,7 +2002,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "tt0191839",
                 "label": "Bob Marley - Live in Concert",
@@ -2127,16 +2012,16 @@
                 "mpaa": "",
                 "originaltitle": "Bob Marley - Live in Concert",
                 "playcount": 0,
-                "plot": "1. Trenchtown Rock 2. Them Belly Full 3. I Shot The Sheriff 4. Rebel Music 5. Lively Up Yourself 6. Crazy Baldhead/ Running Away 7. War/No More Trouble 8. The Heathen 9. No Woman, No Cry 10. Jamming 11. Get Up, Stand Up! 12. Exodus",
+                "plot": "",
                 "plotoutline": "",
                 "premiered": "2012-04-12",
                 "productioncode": "",
                 "rating": 8.0,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 3900.0
                 },
-                "runtime": 4080,
+                "runtime": 3900,
                 "season": -1,
                 "set": "",
                 "setid": -1,
@@ -2198,7 +2083,6 @@
                     "United States of America"
                 ],
                 "customproperties": {
-                    "available_releases": "Physical",
                     "budget": "$0",
                     "cast": "Trent Reznor / Bob Flanagan",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=34659&ignore_default=true)",
@@ -2229,8 +2113,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "specialsauce",
                     "param.widget": "True",
-                    "physical_release": "1993-01-01",
-                    "popularity": "1.722",
+                    "popularity": "1.756",
                     "revenue": "$0",
                     "slug_id": "broken-1993",
                     "tmdb_id": "34659",
@@ -2251,8 +2134,8 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music",
-                    "Horror"
+                    "Musique",
+                    "Horreur"
                 ],
                 "imdbnumber": "tt0103885",
                 "label": "Broken",
@@ -2262,14 +2145,14 @@
                 "mpaa": "",
                 "originaltitle": "Broken",
                 "playcount": 0,
-                "plot": "In 1992, Nine Inch Nails released the \"Broken\" EP. It was followed in 1993 by a short film, roughly 20 minutes in length, known as the \"Broken Movie\". The movie wove Broken's four music videos together via a violent \"snuff film\" and included its own video for the song \"Gave Up\" as its conclusion. Due to its extreme graphic content, the Broken Movie was never officially released. But in christmas 2006, Nin secretly released it on bittorrent along with the free 2 dvd set closure deluxe prototype.",
+                "plot": "",
                 "plotoutline": "",
                 "premiered": "1993-01-01",
                 "productioncode": "",
                 "rating": 7.300000190734863,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 1200.0
                 },
                 "runtime": 1200,
                 "season": -1,
@@ -2340,7 +2223,7 @@
                     "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=28717)",
                     "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=28717)",
                     "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=28717)",
-                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Bruce Springsteen with the Sessions Band: Live in Dublin,tmdb_type=movie,tmdb_id=28717)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Bruce Springsteen with The Sessions Band - Live in Dublin,tmdb_type=movie,tmdb_id=28717)",
                     "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
                     "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
                     "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
@@ -2362,12 +2245,10 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "specialsauce",
                     "param.widget": "True",
-                    "popularity": "1.095",
-                    "provider.link": "https://www.themoviedb.org/movie/28717-bruce-springsteen-with-the-sessions-band-live-in-dublin/watch?locale=US",
-                    "providers": "Apple iTunes",
+                    "popularity": "1.125",
                     "revenue": "$0",
                     "slug_id": "bruce-springsteen-with-the-sessions-band-live-in-dublin-2007",
-                    "theatrical_release": "2007-06-05",
+                    "theatrical_release": "2007-06-04",
                     "tmdb_id": "28717",
                     "tmdb_rating": "7.2",
                     "tmdb_type": "movie",
@@ -2384,24 +2265,24 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "tt1168629",
-                "label": "Bruce Springsteen with the Sessions Band: Live in Dublin",
+                "label": "Bruce Springsteen with The Sessions Band - Live in Dublin",
                 "lastmodified": "",
                 "lastplayed": "",
                 "mimetype": "application/octet-stream",
-                "mpaa": "",
+                "mpaa": "Rated U",
                 "originaltitle": "Bruce Springsteen with the Sessions Band: Live in Dublin",
                 "playcount": 0,
-                "plot": "Bruce Springsteen with The Sessions Band: Live in Dublin is a 2007 video and audio offering that captures in-concert performances from the Bruce Springsteen with The Seeger Sessions Band Tour recorded in November 2006 at The Point Theatre in Dublin, Ireland. The release consists of a concert DVD, a Blu-ray Disc, and separate two-CD audio set. A \"special edition\" of the CD set includes the concert DVD as well. The DVD does not capture any one show in full, but rather congeals from three different shows at The Point. Selections include fan favorites from the tour, radical \"folk big band\" reinterpretations of the Springsteen canon, and rare songs appearing for the first time on any Springsteen release. Contrarily, a few set list regulars from the tour and shows are omitted.",
+                "plot": "BRUCE SPRINGSTEEN with The SESSIONS BAND \u00ab Live In Dublin \u00bb : Pas moins de 24 titres live interpr\u00e9t\u00e9s en novembre 2006 pour le grand final de la derni\u00e8re tourn\u00e9e mondiale, dont une bonne moiti\u00e9 appartient \u00e0 l'avant dernier album du Boss \u00ab We Shall Over Come \u00bb. Le son est tr\u00e8s New Orl\u00e9ans faisant la part belle aux cuivres et au choeur. Une quinzaine de musiciens de grand talent sur sc\u00e8ne pour des reprises endiabl\u00e9es de chansons folk traditionnelles.",
                 "plotoutline": "",
                 "premiered": "2007-06-04",
                 "productioncode": "",
                 "rating": 7.199999809265137,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 7800.0
                 },
                 "runtime": 7800,
                 "season": -1,
@@ -2422,7 +2303,7 @@
                 "tag": [],
                 "tagline": "",
                 "thumbnail": "",
-                "title": "Bruce Springsteen with the Sessions Band: Live in Dublin",
+                "title": "Bruce Springsteen with The Sessions Band - Live in Dublin",
                 "top250": 0,
                 "track": -1,
                 "trailer": "plugin://plugin.video.youtube/play/?video_id=FYlZcFuAXmI",
@@ -2494,7 +2375,6 @@
                     "United Kingdom"
                 ],
                 "customproperties": {
-                    "available_releases": "Theatrical",
                     "budget": "$0",
                     "cast": "Bruce Springsteen / Steven Van Zandt / Nils Lofgren / Garry Tallent / Roy Bittan / Max Weinberg / Soozie Tyrell",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=253538&ignore_default=true)",
@@ -2524,11 +2404,10 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "specialsauce",
                     "param.widget": "True",
-                    "popularity": "2.407",
+                    "popularity": "1.274",
                     "revenue": "$0",
                     "slug_id": "bruce-springsteen-born-in-the-u-s-a-live-in-london-2014",
                     "studio": "Columbia Records",
-                    "theatrical_release": "2014-01-13",
                     "tmdb_id": "253538",
                     "tmdb_rating": "5.7",
                     "tmdb_type": "movie",
@@ -2547,7 +2426,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "",
                 "label": "Bruce Springsteen: Born in the U.S.A. Live in London",
@@ -2564,7 +2443,7 @@
                 "rating": 5.699999809265137,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 3960.0
                 },
                 "runtime": 3960,
                 "season": -1,
@@ -2606,6 +2485,7 @@
             {
                 "album": "",
                 "art": {
+                    "discart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f225723%2fmoviedisc%2fbryan-ferry--nuits-de-fourviere-live-in-lyon-536b9565aee31.png/",
                     "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fxorMJfLk34hZSrVIwqp2naq65cJ.jpg/",
                     "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fr6isBPChmtuIabsoLqXfvq6KdV.jpg/",
                     "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fr6isBPChmtuIabsoLqXfvq6KdV.jpg/"
@@ -2708,9 +2588,9 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "specialsauce",
                     "param.widget": "True",
-                    "popularity": "1.4",
-                    "provider.link": "https://www.themoviedb.org/movie/225723-bryan-ferry-nuits-de-fourviere-live-in-lyon/watch?locale=US",
-                    "providers": "Apple iTunes / Amazon Video",
+                    "popularity": "1.531",
+                    "provider.link": "https://www.themoviedb.org/movie/225723-bryan-ferry-nuits-de-fourviere-live-in-lyon/watch?locale=FR",
+                    "providers": "Apple iTunes",
                     "revenue": "$0",
                     "slug_id": "bryan-ferry-nuits-de-fourviere-live-in-lyon-2013",
                     "tmdb_id": "225723",
@@ -2731,7 +2611,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "tt3594912",
                 "label": "Bryan Ferry : Nuits de Fourviere (Live in Lyon)",
@@ -2741,16 +2621,16 @@
                 "mpaa": "",
                 "originaltitle": "Bryan Ferry : Nuits de Fourviere (Live in Lyon)",
                 "playcount": 0,
-                "plot": "From his earliest recordings with Roxy Music at the beginning of the 1970s, Bryan Ferry has taken his place as one of the most iconic and innovative musicians and songwriters to emerge in popular music. Ferry s Olympia tour travelled the world in 2011, including this spectacular performance filmed on July 25 at the ancient Roman amphitheatre in Lyon, France as part of the Nuits de Fourviere Festival. The show features tracks from across Ferry s 40 year career including classic Roxy Music songs, solo hits and his renowned interpretations of other writer s material all delivered with the style and panache that is uniquely Bryan Ferry.",
+                "plot": "En 2011, la tourn\u00e9e mondiale \"Olympia\" de Bryan Ferry fit escale le 25 Juillet dans l'ancien amphith\u00e9\u00e2tre romain de Lyon, pour le fameux festival Les Nuits de Fourvi\u00e8re. Le concert contient des titres issus des 40 ans de carri\u00e8re de Bryan Ferry, incluant les classiques de Roxy Music, des tubes en solo ainsi que quelques reprises, tous interpr\u00e9t\u00e9s avec le style et le panache qui caract\u00e9risent Bryan Ferry.",
                 "plotoutline": "",
                 "premiered": "2013-05-02",
                 "productioncode": "",
                 "rating": 8.300000190734863,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 5940.0
                 },
-                "runtime": 8580,
+                "runtime": 5940,
                 "season": -1,
                 "set": "",
                 "setid": -1,
@@ -2790,63 +2670,21 @@
             {
                 "album": "",
                 "art": {
-                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fy9CYLr2fTpmJTrPefTG5M8tyP7G.jpg/",
-                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fpYRrNmREmGt5T2kHyI0WUtzqGGH.jpg/",
-                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fpYRrNmREmGt5T2kHyI0WUtzqGGH.jpg/"
+                    "icon": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage.png/",
+                    "landscape": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage_wide.png/"
                 },
                 "artist": [],
-                "cast": [
-                    {
-                        "name": "Simon Le Bon",
-                        "order": 0,
-                        "role": "Himself",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fr4erCSxvHRnxvc4u1GlfruArabK.jpg/"
-                    },
-                    {
-                        "name": "John Taylor",
-                        "order": 1,
-                        "role": "Himself",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fjLC3xdufwM1PjLFUBEryqhO0r6P.jpg/"
-                    },
-                    {
-                        "name": "Nick Rhodes",
-                        "order": 2,
-                        "role": "Himself",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f2F1XE4y0eoP8NbQKD0fYGvn6kbA.jpg/"
-                    },
-                    {
-                        "name": "Roger Taylor",
-                        "order": 3,
-                        "role": "Himself",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fr9y7WfXs9aIiWYGlG2zptzU0asw.jpg/"
-                    }
-                ],
+                "cast": [],
                 "country": [],
                 "customproperties": {
-                    "available_releases": "Theatrical",
-                    "budget": "$0",
-                    "cast": "Simon Le Bon / John Taylor / Nick Rhodes / Roger Taylor",
-                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=88552&ignore_default=true)",
-                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=88552)",
-                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=88552)",
-                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=88552)",
-                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=88552)",
-                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=88552)",
-                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Classic Albums: Duran Duran - Rio,tmdb_type=movie,tmdb_id=88552)",
-                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
-                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
-                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
-                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
-                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
-                    "contextmenulabel(5)": "$LOCALIZE[20444]",
-                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
-                    "dbtype": "movie",
-                    "imdb_id": "tt1387524",
-                    "isplayable": "true",
-                    "item.info": "play",
-                    "item.tmdb_id": "88552",
-                    "item.tmdb_type": "movie",
-                    "item.type": "movie",
+                    "item.info": "trakt_userlist",
+                    "item.list_name": "Concerts",
+                    "item.list_slug": "concerts",
+                    "item.owner": "true",
+                    "item.page": "2",
+                    "item.plugin_category": "Concerts",
+                    "item.user_slug": "specialsauce",
+                    "item.widget": "True",
                     "param.info": "trakt_userlist",
                     "param.list_name": "Concerts",
                     "param.list_slug": "concerts",
@@ -2854,51 +2692,35 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "specialsauce",
                     "param.widget": "True",
-                    "popularity": "1.117",
-                    "provider.link": "https://www.themoviedb.org/movie/88552-classic-albums-duran-duran-rio/watch?locale=US",
-                    "providers": "Apple iTunes / Amazon Video / The Roku Channel / Tubi TV / Pluto TV / FILMRISE / Freevee Amazon Channel",
-                    "revenue": "$0",
-                    "slug_id": "classic-albums-duran-duran-rio-2008",
-                    "theatrical_release": "2008-11-04",
-                    "tmdb_id": "88552",
-                    "tmdb_rating": "8.0",
-                    "tmdb_type": "movie",
-                    "tmdb_votes": "4",
-                    "trakt_id": "66314",
                     "widget": "Concerts"
                 },
                 "dateadded": "",
-                "director": [
-                    "George Scott"
-                ],
+                "director": [],
                 "episode": -1,
                 "episodeguide": "",
-                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fy9CYLr2fTpmJTrPefTG5M8tyP7G.jpg/",
-                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=88552",
-                "filetype": "file",
+                "fanart": "",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Concerts&list_slug=concerts&owner=true&plugin_category=Concerts&user_slug=specialsauce&page=2&widget=true&reload=$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]",
+                "filetype": "directory",
                 "firstaired": "",
-                "genre": [
-                    "Music",
-                    "Documentary"
-                ],
-                "imdbnumber": "tt1387524",
-                "label": "Classic Albums: Duran Duran - Rio",
+                "genre": [],
+                "imdbnumber": "",
+                "label": "Page suivante",
                 "lastmodified": "",
                 "lastplayed": "",
-                "mimetype": "application/octet-stream",
+                "mimetype": "x-directory/normal",
                 "mpaa": "",
-                "originaltitle": "Classic Albums: Duran Duran - Rio",
+                "originaltitle": "",
                 "playcount": 0,
-                "plot": "This entry in the Classic Albums series examines RIO, the 1982 release that put Duran Duran on the road to stardom. Looking back at the creation and release of the hit singles \"Hungry Like the Wolf,\" \"Save a Prayer,\" and many others, the critical retrospective analyzes the album's overall effect on the musical landscape of the early 1980s. The optimistic and celebratory album generated a string of hit singles and groundbreaking videos, catapulting the band to global stardom. This DVD tells the story behind the writing, recording, and subsequent success of the album through newly filmed interviews, musical demonstrations, and both new and archival performances.",
+                "plot": "",
                 "plotoutline": "",
-                "premiered": "2008-11-04",
+                "premiered": "",
                 "productioncode": "",
-                "rating": 8.0,
+                "rating": 0.0,
                 "resume": {
                     "position": 0.0,
                     "total": 0.0
                 },
-                "runtime": 7620,
+                "runtime": 0,
                 "season": -1,
                 "set": "",
                 "setid": -1,
@@ -2915,31 +2737,24 @@
                 },
                 "studio": [],
                 "tag": [],
-                "tagline": "Classic Albums",
+                "tagline": "",
                 "thumbnail": "",
-                "title": "Classic Albums: Duran Duran - Rio",
+                "title": "",
                 "top250": 0,
                 "track": -1,
                 "trailer": "",
                 "tvshowid": -1,
-                "type": "movie",
-                "uniqueid": {
-                    "imdb": "tt1387524",
-                    "slug": "classic-albums-duran-duran-rio-2008",
-                    "tmdb": "88552",
-                    "trakt": "66314",
-                    "unknown": "tt1387524"
-                },
+                "type": "unknown",
                 "userrating": 0,
-                "votes": "4",
+                "votes": "0",
                 "writer": [],
-                "year": 2008
+                "year": 0
             }
         ],
         "limits": {
-            "end": 20,
+            "end": 19,
             "start": 0,
-            "total": 20
+            "total": 19
         }
     }
 }

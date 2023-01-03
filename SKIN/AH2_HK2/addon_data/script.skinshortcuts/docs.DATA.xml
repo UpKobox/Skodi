@@ -1,0 +1,74 @@
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>Recherche</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/search.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=affSearch",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Films Docs</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/_ icelandic filmcompanyâ the.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&amp;famille=docu&amp;offset=0",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Films News</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/userrating.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&amp;famille=groupes&amp;offset=0&amp;nom=doc+films+news",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Séries Docs</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/_ revolution sun studios.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&amp;famille=genres&amp;typgenre=Documentaire&amp;offset=0&amp;limit=50",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Séries News</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/userrating.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&amp;famille=groupes&amp;offset=0&amp;nom=docu+news",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Discovery</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/_Discovery_14.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&amp;network=1&amp;namenetwork=64&amp;page=1",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>National Geographic</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/_ national geographic.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&amp;network=1&amp;namenetwork=43&amp;page=1",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>RMC Découverte</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/_rmc.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&amp;network=1&amp;namenetwork=1064&amp;page=1",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Emission tv</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/tv.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&amp;famille=groupes&amp;offset=0&amp;nom=emission+tv",return)</action>
+		</shortcut>
+	</shortcuts>

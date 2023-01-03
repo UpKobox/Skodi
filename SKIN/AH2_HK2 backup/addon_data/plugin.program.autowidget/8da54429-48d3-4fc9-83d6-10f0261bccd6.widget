@@ -1,0 +1,18 @@
+{
+    "action": "random",
+    "id": "8da54429-48d3-4fc9-83d6-10f0261bccd6",
+    "group": "films_autowidget-1661598449.2327583",
+    "refresh": 2.0,
+    "path": "recommande_pour_vous-1661598622.171045",
+    "version": "3.7.0",
+    "current": 3,
+    "cycle_paths": [
+        "populaire-1661598574.1039712",
+        "tendance-1661598595.0915592",
+        "recommande_pour_vous-1661598622.171045",
+        "trakt_popular_movies-1662289506.9916837"
+    ],
+    "stack": [],
+    "label": "Recommand\u00e9 pour vous",
+    "updated": 1662542356.8202927
+}

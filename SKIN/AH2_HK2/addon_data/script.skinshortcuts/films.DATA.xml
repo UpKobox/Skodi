@@ -1,0 +1,74 @@
+<shortcuts>
+	<shortcut>
+		<defaultID>recherchefilms-colorlightcoral-genreacteursaga-color</defaultID>
+		<label>Recherche</label>
+		<label2>Elément personnalisé</label2>
+		<icon>special://skin/extras/icons/folder.png</icon>
+		<thumb>special://skin/extras/icons/search.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=affSearch",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Genres</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/_ this is that productions.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=genresHK&amp;typM=movie",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Nouveautés</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/_ 20th century fox.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&amp;famille=nouveau",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Derniers Ajouts</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/_ universal.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&amp;famille=film&amp;offset=0",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Super Héros</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/_ marvel enterprises.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&amp;famille=groupes&amp;offset=0&amp;nom=superheros+films",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>4K HD Remux</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/_4K.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&amp;famille=groupes&amp;offset=0&amp;nom=films+4k",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Dossiers Tous</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/playlist.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&amp;groupes=groupe&amp;offset=0",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>films3d-colorlightcoral-rayflix-color</defaultID>
+		<label>Films 3D</label>
+		<label2>Elément personnalisé</label2>
+		<icon>special://skin/extras/icons/folder.png</icon>
+		<thumb>special://skin/extras/icons/3dtv.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&amp;famille=groupes&amp;offset=0&amp;nom=films+3d",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Films Local</label>
+		<label2>Vidéos</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/artist.png</thumb>
+		<action>ActivateWindow(Videos,"library://video/movies/",return)</action>
+		</shortcut>
+	</shortcuts>

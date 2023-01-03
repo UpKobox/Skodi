@@ -1,5 +1,29 @@
 <shortcuts>
 	<shortcut>
+		<defaultID>31315</defaultID>
+		<label>$SKIN[31315|skin.arctic.horizon.2|None]</label>
+		<label2>Prédéfini</label2>
+		<icon>special://skin/extras/icons/tv.png</icon>
+		<thumb>special://skin/extras/icons/tv.png</thumb>
+		<action>ActivateWindow(1121)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>31367</defaultID>
+		<label>Hub - TV Shows (U2Pplay)</label>
+		<label2>Prédéfini</label2>
+		<icon>special://skin/extras/icons/gem.png</icon>
+		<thumb>special://skin/extras/icons/tv.png</thumb>
+		<action>ActivateWindow(1132)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>31329</defaultID>
+		<label>$SKIN[31329|skin.arctic.horizon.2|None]</label>
+		<label2>Prédéfini</label2>
+		<icon>special://skin/extras/icons/tv.png</icon>
+		<thumb>special://skin/extras/icons/tv.png</thumb>
+		<action>ActivateWindow(1131)</action>
+		</shortcut>
+	<shortcut>
 		<defaultID />
 		<label>Series &amp; Animes (U2P)</label>
 		<label2>Extensions Vidéo</label2>

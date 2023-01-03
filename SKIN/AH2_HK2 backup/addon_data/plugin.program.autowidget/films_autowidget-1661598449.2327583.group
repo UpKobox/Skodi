@@ -1,0 +1,90 @@
+{
+    "label": "Films autowidget",
+    "type": "widget",
+    "paths": [
+        {
+            "label": "Populaire",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=popular&tmdb_type=movie&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/popular.png",
+                    "landscape": "special://home/addons/plugin.video.themoviedb.helper//fanart.jpg"
+                },
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "populaire-1661598574.1039712",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Tendance",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_trending&tmdb_type=movie&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/trakt/trend.png",
+                    "landscape": "special://home/addons/plugin.video.themoviedb.helper//fanart.jpg"
+                },
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "tendance-1661598595.0915592",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Recommand\u00e9 pour vous",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_recommendations&tmdb_type=movie&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/trakt/recommended.png",
+                    "landscape": "special://home/addons/plugin.video.themoviedb.helper//fanart.jpg"
+                },
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "recommande_pour_vous-1661598622.171045",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Trakt: Popular Movies",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Trakt%3a%20Popular%20Movies&list_slug=trakt-popular-movies&owner=true&plugin_category=Trakt%3a%20Popular%20Movies&user_slug=justin&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "plot": "The Trakt top 250 movies, based on popularity. List updated daily.",
+                "studio": "Justin Nemeth",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "trakt_popular_movies-1662289506.9916837",
+            "version": "3.7.0"
+        }
+    ],
+    "id": "films_autowidget-1661598449.2327583",
+    "art": {
+        "banner": "special://home/addons/plugin.program.autowidget/resources/media/banner/folder-sync.png",
+        "fanart": "special://home/addons/plugin.program.autowidget/resources/media/fanart/folder-sync.png",
+        "icon": "special://home/addons/plugin.program.autowidget/resources/media/icon/folder-sync.png",
+        "poster": "special://home/addons/plugin.program.autowidget/resources/media/poster/folder-sync.png",
+        "thumb": "special://home/addons/plugin.program.autowidget/resources/media/icon/folder-sync.png"
+    },
+    "version": "3.7.0",
+    "content": "",
+    "sort_order": "19"
+}

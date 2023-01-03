@@ -1,0 +1,34 @@
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>Vos visionnages en cours</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>thumb</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.themoviedb.helper/?tmdb_type=movie&amp;list_name=Vos+visionnages+en+cours&amp;tmdb_id=None&amp;info=trakt_inprogress&amp;sort_by=added&amp;sort_how=desc&amp;widget=true&amp;reload=$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Liste a voir (Watchlist)</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>thumb</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.themoviedb.helper/?tmdb_type=movie&amp;list_name=Liste+de+suivi&amp;widget=true&amp;reload=%24INFO%5BWindow%28Home%29.Property%28TMDbHelper.Widgets.Reload%29%5D&amp;tmdb_id=None&amp;info=trakt_watchlist&amp;sort_by=added&amp;sort_how=desc&amp;reload=$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Films (auto)</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://special%3a%2f%2fhome%2faddons%2fplugin.program.autowidget%2fresources%2fmedia%2ficon%2fshuffle.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.program.autowidget/?mode=path&amp;action=cycling&amp;group=films_autowidget-1661598449.2327583&amp;id=8da54429-48d3-4fc9-83d6-10f0261bccd6&amp;refresh=$INFO[Window(10000).Property(autowidget-8da54429-48d3-4fc9-83d6-10f0261bccd6-refresh)]&amp;reload=",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Films Francais (auto)</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://special%3a%2f%2fhome%2faddons%2fplugin.program.autowidget%2fresources%2fmedia%2ficon%2fshuffle.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.program.autowidget/?mode=path&amp;action=cycling&amp;group=films_francais_autowidget-1661599398.3946514&amp;id=4c32e37d-c7e2-4922-ba34-24a0615a4d1d&amp;refresh=$INFO[Window(10000).Property(autowidget-4c32e37d-c7e2-4922-ba34-24a0615a4d1d-refresh)]&amp;reload=",return)</action>
+		</shortcut>
+	</shortcuts>

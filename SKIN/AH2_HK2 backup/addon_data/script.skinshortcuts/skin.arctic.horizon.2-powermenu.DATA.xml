@@ -1,0 +1,91 @@
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>Maj. HK2</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/media/Arctic Horizon 2/Trash-Full-icon.png</thumb>
+		<action>ActivateWindow(Programs,"plugin://plugin.program.Skodi/?action=forcermaj",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Skodi Paramètres</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/media/png/x-mac_general_free/X-MAC/general/png/72/wizard.png</thumb>
+		<action>Addon.OpenSettings(plugin.program.Skodi)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>activer tous les addons</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/media/png/x-mac_general_free/X-MAC/general/png/72/check_mark.png</thumb>
+		<action>RunScript(special://home/userdata/addon_data/active alladdon .py,True)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>20183</defaultID>
+		<label>20183</label>
+		<label2>Prédéfini</label2>
+		<icon>special://skin/extras/icons/update.png</icon>
+		<thumb>special://home/media/png/x-mac_general_free/X-MAC/general/png/72/refresh.png</thumb>
+		<action>ReloadSkin()</action>
+		<disabled>True</disabled>
+		</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.sendtokodiU2P</defaultID>
+		<label>U2Pplay</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons/plugin.video.sendtokodiU2P/icon.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=movies",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Recharger tous les widgets (Autowidget)</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/media/png/brilliant_general_free/BRILLIANT/general/png/72/refresh.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.program.autowidget/?mode=tools&amp;refresh=&amp;reload=",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>8</defaultID>
+		<label>8</label>
+		<label2>Power Shortcut</label2>
+		<icon>special://skin/extras/icons/sun.png</icon>
+		<thumb>special://home/media/Arctic Horizon 2/Internet-Explorer-icon.png</thumb>
+		<action>ActivateWindow(weather)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>7</defaultID>
+		<label>7</label>
+		<label2>Elément de menu commun</label2>
+		<icon>special://skin/extras/icons/folder.png</icon>
+		<thumb>special://home/media/Arctic Horizon 2/Comics-Ironman-Folder-icon.png</thumb>
+		<action>ActivateWindow(FileManager)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>24001</defaultID>
+		<label>24001</label>
+		<label2>Power Shortcut</label2>
+		<icon>special://skin/extras/icons/addon.png</icon>
+		<thumb>special://home/media/Arctic Horizon 2/Folder-Pictures-icon.png</thumb>
+		<action>ActivateWindow(addonbrowser)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>5</defaultID>
+		<label>5</label>
+		<label2>Power Shortcut</label2>
+		<icon>special://skin/extras/icons/settings.png</icon>
+		<thumb>special://home/media/png/x-mac_general_free/X-MAC/general/png/72/tool.png</thumb>
+		<action>ActivateWindow(interfacesettings)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>13009</defaultID>
+		<label>13009</label>
+		<label2>Power Shortcut</label2>
+		<icon>special://skin/extras/icons/power.png</icon>
+		<thumb>special://home/media/Arctic Horizon 2/Device-Harddisk-icon.png</thumb>
+		<action>Quit()</action>
+		</shortcut>
+	</shortcuts>

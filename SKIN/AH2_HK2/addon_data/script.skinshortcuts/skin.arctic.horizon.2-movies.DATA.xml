@@ -1,5 +1,29 @@
 <shortcuts>
 	<shortcut>
+		<defaultID>31314</defaultID>
+		<label>$SKIN[31314|skin.arctic.horizon.2|None]</label>
+		<label2>Prédéfini</label2>
+		<icon>special://skin/extras/icons/film.png</icon>
+		<thumb>special://skin/extras/icons/film.png</thumb>
+		<action>ActivateWindow(1120)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>31367</defaultID>
+		<label>Hub - Movies (U2Pplay)</label>
+		<label2>Prédéfini</label2>
+		<icon>special://skin/extras/icons/gem.png</icon>
+		<thumb>special://skin/extras/icons/film.png</thumb>
+		<action>ActivateWindow(1132)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>31328</defaultID>
+		<label>$SKIN[31328|skin.arctic.horizon.2|None]</label>
+		<label2>Prédéfini</label2>
+		<icon>special://skin/extras/icons/film.png</icon>
+		<thumb>special://skin/extras/icons/film.png</thumb>
+		<action>ActivateWindow(1130)</action>
+		</shortcut>
+	<shortcut>
 		<defaultID />
 		<label>Films (U2P)</label>
 		<label2>Extensions Vidéo</label2>

@@ -1,0 +1,236 @@
+{
+    "label": "Animes autowidget",
+    "type": "widget",
+    "paths": [
+        {
+            "label": "Anime - Best Series of all Time",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Anime%20-%20Best%20Series%20of%20all%20Time&list_slug=anime-best-series-of-all-time&plugin_category=Anime%20-%20Best%20Series%20of%20all%20Time&user_slug=lwerndly&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "plot": "My top 100 anime of all time, will be constantly revised",
+                "studio": "JMM",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "anime_-_best_series_of_all_time-1661599076.8064759",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Les nouveaut\u00e9s (Animes de l\u2019\u00e9t\u00e9 2022)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Les%20nouveaut%c3%a9s%20(Animes%20de%20l%e2%80%99%c3%a9t%c3%a9%202022)&list_slug=les-nouveautes-animes-de-l-ete-2022&plugin_category=Les%20nouveaut%c3%a9s%20(Animes%20de%20l%e2%80%99%c3%a9t%c3%a9%202022)&user_slug=didi232&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "studio": "didi232",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "les_nouveautes_(animes_de_lete_2022)-1661599094.4184062",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Les suites (Animes de l\u2019\u00e9t\u00e9 2022)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Les%20suites%20(Animes%20de%20l%e2%80%99%c3%a9t%c3%a9%202022)&list_slug=les-suites-animes-de-l-ete-2022&plugin_category=Les%20suites%20(Animes%20de%20l%e2%80%99%c3%a9t%c3%a9%202022)&user_slug=didi232&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "studio": "didi232",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "les_suites_(animes_de_lete_2022)-1661599109.523008",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Animes de l\u2019\u00e9t\u00e9 2022 \u00e0 ne pas manquer",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Animes%20de%20l%e2%80%99%c3%a9t%c3%a9%202022%20%c3%a0%20ne%20pas%20manquer&list_slug=animes-de-l-ete-2022-a-ne-pas-manquer&plugin_category=Animes%20de%20l%e2%80%99%c3%a9t%c3%a9%202022%20%c3%a0%20ne%20pas%20manquer&user_slug=didi232&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "studio": "didi232",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "animes_de_lete_2022_a_ne_pas_manquer-1661599126.155924",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Top 10 Jap anime 2021",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Top%2010%20Jap%20anime%202021&list_slug=top-10-jap-anime-2021&plugin_category=Top%2010%20Jap%20anime%202021&user_slug=didibz&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "studio": "Didi",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "top_10_jap_anime_2021-1661599142.6728494",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Top 50 Jap anime 1990-1999",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Top%2050%20Jap%20anime%201990-1999&list_slug=top-50-jap-anime-1990-1999&plugin_category=Top%2050%20Jap%20anime%201990-1999&user_slug=didibz&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "studio": "Didi",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "top_50_jap_anime_1990-1999-1661599159.5725253",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Top 10 Jap anime 2020",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Top%2010%20Jap%20anime%202020&list_slug=top-10-jap-anime-2020&plugin_category=Top%2010%20Jap%20anime%202020&user_slug=didibz&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "studio": "Didi",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "top_10_jap_anime_2020-1661599177.8920372",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Mes anim\u00e9s pr\u00e9f\u00e9r\u00e9s",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Mes%20anim%c3%a9s%20pr%c3%a9f%c3%a9r%c3%a9s&list_slug=mes-animes-preferes&plugin_category=Mes%20anim%c3%a9s%20pr%c3%a9f%c3%a9r%c3%a9s&user_slug=didibz&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "plot": "Liste des mes anim\u00e9s pr\u00e9f\u00e9r\u00e9, je la mettrais \u00e0 jour ..",
+                "studio": "Didi",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "mes_animes_preferes-1661599195.859759",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Animes populaire",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Animes%20populaire&list_slug=animes-populaire&plugin_category=Animes%20populaire&user_slug=didi232&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "plot": "Les anim\u00e9s japonais de la premi\u00e8re page \"populaires animation\" sur TMDB.",
+                "studio": "didi232",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "animes_populaire-1661599240.787041",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Nouveaut\u00e9s (Animes du printemps 2022)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Nouveaut%c3%a9s%20(Animes%20du%20printemps%202022)&list_slug=nouveautes-animes-du-printemps-2022&plugin_category=Nouveaut%c3%a9s%20(Animes%20du%20printemps%202022)&user_slug=didibz&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "studio": "Didi",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "nouveautes_(animes_du_printemps_2022)-1661599255.8020985",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Les nouveaut\u00e9s (Animes de l'hiver 2022)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Les%20nouveaut%c3%a9s%20(Animes%20de%20l%27hiver%202022)&list_slug=les-nouveautes-animes-de-l-hiver-2022&plugin_category=Les%20nouveaut%c3%a9s%20(Animes%20de%20l%27hiver%202022)&user_slug=didibz&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "studio": "Didi",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "les_nouveautes_(animes_de_lhiver_2022)-1661599277.1401842",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Anime",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Anime&list_slug=anime&plugin_category=Anime&user_slug=duuitnow&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "studio": "April",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "anime-1661600002.2481265",
+            "version": "3.7.0"
+        }
+    ],
+    "id": "animes_autowidget-1661599000.3136003",
+    "art": {
+        "banner": "special://home/addons/plugin.program.autowidget/resources/media/banner/folder-sync.png",
+        "fanart": "special://home/addons/plugin.program.autowidget/resources/media/fanart/folder-sync.png",
+        "icon": "special://home/addons/plugin.program.autowidget/resources/media/icon/folder-sync.png",
+        "poster": "special://home/addons/plugin.program.autowidget/resources/media/poster/folder-sync.png",
+        "thumb": "special://home/addons/plugin.program.autowidget/resources/media/icon/folder-sync.png"
+    },
+    "version": "3.7.0",
+    "content": "",
+    "sort_order": "21"
+}

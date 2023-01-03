@@ -1,0 +1,61 @@
+{
+    "history": [
+        [
+            1662545287.7300472,
+            "b7acc2d403168e71c9bae2dc2c1f8bc0e0cbd132"
+        ],
+        [
+            1664347366.9302428,
+            "618c94cbcd8038de2d17824cc34bafc237eac023"
+        ],
+        [
+            1664347988.954373,
+            "618c94cbcd8038de2d17824cc34bafc237eac023"
+        ],
+        [
+            1664348325.6106331,
+            "618c94cbcd8038de2d17824cc34bafc237eac023"
+        ],
+        [
+            1664348692.9423275,
+            "618c94cbcd8038de2d17824cc34bafc237eac023"
+        ],
+        [
+            1664349359.2691476,
+            "10dad82acafd0908bc314faf864288e5d73ae708"
+        ],
+        [
+            1664349675.6737425,
+            "618c94cbcd8038de2d17824cc34bafc237eac023"
+        ],
+        [
+            1664350022.2991312,
+            "618c94cbcd8038de2d17824cc34bafc237eac023"
+        ],
+        [
+            1664351928.389383,
+            "45c2240bc9a17684159eb71ba41361b99c70e6fa"
+        ],
+        [
+            1664354945.1489906,
+            "45c2240bc9a17684159eb71ba41361b99c70e6fa"
+        ],
+        [
+            1664356130.6311922,
+            "45c2240bc9a17684159eb71ba41361b99c70e6fa"
+        ],
+        [
+            1664358211.1088114,
+            "45c2240bc9a17684159eb71ba41361b99c70e6fa"
+        ],
+        [
+            1669991055.4595556,
+            "71883524f3d5fca63d81d147cec0a050ee6b2298"
+        ]
+    ],
+    "widgets": [
+        "d70f506e-16a6-4f04-bd9c-45ed4680c8ae",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Concert&list_slug=concert&owner=true&plugin_category=Concert&user_slug=jealad&widget=True"
+}

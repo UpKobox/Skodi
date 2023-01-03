@@ -1,0 +1,29 @@
+{
+    "history": [
+        [
+            1662545271.5934825,
+            "335f4e8addeef9e568d09ee479314bad4c018d64"
+        ],
+        [
+            1670068699.3291576,
+            "36d610f31076fe1bf1d40b809faa4d36ca19e941"
+        ],
+        [
+            1670069951.6595685,
+            "36d610f31076fe1bf1d40b809faa4d36ca19e941"
+        ],
+        [
+            1670070498.536419,
+            "36d610f31076fe1bf1d40b809faa4d36ca19e941"
+        ],
+        [
+            1670070879.7357285,
+            "36d610f31076fe1bf1d40b809faa4d36ca19e941"
+        ]
+    ],
+    "widgets": [
+        "8da54429-48d3-4fc9-83d6-10f0261bccd6",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_recommendations&tmdb_type=movie&widget=True"
+}

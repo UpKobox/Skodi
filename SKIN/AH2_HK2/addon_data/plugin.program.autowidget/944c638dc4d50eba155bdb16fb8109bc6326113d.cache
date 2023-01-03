@@ -21,7 +21,6 @@
                 ],
                 "country": [],
                 "customproperties": {
-                    "available_releases": "Theatrical",
                     "budget": "$0",
                     "cast": "Annie Lennox",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=338430&ignore_default=true)",
@@ -51,10 +50,11 @@
                     "param.plugin_category": "Concert",
                     "param.user_slug": "jealad",
                     "param.widget": "True",
-                    "popularity": "0.629",
+                    "popularity": "0.6",
+                    "provider.link": "https://www.themoviedb.org/movie/338430-annie-lennox-an-evening-of-nostalgia-with-annie-lennox/watch?locale=FR",
+                    "providers": "Apple iTunes",
                     "revenue": "$0",
                     "slug_id": "annie-lennox-an-evening-of-nostalgia-with-annie-lennox-2015",
-                    "theatrical_release": "2015-05-04",
                     "tmdb_id": "338430",
                     "tmdb_rating": "7.0",
                     "tmdb_type": "movie",
@@ -73,7 +73,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "",
                 "label": "Annie Lennox: An Evening of Nostalgia with Annie Lennox",
@@ -83,14 +83,14 @@
                 "mpaa": "",
                 "originaltitle": "Annie Lennox: An Evening of Nostalgia with Annie Lennox",
                 "playcount": 0,
-                "plot": "An Evening Of Nostalgia with Annie Lennox captures one of music\u2019s most popular and acclaimed artists in her only full concert performance of songs from her Grammy-nominated Nostalgia album. Fronting a 19-piece band \u2013 including string and horn sections \u2013 and unveiling striking lighting and production elements created especially for this concert, Lennox demonstrates her distinctive vocal and performance talents on an array of classic American standards, ranging from \u201cSummertime,\u201d \u201cGeorgia On My Mind\u201d, \u201cStrange Fruit\u201d and \u201cGod Bless The Child\u201d to one of rock\u2019n\u2019roll\u2019s most enduring classics, \u201cI Put A Spell On You.\u201d",
+                "plot": "",
                 "plotoutline": "",
                 "premiered": "2015-05-04",
                 "productioncode": "",
                 "rating": 7.0,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 4020.0
                 },
                 "runtime": 4020,
                 "season": -1,
@@ -205,7 +205,7 @@
                     "param.plugin_category": "Concert",
                     "param.user_slug": "jealad",
                     "param.widget": "True",
-                    "popularity": "1.503",
+                    "popularity": "0.95",
                     "revenue": "$0",
                     "slug_id": "arena-1985",
                     "studio": "HBO",
@@ -227,8 +227,8 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Science Fiction",
-                    "Music"
+                    "Science-Fiction",
+                    "Musique"
                 ],
                 "imdbnumber": "tt0254123",
                 "label": "Arena",
@@ -238,14 +238,14 @@
                 "mpaa": "",
                 "originaltitle": "Arena",
                 "playcount": 0,
-                "plot": "Call my name, and I'll be there. Dr. Duran Duran escapes the punishment of the Matmos at the height of British rock group Duran Duran's 1980s popularity. Mistaking the cries of teenage girls at crowded concerts for devotees screaming his name, the Doctor makes his way to Earth so he can lead his faithful masses. Once he discovers the kids don't want an evil Doctor, he goes about trying to destroy the source of the real desires a rock concert taking place at the Oakland (Calif.) Colesium.",
+                "plot": "",
                 "plotoutline": "",
                 "premiered": "1985-03-01",
                 "productioncode": "",
                 "rating": 8.0,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 7440.0
                 },
                 "runtime": 7440,
                 "season": -1,
@@ -267,7 +267,7 @@
                     "Thorn EMI Screen Entertainment"
                 ],
                 "tag": [],
-                "tagline": "Arena (An Absurd Notion)",
+                "tagline": "",
                 "thumbnail": "",
                 "title": "Arena",
                 "top250": 0,
@@ -318,7 +318,7 @@
                         "name": "George Harrison",
                         "order": 3,
                         "role": "Self",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fzwUO2gnKBnSrKOB9hnhI9GdOX6e.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2frbcU4QSEWTKvLoJCRXGPati4KjJ.jpg/"
                     },
                     {
                         "name": "John Mellencamp",
@@ -348,7 +348,7 @@
                         "name": "Tracy Chapman",
                         "order": 8,
                         "role": "",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ffULEBAxXXNHOARDUYrgWpiKxuzL.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f1fUJzzFTMaUorh5yWZ0TWLWuHzh.jpg/"
                     },
                     {
                         "name": "Willie Nelson",
@@ -369,7 +369,7 @@
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ffWZCpnXT7sLOdc96Bm66QTOjnXZ.jpg/"
                     },
                     {
-                        "name": "Ron Wood",
+                        "name": "Ronnie Wood",
                         "order": 12,
                         "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fx9cPzzqEOLIuvwsqfqoDTdXeeny.jpg/"
@@ -390,7 +390,7 @@
                         "name": "Chrissie Hynde",
                         "order": 15,
                         "role": "",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fhjaAxA1Fhtk9OfZEws8jdXwIVHc.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fpQg7vYN1kwu4Xo71R0ZGiv6uDjq.jpg/"
                     },
                     {
                         "name": "Tom Petty",
@@ -409,16 +409,15 @@
                     "United States of America"
                 ],
                 "customproperties": {
-                    "available_releases": "Theatrical",
                     "budget": "$0",
-                    "cast": "Bob Dylan / Johnny Cash / Eric Clapton / George Harrison / John Mellencamp / Stevie Wonder / Lou Reed / Eddie Vedder / Tracy Chapman / Willie Nelson / Don Was / Kris Kristofferson / Ron Wood / Sin\u00e9ad O'Connor / Neil Young / Chrissie Hynde / Tom Petty / Roger McGuinn",
+                    "cast": "Bob Dylan / Johnny Cash / Eric Clapton / George Harrison / John Mellencamp / Stevie Wonder / Lou Reed / Eddie Vedder / Tracy Chapman / Willie Nelson / Don Was / Kris Kristofferson / Ronnie Wood / Sin\u00e9ad O'Connor / Neil Young / Chrissie Hynde / Tom Petty / Roger McGuinn",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=54931&ignore_default=true)",
                     "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=54931)",
                     "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=54931)",
                     "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=54931)",
                     "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=54931)",
                     "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=54931)",
-                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Bob Dylan: The 30th Anniversary Concert Celebration,tmdb_type=movie,tmdb_id=54931)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Bob Dylan - The 30th Anniversary Concert Celebration,tmdb_type=movie,tmdb_id=54931)",
                     "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
                     "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
                     "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
@@ -440,13 +439,12 @@
                     "param.plugin_category": "Concert",
                     "param.user_slug": "jealad",
                     "param.widget": "True",
-                    "popularity": "3.14",
-                    "provider.link": "https://www.themoviedb.org/movie/54931-bob-dylan-the-30th-anniversary-concert-celebration/watch?locale=US",
-                    "providers": "Apple iTunes / Amazon Video / Google Play Movies / YouTube / Vudu / VUDU Free / Microsoft Store",
+                    "popularity": "2.929",
+                    "provider.link": "https://www.themoviedb.org/movie/54931-bob-dylan-the-30th-anniversary-concert-celebration/watch?locale=FR",
+                    "providers": "Apple iTunes / Google Play Movies / YouTube / Amazon Video",
                     "revenue": "$0",
                     "slug_id": "bob-dylan-the-30th-anniversary-concert-celebration-1993",
                     "studio": "CBS Records",
-                    "theatrical_release": "1993-03-02",
                     "tmdb_id": "54931",
                     "tmdb_rating": "7.2",
                     "tmdb_type": "movie",
@@ -465,26 +463,26 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "tt0319075",
-                "label": "Bob Dylan: The 30th Anniversary Concert Celebration",
+                "label": "Bob Dylan - The 30th Anniversary Concert Celebration",
                 "lastmodified": "",
                 "lastplayed": "",
                 "mimetype": "application/octet-stream",
                 "mpaa": "",
                 "originaltitle": "Bob Dylan: The 30th Anniversary Concert Celebration",
                 "playcount": 0,
-                "plot": "On October 16, 1992, an impressive and eclectic group of artists gathered at Madison Square Garden in New York City for the purpose of celebrating the music of Bob Dylan on the occasion of his 30th anniversary of recording. Bringing together musical greats as far-flung as Johnny Cash and Eddie Vedder, The Clancy Brothers and Lou Reed, the four-hour show celebrated a truly remarkable lifetime of songs in front of a sold-out audience of over 18,000. Warmly dubbed the Bobfest by participant Neil Young, the show was broadcast around the world and featured a cast of musical notables performing carefully chosen and often surprising selections from the incomparable Dylan songbook. At evening's end, the man of honor himself appeared on stage and gracefully brought it all back home again. In a world where all-star celebrity gatherings have become commonplace, the Bob Dylan celebration stood out as, first and foremost, a legitimately memorable musical event.",
+                "plot": "Le 16 octobre 1992, un impressionnant groupe d'artistes se sont rassembl\u00e9s au Madison Square Garden \u00e0 New York pour c\u00e9l\u00e9brer la musique de Bob Dylan.",
                 "plotoutline": "",
                 "premiered": "1993-03-02",
                 "productioncode": "",
                 "rating": 7.199999809265137,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 10500.0
                 },
-                "runtime": 15120,
+                "runtime": 10500,
                 "season": -1,
                 "set": "",
                 "setid": -1,
@@ -505,7 +503,7 @@
                 "tag": [],
                 "tagline": "",
                 "thumbnail": "",
-                "title": "Bob Dylan: The 30th Anniversary Concert Celebration",
+                "title": "Bob Dylan - The 30th Anniversary Concert Celebration",
                 "top250": 0,
                 "track": -1,
                 "trailer": "plugin://plugin.video.youtube/play/?video_id=6CuSwOI8__8",
@@ -526,9 +524,9 @@
             {
                 "album": "",
                 "art": {
+                    "clearlogo": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f121441%2fhdmovielogo%2fbob-marley---live-in-concert-5677fd6d5d5a2.png/",
                     "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f5zWpTXlv10hNeGh2N3MGWRFpEG4.jpg/",
                     "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f8KGJTvaDlpWhKgT6WZYyP0xYv5m.jpg/",
-                    "landscape": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f5zWpTXlv10hNeGh2N3MGWRFpEG4.jpg/",
                     "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f8KGJTvaDlpWhKgT6WZYyP0xYv5m.jpg/"
                 },
                 "artist": [],
@@ -572,7 +570,7 @@
                     "param.plugin_category": "Concert",
                     "param.user_slug": "jealad",
                     "param.widget": "True",
-                    "popularity": "1.323",
+                    "popularity": "1.577",
                     "revenue": "$0",
                     "slug_id": "bob-marley-live-in-concert-2012-04-12",
                     "tmdb_id": "121441",
@@ -593,7 +591,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "tt0191839",
                 "label": "Bob Marley - Live in Concert",
@@ -603,16 +601,16 @@
                 "mpaa": "",
                 "originaltitle": "Bob Marley - Live in Concert",
                 "playcount": 0,
-                "plot": "1. Trenchtown Rock 2. Them Belly Full 3. I Shot The Sheriff 4. Rebel Music 5. Lively Up Yourself 6. Crazy Baldhead/ Running Away 7. War/No More Trouble 8. The Heathen 9. No Woman, No Cry 10. Jamming 11. Get Up, Stand Up! 12. Exodus",
+                "plot": "",
                 "plotoutline": "",
                 "premiered": "2012-04-12",
                 "productioncode": "",
                 "rating": 8.0,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 3900.0
                 },
-                "runtime": 4080,
+                "runtime": 3900,
                 "season": -1,
                 "set": "",
                 "setid": -1,
@@ -661,37 +659,38 @@
                     {
                         "name": "Chlo\u00eb Agnew",
                         "order": 0,
-                        "role": "Herself",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f3FrI7cj2ZEmcloJBOeuLMbBWdLT.jpg/"
                     },
                     {
                         "name": "Lisa Kelly",
                         "order": 1,
-                        "role": "Herself",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fglHnBERF7eaDgPBeL2r2fiINwtp.jpg/"
                     },
                     {
                         "name": "M\u00e1ir\u00e9ad Nesbitt",
                         "order": 2,
-                        "role": "Herself",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fprrD05t7nVsoTU0Vv0TIT4GRRKi.jpg/"
                     },
                     {
                         "name": "Lynn Hilary",
                         "order": 3,
-                        "role": "Herself"
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fhCx4PnBVXRnq7quKz7WvxaatrXP.jpg/"
                     },
                     {
                         "name": "Alex Sharpe",
                         "order": 4,
-                        "role": "Herself"
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fp3lFWhNolQ2Y4J6TYeIDZxsMLNM.jpg/"
                     }
                 ],
                 "country": [
                     "Ireland"
                 ],
                 "customproperties": {
-                    "available_releases": "Theatrical",
                     "budget": "$0",
                     "cast": "Chlo\u00eb Agnew / Lisa Kelly / M\u00e1ir\u00e9ad Nesbitt / Lynn Hilary / Alex Sharpe",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=47966&ignore_default=true)",
@@ -722,11 +721,10 @@
                     "param.plugin_category": "Concert",
                     "param.user_slug": "jealad",
                     "param.widget": "True",
-                    "popularity": "1.001",
+                    "popularity": "1.242",
                     "revenue": "$0",
                     "slug_id": "celtic-woman-songs-from-the-heart-2009",
                     "studio": "Alex Coletti Productions",
-                    "theatrical_release": "2009-11-28",
                     "tmdb_id": "47966",
                     "tmdb_rating": "6.8",
                     "tmdb_type": "movie",
@@ -743,7 +741,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "tt1606335",
                 "label": "Celtic Woman: Songs from the Heart",
@@ -753,14 +751,14 @@
                 "mpaa": "",
                 "originaltitle": "Celtic Woman: Songs from the Heart",
                 "playcount": 0,
-                "plot": "The popular all female singing group brings its unique Celtic sound to a live concert at Powerscourt in Ireland.",
+                "plot": "",
                 "plotoutline": "",
                 "premiered": "2009-11-28",
                 "productioncode": "",
                 "rating": 6.800000190734863,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 7380.0
                 },
                 "runtime": 7380,
                 "season": -1,
@@ -783,7 +781,7 @@
                     "Celtic Woman"
                 ],
                 "tag": [],
-                "tagline": "Live from the Powerscourt House and Gardens",
+                "tagline": "",
                 "thumbnail": "",
                 "title": "Celtic Woman: Songs from the Heart",
                 "top250": 0,
@@ -823,7 +821,6 @@
                     "United States of America"
                 ],
                 "customproperties": {
-                    "available_releases": "Physical",
                     "budget": "$0",
                     "cast": "Cher",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=76865&ignore_default=true)",
@@ -854,10 +851,7 @@
                     "param.plugin_category": "Concert",
                     "param.user_slug": "jealad",
                     "param.widget": "True",
-                    "physical_release": "1999-12-21",
-                    "popularity": "1.47",
-                    "provider.link": "https://www.themoviedb.org/movie/76865-cher-live-in-concert/watch?locale=US",
-                    "providers": "Amazon Video",
+                    "popularity": "1.137",
                     "revenue": "$0",
                     "slug_id": "cher-live-in-concert-1999",
                     "studio": "HBO",
@@ -877,8 +871,8 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music",
-                    "Documentary"
+                    "Musique",
+                    "Documentaire"
                 ],
                 "imdbnumber": "tt0218879",
                 "label": "Cher: Live in Concert",
@@ -888,14 +882,14 @@
                 "mpaa": "",
                 "originaltitle": "Cher: Live in Concert",
                 "playcount": 0,
-                "plot": "Live in Concert is the second live music video title by singer and actress Cher. Released by HBO in 1999, it contained footage from Cher's Do You Believe? Tour specials filmed at the MGM Grand Garden Arena in Paradise, Nevada in 1999. It featured tracks from Gypsys, Tramps & Thieves album to Believe album, alongside various covers. She has 7 costume changes by stylist Bob Mackie.",
+                "plot": "I still haven't found what I'm looking for - All or nothing - The power - We all sleep alone - I found someone - The way of love - Half breed - Gypsie, tramps &amp; thieves - Dark lady - Take me home - After all - Walking in Memphis - Just like Jesse James - The shoop shoop song - Dov'\u00e8 l'amore - Strong enough - If I could turn back time - Believe",
                 "plotoutline": "",
                 "premiered": "1999-12-21",
                 "productioncode": "",
                 "rating": 6.5,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 4500.0
                 },
                 "runtime": 4500,
                 "season": -1,
@@ -953,7 +947,6 @@
                 ],
                 "country": [],
                 "customproperties": {
-                    "available_releases": "Theatrical",
                     "budget": "$0",
                     "cast": "Chris Isaak",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=120305&ignore_default=true)",
@@ -983,10 +976,9 @@
                     "param.plugin_category": "Concert",
                     "param.user_slug": "jealad",
                     "param.widget": "True",
-                    "popularity": "1.4",
+                    "popularity": "1.241",
                     "revenue": "$0",
                     "slug_id": "chris-isaak-live-in-concert-and-greatest-hits-live-concert-2012",
-                    "theatrical_release": "2012-01-03",
                     "tmdb_id": "120305",
                     "tmdb_rating": "6.5",
                     "tmdb_type": "movie",
@@ -1003,7 +995,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "",
                 "label": "Chris Isaak: Live in Concert and Greatest Hits Live Concert",
@@ -1013,14 +1005,14 @@
                 "mpaa": "",
                 "originaltitle": "Chris Isaak: Live in Concert and Greatest Hits Live Concert",
                 "playcount": 0,
-                "plot": "The singer-songwriter performs with his band in two concerts broadcast in 2003 and 2005 as part of the Soundstage series jointly produced by WTTW, the PBS station in Chicago, and HD Ready.",
+                "plot": "",
                 "plotoutline": "",
                 "premiered": "2012-01-03",
                 "productioncode": "",
                 "rating": 6.5,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 6660.0
                 },
                 "runtime": 6660,
                 "season": -1,
@@ -1039,7 +1031,7 @@
                 },
                 "studio": [],
                 "tag": [],
-                "tagline": "Chris Isaak, live, Concert, Greatest Hits",
+                "tagline": "",
                 "thumbnail": "",
                 "title": "Chris Isaak: Live in Concert and Greatest Hits Live Concert",
                 "top250": 0,
@@ -1090,7 +1082,6 @@
                 ],
                 "country": [],
                 "customproperties": {
-                    "available_releases": "Theatrical",
                     "budget": "$0",
                     "cast": "Tom Keifer / Eric Brittingham / Jeff LaBar / Fred Coury",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=57029&ignore_default=true)",
@@ -1120,12 +1111,9 @@
                     "param.plugin_category": "Concert",
                     "param.user_slug": "jealad",
                     "param.widget": "True",
-                    "popularity": "0.698",
-                    "provider.link": "https://www.themoviedb.org/movie/57029-cinderella-in-concert/watch?locale=US",
-                    "providers": "Amazon Video / Vudu / VUDU Free",
+                    "popularity": "0.651",
                     "revenue": "$0",
                     "slug_id": "cinderella-in-concert-2005",
-                    "theatrical_release": "2005-03-29",
                     "tmdb_id": "57029",
                     "tmdb_rating": "5.5",
                     "tmdb_type": "movie",
@@ -1142,7 +1130,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "",
                 "label": "Cinderella - In Concert",
@@ -1152,14 +1140,14 @@
                 "mpaa": "",
                 "originaltitle": "Cinderella - In Concert",
                 "playcount": 0,
-                "plot": "Filmed at the height of the band's popularity during the Heartbreak Station Tour in 1991, this spectacular performance includes all of their biggest hits including Night Songs, Don't Know What You Got 'Til It's Gone, Nobody's Fool, Shelter Me and more.",
+                "plot": "Film\u00e9e au plus fort de la popularit\u00e9 du groupe lors de la tourn\u00e9e Heartbreak Station Tour en 1991, cette performance spectaculaire comprend tous leurs plus grands succ\u00e8s, notamment Night Songs, Don't Know What You Got 'Til It's Gone, Nobody's Fool, Shelter Me et bien d'autres.",
                 "plotoutline": "",
                 "premiered": "2005-03-29",
                 "productioncode": "",
                 "rating": 5.5,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 3000.0
                 },
                 "runtime": 3000,
                 "season": -1,
@@ -1178,7 +1166,7 @@
                 },
                 "studio": [],
                 "tag": [],
-                "tagline": "",
+                "tagline": "Version \"remastered\" sorti en 2011",
                 "thumbnail": "",
                 "title": "Cinderella - In Concert",
                 "top250": 0,
@@ -1199,19 +1187,21 @@
             {
                 "album": "",
                 "art": {
-                    "icon": "image://C%3a%5cKodiTest%5ckodi%2020%20testu2p%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fdefault.png/"
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f3G8Lv450sZTt7kHweShP2zRaqwK.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f3G8Lv450sZTt7kHweShP2zRaqwK.jpg/"
                 },
                 "artist": [],
                 "cast": [],
                 "country": [],
                 "customproperties": {
-                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=280739&ignore_default=true)",
-                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=280739)",
-                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=280739)",
-                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=280739)",
-                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=280739)",
-                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=280739)",
-                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=David Bowie - 50th Birthday Concert,tmdb_type=movie,tmdb_id=280739)",
+                    "budget": "$0",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=232191&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=232191)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=232191)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=232191)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=232191)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=232191)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=The Cure - Austin City Limits 2013,tmdb_type=movie,tmdb_id=232191)",
                     "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
                     "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
                     "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
@@ -1219,9 +1209,10 @@
                     "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
                     "contextmenulabel(5)": "$LOCALIZE[20444]",
                     "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "dbtype": "movie",
                     "isplayable": "true",
                     "item.info": "play",
-                    "item.tmdb_id": "280739",
+                    "item.tmdb_id": "232191",
                     "item.tmdb_type": "movie",
                     "item.type": "movie",
                     "param.info": "trakt_userlist",
@@ -1231,10 +1222,14 @@
                     "param.plugin_category": "Concert",
                     "param.user_slug": "jealad",
                     "param.widget": "True",
-                    "slug_id": "david-bowie-50th-birthday-concert-1997",
-                    "tmdb_id": "280739",
+                    "popularity": "0.6",
+                    "revenue": "$0",
+                    "slug_id": "the-cure-austin-city-limits-2013-2013",
+                    "tmdb_id": "232191",
+                    "tmdb_rating": "0.0",
                     "tmdb_type": "movie",
-                    "trakt_id": "178178",
+                    "tmdb_votes": "0",
+                    "trakt_id": "141535",
                     "widget": "Concert"
                 },
                 "dateadded": "",
@@ -1242,28 +1237,28 @@
                 "episode": -1,
                 "episodeguide": "",
                 "fanart": "",
-                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=280739",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=232191",
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [],
                 "imdbnumber": "",
-                "label": "[COLOR=ffcc0000][I]David Bowie - 50th Birthday Concert[/I][/COLOR]",
+                "label": "The Cure - Austin City Limits 2013",
                 "lastmodified": "",
                 "lastplayed": "",
                 "mimetype": "application/octet-stream",
                 "mpaa": "",
-                "originaltitle": "",
+                "originaltitle": "The Cure - Austin City Limits 2013",
                 "playcount": 0,
                 "plot": "",
                 "plotoutline": "",
-                "premiered": "",
+                "premiered": "2013-10-12",
                 "productioncode": "",
                 "rating": 0.0,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 7620.0
                 },
-                "runtime": 0,
+                "runtime": 7620,
                 "season": -1,
                 "set": "",
                 "setid": -1,
@@ -1282,21 +1277,901 @@
                 "tag": [],
                 "tagline": "",
                 "thumbnail": "",
-                "title": "David Bowie - 50th Birthday Concert",
+                "title": "The Cure - Austin City Limits 2013",
                 "top250": 0,
                 "track": -1,
                 "trailer": "",
                 "tvshowid": -1,
                 "type": "movie",
                 "uniqueid": {
-                    "slug": "david-bowie-50th-birthday-concert-1997",
-                    "tmdb": "280739",
-                    "trakt": "178178"
+                    "slug": "the-cure-austin-city-limits-2013-2013",
+                    "tmdb": "232191",
+                    "trakt": "141535"
                 },
                 "userrating": 0,
                 "votes": "0",
                 "writer": [],
-                "year": 1997
+                "year": 2013
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fgRviJ85RAVIfd3NtcaOvsAAXWOa.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2frHLPIwcaXvAvRUlAbTLo2exI34R.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2frHLPIwcaXvAvRUlAbTLo2exI34R.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Jason Cooper",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f6Q8NwhRXsmGBNJxA0NXt32Rn2dD.jpg/"
+                    },
+                    {
+                        "name": "Simon Gallup",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fcSejN0vvTt2rogZrmgYQ3UGoOBD.jpg/"
+                    },
+                    {
+                        "name": "Robert Smith",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f5UofE1fwZ75vcXQbnU3qWIq8bPU.jpg/"
+                    },
+                    {
+                        "name": "Porl Thompson",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fxYCMC28QimnP2XqfsdGt5AsNxkw.jpg/"
+                    }
+                ],
+                "country": [
+                    "United States of America"
+                ],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Jason Cooper / Simon Gallup / Robert Smith / Porl Thompson",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=76090&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=76090)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=76090)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=76090)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=76090)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=76090)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=The Cure: Festival 2005,tmdb_type=movie,tmdb_id=76090)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt0902271",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "76090",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concert",
+                    "param.list_slug": "concert",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concert",
+                    "param.user_slug": "jealad",
+                    "param.widget": "True",
+                    "popularity": "1.362",
+                    "revenue": "$0",
+                    "slug_id": "the-cure-festival-2005-2006",
+                    "studio": "Geffen Records",
+                    "tmdb_id": "76090",
+                    "tmdb_rating": "8.1",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "5",
+                    "trakt_id": "56158",
+                    "widget": "Concert"
+                },
+                "dateadded": "",
+                "director": [
+                    "Seren Dipity"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fgRviJ85RAVIfd3NtcaOvsAAXWOa.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=76090",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique",
+                    "Documentaire"
+                ],
+                "imdbnumber": "tt0902271",
+                "label": "The Cure: Festival 2005",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "The Cure: Festival 2005",
+                "playcount": 0,
+                "plot": "Festival 2005 est un DVD live du groupe The Cure, sorti le 5 d\u00e9cembre 2006.\r Il marque le retour du guitariste Porl Thompson, qui avait quitt\u00e9 le groupe quelques ann\u00e9es plus t\u00f4t.\r Ce DVD a \u00e9t\u00e9 enregistr\u00e9 lors d'une s\u00e9rie de concerts en t\u00eate d'affiche de neuf festivals europ\u00e9ens durant l'\u00e9t\u00e9 2005. Il m\u00e9lange aussi bien des prises de vue effectu\u00e9es par des professionnels que par des gens du public.",
+                "plotoutline": "",
+                "premiered": "2006-12-05",
+                "productioncode": "",
+                "rating": 8.100000381469727,
+                "resume": {
+                    "position": 0.0,
+                    "total": 9300.0
+                },
+                "runtime": 9300,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Geffen Records"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "The Cure: Festival 2005",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt0902271",
+                    "slug": "the-cure-festival-2005-2006",
+                    "tmdb": "76090",
+                    "trakt": "56158",
+                    "unknown": "tt0902271"
+                },
+                "userrating": 0,
+                "votes": "5",
+                "writer": [],
+                "year": 2006
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fyWKMIGncwJXpNPd2LDjkkYNs3EQ.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fb35bNRSpz5Dtpjs5ZIXe8xHpp1W.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fb35bNRSpz5Dtpjs5ZIXe8xHpp1W.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Robert Smith",
+                        "order": 0,
+                        "role": "Performer",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f5UofE1fwZ75vcXQbnU3qWIq8bPU.jpg/"
+                    },
+                    {
+                        "name": "Simon Gallup",
+                        "order": 1,
+                        "role": "Performer",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fcSejN0vvTt2rogZrmgYQ3UGoOBD.jpg/"
+                    },
+                    {
+                        "name": "Jason Cooper",
+                        "order": 2,
+                        "role": "Performer",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f6Q8NwhRXsmGBNJxA0NXt32Rn2dD.jpg/"
+                    },
+                    {
+                        "name": "Roger O'Donnell",
+                        "order": 3,
+                        "role": "Performer",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fjPp34vHjhmWNANXVQwsk6lQmqG5.jpg/"
+                    },
+                    {
+                        "name": "Porl Thompson",
+                        "order": 4,
+                        "role": "Performer",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fxYCMC28QimnP2XqfsdGt5AsNxkw.jpg/"
+                    },
+                    {
+                        "name": "Laurence Tolhurst",
+                        "order": 5,
+                        "role": "Performer",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f4Gl0cZfqmUpCeUVmi7m40bNYgih.jpg/"
+                    },
+                    {
+                        "name": "Boris Williams",
+                        "order": 6,
+                        "role": "Performer",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fpC6miMzrm4ySZfOBwEeoHO1h64r.jpg/"
+                    }
+                ],
+                "country": [],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Robert Smith / Simon Gallup / Jason Cooper / Roger O'Donnell / Porl Thompson / Laurence Tolhurst / Boris Williams",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=40556&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=40556)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=40556)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=40556)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=40556)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=40556)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=The Cure: Greatest Hits Videos,tmdb_type=movie,tmdb_id=40556)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt0477285",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "40556",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concert",
+                    "param.list_slug": "concert",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concert",
+                    "param.user_slug": "jealad",
+                    "param.widget": "True",
+                    "popularity": "0.693",
+                    "revenue": "$0",
+                    "slug_id": "the-cure-greatest-hits-videos-2001",
+                    "tmdb_id": "40556",
+                    "tmdb_rating": "6.7",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "3",
+                    "trakt_id": "26666",
+                    "widget": "Concert"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fyWKMIGncwJXpNPd2LDjkkYNs3EQ.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=40556",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique"
+                ],
+                "imdbnumber": "tt0477285",
+                "label": "The Cure: Greatest Hits Videos",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "The Cure: Greatest Hits Videos",
+                "playcount": 0,
+                "plot": "",
+                "plotoutline": "",
+                "premiered": "2001-12-10",
+                "productioncode": "",
+                "rating": 6.699999809265137,
+                "resume": {
+                    "position": 0.0,
+                    "total": 4080.0
+                },
+                "runtime": 4080,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "The Cure: Greatest Hits Videos",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt0477285",
+                    "slug": "the-cure-greatest-hits-videos-2001",
+                    "tmdb": "40556",
+                    "trakt": "26666",
+                    "unknown": "tt0477285"
+                },
+                "userrating": 0,
+                "votes": "3",
+                "writer": [],
+                "year": 2001
+            },
+            {
+                "album": "",
+                "art": {
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fs82LcQKKPNS0OYi8LySnVVHBJzg.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fs82LcQKKPNS0OYi8LySnVVHBJzg.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Robert Smith",
+                        "order": 0,
+                        "role": "vocals, guitar",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f5UofE1fwZ75vcXQbnU3qWIq8bPU.jpg/"
+                    },
+                    {
+                        "name": "Simon Gallup",
+                        "order": 1,
+                        "role": "bass",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fcSejN0vvTt2rogZrmgYQ3UGoOBD.jpg/"
+                    },
+                    {
+                        "name": "Jason Cooper",
+                        "order": 2,
+                        "role": "drums",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f6Q8NwhRXsmGBNJxA0NXt32Rn2dD.jpg/"
+                    },
+                    {
+                        "name": "Porl Thompson",
+                        "order": 3,
+                        "role": "guitar",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fxYCMC28QimnP2XqfsdGt5AsNxkw.jpg/"
+                    }
+                ],
+                "country": [
+                    "France"
+                ],
+                "customproperties": {
+                    "available_releases": "TV",
+                    "budget": "$0",
+                    "cast": "Robert Smith / Simon Gallup / Jason Cooper / Porl Thompson",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=87439&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=87439)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=87439)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=87439)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=87439)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=87439)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=The Cure: Live In Paris 2008,tmdb_type=movie,tmdb_id=87439)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "dbtype": "movie",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "87439",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concert",
+                    "param.list_slug": "concert",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concert",
+                    "param.user_slug": "jealad",
+                    "param.widget": "True",
+                    "popularity": "0.6",
+                    "revenue": "$0",
+                    "slug_id": "the-cure-live-in-paris-2008-2008",
+                    "studio": "Sombrero & Company",
+                    "tmdb_id": "87439",
+                    "tmdb_rating": "0.0",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "0",
+                    "trakt_id": "65723",
+                    "tv_release": "2008-03-12",
+                    "widget": "Concert"
+                },
+                "dateadded": "",
+                "director": [
+                    "Laurent Hasse",
+                    "Thierry Villeneuve"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=87439",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "T\u00e9l\u00e9film",
+                    "Musique"
+                ],
+                "imdbnumber": "",
+                "label": "The Cure: Live In Paris 2008",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "The Cure: Live In Paris 2008",
+                "playcount": 0,
+                "plot": "",
+                "plotoutline": "",
+                "premiered": "2008-03-12",
+                "productioncode": "",
+                "rating": 0.0,
+                "resume": {
+                    "position": 0.0,
+                    "total": 5400.0
+                },
+                "runtime": 5400,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Sombrero & Company"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "The Cure: Live In Paris 2008",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "slug": "the-cure-live-in-paris-2008-2008",
+                    "tmdb": "87439",
+                    "trakt": "65723"
+                },
+                "userrating": 0,
+                "votes": "0",
+                "writer": [],
+                "year": 2008
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fohjBJVf28KuCcGyKJrVt1waN6WB.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fxBbzhqRRnnCNKQauEcjhlbPfZ8B.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fxBbzhqRRnnCNKQauEcjhlbPfZ8B.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Robert Smith",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f5UofE1fwZ75vcXQbnU3qWIq8bPU.jpg/"
+                    }
+                ],
+                "country": [],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Robert Smith",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=213227&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=213227)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=213227)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=213227)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=213227)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=213227)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=The Cure: Live in Chicago,tmdb_type=movie,tmdb_id=213227)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "dbtype": "movie",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "213227",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concert",
+                    "param.list_slug": "concert",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concert",
+                    "param.user_slug": "jealad",
+                    "param.widget": "True",
+                    "popularity": "0.844",
+                    "revenue": "$0",
+                    "slug_id": "the-cure-live-in-chicago-2013",
+                    "tmdb_id": "213227",
+                    "tmdb_rating": "0.0",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "0",
+                    "trakt_id": "131820",
+                    "widget": "Concert"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fohjBJVf28KuCcGyKJrVt1waN6WB.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=213227",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique",
+                    "Documentaire"
+                ],
+                "imdbnumber": "",
+                "label": "The Cure: Live in Chicago",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "The Cure: Live in Chicago",
+                "playcount": 0,
+                "plot": "Le groupe a ex\u00e9cut\u00e9 un total de 26 compositions, ouvrant la soir\u00e9e avec \"Plainsong\", \"Pictures Of You\" et \"Lullaby\", tous correspondant \u00e0 l'album de 1989, Disintegration, pour plus tard c\u00e9der la place \u00e0 des chansons de diff\u00e9rentes p\u00e9riodes telles que \"Just Like Heaven\" \",\" The Walk \",\" Mint Car \",\" Wrong Number \"et\" One Hundred Years \".",
+                "plotoutline": "",
+                "premiered": "2013-08-05",
+                "productioncode": "",
+                "rating": 0.0,
+                "resume": {
+                    "position": 0.0,
+                    "total": 7380.0
+                },
+                "runtime": 7380,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "The Cure: Live in Chicago",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "slug": "the-cure-live-in-chicago-2013",
+                    "tmdb": "213227",
+                    "trakt": "131820"
+                },
+                "userrating": 0,
+                "votes": "0",
+                "writer": [],
+                "year": 2013
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f9UzMlfVrYCbd2eEhK7OebvHGmio.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f9JEqG9OY5KSyMm4Gdr8te5Hzfdz.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f9JEqG9OY5KSyMm4Gdr8te5Hzfdz.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Robert Smith",
+                        "order": 0,
+                        "role": "Himself - Vocals, Guitar",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f5UofE1fwZ75vcXQbnU3qWIq8bPU.jpg/"
+                    },
+                    {
+                        "name": "Simon Gallup",
+                        "order": 1,
+                        "role": "Himself - Bass Guitar",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fcSejN0vvTt2rogZrmgYQ3UGoOBD.jpg/"
+                    },
+                    {
+                        "name": "Boris Williams",
+                        "order": 2,
+                        "role": "Himself - Drums",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fpC6miMzrm4ySZfOBwEeoHO1h64r.jpg/"
+                    },
+                    {
+                        "name": "Perry Bamonte",
+                        "order": 3,
+                        "role": "Himself - Keyboards",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fkZP0dlBAVMex8PTkGvABYGVqAag.jpg/"
+                    },
+                    {
+                        "name": "Porl Thompson",
+                        "order": 4,
+                        "role": "Himself - Guitar",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fxYCMC28QimnP2XqfsdGt5AsNxkw.jpg/"
+                    }
+                ],
+                "country": [],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Robert Smith / Simon Gallup / Boris Williams / Perry Bamonte / Porl Thompson",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=114683&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=114683)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=114683)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=114683)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=114683)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=114683)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=The Cure: Show,tmdb_type=movie,tmdb_id=114683)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt0106634",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "114683",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concert",
+                    "param.list_slug": "concert",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concert",
+                    "param.user_slug": "jealad",
+                    "param.widget": "True",
+                    "popularity": "0.84",
+                    "revenue": "$0",
+                    "slug_id": "the-cure-show-1993",
+                    "studio": "Elektra Entertainment Group",
+                    "tmdb_id": "114683",
+                    "tmdb_rating": "0.0",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "0",
+                    "trakt_id": "80226",
+                    "widget": "Concert"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f9UzMlfVrYCbd2eEhK7OebvHGmio.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=114683",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique",
+                    "Documentaire"
+                ],
+                "imdbnumber": "tt0106634",
+                "label": "The Cure: Show",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "The Cure: Show",
+                "playcount": 0,
+                "plot": "",
+                "plotoutline": "",
+                "premiered": "1993-01-01",
+                "productioncode": "",
+                "rating": 0.0,
+                "resume": {
+                    "position": 0.0,
+                    "total": 7440.0
+                },
+                "runtime": 7440,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Elektra Entertainment Group"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "The Cure: Show",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt0106634",
+                    "slug": "the-cure-show-1993",
+                    "tmdb": "114683",
+                    "trakt": "80226",
+                    "unknown": "tt0106634"
+                },
+                "userrating": 0,
+                "votes": "0",
+                "writer": [],
+                "year": 1993
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f1Morl9THmWYAc2Lcobe341zoPcd.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f5aRacM59B7AwcpVyr8IXn3S9BmZ.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f5aRacM59B7AwcpVyr8IXn3S9BmZ.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Robert Smith",
+                        "order": 0,
+                        "role": "Himself",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f5UofE1fwZ75vcXQbnU3qWIq8bPU.jpg/"
+                    },
+                    {
+                        "name": "Simon Gallup",
+                        "order": 1,
+                        "role": "Himself",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fcSejN0vvTt2rogZrmgYQ3UGoOBD.jpg/"
+                    },
+                    {
+                        "name": "Perry Bamonte",
+                        "order": 2,
+                        "role": "Himself",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fkZP0dlBAVMex8PTkGvABYGVqAag.jpg/"
+                    },
+                    {
+                        "name": "Jason Cooper",
+                        "order": 3,
+                        "role": "Himself",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f6Q8NwhRXsmGBNJxA0NXt32Rn2dD.jpg/"
+                    },
+                    {
+                        "name": "Roger O'Donnell",
+                        "order": 4,
+                        "role": "Himself",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fjPp34vHjhmWNANXVQwsk6lQmqG5.jpg/"
+                    }
+                ],
+                "country": [],
+                "customproperties": {
+                    "available_releases": "Theatrical",
+                    "budget": "$0",
+                    "cast": "Robert Smith / Simon Gallup / Perry Bamonte / Jason Cooper / Roger O'Donnell",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=20136&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=20136)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=20136)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=20136)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=20136)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=20136)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=The Cure: Trilogy,tmdb_type=movie,tmdb_id=20136)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt0459250",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "20136",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concert",
+                    "param.list_slug": "concert",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concert",
+                    "param.user_slug": "jealad",
+                    "param.widget": "True",
+                    "popularity": "1.297",
+                    "revenue": "$0",
+                    "slug_id": "the-cure-trilogy-2002",
+                    "theatrical_release": "2002-11-10",
+                    "tmdb_id": "20136",
+                    "tmdb_rating": "7.9",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "18",
+                    "trakt_id": "12360",
+                    "widget": "Concert"
+                },
+                "dateadded": "",
+                "director": [
+                    "Nick Wickham"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f1Morl9THmWYAc2Lcobe341zoPcd.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=20136",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique",
+                    "Documentaire"
+                ],
+                "imdbnumber": "tt0459250",
+                "label": "The Cure: Trilogy",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "Rated U",
+                "originaltitle": "The Cure: Trilogy",
+                "playcount": 0,
+                "plot": "Tel un cycle de vie marqu\u00e9 par trois p\u00e9riodes cl\u00e9s, The Cure a entam\u00e9 en 2002 un concert d\u2019une ampleur gigantesque regroupant trois albums compl\u00e9mentaires, cens\u00e9s, selon Robert Smith, \u00eatre les plus repr\u00e9sentatifs de l\u2019esprit du groupe. Il s\u2019agit du concert The Cure Trilogy dans lequel les membres du groupe, dans sa composition de 2002, r\u00e9interpr\u00e9teront Pornography (l\u2019album de 1982 consid\u00e9r\u00e9 comme le sombre de The Cure), Disintegration (album de 1989 davantage m\u00e9lancolique) et Bloodflowers (album de l\u2019ann\u00e9e 2000 venant clore ce trio d\u2019albums repr\u00e9sentatifs).",
+                "plotoutline": "",
+                "premiered": "2002-11-10",
+                "productioncode": "",
+                "rating": 7.900000095367432,
+                "resume": {
+                    "position": 0.0,
+                    "total": 15180.0
+                },
+                "runtime": 15180,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "Live In Berlin 2002",
+                "thumbnail": "",
+                "title": "The Cure: Trilogy",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt0459250",
+                    "slug": "the-cure-trilogy-2002",
+                    "tmdb": "20136",
+                    "trakt": "12360",
+                    "unknown": "tt0459250"
+                },
+                "userrating": 0,
+                "votes": "18",
+                "writer": [],
+                "year": 2002
             },
             {
                 "album": "",
@@ -1318,7 +2193,6 @@
                     "United States of America"
                 ],
                 "customproperties": {
-                    "available_releases": "Physical",
                     "budget": "$0",
                     "cast": "David Bowie",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=47019&ignore_default=true)",
@@ -1349,10 +2223,9 @@
                     "param.plugin_category": "Concert",
                     "param.user_slug": "jealad",
                     "param.widget": "True",
-                    "physical_release": "2004-10-13",
-                    "popularity": "2.272",
-                    "provider.link": "https://www.themoviedb.org/movie/47019-david-bowie-a-reality-tour/watch?locale=US",
-                    "providers": "Apple iTunes / Amazon Video / Google Play Movies / YouTube / Vudu / Microsoft Store",
+                    "popularity": "1.96",
+                    "provider.link": "https://www.themoviedb.org/movie/47019-david-bowie-a-reality-tour/watch?locale=FR",
+                    "providers": "Apple iTunes",
                     "revenue": "$0",
                     "slug_id": "david-bowie-a-reality-tour-2004",
                     "studio": "Sony BMG Music Entertainment",
@@ -1374,8 +2247,8 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music",
-                    "Documentary"
+                    "Musique",
+                    "Documentaire"
                 ],
                 "imdbnumber": "tt0432815",
                 "label": "David Bowie - A Reality Tour",
@@ -1385,16 +2258,16 @@
                 "mpaa": "",
                 "originaltitle": "David Bowie - A Reality Tour",
                 "playcount": 0,
-                "plot": "In a career chock full of 'you've never seen him like this' moments, you've never seen David Bowie as you will in A Reality Tour. The rock legend and his ace band blaze through stunners from Bowie's Reality album plus dozens of his greatest hits.",
+                "plot": "Le l\u00e9gendaire David Bowie pr\u00e9sente sur DVD sa tourn\u00e9e Reality Tour. Pour la 1\u00e8re fois depuis plus de 15 ans, David Bowie a visit\u00e9 les 5 continents et produit des shows de 2 heures pendant pr\u00e8s d\u20191 an. Ce concert a \u00e9t\u00e9 enregistr\u00e9 \u00e0 Dublin en novembre 2003.1. Rebel Rebel2. New Killer Star3. Reality4. Fame5. Cactus6. Sister Midnight7. Afraid8. All The Young Dudes9. Be My Wife10. The Lonliest Guy11. The Man Who Sold The World12. Fantastic Voyage13. Hello Spaceboy14. Sunday15. Under Pressure16. Life On Mars17. Battle For Britain18. Ashes To Ashes19. The Motel20. Loving The Alien21. Never Get Old22. Changes23. I\u2019m Afraid Of Americans24. Heroes25. Bring Me The Disco King26. Slip Away27. Heathen28. 5 Years29. Hang On To Yourself30. Ziggy Stardust",
                 "plotoutline": "",
                 "premiered": "2004-10-13",
                 "productioncode": "",
                 "rating": 8.300000190734863,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 8400.0
                 },
-                "runtime": 8820,
+                "runtime": 8400,
                 "season": -1,
                 "set": "",
                 "setid": -1,
@@ -1418,7 +2291,7 @@
                 "title": "David Bowie - A Reality Tour",
                 "top250": 0,
                 "track": -1,
-                "trailer": "plugin://plugin.video.youtube/play/?video_id=VA1IEZwcvLY",
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=eF551z9KlA8",
                 "tvshowid": -1,
                 "type": "movie",
                 "uniqueid": {
@@ -1438,6 +2311,7 @@
             {
                 "album": "",
                 "art": {
+                    "clearlogo": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f132781%2fhdmovielogo%2fdavid-bowie--serious-moonlight-62a8e8da1c048.png/",
                     "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fo40hKQ3JWdiqIxWwUFZZmeuh8WO.jpg/",
                     "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fwkSifTAVS0RwVAfGPkfAulxUoVZ.jpg/",
                     "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fwkSifTAVS0RwVAfGPkfAulxUoVZ.jpg/"
@@ -1506,6 +2380,7 @@
                     "Canada"
                 ],
                 "customproperties": {
+                    "available_releases": "Digital",
                     "budget": "$0",
                     "cast": "David Bowie / Earl Slick / Carlos Alomar / Carmine Rojas / Tony Thompson / Dave Lebolt / Steve Elson / Stan Harrison / Lenny Pickett / George Simms / Frank Simms",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=132781&ignore_default=true)",
@@ -1514,7 +2389,7 @@
                     "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=132781)",
                     "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=132781)",
                     "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=132781)",
-                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=David Bowie:  Serious Moonlight,tmdb_type=movie,tmdb_id=132781)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=David Bowie - Serious Moonlight 1983,tmdb_type=movie,tmdb_id=132781)",
                     "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
                     "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
                     "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
@@ -1523,6 +2398,7 @@
                     "contextmenulabel(5)": "$LOCALIZE[20444]",
                     "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
                     "dbtype": "movie",
+                    "digital_release": "2006-01-01",
                     "imdb_id": "tt0191941",
                     "isplayable": "true",
                     "item.info": "play",
@@ -1536,14 +2412,14 @@
                     "param.plugin_category": "Concert",
                     "param.user_slug": "jealad",
                     "param.widget": "True",
-                    "popularity": "2.637",
-                    "provider.link": "https://www.themoviedb.org/movie/132781-david-bowie-serious-moonlight/watch?locale=US",
+                    "popularity": "2.164",
+                    "provider.link": "https://www.themoviedb.org/movie/132781-david-bowie-serious-moonlight/watch?locale=FR",
                     "providers": "Apple iTunes",
                     "revenue": "$0",
                     "slug_id": "david-bowie-serious-moonlight-2006",
                     "studio": "Concert Productions International",
                     "tmdb_id": "132781",
-                    "tmdb_rating": "8.6",
+                    "tmdb_rating": "8.5",
                     "tmdb_type": "movie",
                     "tmdb_votes": "15",
                     "trakt_id": "90103",
@@ -1560,24 +2436,24 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "tt0191941",
-                "label": "David Bowie:  Serious Moonlight",
+                "label": "David Bowie - Serious Moonlight 1983",
                 "lastmodified": "",
                 "lastplayed": "",
                 "mimetype": "application/octet-stream",
                 "mpaa": "",
                 "originaltitle": "David Bowie:  Serious Moonlight",
                 "playcount": 0,
-                "plot": "Serious Moonlight is David Bowie's concert video from his 1983 \"Serious Moonlight Tour\" in support of his \"Let's Dance\" album. Filmed in Vancouver on September 12, 1983, it was released on video tape and laserdisc in 1984 and on DVD in 2006.",
+                "plot": "Serious Moonlight est la vid\u00e9o du concert de David Bowie issue de son \"Serious Moonlight Tour\" de 1983 \u00e0 l'appui de son album \"Let's Dance\". Tourn\u00e9 \u00e0 Vancouver le 12 septembre 1983, il est sorti sur cassette vid\u00e9o et disque laser en 1984 et sur DVD en 2006.",
                 "plotoutline": "",
                 "premiered": "2006-01-01",
                 "productioncode": "",
-                "rating": 8.600000381469727,
+                "rating": 8.5,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 5220.0
                 },
                 "runtime": 5220,
                 "season": -1,
@@ -1600,7 +2476,7 @@
                 "tag": [],
                 "tagline": "",
                 "thumbnail": "",
-                "title": "David Bowie:  Serious Moonlight",
+                "title": "David Bowie - Serious Moonlight 1983",
                 "top250": 0,
                 "track": -1,
                 "trailer": "",
@@ -1636,7 +2512,6 @@
                 ],
                 "country": [],
                 "customproperties": {
-                    "available_releases": "Digital",
                     "budget": "$0",
                     "cast": "David Bowie",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=273085&ignore_default=true)",
@@ -1645,7 +2520,7 @@
                     "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=273085)",
                     "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=273085)",
                     "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=273085)",
-                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=David Bowie: Best of Bowie,tmdb_type=movie,tmdb_id=273085)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=David Bowie : Best Of,tmdb_type=movie,tmdb_id=273085)",
                     "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
                     "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
                     "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
@@ -1654,7 +2529,6 @@
                     "contextmenulabel(5)": "$LOCALIZE[20444]",
                     "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
                     "dbtype": "movie",
-                    "digital_release": "2002-11-19",
                     "imdb_id": "tt0349136",
                     "isplayable": "true",
                     "item.info": "play",
@@ -1668,7 +2542,7 @@
                     "param.plugin_category": "Concert",
                     "param.user_slug": "jealad",
                     "param.widget": "True",
-                    "popularity": "1.003",
+                    "popularity": "0.872",
                     "revenue": "$0",
                     "slug_id": "david-bowie-best-of-bowie-2002",
                     "tmdb_id": "273085",
@@ -1691,24 +2565,24 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "tt0349136",
-                "label": "David Bowie: Best of Bowie",
+                "label": "David Bowie : Best Of",
                 "lastmodified": "",
                 "lastplayed": "",
                 "mimetype": "application/octet-stream",
                 "mpaa": "",
                 "originaltitle": "David Bowie: Best of Bowie",
                 "playcount": 0,
-                "plot": "Disc 1: Oh. You Pretty Things, Queen Bitch), Five Years, Starman, John I'm Only Dancing, The Jean Genie, Space Oddity, Drive-in Saturday, Life on Mars?, Ziggy Stardust, Rebel Rebel, Young Americans, Be My Wife, \"Heroes,\" Boys Keep Swinging, D.J., Look Back in Anger, Ashes to Ashes, Fashion, Wild Is the Wind, Let's Dance, China Girl, Modern Love, Cat People (Putting Out Fire), Blue Jean, Loving the Alien, Dancing in the Street (with Mick Jagger) Disc 2: Absolute Beginners, Underground, As the World Falls Down, Day-In Day-Out, Time Will Crawl, Never Let Me Down, Fame '90, Jump They Say, Black Tie White Noise, Miracle Goodnight, Buddha of Suburbia, The Heart's Filthy Lesson, Strangers When We Meet, Hallo Spaceboy, Little Wonder, Dead Man Walking, Seven Years in Tibet, I'm Afraid of Americans, Thursday's Child and Survive.",
+                "plot": "Tout Bowie de 1969 \u00e0 2002 : toutes les vid\u00e9os performances TV rares et in\u00e9dites, des images live, des versions alternatives\u2026",
                 "plotoutline": "",
                 "premiered": "2002-06-30",
                 "productioncode": "",
                 "rating": 7.0,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 12240.0
                 },
                 "runtime": 12240,
                 "season": -1,
@@ -1729,7 +2603,7 @@
                 "tag": [],
                 "tagline": "",
                 "thumbnail": "",
-                "title": "David Bowie: Best of Bowie",
+                "title": "David Bowie : Best Of",
                 "top250": 0,
                 "track": -1,
                 "trailer": "",
@@ -1750,44 +2624,21 @@
             {
                 "album": "",
                 "art": {
-                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fcyALVMeWdXYBWmpNZ0egxuASYjO.jpg/",
-                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fl8XUEHI7Nl5lQlq4O8IiJpbC8mN.jpg/",
-                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fl8XUEHI7Nl5lQlq4O8IiJpbC8mN.jpg/"
+                    "icon": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage.png/",
+                    "landscape": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage_wide.png/"
                 },
                 "artist": [],
-                "cast": [
-                    {
-                        "name": "David Bowie",
-                        "order": 0,
-                        "role": "",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fqrqQJivS0zLzxZKfgNZnDtjbqpI.jpg/"
-                    }
-                ],
+                "cast": [],
                 "country": [],
                 "customproperties": {
-                    "budget": "$0",
-                    "cast": "David Bowie",
-                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=67547&ignore_default=true)",
-                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=67547)",
-                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=67547)",
-                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=67547)",
-                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=67547)",
-                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=67547)",
-                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=David Bowie: Glass Spider,tmdb_type=movie,tmdb_id=67547)",
-                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
-                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
-                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
-                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
-                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
-                    "contextmenulabel(5)": "$LOCALIZE[20444]",
-                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
-                    "dbtype": "movie",
-                    "imdb_id": "tt0381210",
-                    "isplayable": "true",
-                    "item.info": "play",
-                    "item.tmdb_id": "67547",
-                    "item.tmdb_type": "movie",
-                    "item.type": "movie",
+                    "item.info": "trakt_userlist",
+                    "item.list_name": "Concert",
+                    "item.list_slug": "concert",
+                    "item.owner": "true",
+                    "item.page": "2",
+                    "item.plugin_category": "Concert",
+                    "item.user_slug": "jealad",
+                    "item.widget": "True",
                     "param.info": "trakt_userlist",
                     "param.list_name": "Concert",
                     "param.list_slug": "concert",
@@ -1795,162 +2646,6 @@
                     "param.plugin_category": "Concert",
                     "param.user_slug": "jealad",
                     "param.widget": "True",
-                    "popularity": "0.866",
-                    "revenue": "$0",
-                    "slug_id": "david-bowie-glass-spider-2007",
-                    "tmdb_id": "67547",
-                    "tmdb_rating": "7.7",
-                    "tmdb_type": "movie",
-                    "tmdb_votes": "6",
-                    "trakt_id": "49119",
-                    "widget": "Concert"
-                },
-                "dateadded": "",
-                "director": [
-                    "David Mallet"
-                ],
-                "episode": -1,
-                "episodeguide": "",
-                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fcyALVMeWdXYBWmpNZ0egxuASYjO.jpg/",
-                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=67547",
-                "filetype": "file",
-                "firstaired": "",
-                "genre": [
-                    "Music"
-                ],
-                "imdbnumber": "tt0381210",
-                "label": "David Bowie: Glass Spider",
-                "lastmodified": "",
-                "lastplayed": "",
-                "mimetype": "application/octet-stream",
-                "mpaa": "",
-                "originaltitle": "David Bowie: Glass Spider",
-                "playcount": 0,
-                "plot": "David Bowie toured the 'Glass Spider' across the world, from May to late November 1987, in promotion of his 'Never Let Me Down' album. This video was filmed over several nights at the Sydney Entertainment Centre in Australia during the last month of the tour. Originally released in 1988 on VHS (and then in 1999 on DVD in the Far East only), it was finally reissued on DVD in 2007.",
-                "plotoutline": "",
-                "premiered": "2007-06-22",
-                "productioncode": "",
-                "rating": 7.699999809265137,
-                "resume": {
-                    "position": 0.0,
-                    "total": 0.0
-                },
-                "runtime": 6300,
-                "season": -1,
-                "set": "",
-                "setid": -1,
-                "showlink": [],
-                "showtitle": "",
-                "size": 0,
-                "sorttitle": "",
-                "specialsortepisode": -1,
-                "specialsortseason": -1,
-                "streamdetails": {
-                    "audio": [],
-                    "subtitle": [],
-                    "video": []
-                },
-                "studio": [],
-                "tag": [],
-                "tagline": "",
-                "thumbnail": "",
-                "title": "David Bowie: Glass Spider",
-                "top250": 0,
-                "track": -1,
-                "trailer": "",
-                "tvshowid": -1,
-                "type": "movie",
-                "uniqueid": {
-                    "imdb": "tt0381210",
-                    "slug": "david-bowie-glass-spider-2007",
-                    "tmdb": "67547",
-                    "trakt": "49119",
-                    "unknown": "tt0381210"
-                },
-                "userrating": 0,
-                "votes": "6",
-                "writer": [],
-                "year": 2007
-            },
-            {
-                "album": "",
-                "art": {
-                    "icon": "image://C%3a%5cKodiTest%5ckodi%2020%20testu2p%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fdefault.png/"
-                },
-                "artist": [],
-                "cast": [
-                    {
-                        "name": "Joe Elliott",
-                        "order": 0,
-                        "role": "Himself - Lead Vocals, Additional Guitars, Keyboards, Piano",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fgOwf3IiQkQBwnd9oDrZpjENyUdj.jpg/"
-                    },
-                    {
-                        "name": "Rick Savage",
-                        "order": 1,
-                        "role": "Himself - Bass, Backing Vocals, Additional Guitars, Keyboards",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fkZc94qIq1lDhPj1Gw6qiewtbsjt.jpg/"
-                    },
-                    {
-                        "name": "Rick Allen",
-                        "order": 2,
-                        "role": "Himself - Drums, Percussion, Backing Vocals",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f7iI0N9eYAXglK7uOn11dWIDYs9o.jpg/"
-                    },
-                    {
-                        "name": "Phil Collen",
-                        "order": 3,
-                        "role": "Himself - Guitars, Backing Vocals",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fmXOoAynWn1uOYpGp2eAt1tQOLMj.jpg/"
-                    },
-                    {
-                        "name": "Steve Clark",
-                        "order": 4,
-                        "role": "Himself - Guitars, Backing Vocals",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2feIWHwnyMTfRaOpgAEbeVCDlScMd.jpg/"
-                    }
-                ],
-                "country": [],
-                "customproperties": {
-                    "available_releases": "Theatrical",
-                    "budget": "$0",
-                    "cast": "Joe Elliott / Rick Savage / Rick Allen / Phil Collen / Steve Clark",
-                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=154351&ignore_default=true)",
-                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=154351)",
-                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=154351)",
-                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=154351)",
-                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=154351)",
-                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=154351)",
-                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Def Leppard: Pyromania - World Tour,tmdb_type=movie,tmdb_id=154351)",
-                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
-                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
-                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
-                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
-                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
-                    "contextmenulabel(5)": "$LOCALIZE[20444]",
-                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
-                    "dbtype": "movie",
-                    "isplayable": "true",
-                    "item.info": "play",
-                    "item.tmdb_id": "154351",
-                    "item.tmdb_type": "movie",
-                    "item.type": "movie",
-                    "param.info": "trakt_userlist",
-                    "param.list_name": "Concert",
-                    "param.list_slug": "concert",
-                    "param.owner": "true",
-                    "param.plugin_category": "Concert",
-                    "param.user_slug": "jealad",
-                    "param.widget": "True",
-                    "popularity": "0.6",
-                    "revenue": "$0",
-                    "slug_id": "def-leppard-pyromania-world-tour-1983",
-                    "theatrical_release": "1983-12-12",
-                    "tmdb_id": "154351",
-                    "tmdb_rating": "0.0",
-                    "tmdb_type": "movie",
-                    "tmdb_votes": "0",
-                    "trakt_id": "100702",
                     "widget": "Concert"
                 },
                 "dateadded": "",
@@ -1958,916 +2653,23 @@
                 "episode": -1,
                 "episodeguide": "",
                 "fanart": "",
-                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=154351",
-                "filetype": "file",
-                "firstaired": "",
-                "genre": [
-                    "Music"
-                ],
-                "imdbnumber": "",
-                "label": "Def Leppard: Pyromania - World Tour",
-                "lastmodified": "",
-                "lastplayed": "",
-                "mimetype": "application/octet-stream",
-                "mpaa": "",
-                "originaltitle": "Def Leppard: Pyromania - World Tour",
-                "playcount": 0,
-                "plot": "Two concerts from Def Leppard Pyromania World Tour, Fragments of concerts in Lyon, France and Dortmund, Germany.",
-                "plotoutline": "",
-                "premiered": "1983-12-12",
-                "productioncode": "",
-                "rating": 0.0,
-                "resume": {
-                    "position": 0.0,
-                    "total": 0.0
-                },
-                "runtime": 2940,
-                "season": -1,
-                "set": "",
-                "setid": -1,
-                "showlink": [],
-                "showtitle": "",
-                "size": 0,
-                "sorttitle": "",
-                "specialsortepisode": -1,
-                "specialsortseason": -1,
-                "streamdetails": {
-                    "audio": [],
-                    "subtitle": [],
-                    "video": []
-                },
-                "studio": [],
-                "tag": [],
-                "tagline": "",
-                "thumbnail": "",
-                "title": "Def Leppard: Pyromania - World Tour",
-                "top250": 0,
-                "track": -1,
-                "trailer": "",
-                "tvshowid": -1,
-                "type": "movie",
-                "uniqueid": {
-                    "slug": "def-leppard-pyromania-world-tour-1983",
-                    "tmdb": "154351",
-                    "trakt": "100702"
-                },
-                "userrating": 0,
-                "votes": "0",
-                "writer": [],
-                "year": 1983
-            },
-            {
-                "album": "",
-                "art": {
-                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f2JahjLMy934gmnmEEwBTCcmNEp7.jpg/",
-                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2frjIUb4AAXassEhltBxysIjpFJQD.jpg/",
-                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2frjIUb4AAXassEhltBxysIjpFJQD.jpg/"
-                },
-                "artist": [],
-                "cast": [
-                    {
-                        "name": "Rick Allen",
-                        "order": 0,
-                        "role": "Drums",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f7iI0N9eYAXglK7uOn11dWIDYs9o.jpg/"
-                    },
-                    {
-                        "name": "Joe Elliott",
-                        "order": 1,
-                        "role": "Vocals",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fgOwf3IiQkQBwnd9oDrZpjENyUdj.jpg/"
-                    },
-                    {
-                        "name": "Rick Savage",
-                        "order": 2,
-                        "role": "Bass",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fkZc94qIq1lDhPj1Gw6qiewtbsjt.jpg/"
-                    },
-                    {
-                        "name": "Phil Collen",
-                        "order": 3,
-                        "role": "Guitars",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fmXOoAynWn1uOYpGp2eAt1tQOLMj.jpg/"
-                    },
-                    {
-                        "name": "Vivian Campbell",
-                        "order": 4,
-                        "role": "Guitars",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fvIHtg00CtESVgmKvpbfn9LyEpgA.jpg/"
-                    }
-                ],
-                "country": [],
-                "customproperties": {
-                    "budget": "$0",
-                    "cast": "Rick Allen / Joe Elliott / Rick Savage / Phil Collen / Vivian Campbell",
-                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=225341&ignore_default=true)",
-                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=225341)",
-                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=225341)",
-                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=225341)",
-                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=225341)",
-                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=225341)",
-                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Def Leppard: Viva! Hysteria,tmdb_type=movie,tmdb_id=225341)",
-                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
-                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
-                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
-                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
-                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
-                    "contextmenulabel(5)": "$LOCALIZE[20444]",
-                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
-                    "dbtype": "movie",
-                    "imdb_id": "tt3109048",
-                    "isplayable": "true",
-                    "item.info": "play",
-                    "item.tmdb_id": "225341",
-                    "item.tmdb_type": "movie",
-                    "item.type": "movie",
-                    "param.info": "trakt_userlist",
-                    "param.list_name": "Concert",
-                    "param.list_slug": "concert",
-                    "param.owner": "true",
-                    "param.plugin_category": "Concert",
-                    "param.user_slug": "jealad",
-                    "param.widget": "True",
-                    "popularity": "1.599",
-                    "provider.link": "https://www.themoviedb.org/movie/225341-def-leppard-viva-hysteria/watch?locale=US",
-                    "providers": "Amazon Video / Tubi TV / Plex",
-                    "revenue": "$0",
-                    "slug_id": "def-leppard-viva-hysteria-2013",
-                    "tmdb_id": "225341",
-                    "tmdb_rating": "6.6",
-                    "tmdb_type": "movie",
-                    "tmdb_votes": "4",
-                    "trakt_id": "138043",
-                    "widget": "Concert"
-                },
-                "dateadded": "",
-                "director": [],
-                "episode": -1,
-                "episodeguide": "",
-                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f2JahjLMy934gmnmEEwBTCcmNEp7.jpg/",
-                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=225341",
-                "filetype": "file",
-                "firstaired": "",
-                "genre": [
-                    "Music"
-                ],
-                "imdbnumber": "tt3109048",
-                "label": "Def Leppard: Viva! Hysteria",
-                "lastmodified": "",
-                "lastplayed": "",
-                "mimetype": "application/octet-stream",
-                "mpaa": "",
-                "originaltitle": "Def Leppard: Viva! Hysteria",
-                "playcount": 0,
-                "plot": "A performance captured live over nine nights during the band's spring 2013 residency at The Joint located in the Hard Rock Hotel, Las Vegas in which Def Leppard plays through the entirety of their most successful album, \"Hysteria,\" in its entirety.  Plus two additional hits, \"Rock of Ages\" and \"Photograph\" as an encore.  Finally \"Viva! HYSTERIA\" showcases for the first time a career-defining album (excluding concept albums) performed live in its entirety - from start to finish - for a commercial audio/video release. \"Viva! HYSTERIA\"! is unlike any show Def Leppard has ever done or will ever do again.",
-                "plotoutline": "",
-                "premiered": "2013-10-02",
-                "productioncode": "",
-                "rating": 6.599999904632568,
-                "resume": {
-                    "position": 0.0,
-                    "total": 0.0
-                },
-                "runtime": 5220,
-                "season": -1,
-                "set": "",
-                "setid": -1,
-                "showlink": [],
-                "showtitle": "",
-                "size": 0,
-                "sorttitle": "",
-                "specialsortepisode": -1,
-                "specialsortseason": -1,
-                "streamdetails": {
-                    "audio": [],
-                    "subtitle": [],
-                    "video": []
-                },
-                "studio": [],
-                "tag": [],
-                "tagline": "",
-                "thumbnail": "",
-                "title": "Def Leppard: Viva! Hysteria",
-                "top250": 0,
-                "track": -1,
-                "trailer": "plugin://plugin.video.youtube/play/?video_id=Qq73DjaK5DQ",
-                "tvshowid": -1,
-                "type": "movie",
-                "uniqueid": {
-                    "imdb": "tt3109048",
-                    "slug": "def-leppard-viva-hysteria-2013",
-                    "tmdb": "225341",
-                    "trakt": "138043",
-                    "unknown": "tt3109048"
-                },
-                "userrating": 0,
-                "votes": "4",
-                "writer": [],
-                "year": 2013
-            },
-            {
-                "album": "",
-                "art": {
-                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fbNuM8IctoLjSjBXiTmipVX8ymOH.jpg/",
-                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fmY4Jg3J05sUB17Ev2oUVE8NCgVV.jpg/",
-                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fmY4Jg3J05sUB17Ev2oUVE8NCgVV.jpg/"
-                },
-                "artist": [],
-                "cast": [
-                    {
-                        "name": "Dave Gahan",
-                        "order": 0,
-                        "role": "Self",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2flrZ4xbCYPeOXSCF15rh97ZTSVIy.jpg/"
-                    },
-                    {
-                        "name": "Martin Gore",
-                        "order": 1,
-                        "role": "Self",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fvmvqq1oVJv1O48xLRTQN6IZFDJ0.jpg/"
-                    },
-                    {
-                        "name": "Andy 'Fletch' Fletcher",
-                        "order": 2,
-                        "role": "Self",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fnCFC1e1Tigplu6NF6lg2zXvC8IX.jpg/"
-                    },
-                    {
-                        "name": "Peter Gordeno",
-                        "order": 3,
-                        "role": "Self",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fvqF5PdJNmN4Ef3DIZBjo8xuu21A.jpg/"
-                    },
-                    {
-                        "name": "Christian Eigner",
-                        "order": 4,
-                        "role": "Self",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fuIQxxDLM01fMtxJiq7zOl231y8h.jpg/"
-                    }
-                ],
-                "country": [
-                    "United Kingdom"
-                ],
-                "customproperties": {
-                    "available_releases": "Physical",
-                    "budget": "$0",
-                    "cast": "Dave Gahan / Martin Gore / Andy 'Fletch' Fletcher / Peter Gordeno / Christian Eigner",
-                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=37639&ignore_default=true)",
-                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=37639)",
-                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=37639)",
-                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=37639)",
-                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=37639)",
-                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=37639)",
-                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Depeche Mode: One Night in Paris,tmdb_type=movie,tmdb_id=37639)",
-                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
-                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
-                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
-                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
-                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
-                    "contextmenulabel(5)": "$LOCALIZE[20444]",
-                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
-                    "dbtype": "movie",
-                    "imdb_id": "tt0314461",
-                    "isplayable": "true",
-                    "item.info": "play",
-                    "item.tmdb_id": "37639",
-                    "item.tmdb_type": "movie",
-                    "item.type": "movie",
-                    "param.info": "trakt_userlist",
-                    "param.list_name": "Concert",
-                    "param.list_slug": "concert",
-                    "param.owner": "true",
-                    "param.plugin_category": "Concert",
-                    "param.user_slug": "jealad",
-                    "param.widget": "True",
-                    "physical_release": "2002-05-27",
-                    "popularity": "2.131",
-                    "revenue": "$0",
-                    "slug_id": "depeche-mode-one-night-in-paris-2002",
-                    "studio": "EMI Films",
-                    "tmdb_id": "37639",
-                    "tmdb_rating": "7.0",
-                    "tmdb_type": "movie",
-                    "tmdb_votes": "10",
-                    "trakt_id": "24146",
-                    "widget": "Concert"
-                },
-                "dateadded": "",
-                "director": [
-                    "Anton Corbijn"
-                ],
-                "episode": -1,
-                "episodeguide": "",
-                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fbNuM8IctoLjSjBXiTmipVX8ymOH.jpg/",
-                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=37639",
-                "filetype": "file",
-                "firstaired": "",
-                "genre": [
-                    "Music",
-                    "Documentary"
-                ],
-                "imdbnumber": "tt0314461",
-                "label": "Depeche Mode: One Night in Paris",
-                "lastmodified": "",
-                "lastplayed": "",
-                "mimetype": "application/octet-stream",
-                "mpaa": "",
-                "originaltitle": "Depeche Mode: One Night in Paris",
-                "playcount": 0,
-                "plot": "This video release by Depeche Mode features an entire concert from their 2001 Exciter Tour, shot at the Palais Omnisports de Paris-Bercy on 9 and 10 October 2001.",
-                "plotoutline": "",
-                "premiered": "2002-05-27",
-                "productioncode": "",
-                "rating": 7.0,
-                "resume": {
-                    "position": 0.0,
-                    "total": 0.0
-                },
-                "runtime": 7020,
-                "season": -1,
-                "set": "",
-                "setid": -1,
-                "showlink": [],
-                "showtitle": "",
-                "size": 0,
-                "sorttitle": "",
-                "specialsortepisode": -1,
-                "specialsortseason": -1,
-                "streamdetails": {
-                    "audio": [],
-                    "subtitle": [],
-                    "video": []
-                },
-                "studio": [
-                    "EMI Films"
-                ],
-                "tag": [],
-                "tagline": "",
-                "thumbnail": "",
-                "title": "Depeche Mode: One Night in Paris",
-                "top250": 0,
-                "track": -1,
-                "trailer": "",
-                "tvshowid": -1,
-                "type": "movie",
-                "uniqueid": {
-                    "imdb": "tt0314461",
-                    "slug": "depeche-mode-one-night-in-paris-2002",
-                    "tmdb": "37639",
-                    "trakt": "24146",
-                    "unknown": "tt0314461"
-                },
-                "userrating": 0,
-                "votes": "10",
-                "writer": [],
-                "year": 2002
-            },
-            {
-                "album": "",
-                "art": {
-                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f3XgzSqJXqsTpNgUVjmWHMtzdl2V.jpg/",
-                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f3XgzSqJXqsTpNgUVjmWHMtzdl2V.jpg/"
-                },
-                "artist": [],
-                "cast": [
-                    {
-                        "name": "Simon Le Bon",
-                        "order": 0,
-                        "role": "vocals",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fr4erCSxvHRnxvc4u1GlfruArabK.jpg/"
-                    },
-                    {
-                        "name": "John Taylor",
-                        "order": 1,
-                        "role": "bass guitar",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fjLC3xdufwM1PjLFUBEryqhO0r6P.jpg/"
-                    },
-                    {
-                        "name": "Nick Rhodes",
-                        "order": 2,
-                        "role": "keyboards",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f2F1XE4y0eoP8NbQKD0fYGvn6kbA.jpg/"
-                    },
-                    {
-                        "name": "Warren Cuccurullo",
-                        "order": 3,
-                        "role": "guitar",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f86VrjVWILtc1KZVKQfnEa2mqGUO.jpg/"
-                    },
-                    {
-                        "name": "Lamya",
-                        "order": 4,
-                        "role": "backing vocals"
-                    }
-                ],
-                "country": [],
-                "customproperties": {
-                    "available_releases": "Theatrical",
-                    "budget": "$0",
-                    "cast": "Simon Le Bon / John Taylor / Nick Rhodes / Warren Cuccurullo / Lamya",
-                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=153284&ignore_default=true)",
-                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=153284)",
-                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=153284)",
-                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=153284)",
-                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=153284)",
-                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=153284)",
-                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Duran Duran MTV Unplugged,tmdb_type=movie,tmdb_id=153284)",
-                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
-                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
-                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
-                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
-                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
-                    "contextmenulabel(5)": "$LOCALIZE[20444]",
-                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
-                    "dbtype": "movie",
-                    "isplayable": "true",
-                    "item.info": "play",
-                    "item.tmdb_id": "153284",
-                    "item.tmdb_type": "movie",
-                    "item.type": "movie",
-                    "param.info": "trakt_userlist",
-                    "param.list_name": "Concert",
-                    "param.list_slug": "concert",
-                    "param.owner": "true",
-                    "param.plugin_category": "Concert",
-                    "param.user_slug": "jealad",
-                    "param.widget": "True",
-                    "popularity": "0.87",
-                    "revenue": "$0",
-                    "slug_id": "duran-duran-mtv-unplugged-1993",
-                    "theatrical_release": "1993-11-17",
-                    "tmdb_id": "153284",
-                    "tmdb_rating": "5.0",
-                    "tmdb_type": "movie",
-                    "tmdb_votes": "1",
-                    "trakt_id": "100246",
-                    "widget": "Concert"
-                },
-                "dateadded": "",
-                "director": [],
-                "episode": -1,
-                "episodeguide": "",
-                "fanart": "",
-                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=153284",
-                "filetype": "file",
-                "firstaired": "",
-                "genre": [
-                    "Music"
-                ],
-                "imdbnumber": "",
-                "label": "Duran Duran MTV Unplugged",
-                "lastmodified": "",
-                "lastplayed": "",
-                "mimetype": "application/octet-stream",
-                "mpaa": "",
-                "originaltitle": "Duran Duran MTV Unplugged",
-                "playcount": 0,
-                "plot": "A bootleg with songs recorded on MTV show on 17th November 1993, aired 2005 on VH1: Hungry like The Wolf, Ordinary World, Serious, Girls On Film, Rio, Planet Earth, Come Undone, Too Much Information.",
-                "plotoutline": "",
-                "premiered": "1993-11-17",
-                "productioncode": "",
-                "rating": 5.0,
-                "resume": {
-                    "position": 0.0,
-                    "total": 0.0
-                },
-                "runtime": 2700,
-                "season": -1,
-                "set": "",
-                "setid": -1,
-                "showlink": [],
-                "showtitle": "",
-                "size": 0,
-                "sorttitle": "",
-                "specialsortepisode": -1,
-                "specialsortseason": -1,
-                "streamdetails": {
-                    "audio": [],
-                    "subtitle": [],
-                    "video": []
-                },
-                "studio": [],
-                "tag": [],
-                "tagline": "",
-                "thumbnail": "",
-                "title": "Duran Duran MTV Unplugged",
-                "top250": 0,
-                "track": -1,
-                "trailer": "",
-                "tvshowid": -1,
-                "type": "movie",
-                "uniqueid": {
-                    "slug": "duran-duran-mtv-unplugged-1993",
-                    "tmdb": "153284",
-                    "trakt": "100246"
-                },
-                "userrating": 0,
-                "votes": "1",
-                "writer": [],
-                "year": 1993
-            },
-            {
-                "album": "",
-                "art": {
-                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f6Q6c9YGU68oZWhU6ROJcQKfw7B7.jpg/",
-                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f6Q6c9YGU68oZWhU6ROJcQKfw7B7.jpg/"
-                },
-                "artist": [],
-                "cast": [
-                    {
-                        "name": "Simon Le Bon",
-                        "order": 0,
-                        "role": "Vocals",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fr4erCSxvHRnxvc4u1GlfruArabK.jpg/"
-                    },
-                    {
-                        "name": "John Taylor",
-                        "order": 1,
-                        "role": "Bass",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fjLC3xdufwM1PjLFUBEryqhO0r6P.jpg/"
-                    },
-                    {
-                        "name": "Nick Rhodes",
-                        "order": 2,
-                        "role": "Keyboards",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f2F1XE4y0eoP8NbQKD0fYGvn6kbA.jpg/"
-                    },
-                    {
-                        "name": "Roger Taylor",
-                        "order": 3,
-                        "role": "Drums",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fr9y7WfXs9aIiWYGlG2zptzU0asw.jpg/"
-                    },
-                    {
-                        "name": "Andy Taylor",
-                        "order": 4,
-                        "role": "Guitar",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fzRdS7j4Wx66ZhVyDBwgK5ikf5Js.jpg/"
-                    }
-                ],
-                "country": [
-                    "United Kingdom"
-                ],
-                "customproperties": {
-                    "budget": "$0",
-                    "cast": "Simon Le Bon / John Taylor / Nick Rhodes / Roger Taylor / Andy Taylor",
-                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=187109&ignore_default=true)",
-                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=187109)",
-                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=187109)",
-                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=187109)",
-                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=187109)",
-                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=187109)",
-                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Duran Duran: Greatest Videos,tmdb_type=movie,tmdb_id=187109)",
-                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
-                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
-                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
-                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
-                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
-                    "contextmenulabel(5)": "$LOCALIZE[20444]",
-                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
-                    "dbtype": "movie",
-                    "imdb_id": "tt0477166",
-                    "isplayable": "true",
-                    "item.info": "play",
-                    "item.tmdb_id": "187109",
-                    "item.tmdb_type": "movie",
-                    "item.type": "movie",
-                    "param.info": "trakt_userlist",
-                    "param.list_name": "Concert",
-                    "param.list_slug": "concert",
-                    "param.owner": "true",
-                    "param.plugin_category": "Concert",
-                    "param.user_slug": "jealad",
-                    "param.widget": "True",
-                    "popularity": "2.008",
-                    "revenue": "$0",
-                    "slug_id": "duran-duran-greatest-videos-2003",
-                    "studio": "EMI",
-                    "tmdb_id": "187109",
-                    "tmdb_rating": "7.1",
-                    "tmdb_type": "movie",
-                    "tmdb_votes": "15",
-                    "trakt_id": "117180",
-                    "widget": "Concert"
-                },
-                "dateadded": "",
-                "director": [],
-                "episode": -1,
-                "episodeguide": "",
-                "fanart": "",
-                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=187109",
-                "filetype": "file",
-                "firstaired": "",
-                "genre": [
-                    "Music"
-                ],
-                "imdbnumber": "tt0477166",
-                "label": "Duran Duran: Greatest Videos",
-                "lastmodified": "",
-                "lastplayed": "",
-                "mimetype": "application/octet-stream",
-                "mpaa": "",
-                "originaltitle": "Duran Duran: Greatest Videos",
-                "playcount": 0,
-                "plot": "A collection of Duran Durans' greatest hits.",
-                "plotoutline": "",
-                "premiered": "2003-10-13",
-                "productioncode": "",
-                "rating": 7.099999904632568,
-                "resume": {
-                    "position": 0.0,
-                    "total": 0.0
-                },
-                "runtime": 11700,
-                "season": -1,
-                "set": "",
-                "setid": -1,
-                "showlink": [],
-                "showtitle": "",
-                "size": 0,
-                "sorttitle": "",
-                "specialsortepisode": -1,
-                "specialsortseason": -1,
-                "streamdetails": {
-                    "audio": [],
-                    "subtitle": [],
-                    "video": []
-                },
-                "studio": [
-                    "EMI"
-                ],
-                "tag": [],
-                "tagline": "The Videos",
-                "thumbnail": "",
-                "title": "Duran Duran: Greatest Videos",
-                "top250": 0,
-                "track": -1,
-                "trailer": "",
-                "tvshowid": -1,
-                "type": "movie",
-                "uniqueid": {
-                    "imdb": "tt0477166",
-                    "slug": "duran-duran-greatest-videos-2003",
-                    "tmdb": "187109",
-                    "trakt": "117180",
-                    "unknown": "tt0477166"
-                },
-                "userrating": 0,
-                "votes": "15",
-                "writer": [],
-                "year": 2003
-            },
-            {
-                "album": "",
-                "art": {
-                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fjNUeiSkTZYZ5MQTguZyFvWRSVVV.jpg/",
-                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fdHD79lIvnRbjBh3avvW5Ta2uCfy.jpg/",
-                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fdHD79lIvnRbjBh3avvW5Ta2uCfy.jpg/"
-                },
-                "artist": [],
-                "cast": [
-                    {
-                        "name": "Simon Le Bon",
-                        "order": 0,
-                        "role": "Self (Vocals)",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fr4erCSxvHRnxvc4u1GlfruArabK.jpg/"
-                    },
-                    {
-                        "name": "Nick Rhodes",
-                        "order": 1,
-                        "role": "Self (Vocals / Keyboards)",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f2F1XE4y0eoP8NbQKD0fYGvn6kbA.jpg/"
-                    },
-                    {
-                        "name": "Andy Taylor",
-                        "order": 2,
-                        "role": "Self (Vocals / Guitar)",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fzRdS7j4Wx66ZhVyDBwgK5ikf5Js.jpg/"
-                    },
-                    {
-                        "name": "John Taylor",
-                        "order": 3,
-                        "role": "Self (Bass)",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fjLC3xdufwM1PjLFUBEryqhO0r6P.jpg/"
-                    },
-                    {
-                        "name": "Roger Taylor",
-                        "order": 4,
-                        "role": "Self (Drums)",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fr9y7WfXs9aIiWYGlG2zptzU0asw.jpg/"
-                    },
-                    {
-                        "name": "Sarah Brown",
-                        "order": 5,
-                        "role": "Self (Backing Vocals)"
-                    },
-                    {
-                        "name": "Andy Hamilton",
-                        "order": 6,
-                        "role": "Self (Saxophone)",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fbUFpjkMXbYUfYsKO47jL748PSUH.jpg/"
-                    }
-                ],
-                "country": [
-                    "United States of America"
-                ],
-                "customproperties": {
-                    "available_releases": "Theatrical",
-                    "budget": "$0",
-                    "cast": "Simon Le Bon / Nick Rhodes / Andy Taylor / John Taylor / Roger Taylor / Sarah Brown / Andy Hamilton",
-                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=27193&ignore_default=true)",
-                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=27193)",
-                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=27193)",
-                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=27193)",
-                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=27193)",
-                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=27193)",
-                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Duran Duran: Live from London,tmdb_type=movie,tmdb_id=27193)",
-                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
-                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
-                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
-                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
-                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
-                    "contextmenulabel(5)": "$LOCALIZE[20444]",
-                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
-                    "dbtype": "movie",
-                    "imdb_id": "tt0446314",
-                    "isplayable": "true",
-                    "item.info": "play",
-                    "item.tmdb_id": "27193",
-                    "item.tmdb_type": "movie",
-                    "item.type": "movie",
-                    "param.info": "trakt_userlist",
-                    "param.list_name": "Concert",
-                    "param.list_slug": "concert",
-                    "param.owner": "true",
-                    "param.plugin_category": "Concert",
-                    "param.user_slug": "jealad",
-                    "param.widget": "True",
-                    "popularity": "2.572",
-                    "revenue": "$0",
-                    "slug_id": "duran-duran-live-from-london-2005",
-                    "studio": "Coming Home Studios",
-                    "theatrical_release": "2005-10-25",
-                    "tmdb_id": "27193",
-                    "tmdb_rating": "6.8",
-                    "tmdb_type": "movie",
-                    "tmdb_votes": "3",
-                    "trakt_id": "16651",
-                    "widget": "Concert"
-                },
-                "dateadded": "",
-                "director": [],
-                "episode": -1,
-                "episodeguide": "",
-                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fjNUeiSkTZYZ5MQTguZyFvWRSVVV.jpg/",
-                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=27193",
-                "filetype": "file",
-                "firstaired": "",
-                "genre": [
-                    "Music"
-                ],
-                "imdbnumber": "tt0446314",
-                "label": "Duran Duran: Live from London",
-                "lastmodified": "",
-                "lastplayed": "",
-                "mimetype": "application/octet-stream",
-                "mpaa": "",
-                "originaltitle": "Duran Duran: Live from London",
-                "playcount": 0,
-                "plot": "Recorded at the Wembley Arena over two nights in April 2004.  Track listing\"(Reach Up for The) Sunrise\"\"Hungry Like the Wolf\"\"Is There Something I Should Know?\"\"Union of the Snake\"\"Come Undone\"\"A View to a Kill\"\"What Happens Tomorrow\"\"The Chauffeur\"\"Planet Earth\"\"I Don't Want Your Love\"\"New Religion\"\"Ordinary World\"\"Night Boat\"\"Save a Prayer\"\"Notorious\"\"The Reflex\"\"Careless Memories\"\"The Wild Boys\"\"Girls on Film\"\"Rio\"",
-                "plotoutline": "",
-                "premiered": "2005-10-25",
-                "productioncode": "",
-                "rating": 6.800000190734863,
-                "resume": {
-                    "position": 0.0,
-                    "total": 0.0
-                },
-                "runtime": 5280,
-                "season": -1,
-                "set": "",
-                "setid": -1,
-                "showlink": [],
-                "showtitle": "",
-                "size": 0,
-                "sorttitle": "",
-                "specialsortepisode": -1,
-                "specialsortseason": -1,
-                "streamdetails": {
-                    "audio": [],
-                    "subtitle": [],
-                    "video": []
-                },
-                "studio": [
-                    "Coming Home Studios"
-                ],
-                "tag": [],
-                "tagline": "",
-                "thumbnail": "",
-                "title": "Duran Duran: Live from London",
-                "top250": 0,
-                "track": -1,
-                "trailer": "",
-                "tvshowid": -1,
-                "type": "movie",
-                "uniqueid": {
-                    "imdb": "tt0446314",
-                    "slug": "duran-duran-live-from-london-2005",
-                    "tmdb": "27193",
-                    "trakt": "16651",
-                    "unknown": "tt0446314"
-                },
-                "userrating": 0,
-                "votes": "3",
-                "writer": [],
-                "year": 2005
-            },
-            {
-                "album": "",
-                "art": {
-                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fjsFPeB3d8SC8seFpT8R6cVXPepH.jpg/",
-                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fjsFPeB3d8SC8seFpT8R6cVXPepH.jpg/"
-                },
-                "artist": [],
-                "cast": [
-                    {
-                        "name": "Dwight Yoakam",
-                        "order": 0,
-                        "role": "Lui M\u00eame",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2flMqcRiQs2OELf0xvFbLbX4nnXi8.jpg/"
-                    }
-                ],
-                "country": [
-                    "United States of America"
-                ],
-                "customproperties": {
-                    "available_releases": "Premiere / Theatrical",
-                    "budget": "$0",
-                    "cast": "Dwight Yoakam",
-                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=123001&ignore_default=true)",
-                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=123001)",
-                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=123001)",
-                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=123001)",
-                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=123001)",
-                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=123001)",
-                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Dwight Yoakam - Live from Austin TX,tmdb_type=movie,tmdb_id=123001)",
-                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
-                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
-                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
-                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
-                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
-                    "contextmenulabel(5)": "$LOCALIZE[20444]",
-                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
-                    "dbtype": "movie",
-                    "isplayable": "true",
-                    "item.info": "play",
-                    "item.tmdb_id": "123001",
-                    "item.tmdb_type": "movie",
-                    "item.type": "movie",
-                    "param.info": "trakt_userlist",
-                    "param.list_name": "Concert",
-                    "param.list_slug": "concert",
-                    "param.owner": "true",
-                    "param.plugin_category": "Concert",
-                    "param.user_slug": "jealad",
-                    "param.widget": "True",
-                    "popularity": "0.6",
-                    "premiere_release": "1988-10-23",
-                    "revenue": "$0",
-                    "slug_id": "dwight-yoakam-live-from-austin-tx-2005",
-                    "studio": "New West Records",
-                    "theatrical_release": "2005-10-31",
-                    "tmdb_id": "123001",
-                    "tmdb_rating": "9.0",
-                    "tmdb_type": "movie",
-                    "tmdb_votes": "1",
-                    "trakt_id": "84942",
-                    "widget": "Concert"
-                },
-                "dateadded": "",
-                "director": [
-                    "Gary Menotti"
-                ],
-                "episode": -1,
-                "episodeguide": "",
-                "fanart": "",
-                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=123001",
-                "filetype": "file",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Concert&list_slug=concert&owner=true&plugin_category=Concert&user_slug=jealad&page=2&widget=true&reload=$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]",
+                "filetype": "directory",
                 "firstaired": "",
                 "genre": [],
                 "imdbnumber": "",
-                "label": "Dwight Yoakam - Live from Austin TX",
+                "label": "Page suivante",
                 "lastmodified": "",
                 "lastplayed": "",
-                "mimetype": "application/octet-stream",
-                "mpaa": "Rated PG-13",
-                "originaltitle": "Dwight Yoakam - Live from Austin TX",
+                "mimetype": "x-directory/normal",
+                "mpaa": "",
+                "originaltitle": "",
                 "playcount": 0,
-                "plot": "Austin City Limits and New West Records have teamed up to release some classic ACL performances on DVD . This series contains the entire performance that each artist performed in the Austin City Limits studio on October 23, 1988, not just the half hour show that airs on PBS. Digitally remixed & remastered in Stereo 5.1 and Surround Sound. 14 tracks including 'Guitars, Cadillacs...', 'Smoke Along The Track', 'Little Ways', 'Honky Tonk Man', 'Streets Of Bakersfield', 'Always Late With Your Kisses', 'Little Sister' and more.",
+                "plot": "",
                 "plotoutline": "",
-                "premiered": "2005-10-31",
+                "premiered": "",
                 "productioncode": "",
-                "rating": 9.0,
+                "rating": 0.0,
                 "resume": {
                     "position": 0.0,
                     "total": 0.0
@@ -2887,33 +2689,26 @@
                     "subtitle": [],
                     "video": []
                 },
-                "studio": [
-                    "New West Records"
-                ],
+                "studio": [],
                 "tag": [],
                 "tagline": "",
                 "thumbnail": "",
-                "title": "Dwight Yoakam - Live from Austin TX",
+                "title": "",
                 "top250": 0,
                 "track": -1,
                 "trailer": "",
                 "tvshowid": -1,
-                "type": "movie",
-                "uniqueid": {
-                    "slug": "dwight-yoakam-live-from-austin-tx-2005",
-                    "tmdb": "123001",
-                    "trakt": "84942"
-                },
+                "type": "unknown",
                 "userrating": 0,
-                "votes": "1",
+                "votes": "0",
                 "writer": [],
-                "year": 2005
+                "year": 0
             }
         ],
         "limits": {
-            "end": 20,
+            "end": 19,
             "start": 0,
-            "total": 20
+            "total": 19
         }
     }
 }
