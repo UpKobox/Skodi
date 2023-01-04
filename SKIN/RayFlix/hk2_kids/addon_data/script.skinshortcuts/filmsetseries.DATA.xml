@@ -1,0 +1,42 @@
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>Films famille récents</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/_ 20th century fox.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&amp;famille=specialWid&amp;nomListe=Films+famille+r%C3%A9cents&amp;typM=movie",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Séries Familial</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/tv.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&amp;famille=genres&amp;typgenre=Familial&amp;offset=0&amp;limit=50",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Series Ados</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/girl.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&amp;famille=groupes&amp;offset=0&amp;nom=serie+jeunes+ados",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Superheros films</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/_ marvel enterprises.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&amp;famille=groupes&amp;offset=0&amp;nom=superheros+films",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Doc animalier</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/_ elephant-xxl.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&amp;famille=groupes&amp;offset=0&amp;nom=doc+animalier",return)</action>
+		</shortcut>
+	</shortcuts>

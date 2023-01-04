@@ -1,0 +1,74 @@
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>Recherche</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/search.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=affSearch",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Disney Pixar</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/_ disney pixar.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&amp;famille=groupes&amp;offset=0&amp;nom=disney+series",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Super Héros</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/_ marvel enterprises.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&amp;famille=groupes&amp;offset=0&amp;nom=superheros+serie+anime",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Anime Année 80</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/tv.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&amp;famille=groupes&amp;offset=0&amp;nom=anime+80",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Séries Ados</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/girl.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&amp;famille=groupes&amp;offset=0&amp;nom=serie+jeunes+ados",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Disney Channel</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/_ walt disney pictures.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&amp;network=1&amp;namenetwork=54&amp;page=1",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Disney Junior</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/_ ketnet junior.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&amp;network=1&amp;namenetwork=281&amp;page=1",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Nickelodeon</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/babyboy.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&amp;network=1&amp;namenetwork=13&amp;page=1",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>il était une fois</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/atom.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&amp;famille=groupes&amp;offset=0&amp;nom=il+etait+une+fois",return)</action>
+		</shortcut>
+	</shortcuts>

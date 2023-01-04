@@ -1,0 +1,50 @@
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>Recherche</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/search.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=affSearch",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Nouveautés</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/_ star tv.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&amp;famille=groupes&amp;offset=0&amp;nom=nouveaute+anime",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Disney</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/_ walt disney studio archives.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&amp;famille=groupes&amp;offset=0&amp;nom=disney",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Super Héros</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/_ marvel enterprises.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&amp;famille=groupes&amp;offset=0&amp;nom=superheros+anime+films",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Films famille récents</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/_ universal.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&amp;famille=specialWid&amp;nomListe=Films+famille+r%C3%A9cents&amp;typM=movie",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Animés 3D</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/3dtv.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&amp;famille=groupes&amp;offset=0&amp;nom=anime+3d",return)</action>
+		</shortcut>
+	</shortcuts>

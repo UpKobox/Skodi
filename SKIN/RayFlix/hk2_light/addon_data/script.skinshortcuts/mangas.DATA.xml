@@ -1,0 +1,34 @@
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>Recherche</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/search.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=affSearch",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Derniers ajouts</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/_ manga.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&amp;famille=specialWid&amp;nomListe=Animes+r%C3%A9cents&amp;typM=tvshow",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Mangas OAV</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/skull.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&amp;famille=groupes&amp;offset=0&amp;nom=manga+films",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Populaires</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/_ this is that productions.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&amp;famille=specialWid&amp;nomListe=Animes+populaires&amp;typM=tvshow",return)</action>
+		</shortcut>
+	</shortcuts>

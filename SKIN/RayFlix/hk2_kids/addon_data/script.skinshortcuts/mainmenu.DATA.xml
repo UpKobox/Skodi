@@ -1,0 +1,58 @@
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>Kids</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>noop</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Dessins Animés Films</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>noop</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Dessins Animés  Séries</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>noop</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Films et Séries</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>noop</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Mangas</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>noop</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Addons</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>noop</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Quitter</label>
+		<label2>Elément personnalisé</label2>
+		<icon>special://skin/extras/icons/power.png</icon>
+		<thumb />
+		<action>Quit</action>
+		</shortcut>
+	</shortcuts>

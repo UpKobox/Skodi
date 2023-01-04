@@ -1,0 +1,90 @@
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>Mise A Jour DB</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/update.png</thumb>
+		<action>ActivateWindow(Programs,"plugin://plugin.program.skinrayflix/?action=menumajhk2",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Favoris Films (Fav's HK)</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/_star3.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&amp;famille=Mes+favoris+HK&amp;offset=0",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Favoris Séries (Fav's HK)</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/_star4.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&amp;famille=Mes+favoris+HK",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>1036</defaultID>
+		<label>Favoris Kodi</label>
+		<label2>Elément de menu commun</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/_star5.png</thumb>
+		<action>ActivateWindow(Favourites)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Films En Cours</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/brightness.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&amp;famille=Mon+historique&amp;offset=0",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Séries En Cours</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/brightness.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&amp;famille=Mon+historique&amp;offset=0",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Mon Trakt</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/_trakt.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=affTraktPerso",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Mise A Jour Skin</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/update.png</thumb>
+		<action>ActivateWindow(Programs,"plugin://plugin.program.skinrayflix/?action=hk2lite",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.youtube</defaultID>
+		<label>YouTube</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/youtube.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.youtube",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Mon Uptobox</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/folder.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=affUpto",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>744</defaultID>
+		<label>Fichiers Local</label>
+		<label2>Elément personnalisé</label2>
+		<icon>special://skin/extras/icons/folder.png</icon>
+		<thumb>special://skin/extras/icons/folder.png</thumb>
+		<action>ActivateWindow(Videos,sources://video/,return)</action>
+		</shortcut>
+	</shortcuts>
