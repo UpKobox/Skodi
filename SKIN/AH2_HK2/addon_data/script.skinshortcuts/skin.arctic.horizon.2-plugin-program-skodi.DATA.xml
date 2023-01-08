@@ -31,12 +31,4 @@
 		<thumb>special://home/media/Arctic Horizon 2/Device-Harddisk-icon.png</thumb>
 		<action>PlayMedia("plugin://plugin.video.sendtokodiU2P/?action=setting")</action>
 		</shortcut>
-	<shortcut>
-		<defaultID>plugin.video.sendtokodiU2P</defaultID>
-		<label>U2Pplay</label>
-		<label2>Extensions Vidéo</label2>
-		<icon>DefaultShortcut.png</icon>
-		<thumb>special://home/addons/plugin.video.sendtokodiU2P/icon.png</thumb>
-		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P",return)</action>
-		</shortcut>
 	</shortcuts>

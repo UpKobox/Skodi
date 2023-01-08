@@ -25,10 +25,10 @@
 		</shortcut>
 	<shortcut>
 		<defaultID />
-		<label>Replay TV</label>
+		<label>IPTV</label>
 		<label2>Extensions Vidéo</label2>
 		<icon>DefaultShortcut.png</icon>
-		<thumb>image://special%3a%2f%2fhome%2faddons%2fplugin.program.autowidget%2fresources%2fmedia%2ficon%2ffolder-shortcut.png/</thumb>
-		<action>ActivateWindow(Videos,"plugin://plugin.program.autowidget/?mode=group&amp;group=tv-1661766932.7480707&amp;refresh=&amp;reload=",return)</action>
+		<thumb>image://special%3a%2f%2fhome%2faddons%2fplugin.video.sendtokodiU2P%2fresources%2fpng%2fspecial%3a%2f%2fhome%2faddons%2fplugin.video.sendtokodiU2P%2fresources%2fpng%2fiptv.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=iptvLoad",return)</action>
 		</shortcut>
 	</shortcuts>
