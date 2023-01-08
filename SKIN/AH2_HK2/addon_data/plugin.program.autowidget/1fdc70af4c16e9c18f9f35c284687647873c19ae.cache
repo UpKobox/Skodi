@@ -274,7 +274,7 @@
                     "param.user_slug": "atipoul",
                     "param.widget": "True",
                     "physical_release": "2012-03-28",
-                    "popularity": "64.627",
+                    "popularity": "75.184",
                     "provider.link": "https://www.themoviedb.org/movie/77338-intouchables/watch?locale=FR",
                     "providers": "Apple iTunes / Google Play Movies / Orange VOD / Microsoft Store / YouTube / Filmo TV / Canal VOD / Bbox VOD / Rakuten TV / Amazon Video",
                     "revenue": "$426,588,510",
@@ -284,7 +284,7 @@
                     "tmdb_id": "77338",
                     "tmdb_rating": "8.3",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "15,228",
+                    "tmdb_votes": "15,295",
                     "trakt_id": "57181",
                     "widget": "Films franc\u0327ais > 70%"
                 },
@@ -362,7 +362,7 @@
                     "unknown": "tt1675434"
                 },
                 "userrating": 0,
-                "votes": "15228",
+                "votes": "15295",
                 "writer": [
                     "\u00c9ric Toledano",
                     "Olivier Nakache",
@@ -392,7 +392,7 @@
                         "name": "Audrey Tautou",
                         "order": 0,
                         "role": "Am\u00e9lie Poulain",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fk66PCmlqbduszP4nFUDBdwrDr6r.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fd1HVrV8zXy1FJVptmOCkHWG8Jf2.jpg/"
                     },
                     {
                         "name": "Mathieu Kassovitz",
@@ -892,7 +892,7 @@
                     "param.plugin_category": "Films franc\u0327ais > 70%",
                     "param.user_slug": "atipoul",
                     "param.widget": "True",
-                    "popularity": "25.275",
+                    "popularity": "40.536",
                     "provider.link": "https://www.themoviedb.org/movie/194-le-fabuleux-destin-d-amelie-poulain/watch?locale=FR",
                     "providers": "Orange VOD / Canal VOD / Bbox VOD / Rakuten TV / LaCinetek / Universcine",
                     "revenue": "$173,921,954",
@@ -902,7 +902,7 @@
                     "tmdb_id": "194",
                     "tmdb_rating": "7.9",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "10,128",
+                    "tmdb_votes": "10,178",
                     "trakt_id": "157",
                     "widget": "Films franc\u0327ais > 70%"
                 },
@@ -932,7 +932,7 @@
                 "plotoutline": "",
                 "premiered": "2001-04-25",
                 "productioncode": "",
-                "rating": 7.9039998054504395,
+                "rating": 7.9029998779296875,
                 "resume": {
                     "position": 0.0,
                     "total": 7200.0
@@ -980,7 +980,7 @@
                     "unknown": "tt0211915"
                 },
                 "userrating": 0,
-                "votes": "10128",
+                "votes": "10178",
                 "writer": [
                     "Jean-Pierre Jeunet",
                     "Guillaume Laurant",
@@ -1288,7 +1288,7 @@
                     "param.plugin_category": "Films franc\u0327ais > 70%",
                     "param.user_slug": "atipoul",
                     "param.widget": "True",
-                    "popularity": "18.498",
+                    "popularity": "36.07",
                     "provider.link": "https://www.themoviedb.org/movie/2330-taxi/watch?locale=FR",
                     "providers": "Apple iTunes / Google Play Movies / Orange VOD / YouTube / Canal VOD / Bbox VOD / Universcine / Amazon Video",
                     "revenue": "$44,500,000",
@@ -1302,7 +1302,7 @@
                     "tmdb_id": "2330",
                     "tmdb_rating": "6.6",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "2,056",
+                    "tmdb_votes": "2,069",
                     "trakt_id": "1643",
                     "widget": "Films franc\u0327ais > 70%"
                 },
@@ -1333,7 +1333,7 @@
                 "plotoutline": "",
                 "premiered": "1998-04-08",
                 "productioncode": "",
-                "rating": 6.633999824523926,
+                "rating": 6.632999897003174,
                 "resume": {
                     "position": 0.0,
                     "total": 5160.0
@@ -1380,7 +1380,7 @@
                     "unknown": "tt0152930"
                 },
                 "userrating": 0,
-                "votes": "2056",
+                "votes": "2069",
                 "writer": [
                     "Luc Besson"
                 ],
@@ -1732,7 +1732,7 @@
                     "param.user_slug": "atipoul",
                     "param.widget": "True",
                     "physical_release": "1996-05-31",
-                    "popularity": "21.974",
+                    "popularity": "18.922",
                     "premiere_release": "1995-05-27",
                     "provider.link": "https://www.themoviedb.org/movie/406-la-haine/watch?locale=FR",
                     "providers": "Netflix / Amazon Prime Video / Canal+ / Apple iTunes / Orange VOD / Filmo TV / Canal VOD / Bbox VOD / Rakuten TV / LaCinetek / Universcine / Amazon Video / Universcine Amazon Channel / Filmo Amazon Channel / Netflix basic with Ads",
@@ -1743,7 +1743,7 @@
                     "tmdb_id": "406",
                     "tmdb_rating": "8.1",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "3,245",
+                    "tmdb_votes": "3,265",
                     "trakt_id": "324",
                     "widget": "Films franc\u0327ais > 70%"
                 },
@@ -1816,7 +1816,7 @@
                     "unknown": "tt0113247"
                 },
                 "userrating": 0,
-                "votes": "3245",
+                "votes": "3265",
                 "writer": [
                     "Mathieu Kassovitz"
                 ],
@@ -1982,7 +1982,7 @@
                     "param.user_slug": "atipoul",
                     "param.widget": "True",
                     "physical_release": "2019-05-15",
-                    "popularity": "36.894",
+                    "popularity": "29.643",
                     "premiere_release": "2002-05-23",
                     "provider.link": "https://www.themoviedb.org/movie/979-irreversible/watch?locale=FR",
                     "providers": "Apple iTunes / Google Play Movies / Orange VOD / Microsoft Store / YouTube / Filmo TV / Canal VOD / Bbox VOD / Rakuten TV / LaCinetek / Universcine / Amazon Video",
@@ -1993,7 +1993,7 @@
                     "tmdb_id": "979",
                     "tmdb_rating": "7.2",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "2,326",
+                    "tmdb_votes": "2,342",
                     "trakt_id": "809",
                     "widget": "Films franc\u0327ais > 70%"
                 },
@@ -2071,7 +2071,7 @@
                     "unknown": "tt0290673"
                 },
                 "userrating": 0,
-                "votes": "2326",
+                "votes": "2342",
                 "writer": [
                     "Gaspar No\u00e9"
                 ],
@@ -3223,7 +3223,7 @@
                     "param.plugin_category": "Films franc\u0327ais > 70%",
                     "param.user_slug": "atipoul",
                     "param.widget": "True",
-                    "popularity": "27.664",
+                    "popularity": "24.263",
                     "provider.link": "https://www.themoviedb.org/movie/10045-banlieue-13/watch?locale=FR",
                     "providers": "Apple iTunes / Orange VOD / Canal VOD / Bbox VOD / Amazon Video",
                     "revenue": "$9,584,131",
@@ -3237,7 +3237,7 @@
                     "tmdb_id": "10045",
                     "tmdb_rating": "6.7",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "1,569",
+                    "tmdb_votes": "1,579",
                     "trakt_id": "5268",
                     "widget": "Films franc\u0327ais > 70%"
                 },
@@ -3299,7 +3299,7 @@
                 "title": "Banlieue 13",
                 "top250": 0,
                 "track": -1,
-                "trailer": "plugin://plugin.video.youtube/play/?video_id=uLf2rSeozAw",
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=CQ3WN0zagVM",
                 "tvshowid": -1,
                 "type": "movie",
                 "uniqueid": {
@@ -3310,7 +3310,7 @@
                     "unknown": "tt0414852"
                 },
                 "userrating": 0,
-                "votes": "1569",
+                "votes": "1579",
                 "writer": [
                     "Luc Besson",
                     "Bibi Naceri"
@@ -3822,7 +3822,7 @@
                     "param.user_slug": "atipoul",
                     "param.widget": "True",
                     "physical_release": "2017-04-07",
-                    "popularity": "19.533",
+                    "popularity": "17.588",
                     "premiere_release": "2016-11-04",
                     "provider.link": "https://www.themoviedb.org/movie/382591-demain-tout-commence/watch?locale=FR",
                     "providers": "Canal+ / Google Play Movies / Microsoft Store / YouTube",
@@ -3833,7 +3833,7 @@
                     "tmdb_id": "382591",
                     "tmdb_rating": "7.7",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "2,760",
+                    "tmdb_votes": "2,767",
                     "trakt_id": "261561",
                     "widget": "Films franc\u0327ais > 70%"
                 },
@@ -3863,7 +3863,7 @@
                 "plotoutline": "",
                 "premiered": "2016-12-07",
                 "productioncode": "",
-                "rating": 7.745999813079834,
+                "rating": 7.743000030517578,
                 "resume": {
                     "position": 0.0,
                     "total": 6900.0
@@ -3907,7 +3907,7 @@
                     "unknown": "tt5078204"
                 },
                 "userrating": 0,
-                "votes": "2760",
+                "votes": "2767",
                 "writer": [
                     "Guillermo R\u00edos",
                     "Eugenio Derbez",
@@ -4129,9 +4129,9 @@
                     "param.plugin_category": "Films franc\u0327ais > 70%",
                     "param.user_slug": "atipoul",
                     "param.widget": "True",
-                    "popularity": "21.621",
+                    "popularity": "21.189",
                     "provider.link": "https://www.themoviedb.org/movie/6312-le-pacte-des-loups/watch?locale=FR",
-                    "providers": "Orange VOD / Filmo TV",
+                    "providers": "Google Play Movies / Orange VOD / YouTube / Filmo TV / Canal VOD / Cinemas a la Demande / Amazon Video",
                     "revenue": "$70,752,904",
                     "slug_id": "brotherhood-of-the-wolf-2001",
                     "studio": "Canal+",
@@ -4139,7 +4139,7 @@
                     "tmdb_id": "6312",
                     "tmdb_rating": "6.7",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "1,247",
+                    "tmdb_votes": "1,252",
                     "trakt_id": "3572",
                     "widget": "Films franc\u0327ais > 70%"
                 },
@@ -4171,7 +4171,7 @@
                 "plotoutline": "",
                 "premiered": "2001-01-31",
                 "productioncode": "",
-                "rating": 6.688000202178955,
+                "rating": 6.696000099182129,
                 "resume": {
                     "position": 0.0,
                     "total": 8520.0
@@ -4216,7 +4216,7 @@
                     "unknown": "tt0237534"
                 },
                 "userrating": 0,
-                "votes": "1247",
+                "votes": "1252",
                 "writer": [
                     "Christophe Gans",
                     "St\u00e9phane Cabel"
@@ -4359,7 +4359,7 @@
                     "param.user_slug": "atipoul",
                     "param.widget": "True",
                     "physical_release": "2013-02-26",
-                    "popularity": "11.542",
+                    "popularity": "12.108",
                     "premiere_release": "2012-05-20",
                     "provider.link": "https://www.themoviedb.org/movie/86837-amour/watch?locale=FR",
                     "providers": "Apple iTunes / Orange VOD / Filmo TV / Canal VOD / Bbox VOD / Universcine / Amazon Video",
@@ -4370,7 +4370,7 @@
                     "tmdb_id": "86837",
                     "tmdb_rating": "7.8",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "1,378",
+                    "tmdb_votes": "1,381",
                     "trakt_id": "65318",
                     "widget": "Films franc\u0327ais > 70%"
                 },
@@ -4400,7 +4400,7 @@
                 "plotoutline": "",
                 "premiered": "2012-09-20",
                 "productioncode": "",
-                "rating": 7.761000156402588,
+                "rating": 7.757999897003174,
                 "resume": {
                     "position": 0.0,
                     "total": 7620.0
@@ -4442,7 +4442,7 @@
                     "unknown": "tt1602620"
                 },
                 "userrating": 0,
-                "votes": "1378",
+                "votes": "1381",
                 "writer": [
                     "Michael Haneke"
                 ],
@@ -6071,7 +6071,7 @@
                     "param.plugin_category": "Films franc\u0327ais > 70%",
                     "param.user_slug": "atipoul",
                     "param.widget": "True",
-                    "popularity": "32.575",
+                    "popularity": "34.419",
                     "provider.link": "https://www.themoviedb.org/movie/37645-l-immortel/watch?locale=FR",
                     "providers": "Apple iTunes / Orange VOD / Microsoft Store / Canal VOD / Universcine / Amazon Video",
                     "revenue": "$0",
@@ -6081,7 +6081,7 @@
                     "tmdb_id": "37645",
                     "tmdb_rating": "6.6",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "1,042",
+                    "tmdb_votes": "1,045",
                     "trakt_id": "24151",
                     "widget": "Films franc\u0327ais > 70%"
                 },
@@ -6112,7 +6112,7 @@
                 "plotoutline": "",
                 "premiered": "2010-03-23",
                 "productioncode": "",
-                "rating": 6.619999885559082,
+                "rating": 6.599999904632568,
                 "resume": {
                     "position": 0.0,
                     "total": 6900.0
@@ -6153,7 +6153,7 @@
                     "unknown": "tt1167638"
                 },
                 "userrating": 0,
-                "votes": "1042",
+                "votes": "1045",
                 "writer": [
                     "Richard Berry",
                     "Richard Berry",
@@ -6323,10 +6323,10 @@
                     "param.plugin_category": "Films franc\u0327ais > 70%",
                     "param.user_slug": "atipoul",
                     "param.widget": "True",
-                    "popularity": "12.39",
+                    "popularity": "10.966",
                     "premiere_release": "2016-10-10",
                     "provider.link": "https://www.themoviedb.org/movie/393559-ma-vie-de-courgette/watch?locale=FR",
-                    "providers": "Apple iTunes / Google Play Movies / YouTube / Filmo TV / Canal VOD / Rakuten TV / Universcine / Amazon Video / La Toile",
+                    "providers": "Google Play Movies / YouTube / Filmo TV / Canal VOD / Rakuten TV / Universcine / Amazon Video / La Toile",
                     "revenue": "$5,873,256",
                     "slug_id": "my-life-as-a-zucchini-2016",
                     "studio": "France 3 Cin\u00e9ma",
@@ -6334,7 +6334,7 @@
                     "tmdb_id": "393559",
                     "tmdb_rating": "7.8",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "1,122",
+                    "tmdb_votes": "1,125",
                     "trakt_id": "236008",
                     "widget": "Films franc\u0327ais > 70%"
                 },
@@ -6367,7 +6367,7 @@
                 "plotoutline": "",
                 "premiered": "2016-09-22",
                 "productioncode": "",
-                "rating": 7.804999828338623,
+                "rating": 7.807000160217285,
                 "resume": {
                     "position": 0.0,
                     "total": 3960.0
@@ -6415,7 +6415,7 @@
                     "unknown": "tt2321405"
                 },
                 "userrating": 0,
-                "votes": "1122",
+                "votes": "1125",
                 "writer": [
                     "C\u00e9line Sciamma",
                     "Claude Barras",
@@ -6622,7 +6622,7 @@
                     "param.user_slug": "atipoul",
                     "param.widget": "True",
                     "physical_release": "2015-04-29",
-                    "popularity": "11.877",
+                    "popularity": "14.993",
                     "premiere_release": "2014-11-07",
                     "provider.link": "https://www.themoviedb.org/movie/304410-la-famille-belier/watch?locale=FR",
                     "providers": "Apple iTunes / Google Play Movies / Orange VOD / Microsoft Store / YouTube / Filmo TV / Canal VOD / Rakuten TV / Amazon Video",
@@ -6633,7 +6633,7 @@
                     "tmdb_id": "304410",
                     "tmdb_rating": "6.9",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "2,146",
+                    "tmdb_votes": "2,153",
                     "trakt_id": "193922",
                     "widget": "Films franc\u0327ais > 70%"
                 },
@@ -6663,7 +6663,7 @@
                 "plotoutline": "",
                 "premiered": "2014-12-17",
                 "productioncode": "",
-                "rating": 6.914000034332275,
+                "rating": 6.914999961853027,
                 "resume": {
                     "position": 0.0,
                     "total": 6300.0
@@ -6709,7 +6709,7 @@
                     "unknown": "tt3547740"
                 },
                 "userrating": 0,
-                "votes": "2146",
+                "votes": "2153",
                 "writer": [
                     "Stanislas Carr\u00e9 de Malberg",
                     "Eric Lartigau",
@@ -6893,7 +6893,7 @@
                     "param.user_slug": "atipoul",
                     "param.widget": "True",
                     "physical_release": "2012-11-07",
-                    "popularity": "9.488",
+                    "popularity": "8.919",
                     "premiere_release": "2012-05-17",
                     "provider.link": "https://www.themoviedb.org/movie/97365-de-rouille-et-d-os/watch?locale=FR",
                     "providers": "Apple iTunes / Orange VOD / Canal VOD / Bbox VOD / Universcine",
@@ -6904,7 +6904,7 @@
                     "tmdb_id": "97365",
                     "tmdb_rating": "7.2",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "1,203",
+                    "tmdb_votes": "1,207",
                     "trakt_id": "70753",
                     "widget": "Films franc\u0327ais > 70%"
                 },
@@ -6934,7 +6934,7 @@
                 "plotoutline": "",
                 "premiered": "2012-05-17",
                 "productioncode": "",
-                "rating": 7.183000087738037,
+                "rating": 7.177999973297119,
                 "resume": {
                     "position": 0.0,
                     "total": 6900.0
@@ -6989,7 +6989,7 @@
                     "unknown": "tt2053425"
                 },
                 "userrating": 0,
-                "votes": "1203",
+                "votes": "1207",
                 "writer": [
                     "Jacques Audiard",
                     "Thomas Bidegain",
@@ -7281,7 +7281,7 @@
                     "param.user_slug": "atipoul",
                     "param.widget": "True",
                     "physical_release": "2019-04-10",
-                    "popularity": "18.883",
+                    "popularity": "17.496",
                     "provider.link": "https://www.themoviedb.org/movie/527729-asterix-le-secret-de-la-potion-magique/watch?locale=FR",
                     "providers": "Apple iTunes / Google Play Movies / Orange VOD / Microsoft Store / YouTube / Filmo TV / Canal VOD / Rakuten TV / Universcine / Amazon Video",
                     "revenue": "$47,349,002",
@@ -7295,7 +7295,7 @@
                     "tmdb_id": "527729",
                     "tmdb_rating": "6.9",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "1,017",
+                    "tmdb_votes": "1,031",
                     "trakt_id": "375853",
                     "widget": "Films franc\u0327ais > 70%"
                 },
@@ -7328,7 +7328,7 @@
                 "plotoutline": "",
                 "premiered": "2018-05-12",
                 "productioncode": "",
-                "rating": 6.901000022888184,
+                "rating": 6.906000137329102,
                 "resume": {
                     "position": 0.0,
                     "total": 5100.0
@@ -7376,7 +7376,7 @@
                     "unknown": "tt8001346"
                 },
                 "userrating": 0,
-                "votes": "1017",
+                "votes": "1031",
                 "writer": [
                     "Ren\u00e9 Goscinny",
                     "Albert Uderzo",

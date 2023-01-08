@@ -16,7 +16,7 @@
                         "name": "Jon Bon Jovi",
                         "order": 0,
                         "role": "",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f6oC9PKCMcj6fPxyw9IAd6CnUAFZ.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fbqZdwRljds92cSvqQcoueBzLyat.jpg/"
                     },
                     {
                         "name": "Richie Sambora",
@@ -81,7 +81,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "ukpommy",
                     "param.widget": "True",
-                    "popularity": "0.67",
+                    "popularity": "2.266",
                     "revenue": "$0",
                     "slug_id": "bon-jovi-when-we-were-beautiful-2009",
                     "studio": "RadicalMedia",
@@ -235,9 +235,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "ukpommy",
                     "param.widget": "True",
-                    "popularity": "1.241",
-                    "provider.link": "https://www.themoviedb.org/movie/225341-def-leppard-viva-hysteria/watch?locale=FR",
-                    "providers": "Plex",
+                    "popularity": "1.4",
                     "revenue": "$0",
                     "slug_id": "def-leppard-viva-hysteria-2013",
                     "tmdb_id": "225341",
@@ -400,7 +398,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "ukpommy",
                     "param.widget": "True",
-                    "popularity": "8.013",
+                    "popularity": "9.805",
                     "provider.link": "https://www.themoviedb.org/movie/63973-ac-dc-live-at-river-plate/watch?locale=FR",
                     "providers": "Apple iTunes",
                     "revenue": "$0",
@@ -569,7 +567,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "ukpommy",
                     "param.widget": "True",
-                    "popularity": "0.6",
+                    "popularity": "0.912",
                     "revenue": "$0",
                     "slug_id": "europe-live-at-sweden-rock-30th-anniversary-show-2013",
                     "studio": "Revolver Film Company",
@@ -673,7 +671,7 @@
                         "name": "Michael Jackson",
                         "order": 0,
                         "role": "Self",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ftWHyifIcUEc1E0ufIZq5JqyeF6R.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2foc5FWwO5VYBjkKkIHTxoCtFXJ1G.jpg/"
                     },
                     {
                         "name": "Orianthi",
@@ -762,7 +760,7 @@
                     "param.user_slug": "ukpommy",
                     "param.widget": "True",
                     "physical_release": "2010-03-01",
-                    "popularity": "10.929",
+                    "popularity": "11.051",
                     "provider.link": "https://www.themoviedb.org/movie/13576-this-is-it/watch?locale=FR",
                     "providers": "Apple iTunes / Google Play Movies / Orange VOD / Microsoft Store / YouTube / Canal VOD / Bbox VOD / Amazon Video",
                     "revenue": "$261,200,000",
@@ -772,7 +770,7 @@
                     "tmdb_id": "13576",
                     "tmdb_rating": "7.2",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "775",
+                    "tmdb_votes": "778",
                     "trakt_id": "8025",
                     "widget": "Concerts"
                 },
@@ -802,7 +800,7 @@
                 "plotoutline": "",
                 "premiered": "2009-10-28",
                 "productioncode": "",
-                "rating": 7.189000129699707,
+                "rating": 7.199999809265137,
                 "resume": {
                     "position": 0.0,
                     "total": 5460.0
@@ -843,7 +841,7 @@
                     "unknown": "tt1477715"
                 },
                 "userrating": 0,
-                "votes": "775",
+                "votes": "778",
                 "writer": [],
                 "year": 2009
             },
@@ -861,7 +859,7 @@
                         "name": "Michael Jackson",
                         "order": 0,
                         "role": "Himself - Lead Vocals",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ftWHyifIcUEc1E0ufIZq5JqyeF6R.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2foc5FWwO5VYBjkKkIHTxoCtFXJ1G.jpg/"
                     },
                     {
                         "name": "Siedah Garrett",
@@ -1007,7 +1005,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "ukpommy",
                     "param.widget": "True",
-                    "popularity": "9.082",
+                    "popularity": "7.606",
                     "provider.link": "https://www.themoviedb.org/movie/20227-michael-jackson-live-in-bucharest-the-dangerous-tour/watch?locale=FR",
                     "providers": "Apple iTunes",
                     "revenue": "$0",
@@ -1105,31 +1103,31 @@
                     {
                         "name": "Freddie Mercury",
                         "order": 0,
-                        "role": "Lead Singer",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f29YpQZNzrGJtoa49ZVo2XLKZuQr.jpg/"
                     },
                     {
                         "name": "Brian May",
                         "order": 1,
-                        "role": "Guitar",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fdcSrV82AWt21t6XNa5UsYGeBzqx.jpg/"
                     },
                     {
                         "name": "Roger Taylor",
                         "order": 2,
-                        "role": "Drums",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f3RK6HF5pPgpOMDLzxkKhptjlJzv.jpg/"
                     },
                     {
                         "name": "John Deacon",
                         "order": 3,
-                        "role": "Bass",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fucbtgzdLR5oeVXfsTkbxl5TBU5z.jpg/"
                     },
                     {
                         "name": "Spike Edney",
                         "order": 4,
-                        "role": "Keyboards",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2frUnmXEwC4BdRrXROpXhhfIDvCO8.jpg/"
                     }
                 ],
@@ -1167,7 +1165,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "ukpommy",
                     "param.widget": "True",
-                    "popularity": "11.589",
+                    "popularity": "7.325",
                     "provider.link": "https://www.themoviedb.org/movie/20575-queen-live-at-wembley-stadium/watch?locale=FR",
                     "providers": "Apple iTunes",
                     "revenue": "$0",
@@ -1205,7 +1203,7 @@
                 "plotoutline": "",
                 "premiered": "1986-07-12",
                 "productioncode": "",
-                "rating": 8.529000282287598,
+                "rating": 8.5,
                 "resume": {
                     "position": 0.0,
                     "total": 6600.0
@@ -1318,7 +1316,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "ukpommy",
                     "param.widget": "True",
-                    "popularity": "0.802",
+                    "popularity": "1.128",
                     "revenue": "$0",
                     "slug_id": "oasis-live-at-wembley-arena-2008",
                     "studio": "MTV Europe",
@@ -1474,7 +1472,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "ukpommy",
                     "param.widget": "True",
-                    "popularity": "1.967",
+                    "popularity": "3.011",
                     "provider.link": "https://www.themoviedb.org/movie/39081-u2-360-at-the-rose-bowl/watch?locale=FR",
                     "providers": "Apple iTunes",
                     "revenue": "$0",
@@ -1617,7 +1615,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "ukpommy",
                     "param.widget": "True",
-                    "popularity": "0.833",
+                    "popularity": "0.983",
                     "provider.link": "https://www.themoviedb.org/movie/236768-rush-clockwork-angels-tour/watch?locale=FR",
                     "providers": "Apple iTunes",
                     "revenue": "$0",
@@ -1709,7 +1707,7 @@
                         "name": "David Bowie",
                         "order": 0,
                         "role": "Self",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fqrqQJivS0zLzxZKfgNZnDtjbqpI.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f9lrhptypRSlwkDFoHidWIEwWyGA.jpg/"
                     }
                 ],
                 "country": [
@@ -1746,7 +1744,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "ukpommy",
                     "param.widget": "True",
-                    "popularity": "1.96",
+                    "popularity": "2.105",
                     "provider.link": "https://www.themoviedb.org/movie/47019-david-bowie-a-reality-tour/watch?locale=FR",
                     "providers": "Apple iTunes",
                     "revenue": "$0",
@@ -1907,7 +1905,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "ukpommy",
                     "param.widget": "True",
-                    "popularity": "1.172",
+                    "popularity": "1.043",
                     "provider.link": "https://www.themoviedb.org/movie/209999-aerosmith-rock-for-the-rising-sun/watch?locale=FR",
                     "providers": "Apple iTunes",
                     "revenue": "$0",
@@ -2205,7 +2203,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "ukpommy",
                     "param.widget": "True",
-                    "popularity": "0.69",
+                    "popularity": "0.6",
                     "revenue": "$0",
                     "slug_id": "aerosmith-monsters-of-rock-2013-2013",
                     "tmdb_id": "252825",
@@ -2477,7 +2475,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "ukpommy",
                     "param.widget": "True",
-                    "popularity": "0.713",
+                    "popularity": "0.73",
                     "revenue": "$0",
                     "slug_id": "europe-live-at-shepherd-s-bush-london-2011",
                     "tmdb_id": "81809",
@@ -2611,7 +2609,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "ukpommy",
                     "param.widget": "True",
-                    "popularity": "3.681",
+                    "popularity": "4.143",
                     "provider.link": "https://www.themoviedb.org/movie/27308-p-nk-funhouse-tour-live-in-australia/watch?locale=FR",
                     "providers": "Apple iTunes",
                     "revenue": "$0",
@@ -2828,7 +2826,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "ukpommy",
                     "param.widget": "True",
-                    "popularity": "2.313",
+                    "popularity": "3.607",
                     "revenue": "$0",
                     "slug_id": "george-michael-live-in-london-2009",
                     "tmdb_id": "26695",
@@ -3009,7 +3007,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "ukpommy",
                     "param.widget": "True",
-                    "popularity": "1.4",
+                    "popularity": "1.064",
                     "revenue": "$0",
                     "slug_id": "meat-loaf-three-bats-live-2007",
                     "studio": "Hip-O Records",
@@ -3188,7 +3186,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "ukpommy",
                     "param.widget": "True",
-                    "popularity": "0.889",
+                    "popularity": "1.585",
                     "revenue": "$0",
                     "slug_id": "meat-loaf-bat-out-of-hell-the-original-tour-2009",
                     "studio": "Eagle Rock Entertainment",

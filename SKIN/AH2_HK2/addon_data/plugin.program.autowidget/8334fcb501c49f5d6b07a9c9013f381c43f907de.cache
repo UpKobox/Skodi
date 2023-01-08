@@ -50,7 +50,7 @@
                     "param.plugin_category": "CONCERTS",
                     "param.user_slug": "ezzer_man",
                     "param.widget": "True",
-                    "popularity": "0.6",
+                    "popularity": "0.875",
                     "provider.link": "https://www.themoviedb.org/movie/338430-annie-lennox-an-evening-of-nostalgia-with-annie-lennox/watch?locale=FR",
                     "providers": "Apple iTunes",
                     "revenue": "$0",
@@ -2186,7 +2186,7 @@
                         "name": "David Bowie",
                         "order": 0,
                         "role": "Self",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fqrqQJivS0zLzxZKfgNZnDtjbqpI.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f9lrhptypRSlwkDFoHidWIEwWyGA.jpg/"
                     }
                 ],
                 "country": [
@@ -2223,7 +2223,7 @@
                     "param.plugin_category": "CONCERTS",
                     "param.user_slug": "ezzer_man",
                     "param.widget": "True",
-                    "popularity": "1.96",
+                    "popularity": "2.105",
                     "provider.link": "https://www.themoviedb.org/movie/47019-david-bowie-a-reality-tour/watch?locale=FR",
                     "providers": "Apple iTunes",
                     "revenue": "$0",
