@@ -65,6 +65,14 @@
 		</shortcut>
 	<shortcut>
 		<defaultID />
+		<label>History</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/world.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&amp;network=1&amp;namenetwork=65&amp;page=1",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
 		<label>Emission tv</label>
 		<label2>Extensions Vidéo</label2>
 		<icon>DefaultShortcut.png</icon>

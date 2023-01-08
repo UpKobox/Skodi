@@ -9,15 +9,15 @@
 		</shortcut>
 	<shortcut>
 		<defaultID />
-		<label>Maj. HK2</label>
+		<label>Maj. HK² (Bannière Nouveauté)</label>
 		<label2>Elément personnalisé</label2>
 		<icon>DefaultShortcut.png</icon>
 		<thumb>special://home/media/Arctic Horizon 2/Trash-Full-icon.png</thumb>
-		<action>ActivateWindow(Programs,"plugin://plugin.program.Skodi/?action=forcermaj",return)</action>
+		<action>Addon.OpenSettings(service.majhk)</action>
 		</shortcut>
 	<shortcut>
 		<defaultID>plugin.program.Skodi</defaultID>
-		<label>[COLOR lime]Skodi[/COLOR]</label>
+		<label>Skodi</label>
 		<label2>Programme</label2>
 		<icon>DefaultShortcut.png</icon>
 		<thumb>special://home/addons/plugin.program.Skodi/icon.png</thumb>
@@ -38,6 +38,7 @@
 		<icon>DefaultShortcut.png</icon>
 		<thumb>special://home/media/png/x-mac_general_free/X-MAC/general/png/72/check_mark.png</thumb>
 		<action>RunScript(special://home/userdata/addon_data/active alladdon .py,True)</action>
+		<disabled>True</disabled>
 		</shortcut>
 	<shortcut>
 		<defaultID>20183</defaultID>
@@ -54,6 +55,7 @@
 		<icon>DefaultShortcut.png</icon>
 		<thumb>special://home/media/png/brilliant_general_free/BRILLIANT/general/png/72/refresh.png</thumb>
 		<action>ActivateWindow(Videos,"plugin://plugin.program.autowidget/?mode=tools&amp;refresh=&amp;reload=",return)</action>
+		<disabled>True</disabled>
 		</shortcut>
 	<shortcut>
 		<defaultID>7</defaultID>

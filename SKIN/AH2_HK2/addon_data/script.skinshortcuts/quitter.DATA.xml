@@ -9,6 +9,14 @@
 		</shortcut>
 	<shortcut>
 		<defaultID />
+		<label>Minuterie</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/timer.png</thumb>
+		<action>ALARMCLOCK(SLEEP TIMER,POWERDOWN)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
 		<label>Profils</label>
 		<label2>Elément personnalisé</label2>
 		<icon>DefaultShortcut.png</icon>
@@ -54,5 +62,13 @@
 		<icon>special://skin/extras/icons/addons.png</icon>
 		<thumb>special://skin/extras/icons/swissarmy.png</thumb>
 		<action>ActivateWindow(Programs,Addons,return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>plugin.program.skinrayflix</defaultID>
+		<label>Skin Rayflix</label>
+		<label2>Programme</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/filebox.png</thumb>
+		<action>ActivateWindow(Programs,"plugin://plugin.program.skinrayflix",return)</action>
 		</shortcut>
 	</shortcuts>

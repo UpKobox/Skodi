@@ -61,7 +61,7 @@
 		<label2>Elément personnalisé</label2>
 		<icon>DefaultShortcut.png</icon>
 		<thumb>special://skin/extras/icons/update.png</thumb>
-		<action>ActivateWindow(Programs,"plugin://plugin.program.skinrayflix/?action=hk2full",return)</action>
+		<action>ActivateWindow(Programs,"plugin://plugin.program.skinrayflix/?action=hk2lite",return)</action>
 		</shortcut>
 	<shortcut>
 		<defaultID>plugin.video.youtube</defaultID>
@@ -72,19 +72,19 @@
 		<action>ActivateWindow(Videos,"plugin://plugin.video.youtube",return)</action>
 		</shortcut>
 	<shortcut>
-		<defaultID>744</defaultID>
-		<label>Fichiers Local</label>
-		<label2>Elément personnalisé</label2>
-		<icon>special://skin/extras/icons/folder.png</icon>
-		<thumb>special://skin/extras/icons/folder.png</thumb>
-		<action>ActivateWindow(Videos,sources://video/,return)</action>
-		</shortcut>
-	<shortcut>
 		<defaultID />
 		<label>Mon Uptobox</label>
 		<label2>Extensions Vidéo</label2>
 		<icon>DefaultShortcut.png</icon>
 		<thumb>special://skin/extras/icons/folder.png</thumb>
 		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=affUpto",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>744</defaultID>
+		<label>Fichiers Local</label>
+		<label2>Elément personnalisé</label2>
+		<icon>special://skin/extras/icons/folder.png</icon>
+		<thumb>special://skin/extras/icons/folder.png</thumb>
+		<action>ActivateWindow(Videos,sources://video/,return)</action>
 		</shortcut>
 	</shortcuts>

@@ -8,11 +8,19 @@
 		<action>ActivateWindow(TVGuide)</action>
 		</shortcut>
 	<shortcut>
+		<defaultID />
+		<label>IPTV</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/media/png/realvista_general_free/REALVISTA/general/png/72/pyramid.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=iptvLoad",return)</action>
+		</shortcut>
+	<shortcut>
 		<defaultID>plugin.video.catchuptvandmore</defaultID>
 		<label>Catch-up TV &amp; More</label>
 		<label2>Extensions Vidéo</label2>
 		<icon>DefaultShortcut.png</icon>
-		<thumb>thumb</thumb>
+		<thumb>special://home/addons/plugin.video.catchuptvandmore/icon.png</thumb>
 		<action>ActivateWindow(Videos,"plugin://plugin.video.catchuptvandmore",return)</action>
 		</shortcut>
 	<shortcut>
@@ -22,14 +30,5 @@
 		<icon>DefaultShortcut.png</icon>
 		<thumb>special://home/media/png/luminight_general_free/LUMINIGHT/general/png/72/star.png</thumb>
 		<action>ActivateWindow(Favourites)</action>
-		</shortcut>
-	<shortcut>
-		<defaultID>20244</defaultID>
-		<label>20244</label>
-		<label2>Programmes</label2>
-		<icon>special://skin/extras/icons/addons.png</icon>
-		<thumb>special://home/media/png/x-mac_general_free/X-MAC/general/png/72/tool.png</thumb>
-		<action>ActivateWindow(Programs,androidapp://sources/apps,return)</action>
-		<disabled>True</disabled>
 		</shortcut>
 	</shortcuts>

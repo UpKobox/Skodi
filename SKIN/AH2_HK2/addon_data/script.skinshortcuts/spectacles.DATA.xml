@@ -17,11 +17,11 @@
 		</shortcut>
 	<shortcut>
 		<defaultID />
-		<label>Concerts</label>
-		<label2>Elément personnalisé</label2>
+		<label>Humoristes</label>
+		<label2>Extensions Vidéo</label2>
 		<icon>DefaultShortcut.png</icon>
-		<thumb>special://skin/extras/icons/songs.png</thumb>
-		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&amp;famille=concert&amp;offset=0",return)</action>
+		<thumb>special://skin/extras/icons/person.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&amp;famille=groupes&amp;offset=0&amp;nom=humoristes",return)</action>
 		</shortcut>
 	<shortcut>
 		<defaultID />
@@ -30,6 +30,30 @@
 		<icon>DefaultShortcut.png</icon>
 		<thumb>special://skin/extras/icons/person2.png</thumb>
 		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&amp;famille=groupes&amp;offset=0&amp;nom=theatre",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Cirque</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/genre.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&amp;famille=groupes&amp;offset=0&amp;nom=cirque",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Magie</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/wand.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&amp;famille=groupes&amp;offset=0&amp;nom=magie",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Concerts</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/songs.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&amp;famille=concert&amp;offset=0",return)</action>
 		</shortcut>
 	<shortcut>
 		<defaultID />

@@ -1,5 +1,13 @@
 <shortcuts>
 	<shortcut>
+		<defaultID>customnode1</defaultID>
+		<label>iPTV Fournisseurs</label>
+		<label2>Elément personnalisé</label2>
+		<icon>special://skin/extras/icons/shortcut.png</icon>
+		<thumb />
+		<action>CustomNode1</action>
+		</shortcut>
+	<shortcut>
 		<defaultID />
 		<label>Fox</label>
 		<label2>Extensions Vidéo</label2>
