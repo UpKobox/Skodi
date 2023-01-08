@@ -1,5 +1,13 @@
 <shortcuts>
 	<shortcut>
+		<defaultID>customnode3</defaultID>
+		<label>Diffuseurs</label>
+		<label2>Elément personnalisé</label2>
+		<icon>special://skin/extras/icons/shortcut.png</icon>
+		<thumb />
+		<action>CustomNode3</action>
+		</shortcut>
+	<shortcut>
 		<defaultID />
 		<label>Series &amp; Animes U2Pplay</label>
 		<label2>Extensions Vidéo</label2>

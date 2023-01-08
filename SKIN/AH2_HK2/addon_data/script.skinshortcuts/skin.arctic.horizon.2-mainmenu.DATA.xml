@@ -33,7 +33,7 @@
 		</shortcut>
 	<shortcut>
 		<defaultID>plugin.program.Skodi</defaultID>
-		<label>Skodi</label>
+		<label>Skodi/U2Pplay</label>
 		<label2>Programme</label2>
 		<icon>DefaultShortcut.png</icon>
 		<thumb>special://home/addons/plugin.program.Skodi/icon.png</thumb>
