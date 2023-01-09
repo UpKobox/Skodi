@@ -1,0 +1,58 @@
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>Skins de [COLOR yellow](CoKodico)[/COLOR]</label>
+		<label2>Programme</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>thumb</thumb>
+		<action>ActivateWindow(Programs,"plugin://plugin.program.Skodi/?action=CoKo",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Skins de [COLOR yellow](Luc562)[/COLOR]</label>
+		<label2>Programme</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>thumb</thumb>
+		<action>ActivateWindow(Programs,"plugin://plugin.program.Skodi/?action=Luc562",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Skins de [COLOR yellow](Rayflix)[/COLOR]</label>
+		<label2>Programme</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>thumb</thumb>
+		<action>ActivateWindow(Programs,"plugin://plugin.program.Skodi/?action=rayhk2",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Skins de [COLOR yellow](pistachePoilue)[/COLOR]</label>
+		<label2>Programme</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>thumb</thumb>
+		<action>ActivateWindow(Programs,"plugin://plugin.program.Skodi/?action=pistachePoilue",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Skins de [COLOR yellow](Vicqing)[/COLOR]</label>
+		<label2>Programme</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>thumb</thumb>
+		<action>ActivateWindow(Programs,"plugin://plugin.program.Skodi/?action=Vicqing",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Skins de [COLOR yellow](bePurple)[/COLOR]</label>
+		<label2>Programme</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>thumb</thumb>
+		<action>ActivateWindow(Programs,"plugin://plugin.program.Skodi/?action=bePurple",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Skins de [COLOR yellow](Ghantholiny)[/COLOR]</label>
+		<label2>Programme</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>thumb</thumb>
+		<action>ActivateWindow(Programs,"plugin://plugin.program.Skodi/?action=Ghantholiny",return)</action>
+		</shortcut>
+	</shortcuts>

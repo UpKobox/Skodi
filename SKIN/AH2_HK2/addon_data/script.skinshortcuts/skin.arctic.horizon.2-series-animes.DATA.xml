@@ -1,7 +1,7 @@
 <shortcuts>
 	<shortcut>
 		<defaultID />
-		<label>Series &amp; Animes (U2P)</label>
+		<label>Series &amp; Animes (HK²)</label>
 		<label2>Extensions Vidéo</label2>
 		<icon>DefaultShortcut.png</icon>
 		<thumb>special://home/media/Arctic Horizon 2/tv-series-featured-img.png</thumb>
@@ -73,7 +73,7 @@
 		</shortcut>
 	<shortcut>
 		<defaultID />
-		<label>Séries HK² Mon Uptobox</label>
+		<label>Séries Mon Uptobox </label>
 		<label2>Elément personnalisé</label2>
 		<icon>DefaultShortcut.png</icon>
 		<thumb>special://home/media/png/uptobox.jpg</thumb>
@@ -105,10 +105,18 @@
 		</shortcut>
 	<shortcut>
 		<defaultID />
+		<label>Series Diffuseurs</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://special%3a%2f%2fhome%2faddons%2fplugin.program.autowidget%2fresources%2fmedia%2ficon%2ffolder-shortcut.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.program.autowidget/?mode=group&amp;group=series_diffuseurs-1660554934.188611&amp;refresh=&amp;reload=",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
 		<label>Series autowidget</label>
 		<label2>Extensions Vidéo</label2>
 		<icon>DefaultShortcut.png</icon>
-		<thumb>special://home/media/Arctic Horizon 2/Comics-Ironman-Folder-icon.png</thumb>
+		<thumb>image://special%3a%2f%2fhome%2faddons%2fplugin.program.autowidget%2fresources%2fmedia%2ficon%2ffolder-sync.png/</thumb>
 		<action>ActivateWindow(Videos,"plugin://plugin.program.autowidget/?mode=group&amp;group=series_autowidget-1661598940.8711307&amp;refresh=&amp;reload=",return)</action>
 		</shortcut>
 	<shortcut>
@@ -116,12 +124,12 @@
 		<label>Animes autowidget</label>
 		<label2>Extensions Vidéo</label2>
 		<icon>DefaultShortcut.png</icon>
-		<thumb>special://home/media/Arctic Horizon 2/anime-icon-18.jpg</thumb>
+		<thumb>image://special%3a%2f%2fhome%2faddons%2fplugin.program.autowidget%2fresources%2fmedia%2ficon%2ffolder-sync.png/</thumb>
 		<action>ActivateWindow(Videos,"plugin://plugin.program.autowidget/?mode=group&amp;group=animes_autowidget-1661599000.3136003&amp;refresh=&amp;reload=",return)</action>
 		</shortcut>
 	<shortcut>
 		<defaultID />
-		<label>Listes TMDB</label>
+		<label>Listes TMDb</label>
 		<label2>Elément personnalisé</label2>
 		<icon>DefaultShortcut.png</icon>
 		<thumb>special://home/media/png/realvista_general_free/REALVISTA/general/png/72/book.png</thumb>

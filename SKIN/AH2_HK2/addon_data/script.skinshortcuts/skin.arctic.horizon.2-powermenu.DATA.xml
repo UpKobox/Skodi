@@ -6,13 +6,14 @@
 		<icon>DefaultShortcut.png</icon>
 		<thumb>special://home/addons/plugin.video.sendtokodiU2P/icon.png</thumb>
 		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=movies",return)</action>
+		<disabled>True</disabled>
 		</shortcut>
 	<shortcut>
 		<defaultID />
 		<label>Maj. HK² (Bannière Nouveauté)</label>
 		<label2>Elément personnalisé</label2>
 		<icon>DefaultShortcut.png</icon>
-		<thumb>special://home/media/Arctic Horizon 2/Trash-Full-icon.png</thumb>
+		<thumb>special://home/addons/plugin.video.sendtokodiU2P/icon.png</thumb>
 		<action>Addon.OpenSettings(service.majhk)</action>
 		</shortcut>
 	<shortcut>
@@ -22,13 +23,14 @@
 		<icon>DefaultShortcut.png</icon>
 		<thumb>special://home/addons/plugin.program.Skodi/icon.png</thumb>
 		<action>ActivateWindow(Programs,"plugin://plugin.program.Skodi",return)</action>
+		<disabled>True</disabled>
 		</shortcut>
 	<shortcut>
 		<defaultID />
 		<label>Skodi Paramètres</label>
 		<label2>Elément personnalisé</label2>
 		<icon>DefaultShortcut.png</icon>
-		<thumb>special://home/media/png/x-mac_general_free/X-MAC/general/png/72/wizard.png</thumb>
+		<thumb>special://home/addons/plugin.program.Skodi/icon.png</thumb>
 		<action>Addon.OpenSettings(plugin.program.Skodi)</action>
 		</shortcut>
 	<shortcut>

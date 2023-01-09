@@ -1,7 +1,7 @@
 <shortcuts>
 	<shortcut>
 		<defaultID />
-		<label>Films (U2P)</label>
+		<label>Films (HK²)</label>
 		<label2>Extensions Vidéo</label2>
 		<icon>DefaultShortcut.png</icon>
 		<thumb>special://home/media/Arctic Horizon 2/Movie-Clapper-icon.png</thumb>
@@ -49,7 +49,7 @@
 		</shortcut>
 	<shortcut>
 		<defaultID />
-		<label>Listes Spécial Widget</label>
+		<label>Listes Spécial Widget HK²</label>
 		<label2>Extensions Vidéo</label2>
 		<icon>DefaultShortcut.png</icon>
 		<thumb>special://home/media/png/realvista_general_free/REALVISTA/general/png/72/windows_restore.png</thumb>
@@ -73,7 +73,7 @@
 		</shortcut>
 	<shortcut>
 		<defaultID />
-		<label>Films Mon Upto</label>
+		<label>Films Mon Uptobox</label>
 		<label2>Elément personnalisé</label2>
 		<icon>DefaultShortcut.png</icon>
 		<thumb>special://home/media/png/uptob.png</thumb>
@@ -113,7 +113,31 @@
 		</shortcut>
 	<shortcut>
 		<defaultID />
-		<label>Listes TMDB</label>
+		<label>Films Diffuseurs</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://special%3a%2f%2fhome%2faddons%2fplugin.program.autowidget%2fresources%2fmedia%2ficon%2ffolder-shortcut.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.program.autowidget/?mode=group&amp;group=films_diffuseurs-1660553879.6137402&amp;refresh=&amp;reload=",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Films autowidget</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://special%3a%2f%2fhome%2faddons%2fplugin.program.autowidget%2fresources%2fmedia%2ficon%2ffolder-sync.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.program.autowidget/?mode=group&amp;group=films_autowidget-1661598449.2327583&amp;refresh=&amp;reload=",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Films Francais autowidget</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://special%3a%2f%2fhome%2faddons%2fplugin.program.autowidget%2fresources%2fmedia%2ficon%2ffolder-sync.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.program.autowidget/?mode=group&amp;group=films_francais_autowidget-1661599398.3946514&amp;refresh=&amp;reload=",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Listes TMDb</label>
 		<label2>Elément personnalisé</label2>
 		<icon>DefaultShortcut.png</icon>
 		<thumb>special://home/media/png/crystal_general_free/CRYSTAL/general/png/72/notepad.png</thumb>

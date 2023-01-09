@@ -34,9 +34,9 @@
 	<shortcut>
 		<defaultID>plugin.program.Skodi</defaultID>
 		<label>Skodi/U2Pplay</label>
-		<label2>Programme</label2>
+		<label2>Elément personnalisé</label2>
 		<icon>DefaultShortcut.png</icon>
 		<thumb>special://home/addons/plugin.program.Skodi/icon.png</thumb>
-		<action>ActivateWindow(Programs,"plugin://plugin.program.Skodi",return)</action>
+		<action>ActivateWindow(1132)</action>
 		</shortcut>
 	</shortcuts>
