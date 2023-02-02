@@ -1,0 +1,13 @@
+{
+    "history": [
+        [
+            1673477023.29936,
+            "ce660637484997d6c73a46fcc50453b01c19194d"
+        ]
+    ],
+    "widgets": [
+        "a55d1795-6478-492c-ae63-94d472544a9b",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Netflix%20Shows&list_slug=netflix-shows&plugin_category=Netflix%20Shows&user_slug=garycrawfordgc&widget=True"
+}

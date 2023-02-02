@@ -1,0 +1,23 @@
+{
+    "history": [
+        [
+            1675344202.5957587,
+            "bb400b927391508509f088904af20e28db885a9b"
+        ],
+        [
+            1675344676.539172,
+            "bb400b927391508509f088904af20e28db885a9b"
+        ],
+        [
+            1675345168.88845,
+            "cb150f00aed75f1aeb248232e8c591c4eca49023"
+        ]
+    ],
+    "widgets": [
+        "e5b2f954-ba7e-4e4b-850c-9e274de04709",
+        null,
+        "de8bb568-5d71-45c8-9576-e3906f101459",
+        "7bf1b6da-5d8f-4953-a52b-0ff30b770547"
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Live%20Concerts%20%26%20Music&list_slug=live-concerts-music&plugin_category=Live%20Concerts%20%26%20Music&user_slug=dwarnes1970&widget=True"
+}

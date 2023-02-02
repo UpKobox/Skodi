@@ -20,7 +20,6 @@
                 ],
                 "country": [],
                 "customproperties": {
-                    "available_releases": "Theatrical",
                     "budget": "$0",
                     "cast": "Pink",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=29757&ignore_default=true)",
@@ -51,12 +50,9 @@
                     "param.plugin_category": "concerts",
                     "param.user_slug": "jmacca87",
                     "param.widget": "True",
-                    "popularity": "1.371",
-                    "provider.link": "https://www.themoviedb.org/movie/29757-pink-live-from-wembley-arena/watch?locale=US",
-                    "providers": "Apple iTunes / Amazon Video / Google Play Movies / YouTube / Microsoft Store",
+                    "popularity": "1.028",
                     "revenue": "$0",
                     "slug_id": "pink-live-from-wembley-arena-2007",
-                    "theatrical_release": "2007-01-01",
                     "tmdb_id": "29757",
                     "tmdb_rating": "8.7",
                     "tmdb_type": "movie",
@@ -73,7 +69,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "tt1391109",
                 "label": "Pink: Live from Wembley Arena",
@@ -83,14 +79,14 @@
                 "mpaa": "",
                 "originaltitle": "Pink: Live from Wembley Arena",
                 "playcount": 0,
-                "plot": "Outspoken Grammy-winning pop princess Pink brings her bold brand of danceable R&B to the stage of London's Wembley Arena, and the cameras roll to capture every infectious note to the delight of fans on both sides of the pond. Featured songs include \"Don't Let Me Get Me\", \"Just Like a Pill\", and \"Get the Party Started.\"",
+                "plot": "",
                 "plotoutline": "",
                 "premiered": "2007-01-01",
                 "productioncode": "",
                 "rating": 8.699999809265137,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 7200.0
                 },
                 "runtime": 7200,
                 "season": -1,
@@ -132,9 +128,12 @@
             {
                 "album": "",
                 "art": {
+                    "banner": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f27308%2fmoviebanner%2fpink---funhouse-tour-live-in-australia-5254619dbb8a3.jpg/",
+                    "clearlogo": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f27308%2fhdmovielogo%2fpink---funhouse-tour-live-in-australia-50c499f1a8f74.png/",
+                    "discart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f27308%2fmoviedisc%2fpink---funhouse-tour-live-in-australia-500da77c3b5bd.png/",
                     "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fh0Ys8VX7bKRNa6AFuUZ7LJFo5c2.jpg/",
                     "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fekMrcb6FpM4UvwAXodKuuXRX7q.jpg/",
-                    "landscape": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fm0uGlx0VIrDo5OSXnCXHsAwlb5s.jpg/",
+                    "landscape": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f27308%2fmoviethumb%2fpink---funhouse-tour-live-in-australia-62ae195dbb12a.jpg/",
                     "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fekMrcb6FpM4UvwAXodKuuXRX7q.jpg/"
                 },
                 "artist": [],
@@ -155,7 +154,6 @@
                     "Australia"
                 ],
                 "customproperties": {
-                    "available_releases": "Physical",
                     "budget": "$0",
                     "cast": "Pink / Alison Faulk",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=27308&ignore_default=true)",
@@ -186,10 +184,9 @@
                     "param.plugin_category": "concerts",
                     "param.user_slug": "jmacca87",
                     "param.widget": "True",
-                    "physical_release": "2009-12-08",
-                    "popularity": "3.421",
-                    "provider.link": "https://www.themoviedb.org/movie/27308-p-nk-funhouse-tour-live-in-australia/watch?locale=US",
-                    "providers": "Apple iTunes / Amazon Video / Google Play Movies / YouTube / Vudu",
+                    "popularity": "4.56",
+                    "provider.link": "https://www.themoviedb.org/movie/27308-p-nk-funhouse-tour-live-in-australia/watch?locale=FR",
+                    "providers": "Apple iTunes",
                     "revenue": "$0",
                     "slug_id": "p-nk-funhouse-tour-live-in-australia-2009",
                     "studio": "LaFace Records",
@@ -213,7 +210,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "tt1596280",
                 "label": "P!nk: Funhouse Tour - Live in Australia",
@@ -223,14 +220,14 @@
                 "mpaa": "",
                 "originaltitle": "P!nk: Funhouse Tour - Live in Australia",
                 "playcount": 0,
-                "plot": "Funhouse Tour: Live in Australia is a live show by American pop singer P!NK. It was released on DVD, Blu-ray and also as a separate live album audio version. The album contains the July 17 and 18, 2009 shows from the Funhouse Tour, recorded at the Sydney Entertainment Centre in Sydney, Australia. It was released on October 14, 2009 by LaFace Records. In Australia, the release has been certified 32x Platinum.",
+                "plot": "Alors que Pink est encore en pleine tourn\u00e9e mondiale, elle nous livre d\u00e9j\u00e0 son Funhouse Tour en DVD ! Celle qu'on pr\u00e9sente comme la bad girl est aujourd'hui la plus grand performeuse de la pop ! Un live o\u00f9 s'encha\u00eenent acrobaties et prouesses techniques, une chanteuse qui prend des risques en live complet, et le tout avec un grain de folie qui la caract\u00e9rise bien !",
                 "plotoutline": "",
                 "premiered": "2009-12-08",
                 "productioncode": "",
                 "rating": 8.399999618530273,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 7200.0
                 },
                 "runtime": 7200,
                 "season": -1,
@@ -297,7 +294,6 @@
                 ],
                 "country": [],
                 "customproperties": {
-                    "available_releases": "Digital",
                     "budget": "$0",
                     "cast": "Pink / Colt Prattes",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=252384&ignore_default=true)",
@@ -315,7 +311,6 @@
                     "contextmenulabel(5)": "$LOCALIZE[20444]",
                     "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
                     "dbtype": "movie",
-                    "digital_release": "2013-11-15",
                     "imdb_id": "tt3586076",
                     "isplayable": "true",
                     "item.info": "play",
@@ -329,9 +324,9 @@
                     "param.plugin_category": "concerts",
                     "param.user_slug": "jmacca87",
                     "param.widget": "True",
-                    "popularity": "2.311",
-                    "provider.link": "https://www.themoviedb.org/movie/252384-p-nk-the-truth-about-love-tour-live-from-melbourne/watch?locale=US",
-                    "providers": "Apple iTunes / Amazon Video / Google Play Movies / YouTube / Vudu / Microsoft Store / AMC on Demand",
+                    "popularity": "1.882",
+                    "provider.link": "https://www.themoviedb.org/movie/252384-p-nk-the-truth-about-love-tour-live-from-melbourne/watch?locale=FR",
+                    "providers": "Apple iTunes",
                     "revenue": "$0",
                     "slug_id": "p-nk-the-truth-about-love-tour-live-from-melbourne-2013",
                     "studio": "RCA",
@@ -353,24 +348,24 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "tt3586076",
                 "label": "P!nk - The Truth About Love Tour - Live from Melbourne",
                 "lastmodified": "",
                 "lastplayed": "",
                 "mimetype": "application/octet-stream",
-                "mpaa": "Rated PG-13",
+                "mpaa": "",
                 "originaltitle": "P!nk - The Truth About Love Tour - Live from Melbourne",
                 "playcount": 0,
-                "plot": "\"The Truth About Love Tour: Live From Melbourne\" is a 1 hour and 50 minute concert that was filmed in Melbourne during the Australian leg of the tour, where P!nk broke the record for most dates in one venue on the same tour, performing an astounding 18 shows to almost 250,000 fans \u2013 breaking her own record from her previous acclaimed Funhouse Tour in 2009. Pulling from her seven album repertoire, the show includes some of her biggest hits such as \"Blow Me (One Last Kiss),\"F***in' Perfect,\" \"Try,\" \"Raise Your Glass,\" and \"So What\" and P!nk's recent single, \"Just Give Me A Reason\" featuring Nate Ruess. \"The Truth About Love Tour: Live From Melbourne\" features the jaw-dropping theatrics and acrobatics that P!nk has become renowned for, collaborating with creative partner and show director Larn Poland to produce a visually stunning stage production that includes pyrotechnics, soaring stunts, and career-spanning hits.",
+                "plot": "Depuis le d\u00e9but de sa carri\u00e8re, P!nk a donn\u00e9 plus de 140 shows \u00e0 travers le monde et vendu 35 millions d\u2019albums. Elle est aujourd\u2019hui la plus impressionnante des artistes pop sur sc\u00e8ne en alliant chant, danse et performances acrobatiques ! Apr\u00e8s une tourn\u00e9e sold out (la date \u00e0 Bercy le 17 avril dernier \u00e9tait compl\u00e8te en moins d\u2019une semaine), P!nk sort le 25 novembre un DVD de son spectacle \u00ab The Truth About Love Tour : Live From Melbourne \u00bb. 1h50 de concert fi lm\u00e9 pendant sa tourn\u00e9e Australienne, \u00e0 Melbourne, o\u00f9 P!nk a battu le record du plus grand nombre de dates sur la m\u00eame tourn\u00e9e : 18 dates devant 250 000 fans. Le live inclus ses plus grands tubes \u00abBlow Me (One Last Kiss)\u00bb, \u00abF***in\u2019 Perfect\u00bb, \u00abTry\u00bb, \u00abRaise Your Glass\u00bb, \u00abSo What\u00bb et son dernier tube \u00abJust Give Me A Reason\u00bb featuring Nate Ruess qui est rest\u00e9 au haut des charts pendant plusieurs semaines !",
                 "plotoutline": "",
                 "premiered": "2013-11-27",
                 "productioncode": "",
                 "rating": 8.300000190734863,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 6600.0
                 },
                 "runtime": 6600,
                 "season": -1,
@@ -414,10 +409,8 @@
             {
                 "album": "",
                 "art": {
-                    "clearlogo": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fepHOUXJuPtI8RsB4gMdplX7D70O.png/",
                     "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f5RmVCgwbloQCDQUrF9LgLq7rNg9.jpg/",
                     "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f2MdUahtFN5461usx0EcGHrDJLx4.jpg/",
-                    "landscape": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f1PGpv6E23WkQTda8dcXJbUfcbYu.jpg/",
                     "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f2MdUahtFN5461usx0EcGHrDJLx4.jpg/"
                 },
                 "artist": [],
@@ -433,6 +426,7 @@
                     "United States of America"
                 ],
                 "customproperties": {
+                    "available_releases": "Digital",
                     "budget": "$0",
                     "cast": "Sam Smith",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=829125&ignore_default=true)",
@@ -450,6 +444,7 @@
                     "contextmenulabel(5)": "$LOCALIZE[20444]",
                     "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
                     "dbtype": "movie",
+                    "digital_release": "2021-05-22",
                     "imdb_id": "tt13327240",
                     "isplayable": "true",
                     "item.info": "play",
@@ -463,8 +458,8 @@
                     "param.plugin_category": "concerts",
                     "param.user_slug": "jmacca87",
                     "param.widget": "True",
-                    "popularity": "3.505",
-                    "provider.link": "https://www.themoviedb.org/movie/829125-sam-smith-love-goes-live-at-abbey-road-studios/watch?locale=US",
+                    "popularity": "5.234",
+                    "provider.link": "https://www.themoviedb.org/movie/829125-sam-smith-love-goes-live-at-abbey-road-studios/watch?locale=FR",
                     "providers": "Netflix / Netflix basic with Ads",
                     "revenue": "$0",
                     "slug_id": "sam-smith-love-goes-live-at-abbey-road-studios-2021",
@@ -487,8 +482,8 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music",
-                    "Documentary"
+                    "Musique",
+                    "Documentaire"
                 ],
                 "imdbnumber": "tt13327240",
                 "label": "Sam Smith: Love Goes \u2013 Live at Abbey Road Studios",
@@ -498,14 +493,14 @@
                 "mpaa": "",
                 "originaltitle": "Sam Smith: Love Goes \u2013 Live at Abbey Road Studios",
                 "playcount": 0,
-                "plot": "Grammy-winning artist Sam Smith gives an intimate, soulful and chilling performance at the iconic Abbey Road Studios. This experience features songs from their third album and more.",
+                "plot": "Dans les studios Abbey Road, l'artiste aux multiples Grammys Sam Smith livre une performance intimiste et \u00e9mouvante de morceaux de son troisi\u00e8me album, entre autres.",
                 "plotoutline": "",
                 "premiered": "2021-05-22",
                 "productioncode": "",
-                "rating": 8.265000343322754,
+                "rating": 8.300000190734863,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 3660.0
                 },
                 "runtime": 3660,
                 "season": -1,
@@ -528,7 +523,7 @@
                     "SiFi Films"
                 ],
                 "tag": [],
-                "tagline": "Sit back, relax and enjoy Sam Smith.",
+                "tagline": "",
                 "thumbnail": "",
                 "title": "Sam Smith: Love Goes \u2013 Live at Abbey Road Studios",
                 "top250": 0,
@@ -553,7 +548,7 @@
             {
                 "album": "",
                 "art": {
-                    "icon": "image://C%3a%5cKodiTest%5ckodi%2020%20testu2p%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fdefault.png/"
+                    "icon": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p(1)%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fdefault.png/"
                 },
                 "artist": [],
                 "cast": [
@@ -626,7 +621,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "",
                 "label": "The Script: Homecoming Live at the Aviva Stadium",
@@ -636,14 +631,14 @@
                 "mpaa": "",
                 "originaltitle": "The Script: Homecoming Live at the Aviva Stadium",
                 "playcount": 0,
-                "plot": "The first ever live concert DVD by the Script and a unique souvenir for the legions of fans. Includes the hits \"The Man who can't be Moved\", \"Breakeven\", \"For the First Time\" and \"We Cry\". The concert in their home town of Dublin was a 50.000 sellout and was their single biggest concert to date; the culmination of their remarkable rise to worldwide success . The band were supported by Tine Tempah on the show, who joined them on stage to perform \"Written in the Stars\".",
+                "plot": "",
                 "plotoutline": "",
                 "premiered": "2011-12-05",
                 "productioncode": "",
                 "rating": 0.0,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 4740.0
                 },
                 "runtime": 4740,
                 "season": -1,
@@ -720,7 +715,7 @@
                     "param.plugin_category": "concerts",
                     "param.user_slug": "jmacca87",
                     "param.widget": "True",
-                    "popularity": "0.6",
+                    "popularity": "0.879",
                     "revenue": "$0",
                     "slug_id": "snow-patrol-live-in-rock-in-rio-2010-2010",
                     "tmdb_id": "147019",
@@ -747,14 +742,14 @@
                 "mpaa": "",
                 "originaltitle": "Snow Patrol live in Rock in Rio 2010",
                 "playcount": 0,
-                "plot": "Live concert of british band Snow Patrol, in Rock in Rio 2010 festival, held in Lisbon, Portugal.",
+                "plot": "",
                 "plotoutline": "",
                 "premiered": "2010-06-04",
                 "productioncode": "",
                 "rating": 0.0,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 4380.0
                 },
                 "runtime": 4380,
                 "season": -1,
@@ -857,7 +852,7 @@
                 "mpaa": "",
                 "originaltitle": "Snow Patrol: Reworked - Live at the Royal Albert Hall",
                 "playcount": 0,
-                "plot": "Special digipak version of the album \"Fallen Empires\", showing highlights of the band playing live at the Royal Albert Hall on 25 November 2009 on their 'Reworked' tour.",
+                "plot": "",
                 "plotoutline": "",
                 "premiered": "2009-11-25",
                 "productioncode": "",
@@ -883,7 +878,7 @@
                 },
                 "studio": [],
                 "tag": [],
-                "tagline": "Concert; Live",
+                "tagline": "",
                 "thumbnail": "",
                 "title": "Snow Patrol: Reworked - Live at the Royal Albert Hall",
                 "top250": 0,
@@ -918,7 +913,6 @@
                 ],
                 "country": [],
                 "customproperties": {
-                    "available_releases": "Theatrical",
                     "budget": "$0",
                     "cast": "Pink",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=22720&ignore_default=true)",
@@ -949,10 +943,9 @@
                     "param.plugin_category": "concerts",
                     "param.user_slug": "jmacca87",
                     "param.widget": "True",
-                    "popularity": "0.6",
+                    "popularity": "1.016",
                     "revenue": "$0",
                     "slug_id": "pink-live-in-europe-2006",
-                    "theatrical_release": "2006-05-23",
                     "tmdb_id": "22720",
                     "tmdb_rating": "8.0",
                     "tmdb_type": "movie",
@@ -969,25 +962,25 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music",
-                    "Documentary"
+                    "Musique",
+                    "Documentaire"
                 ],
                 "imdbnumber": "tt3885812",
                 "label": "Pink - Live In Europe",
                 "lastmodified": "",
                 "lastplayed": "",
                 "mimetype": "application/octet-stream",
-                "mpaa": "Rated PG",
+                "mpaa": "",
                 "originaltitle": "Pink - Live In Europe",
                 "playcount": 0,
-                "plot": "During the performance of \"Lady Marmalade\", Pink imitated Christina Aguilera and sang lines from Aguilera's song \"Beautiful\". For the DVD release, this segment was branded with a \"CENSORED\" mark and the audio was modulated so the viewer could not decipher the lyrics.",
+                "plot": "Un concert dans son int\u00e9gralit\u00e9, film\u00e9 en 2004 au Manchester Evening News Arena, devant quelques 20 000 spectateurs, avec 12 cam\u00e9ras haute d\u00e9finition et son 5.1.  Un DVD con\u00e7u et produit par Pink cr\u00e9\u00e9 sur la base de la tourn\u00e9e europ\u00e9enne Try This, qui nous montre ainsi encore une autre facette de ses innombrables talents.  Le documentaire Sur la route avec Pink est \u00e9galement inclus.",
                 "plotoutline": "",
                 "premiered": "2006-05-23",
                 "productioncode": "",
                 "rating": 8.0,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 7200.0
                 },
                 "runtime": 7200,
                 "season": -1,
@@ -1029,7 +1022,7 @@
             {
                 "album": "",
                 "art": {
-                    "icon": "image://C%3a%5cKodiTest%5ckodi%2020%20testu2p%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fdefault.png/"
+                    "icon": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p(1)%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fdefault.png/"
                 },
                 "artist": [],
                 "cast": [],
@@ -1090,14 +1083,14 @@
                 "mpaa": "",
                 "originaltitle": "Snow Patrol - Live at Ward Park",
                 "playcount": 0,
-                "plot": "Snow Patrol return to Ward Park in their hometown, Bangor, to play one of the biggest ever live concerts to be staged in Northern Ireland. Regarded as Northern Ireland's most successful rock act, songs such as Run, Chasing Cars and Chocolate have become worldwide hits.",
+                "plot": "",
                 "plotoutline": "",
                 "premiered": "2010-06-05",
                 "productioncode": "",
                 "rating": 0.0,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 3540.0
                 },
                 "runtime": 3540,
                 "season": -1,
@@ -1137,7 +1130,7 @@
             {
                 "album": "",
                 "art": {
-                    "icon": "image://C%3a%5cKodiTest%5ckodi%2020%20testu2p%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fdefault.png/"
+                    "icon": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p(1)%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fdefault.png/"
                 },
                 "artist": [],
                 "cast": [],
@@ -1198,14 +1191,14 @@
                 "mpaa": "",
                 "originaltitle": "Snow Patrol Live 2012",
                 "playcount": 0,
-                "plot": "Concert at Optimus Alive 2012",
+                "plot": "",
                 "plotoutline": "",
                 "premiered": "2012-07-10",
                 "productioncode": "",
                 "rating": 0.0,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 4260.0
                 },
                 "runtime": 4260,
                 "season": -1,
@@ -1245,122 +1238,13 @@
             {
                 "album": "",
                 "art": {
-                    "icon": "image://C%3a%5cKodiTest%5ckodi%2020%20testu2p%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fdefault.png/"
-                },
-                "artist": [],
-                "cast": [],
-                "country": [],
-                "customproperties": {
-                    "budget": "$0",
-                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=750813&ignore_default=true)",
-                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=750813)",
-                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=750813)",
-                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=750813)",
-                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=750813)",
-                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=750813)",
-                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Once in a Lifetime Sessions with Snow Patrol,tmdb_type=movie,tmdb_id=750813)",
-                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
-                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
-                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
-                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
-                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
-                    "contextmenulabel(5)": "$LOCALIZE[20444]",
-                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
-                    "dbtype": "movie",
-                    "imdb_id": "tt10069274",
-                    "isplayable": "true",
-                    "item.info": "play",
-                    "item.tmdb_id": "750813",
-                    "item.tmdb_type": "movie",
-                    "item.type": "movie",
-                    "param.info": "trakt_userlist",
-                    "param.list_name": "concerts",
-                    "param.list_slug": "concerts",
-                    "param.owner": "true",
-                    "param.plugin_category": "concerts",
-                    "param.user_slug": "jmacca87",
-                    "param.widget": "True",
-                    "popularity": "0.6",
-                    "revenue": "$0",
-                    "slug_id": "once-in-a-lifetime-sessions-with-snow-patrol",
-                    "tmdb_id": "750813",
-                    "tmdb_rating": "0.0",
-                    "tmdb_type": "movie",
-                    "tmdb_votes": "0",
-                    "trakt_id": "590836",
-                    "widget": "concerts"
-                },
-                "dateadded": "",
-                "director": [],
-                "episode": -1,
-                "episodeguide": "",
-                "fanart": "",
-                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=750813",
-                "filetype": "file",
-                "firstaired": "",
-                "genre": [
-                    "Documentary",
-                    "Music"
-                ],
-                "imdbnumber": "tt10069274",
-                "label": "[COLOR=ffcc0000][I]Once in a Lifetime Sessions with Snow Patrol[/I][/COLOR]",
-                "lastmodified": "",
-                "lastplayed": "",
-                "mimetype": "application/octet-stream",
-                "mpaa": "",
-                "originaltitle": "Once in a Lifetime Sessions with Snow Patrol",
-                "playcount": 0,
-                "plot": "In addition to concert scenes and studio recording sessions, this documentary presents exclusive interviews of the five men from the Irish rock band.",
-                "plotoutline": "",
-                "premiered": "",
-                "productioncode": "",
-                "rating": 0.0,
-                "resume": {
-                    "position": 0.0,
-                    "total": 0.0
-                },
-                "runtime": 4980,
-                "season": -1,
-                "set": "",
-                "setid": -1,
-                "showlink": [],
-                "showtitle": "",
-                "size": 0,
-                "sorttitle": "",
-                "specialsortepisode": -1,
-                "specialsortseason": -1,
-                "streamdetails": {
-                    "audio": [],
-                    "subtitle": [],
-                    "video": []
-                },
-                "studio": [],
-                "tag": [],
-                "tagline": "",
-                "thumbnail": "",
-                "title": "Once in a Lifetime Sessions with Snow Patrol",
-                "top250": 0,
-                "track": -1,
-                "trailer": "",
-                "tvshowid": -1,
-                "type": "movie",
-                "uniqueid": {
-                    "imdb": "tt10069274",
-                    "slug": "once-in-a-lifetime-sessions-with-snow-patrol",
-                    "tmdb": "750813",
-                    "trakt": "590836",
-                    "unknown": "tt10069274"
-                },
-                "userrating": 0,
-                "votes": "0",
-                "writer": [],
-                "year": 0
-            },
-            {
-                "album": "",
-                "art": {
+                    "banner": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f333122%2fmoviebanner%2fkaty-perry-the-prismatic-world-tour-5549084736cdc.jpg/",
+                    "clearlogo": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f333122%2fhdmovielogo%2fkaty-perry-the-prismatic-world-tour-56c36e4da04ca.png/",
                     "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fy1qrSv4jV7orltyywuRCahEARuj.jpg/",
+                    "fanart1": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f333122%2fmoviebackground%2fkaty-perry-the-prismatic-world-tour-5518b17e2f976.jpg/",
+                    "fanart2": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f333122%2fmoviebackground%2fkaty-perry-the-prismatic-world-tour-5546774941931.jpg/",
                     "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fjVE9drw5Nx9llgZYJFJg2xZrtlc.jpg/",
+                    "landscape": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f333122%2fmoviethumb%2fkaty-perry-the-prismatic-world-tour-58617638ea1b3.jpg/",
                     "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fjVE9drw5Nx9llgZYJFJg2xZrtlc.jpg/"
                 },
                 "artist": [],
@@ -1419,7 +1303,8 @@
                     {
                         "name": "Lockhart Brownlie",
                         "order": 10,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fyFg2Wtr3BtUeAGunq1lrXVxO0VF.jpg/"
                     },
                     {
                         "name": "Bryan Gaw",
@@ -1440,7 +1325,8 @@
                     {
                         "name": "Scott Myrick",
                         "order": 14,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fsORXPcKRW9W0f9TPGyCQqf6g84D.jpg/"
                     },
                     {
                         "name": "Cassidy Noblett",
@@ -1463,7 +1349,6 @@
                     "United States of America"
                 ],
                 "customproperties": {
-                    "available_releases": "Physical",
                     "budget": "$0",
                     "cast": "Katy Perry / Joshua Moreau / Max Hart / Lauren Allison Ball / Cherri Black / Casey Hooper / Nathan Spicer / Adam Marcello / Leah Adler / Khasan Brailsford / Lockhart Brownlie / Bryan Gaw / Loriel Hennington / Malik Le Nost / Scott Myrick / Cassidy Noblett / Tracy Shibata / Britt Stewart",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=333122&ignore_default=true)",
@@ -1472,7 +1357,7 @@
                     "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=333122)",
                     "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=333122)",
                     "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=333122)",
-                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Katy Perry: The Prismatic World Tour Live,tmdb_type=movie,tmdb_id=333122)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Katy Perry : The Prismatic World Tour Live,tmdb_type=movie,tmdb_id=333122)",
                     "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
                     "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
                     "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
@@ -1494,10 +1379,9 @@
                     "param.plugin_category": "concerts",
                     "param.user_slug": "jmacca87",
                     "param.widget": "True",
-                    "physical_release": "2015-03-28",
-                    "popularity": "4.591",
-                    "provider.link": "https://www.themoviedb.org/movie/333122-katy-perry-the-prismatic-world-tour-live/watch?locale=US",
-                    "providers": "Apple iTunes / Amazon Video / Google Play Movies / YouTube",
+                    "popularity": "5.163",
+                    "provider.link": "https://www.themoviedb.org/movie/333122-katy-perry-the-prismatic-world-tour-live/watch?locale=FR",
+                    "providers": "Apple iTunes",
                     "revenue": "$0",
                     "slug_id": "katy-perry-the-prismatic-world-tour-live-2015",
                     "studio": "Done+Dusted",
@@ -1519,26 +1403,26 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "tt3501428",
-                "label": "Katy Perry: The Prismatic World Tour Live",
+                "label": "Katy Perry : The Prismatic World Tour Live",
                 "lastmodified": "",
                 "lastplayed": "",
                 "mimetype": "application/octet-stream",
                 "mpaa": "",
                 "originaltitle": "Katy Perry: The Prismatic World Tour Live",
                 "playcount": 0,
-                "plot": "The Prismatic World Tour Live is a sensory explosion of eye-popping theatrics, daring acrobatics and of course, all the hits. This concert film is a visually stunning production that captures Katy\u2019s fun-loving personality and artistic vision. Spanning the entire length of the arena floor, the innovative Prismatic Tour stage allows Katy to share intimate moments with her fans in a unique shared connection with the music. Directed for the stage in seven thematic acts, this unmissable spectacle features hit after hit after hit, and The Prismatic World Tour Live truly captures the excitement, color and energy of the live Katy Perry extravaganza.",
+                "plot": "Ce show \u00e0 grand-spectacle met en valeur la personnalit\u00e9 ludique et la vision artistique de Katy. Construite dans la longueur de la salle, la sc\u00e8ne g\u00e9ante permet \u00e0 Katy de passer des moments intimes avec ses fans dans une communion musicale unique. Con\u00e7u en 7 actes th\u00e9matiques, ce spectacle haut en couleur concentre tous les succ\u00e8s, la magie, l\u2019\u00e9nergie et l\u2019extravagance de Katy Perry!",
                 "plotoutline": "",
                 "premiered": "2015-03-12",
                 "productioncode": "",
                 "rating": 8.100000381469727,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 5280.0
                 },
-                "runtime": 6960,
+                "runtime": 5280,
                 "season": -1,
                 "set": "",
                 "setid": -1,
@@ -1559,9 +1443,9 @@
                     "Direct Management Group"
                 ],
                 "tag": [],
-                "tagline": "",
+                "tagline": "La tourn\u00e9e mondiale de Katy Perry est une v\u00e9ritable explosion sensorielle, combinant effets sp\u00e9ciaux, chor\u00e9graphies, acrobaties, et bien s\u00fbr tous ses tubes !",
                 "thumbnail": "",
-                "title": "Katy Perry: The Prismatic World Tour Live",
+                "title": "Katy Perry : The Prismatic World Tour Live",
                 "top250": 0,
                 "track": -1,
                 "trailer": "",
@@ -1584,7 +1468,6 @@
                 "art": {
                     "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f38iB6whOmSdxnmxKnNqFtflbPnM.jpg/",
                     "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f4BujeBJcRDsuyS9DD6JJRWskZhc.jpg/",
-                    "landscape": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2foy1d0Sd2OgxNSQLPVl6kEYDuIOT.jpg/",
                     "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f4BujeBJcRDsuyS9DD6JJRWskZhc.jpg/"
                 },
                 "artist": [],
@@ -1640,13 +1523,13 @@
                         "name": "Leigh-Anne Pinnock",
                         "order": 8,
                         "role": "Self",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f2NPjvQefq8PmirRC9oh1gcuXIyD.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fcr1syA4nh0tP38VqVJV6LvRfmUV.jpg/"
                     },
                     {
                         "name": "Jade Thirlwall",
                         "order": 9,
                         "role": "Self",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fn17qf9OF5RntqsjIaQOCvOol5h9.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fhqgrmWbJUHMdTudQ7nWn5wXbLgx.jpg/"
                     },
                     {
                         "name": "Perrie Edwards",
@@ -1791,7 +1674,6 @@
                     "United Kingdom"
                 ],
                 "customproperties": {
-                    "available_releases": "TV",
                     "budget": "$0",
                     "cast": "Ariana Grande / Sara Cox / Ore Oduba / Anita Rani / Nick Grimshaw / Mac Miller / Pharrell Williams / Miley Cyrus / Leigh-Anne Pinnock / Jade Thirlwall / Perrie Edwards / Robbie Williams / Marcus Mumford / Gary Barlow / Victoria Mon\u00e9t / Howard Donald / Mark Owen / Chris Martin / Will.i.am / Stevie Wonder / Imogen Heap / Taboo / Mette Towley / Niall Horan / Katy Perry / Jesy Nelson / Apl.de.Ap / Justin Bieber / Liam Gallagher / Guy Berryman / Jon Buckland / Will Champion / David Beckham",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=460492&ignore_default=true)",
@@ -1822,7 +1704,7 @@
                     "param.plugin_category": "concerts",
                     "param.user_slug": "jmacca87",
                     "param.widget": "True",
-                    "popularity": "5.574",
+                    "popularity": "6.184",
                     "revenue": "$0",
                     "slug_id": "one-love-manchester-2017",
                     "studio": "BBC Music",
@@ -1831,7 +1713,6 @@
                     "tmdb_type": "movie",
                     "tmdb_votes": "91",
                     "trakt_id": "307624",
-                    "tv_release": "2017-06-04",
                     "widget": "concerts"
                 },
                 "dateadded": "",
@@ -1845,7 +1726,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "tt6970184",
                 "label": "One Love Manchester",
@@ -1855,14 +1736,14 @@
                 "mpaa": "",
                 "originaltitle": "One Love Manchester",
                 "playcount": 0,
-                "plot": "Live coverage of the concert set up by Ariana Grande at Old Trafford cricket ground to benefit those affected by the May 2017 Manchester bomb attack.  Performers include Ariana Grande, Justin Bieber, Coldplay, Katy Perry, Take That, Pharrell Williams, Niall Horan, Miley Cyrus, Usher, Robbie Williams, Little Mix and The Black Eyed Peas.",
+                "plot": "",
                 "plotoutline": "",
                 "premiered": "2017-06-04",
                 "productioncode": "",
-                "rating": 8.532999992370605,
+                "rating": 8.5,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 10800.0
                 },
                 "runtime": 10800,
                 "season": -1,
@@ -1906,10 +1787,8 @@
             {
                 "album": "",
                 "art": {
-                    "clearlogo": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fo6CbpbA4A5NVt7GGuiOS0lrJEA8.png/",
                     "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fsCqLods7dfkxPEEV4DCfW6KW1qb.jpg/",
                     "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ffx7A8TRYL8JJ9fg0eJLk80RZOkf.jpg/",
-                    "landscape": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2feyFcDt6Ri4ruv2TjOgvEpHe7zpM.jpg/",
                     "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ffx7A8TRYL8JJ9fg0eJLk80RZOkf.jpg/"
                 },
                 "artist": [],
@@ -1960,7 +1839,7 @@
                         "name": "Beyonc\u00e9",
                         "order": 7,
                         "role": "herself",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fg4Ircp7jvhDhdLDtHHRymN8cBtV.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f9MgDCYBBVBl4lM1DuxNIIbCHlKy.jpg/"
                     },
                     {
                         "name": "Bruno Mars",
@@ -1985,7 +1864,7 @@
                     "United Kingdom"
                 ],
                 "customproperties": {
-                    "available_releases": "Limited",
+                    "available_releases": "Theatrical",
                     "budget": "$2,300,000",
                     "cast": "Guy Berryman / Jon Buckland / Will Champion / Chris Martin / Phil Harvey / Mat Whitecross / Gwyneth Paltrow / Beyonc\u00e9 / Bruno Mars / Noel Gallagher / Brian Eno",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=554152&ignore_default=true)",
@@ -1994,7 +1873,7 @@
                     "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=554152)",
                     "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=554152)",
                     "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=554152)",
-                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Coldplay: A Head Full of Dreams,tmdb_type=movie,tmdb_id=554152)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Coldplay : A Head Full of Dreams,tmdb_type=movie,tmdb_id=554152)",
                     "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
                     "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
                     "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
@@ -2009,7 +1888,6 @@
                     "item.tmdb_id": "554152",
                     "item.tmdb_type": "movie",
                     "item.type": "movie",
-                    "limited_release": "2018-11-14",
                     "param.info": "trakt_userlist",
                     "param.list_name": "concerts",
                     "param.list_slug": "concerts",
@@ -2017,16 +1895,17 @@
                     "param.plugin_category": "concerts",
                     "param.user_slug": "jmacca87",
                     "param.widget": "True",
-                    "popularity": "8.237",
-                    "provider.link": "https://www.themoviedb.org/movie/554152-coldplay-a-head-full-of-dreams/watch?locale=US",
+                    "popularity": "7.597",
+                    "provider.link": "https://www.themoviedb.org/movie/554152-coldplay-a-head-full-of-dreams/watch?locale=FR",
                     "providers": "Amazon Prime Video",
                     "revenue": "$0",
                     "slug_id": "coldplay-a-head-full-of-dreams-2018",
                     "studio": "Mint Pictures",
+                    "theatrical_release": "2018-11-14",
                     "tmdb_id": "554152",
                     "tmdb_rating": "8.0",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "123",
+                    "tmdb_votes": "124",
                     "trakt_id": "405291",
                     "widget": "concerts"
                 },
@@ -2041,27 +1920,27 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Documentary",
-                    "Music"
+                    "Documentaire",
+                    "Musique"
                 ],
                 "imdbnumber": "tt9095324",
-                "label": "Coldplay: A Head Full of Dreams",
+                "label": "Coldplay : A Head Full of Dreams",
                 "lastmodified": "",
                 "lastplayed": "",
                 "mimetype": "application/octet-stream",
                 "mpaa": "",
                 "originaltitle": "Coldplay: A Head Full of Dreams",
                 "playcount": 0,
-                "plot": "An in-depth and intimate portrait of Coldplay's spectacular rise from the backrooms of Camden pubs to selling out stadiums across the planet. At the heart of the story is the band's unshakeable brotherhood which has endured through many highs and lows.",
+                "plot": "Un des plus grands groupes de musique au monde raconte pour la premi\u00e8re fois son histoire avec ses propres mots. Retra\u00e7ant le parcours incroyable de Coldplay, de leurs modestes origines \u00e0 leurs glorieuses tourn\u00e9es des stades, voici le film de r\u00e9f\u00e9rence sur Coldplay.  Le r\u00e9alisateur Mat Whitecross y m\u00eale performances sc\u00e9niques et images de coulisses, prises lors de leur incroyable tourn\u00e9e mondiale A Head Full of Dreams, auxquelles s\u2019ajoutent des s\u00e9quences in\u00e9dites d\u2019archives film\u00e9es au cours des 20 derni\u00e8res ann\u00e9es.  Le film met en lumi\u00e8re de spectaculaires performances de morceaux embl\u00e9matiques tels que Fix You et Viva La Vida, et des moments capt\u00e9s dans l\u2019intimit\u00e9 du groupe, marquant l\u2019importance de l\u2019amiti\u00e9 et du partage pour Coldplay.  Un \u00e9v\u00e9nement dans les cin\u00e9mas du monde entier \u00e0 ne pas manquer, le temps d\u2019une s\u00e9ance unique.",
                 "plotoutline": "",
                 "premiered": "2018-11-14",
                 "productioncode": "",
-                "rating": 7.9720001220703125,
+                "rating": 8.0,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 6900.0
                 },
-                "runtime": 6240,
+                "runtime": 6900,
                 "season": -1,
                 "set": "",
                 "setid": -1,
@@ -2080,9 +1959,9 @@
                     "Mint Pictures"
                 ],
                 "tag": [],
-                "tagline": "The Inside Story. Filmed Over 20 Years.",
+                "tagline": "",
                 "thumbnail": "",
-                "title": "Coldplay: A Head Full of Dreams",
+                "title": "Coldplay : A Head Full of Dreams",
                 "top250": 0,
                 "track": -1,
                 "trailer": "plugin://plugin.video.youtube/play/?video_id=Lhzu6bQxFo4",
@@ -2096,111 +1975,9 @@
                     "unknown": "tt9095324"
                 },
                 "userrating": 0,
-                "votes": "123",
+                "votes": "124",
                 "writer": [],
                 "year": 2018
-            },
-            {
-                "album": "",
-                "art": {
-                    "icon": "image://C%3a%5cKodiTest%5ckodi%2020%20testu2p%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fdefault.png/"
-                },
-                "artist": [],
-                "cast": [],
-                "country": [],
-                "customproperties": {
-                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=489316&ignore_default=true)",
-                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=489316)",
-                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=489316)",
-                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=489316)",
-                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=489316)",
-                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=489316)",
-                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=IHeartRadio Music Festival [2017],tmdb_type=movie,tmdb_id=489316)",
-                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
-                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
-                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
-                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
-                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
-                    "contextmenulabel(5)": "$LOCALIZE[20444]",
-                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
-                    "isplayable": "true",
-                    "item.info": "play",
-                    "item.tmdb_id": "489316",
-                    "item.tmdb_type": "movie",
-                    "item.type": "movie",
-                    "param.info": "trakt_userlist",
-                    "param.list_name": "concerts",
-                    "param.list_slug": "concerts",
-                    "param.owner": "true",
-                    "param.plugin_category": "concerts",
-                    "param.user_slug": "jmacca87",
-                    "param.widget": "True",
-                    "slug_id": "iheartradio-music-festival-2017-2017",
-                    "tmdb_id": "489316",
-                    "tmdb_type": "movie",
-                    "trakt_id": "336208",
-                    "widget": "concerts"
-                },
-                "dateadded": "",
-                "director": [],
-                "episode": -1,
-                "episodeguide": "",
-                "fanart": "",
-                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=489316",
-                "filetype": "file",
-                "firstaired": "",
-                "genre": [],
-                "imdbnumber": "",
-                "label": "[COLOR=ffcc0000][I]IHeartRadio Music Festival [2017][/I][/COLOR]",
-                "lastmodified": "",
-                "lastplayed": "",
-                "mimetype": "application/octet-stream",
-                "mpaa": "",
-                "originaltitle": "",
-                "playcount": 0,
-                "plot": "",
-                "plotoutline": "",
-                "premiered": "",
-                "productioncode": "",
-                "rating": 0.0,
-                "resume": {
-                    "position": 0.0,
-                    "total": 0.0
-                },
-                "runtime": 0,
-                "season": -1,
-                "set": "",
-                "setid": -1,
-                "showlink": [],
-                "showtitle": "",
-                "size": 0,
-                "sorttitle": "",
-                "specialsortepisode": -1,
-                "specialsortseason": -1,
-                "streamdetails": {
-                    "audio": [],
-                    "subtitle": [],
-                    "video": []
-                },
-                "studio": [],
-                "tag": [],
-                "tagline": "",
-                "thumbnail": "",
-                "title": "IHeartRadio Music Festival [2017]",
-                "top250": 0,
-                "track": -1,
-                "trailer": "",
-                "tvshowid": -1,
-                "type": "movie",
-                "uniqueid": {
-                    "slug": "iheartradio-music-festival-2017-2017",
-                    "tmdb": "489316",
-                    "trakt": "336208"
-                },
-                "userrating": 0,
-                "votes": "0",
-                "writer": [],
-                "year": 2017
             },
             {
                 "album": "",
@@ -2233,7 +2010,6 @@
                     "United States of America"
                 ],
                 "customproperties": {
-                    "available_releases": "Theatrical",
                     "budget": "$0",
                     "cast": "Pink / Lily Allen / Nate Ruess",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=194552&ignore_default=true)",
@@ -2264,11 +2040,10 @@
                     "param.plugin_category": "concerts",
                     "param.user_slug": "jmacca87",
                     "param.widget": "True",
-                    "popularity": "1.054",
+                    "popularity": "0.684",
                     "revenue": "$0",
                     "slug_id": "p-nk-vh1-storytellers-2012",
                     "studio": "VH1 Television",
-                    "theatrical_release": "2012-11-13",
                     "tmdb_id": "194552",
                     "tmdb_rating": "8.7",
                     "tmdb_type": "movie",
@@ -2287,7 +2062,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "tt2491848",
                 "label": "P!nk: VH1 Storytellers",
@@ -2297,14 +2072,14 @@
                 "mpaa": "",
                 "originaltitle": "P!nk: VH1 Storytellers",
                 "playcount": 0,
-                "plot": "VH1 Storytellers is a VH1 original series in which a singer/songwriter performs and tells stories in front of an intimate audience about their life in the industry, writing lyrics, playing with other musicians and their career. The series started in 1996 with Ray Davies. Since then, episodes have featured David Bowie, Kanye West, Bruce Springsteen, Mary J. Blige, Green Day, Elton John, Coldplay, Jay-Z, Billy Joel, Pearl Jam, Dixie Chicks, Johnny Cash, Foo Fighters, John Mayer and Christina Aguilera among many others.",
+                "plot": "",
                 "plotoutline": "",
                 "premiered": "2012-11-13",
                 "productioncode": "",
                 "rating": 8.699999809265137,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 2580.0
                 },
                 "runtime": 2580,
                 "season": -1,
@@ -2348,10 +2123,9 @@
             {
                 "album": "",
                 "art": {
-                    "clearlogo": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fe44d6wpAtjwCnL4d20ff8xNSKJE.png/",
+                    "clearlogo": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fb7IPablpfhQCu1Na9DjkQmpM2si.png/",
                     "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f1C7OJjGDnrFUGQIrXVy96Kbdp5h.jpg/",
                     "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fvtoEBoGvrSJuDPfQ3rPELqIcG5e.jpg/",
-                    "landscape": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fop1LkYdrAxuQc4ZvG0VgTKaZxZ3.jpg/",
                     "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fvtoEBoGvrSJuDPfQ3rPELqIcG5e.jpg/"
                 },
                 "artist": [],
@@ -2410,8 +2184,8 @@
                     "param.plugin_category": "concerts",
                     "param.user_slug": "jmacca87",
                     "param.widget": "True",
-                    "popularity": "6.071",
-                    "provider.link": "https://www.themoviedb.org/movie/807597-p-nk-all-i-know-so-far/watch?locale=US",
+                    "popularity": "8.8",
+                    "provider.link": "https://www.themoviedb.org/movie/807597-p-nk-all-i-know-so-far/watch?locale=FR",
                     "providers": "Amazon Prime Video",
                     "revenue": "$0",
                     "slug_id": "p-nk-all-i-know-so-far-2021",
@@ -2419,7 +2193,7 @@
                     "tmdb_id": "807597",
                     "tmdb_rating": "7.9",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "38",
+                    "tmdb_votes": "40",
                     "trakt_id": "641887",
                     "widget": "concerts"
                 },
@@ -2434,8 +2208,8 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Documentary",
-                    "Music"
+                    "Documentaire",
+                    "Musique"
                 ],
                 "imdbnumber": "tt14264844",
                 "label": "P!NK: All I Know So Far",
@@ -2445,14 +2219,14 @@
                 "mpaa": "",
                 "originaltitle": "P!NK: All I Know So Far",
                 "playcount": 0,
-                "plot": "A behind-the-scenes look at P!NK as she balances family and life on the road, leading up to her first Wembley Stadium performance on 2019's \"Beautiful Trauma\" world tour.",
+                "plot": "Une plong\u00e9e dans la vie de P!NK entre vie de famille et tourn\u00e9e, jusqu\u2019\u00e0 son premier concert au Wembley Stadium lors de sa tourn\u00e9e mondiale de 2019, \u201cBeautiful Trauma\u201d.",
                 "plotoutline": "",
                 "premiered": "2021-05-21",
                 "productioncode": "",
                 "rating": 7.900000095367432,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 5940.0
                 },
                 "runtime": 5940,
                 "season": -1,
@@ -2491,7 +2265,7 @@
                     "unknown": "tt14264844"
                 },
                 "userrating": 0,
-                "votes": "38",
+                "votes": "40",
                 "writer": [
                     "Cindy Mollo",
                     "Pink",
@@ -2520,6 +2294,7 @@
                     "United States of America"
                 ],
                 "customproperties": {
+                    "available_releases": "Digital",
                     "budget": "$0",
                     "cast": "Pink",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=484379&ignore_default=true)",
@@ -2528,7 +2303,7 @@
                     "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=484379)",
                     "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=484379)",
                     "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=484379)",
-                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Beautiful Trauma Live: P!nk,tmdb_type=movie,tmdb_id=484379)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=P!nk - Beautiful Trauma Live,tmdb_type=movie,tmdb_id=484379)",
                     "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
                     "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
                     "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
@@ -2537,6 +2312,7 @@
                     "contextmenulabel(5)": "$LOCALIZE[20444]",
                     "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
                     "dbtype": "movie",
+                    "digital_release": "2017-10-13",
                     "isplayable": "true",
                     "item.info": "play",
                     "item.tmdb_id": "484379",
@@ -2569,26 +2345,26 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "",
-                "label": "Beautiful Trauma Live: P!nk",
+                "label": "P!nk - Beautiful Trauma Live",
                 "lastmodified": "",
                 "lastplayed": "",
                 "mimetype": "application/octet-stream",
                 "mpaa": "",
                 "originaltitle": "Beautiful Trauma Live: P!nk",
                 "playcount": 0,
-                "plot": "",
+                "plot": "Sur la sc\u00e8ne du mythique th\u00e9\u00e2tre de l\u2019Ace Hotel \u00e0 Los Angeles, P!nk a offert un avant-go\u00fbt de son nouvel album \u00ab Beautiful Trauma \u00bb avant sa sortie officielle.",
                 "plotoutline": "",
                 "premiered": "2017-10-13",
                 "productioncode": "",
                 "rating": 8.5,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 3000.0
                 },
-                "runtime": 0,
+                "runtime": 3000,
                 "season": -1,
                 "set": "",
                 "setid": -1,
@@ -2609,7 +2385,7 @@
                 "tag": [],
                 "tagline": "",
                 "thumbnail": "",
-                "title": "Beautiful Trauma Live: P!nk",
+                "title": "P!nk - Beautiful Trauma Live",
                 "top250": 0,
                 "track": -1,
                 "trailer": "",
@@ -2628,13 +2404,12 @@
             {
                 "album": "",
                 "art": {
-                    "icon": "image://C%3a%5cKodiTest%5ckodi%2020%20testu2p%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fdefault.png/"
+                    "icon": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p(1)%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fdefault.png/"
                 },
                 "artist": [],
                 "cast": [],
                 "country": [],
                 "customproperties": {
-                    "available_releases": "Theatrical",
                     "budget": "$0",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=293179&ignore_default=true)",
                     "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=293179)",
@@ -2666,7 +2441,6 @@
                     "popularity": "0.6",
                     "revenue": "$0",
                     "slug_id": "p-nk-on-the-road-for-the-truth-about-love-tour-2014",
-                    "theatrical_release": "2014-01-21",
                     "tmdb_id": "293179",
                     "tmdb_rating": "0.0",
                     "tmdb_type": "movie",
@@ -2691,7 +2465,7 @@
                 "mpaa": "",
                 "originaltitle": "P!nk: On The Road for The Truth About Love Tour",
                 "playcount": 0,
-                "plot": "Take an intimate look behind-the-scenes with Grammy-winning recording artist P!nk as she prepares for her critically acclaimed The Truth About Love Tour.",
+                "plot": "",
                 "plotoutline": "",
                 "premiered": "2014-01-21",
                 "productioncode": "",
@@ -2801,7 +2575,6 @@
                 ],
                 "country": [],
                 "customproperties": {
-                    "available_releases": "Digital",
                     "budget": "$0",
                     "cast": "Jason Chapman / Justin Derrico / Mark Schulman / Eva Gardner / Adriana Balic / Stacy Campbell / Jenny Douglas-Foote / Jessy Lahey Greene / Leah Zeger / Ilona Geller / Christine Wu",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=484195&ignore_default=true)",
@@ -2819,7 +2592,6 @@
                     "contextmenulabel(5)": "$LOCALIZE[20444]",
                     "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
                     "dbtype": "movie",
-                    "digital_release": "2017-10-13",
                     "imdb_id": "tt7597904",
                     "isplayable": "true",
                     "item.info": "play",
@@ -2833,7 +2605,7 @@
                     "param.plugin_category": "concerts",
                     "param.user_slug": "jmacca87",
                     "param.widget": "True",
-                    "popularity": "0.879",
+                    "popularity": "0.6",
                     "revenue": "$0",
                     "slug_id": "on-the-record-p-nk-beautiful-trauma-2017",
                     "studio": "Scheme Engine",
@@ -2857,7 +2629,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Documentary"
+                    "Documentaire"
                 ],
                 "imdbnumber": "tt7597904",
                 "label": "On the Record: P!nk \u2014 Beautiful Trauma",
@@ -2874,7 +2646,7 @@
                 "rating": 8.0,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 2040.0
                 },
                 "runtime": 2040,
                 "season": -1,
@@ -2914,12 +2686,95 @@
                 "votes": "1",
                 "writer": [],
                 "year": 2017
+            },
+            {
+                "album": "",
+                "art": {
+                    "icon": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p(1)%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage.png/",
+                    "landscape": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p(1)%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage_wide.png/"
+                },
+                "artist": [],
+                "cast": [],
+                "country": [],
+                "customproperties": {
+                    "item.info": "trakt_userlist",
+                    "item.list_name": "concerts",
+                    "item.list_slug": "concerts",
+                    "item.owner": "true",
+                    "item.page": "2",
+                    "item.plugin_category": "concerts",
+                    "item.user_slug": "jmacca87",
+                    "item.widget": "True",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "concerts",
+                    "param.user_slug": "jmacca87",
+                    "param.widget": "True",
+                    "widget": "concerts"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=concerts&list_slug=concerts&owner=true&plugin_category=concerts&user_slug=jmacca87&page=2&widget=true&reload=$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]",
+                "filetype": "directory",
+                "firstaired": "",
+                "genre": [],
+                "imdbnumber": "",
+                "label": "Page suivante",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "x-directory/normal",
+                "mpaa": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "",
+                "plotoutline": "",
+                "premiered": "",
+                "productioncode": "",
+                "rating": 0.0,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 0,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "unknown",
+                "userrating": 0,
+                "votes": "0",
+                "writer": [],
+                "year": 0
             }
         ],
         "limits": {
-            "end": 20,
+            "end": 19,
             "start": 0,
-            "total": 20
+            "total": 19
         }
     }
 }

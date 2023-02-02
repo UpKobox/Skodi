@@ -55,7 +55,7 @@
                     "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=171808)",
                     "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=171808)",
                     "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=171808)",
-                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=AC/DC: Live '77 At The Hippodrome Golders Green London,tmdb_type=movie,tmdb_id=171808)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=AC/DC - Live '77 At The Hippodrome Golders Green London,tmdb_type=movie,tmdb_id=171808)",
                     "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
                     "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
                     "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
@@ -76,7 +76,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "pretendah",
                     "param.widget": "True",
-                    "popularity": "1.178",
+                    "popularity": "0.926",
                     "revenue": "$0",
                     "slug_id": "ac-dc-live-77-at-the-hippodrome-golders-green-london-2003",
                     "studio": "BBC",
@@ -99,21 +99,21 @@
                 "firstaired": "",
                 "genre": [],
                 "imdbnumber": "",
-                "label": "AC/DC: Live '77 At The Hippodrome Golders Green London",
+                "label": "AC/DC - Live '77 At The Hippodrome Golders Green London",
                 "lastmodified": "",
                 "lastplayed": "",
                 "mimetype": "application/octet-stream",
                 "mpaa": "",
                 "originaltitle": "AC/DC: Live '77 At The Hippodrome Golders Green London",
                 "playcount": 0,
-                "plot": "AC/DC live at the Golders Green Hippodrome In London, England. With Bon Scott, this is AC/DC at one of their best times!  Filmed by the BBC on October 27th 1977 for \"Sight & Sound In Concert\" and broadcast on 29 October 1977.  Originally shot on video, the audio used on this DVD was taken from the original video master which was in mono, so the 2.0 mix is not a 'real' stereo mix. Although issued commercially and only in Japan, this DVD can be considered a semi-official DVD, not authorized by the band or Sony, and the US release planned for February 2003 was canceled for this reason. Counterfeit copies have been released.",
+                "plot": "AC/DC live au Golders Green Hippodrome \u00e0 Londres, Angleterre. Avec Bon Scott, c'est AC/DC \u00e0 l'un de leurs meilleurs moments ! Film\u00e9 par la BBC le 27 octobre 1977 pour \"Sight & Sound In Concert\" et diffus\u00e9 le 29 octobre 1977. Tourn\u00e9 \u00e0 l'origine en vid\u00e9o, l'audio utilis\u00e9 sur ce DVD a \u00e9t\u00e9 tir\u00e9 du master vid\u00e9o original qui \u00e9tait en mono, donc le mix 2.0 n'est pas un \"vrai\" mix st\u00e9r\u00e9o. Bien qu'\u00e9mis dans le commerce et uniquement au Japon, ce DVD peut \u00eatre consid\u00e9r\u00e9 comme un DVD semi-officiel, non autoris\u00e9 par le groupe ou par Sony, et la sortie am\u00e9ricaine pr\u00e9vue pour f\u00e9vrier 2003 a \u00e9t\u00e9 annul\u00e9e pour cette raison. Des copies contrefaites ont \u00e9t\u00e9 diffus\u00e9es.",
                 "plotoutline": "",
                 "premiered": "2003-01-22",
                 "productioncode": "",
                 "rating": 8.0,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 2520.0
                 },
                 "runtime": 2520,
                 "season": -1,
@@ -137,7 +137,7 @@
                 "tag": [],
                 "tagline": "",
                 "thumbnail": "",
-                "title": "AC/DC: Live '77 At The Hippodrome Golders Green London",
+                "title": "AC/DC - Live '77 At The Hippodrome Golders Green London",
                 "top250": 0,
                 "track": -1,
                 "trailer": "",
@@ -156,10 +156,12 @@
             {
                 "album": "",
                 "art": {
-                    "clearlogo": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fbETYxex5Fz6lGJ9CvRJ0m2p5JGx.png/",
+                    "banner": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f19027%2fmoviebanner%2facdc-live-at-donington-61981d9c0f0e1.jpg/",
+                    "clearlogo": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f19027%2fhdmovielogo%2facdc-live-at-donington-50c4673105fe7.png/",
+                    "discart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f19027%2fmoviedisc%2facdc-live-at-donington-5235bef68147f.png/",
                     "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2faAZYrUWB8W3QpCYZ3K7HIfhi0Gx.jpg/",
                     "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ff6nV1l36huMMQbdPB7W04kgmTpK.jpg/",
-                    "landscape": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f1I1g4rGbf8JSCaK9Be63ACLP7ZH.jpg/",
+                    "landscape": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f19027%2fmoviethumb%2facdc-live-at-donington-61981db0da55a.jpg/",
                     "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ff6nV1l36huMMQbdPB7W04kgmTpK.jpg/"
                 },
                 "artist": [],
@@ -193,13 +195,17 @@
                         "order": 4,
                         "role": "Self - Drums",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fczZz5dfcHnZthFnQnt4lDYbapXa.jpg/"
+                    },
+                    {
+                        "name": "AC/DC",
+                        "order": 5,
+                        "role": "Themselves"
                     }
                 ],
                 "country": [],
                 "customproperties": {
-                    "available_releases": "Physical",
                     "budget": "$0",
-                    "cast": "Angus Young / Malcolm Young / Brian Johnson / Cliff Williams / Chris Slade",
+                    "cast": "Angus Young / Malcolm Young / Brian Johnson / Cliff Williams / Chris Slade / AC/DC",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=19027&ignore_default=true)",
                     "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=19027)",
                     "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=19027)",
@@ -228,10 +234,9 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "pretendah",
                     "param.widget": "True",
-                    "physical_release": "1992-10-27",
-                    "popularity": "5.756",
-                    "provider.link": "https://www.themoviedb.org/movie/19027-ac-dc-live-at-donington/watch?locale=US",
-                    "providers": "Apple iTunes / Amazon Video / Google Play Movies / YouTube / Vudu / Microsoft Store",
+                    "popularity": "7.333",
+                    "provider.link": "https://www.themoviedb.org/movie/19027-ac-dc-live-at-donington/watch?locale=FR",
+                    "providers": "Apple iTunes",
                     "revenue": "$1,000,000",
                     "slug_id": "ac-dc-live-at-donington-1992",
                     "studio": "Leidseplein Presse",
@@ -253,7 +258,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "tt0337566",
                 "label": "AC/DC: Live At Donington",
@@ -263,14 +268,14 @@
                 "mpaa": "",
                 "originaltitle": "AC/DC: Live At Donington",
                 "playcount": 0,
-                "plot": "In August of 1991, AC/DC headlined their third \"Monsters Of Rock\" festival at Castle Donington. One for the ages, the two hour set is loaded with classics and awesome visuals including firing cannons, the hells bell and a giant inflatable Rosie.",
+                "plot": "Concert d'AC/DC au festival \"Monsters of Rock\" \u00e0 Donington Park le 17 ao\u00fbt 1991. Les 2 heures de concert ont \u00e9t\u00e9 jou\u00e9es devant 72 500 spectateurs.  Thunderstruck - Shoot to Thrill - Back in Black - Hell Ain't a Bad Place to Be - Heatseeker - Fire Your Guns - Jailbreak - The Jack - Dirty Deeds Done Dirt Cheap - Moneytalks - Hells Bells - High Voltage - Whole Lotta Rosie - You Shook Me All Night Long - T.N.T. - Let There Be Rock - Highway to Hell - For Those About to Rock (We Salute You)",
                 "plotoutline": "",
                 "premiered": "1992-10-27",
                 "productioncode": "",
                 "rating": 8.300000190734863,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 7080.0
                 },
                 "runtime": 7080,
                 "season": -1,
@@ -291,7 +296,7 @@
                     "Leidseplein Presse"
                 ],
                 "tag": [],
-                "tagline": "Monsters of Rock festival, 17 August 1991",
+                "tagline": "",
                 "thumbnail": "",
                 "title": "AC/DC: Live At Donington",
                 "top250": 0,
@@ -317,6 +322,7 @@
             {
                 "album": "",
                 "art": {
+                    "clearlogo": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f24983%2fmovielogo%2facdc---no-bull-4fc1b6d338617.png/",
                     "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2faVsB72O0VmjxyVcvNop5DAGsTu6.jpg/",
                     "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f2yDKSXkq8RVm72NF1j4ApGjNP01.jpg/",
                     "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f2yDKSXkq8RVm72NF1j4ApGjNP01.jpg/"
@@ -356,7 +362,6 @@
                 ],
                 "country": [],
                 "customproperties": {
-                    "available_releases": "Physical / Physical / Physical",
                     "budget": "$0",
                     "cast": "Angus Young / Malcolm Young / Brian Johnson / Cliff Williams / Phil Rudd",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=24983&ignore_default=true)",
@@ -387,17 +392,16 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "pretendah",
                     "param.widget": "True",
-                    "physical_release": "2008-09-16",
-                    "popularity": "2.01",
-                    "provider.link": "https://www.themoviedb.org/movie/24983-ac-dc-no-bull/watch?locale=US",
-                    "providers": "Apple iTunes / Google Play Movies / YouTube / Microsoft Store",
+                    "popularity": "2.152",
+                    "provider.link": "https://www.themoviedb.org/movie/24983-ac-dc-no-bull/watch?locale=FR",
+                    "providers": "Apple iTunes",
                     "revenue": "$0",
                     "slug_id": "ac-dc-no-bull-1996",
                     "studio": "Cowboy Films",
                     "tmdb_id": "24983",
-                    "tmdb_rating": "6.9",
+                    "tmdb_rating": "6.8",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "15",
+                    "tmdb_votes": "16",
                     "trakt_id": "15078",
                     "widget": "Concerts"
                 },
@@ -412,24 +416,24 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "tt0255773",
                 "label": "AC/DC: No Bull",
                 "lastmodified": "",
                 "lastplayed": "",
                 "mimetype": "application/octet-stream",
-                "mpaa": "Rated NR",
+                "mpaa": "",
                 "originaltitle": "AC/DC: No Bull",
                 "playcount": 0,
-                "plot": "1. Back In Black 2. Shot Down In Flames 3. Thunderstruck 4. Girl's Got Rhythm 5. Hard As A Rock 6. Shoot To Thrill 7. Boogie Man 8. Hail Caesar 9. Hells Bells 10. Dog Eat Dog 11. The Jack 12. Ballbreaker 13. Rock And Roll Ain't Noise Pollution 14. Dirty Deeds Done Dirt Cheap 15. You Shook Me All Night Long 16. Whole Lotta Rosie 17. T.N.T. 18. Let There Be Rock 19. Highway To Hell 20. For Those About To Rock (We Salute You)  No Bull captures the over the top spectacle that was AC/DC's 1996 Ballbreaker tour. Shot at the Plaza De Toros De Las Ventas bullfighting arena in Madrid, the film has been completely re-edited in HD and remixed in both Stereo and 5.1 Surround Sound.",
+                "plot": "No Bull est un concert film\u00e9 en 1996 aux Ar\u00e8nes de Madrid au cours de la tourn\u00e9e Ballbreaker d'AC/DC, sorti en VHS en 1996 et en DVD en 2000. On y retrouve les morceaux suivants: Back in Black, Shot Down in Flames, Thunderstruck, Girls Got Rhythm, Hard as a Rock, Shoot to Thrill, Boogie Man, Hail Caesar, Hells Bells, Dog Eat Dog, The Jack, Ballbreaker, Rock and Roll Ain't Noise Pollution, Dirty Deeds Done Dirt Cheap, You Shook Me All Night Long, Whole Lotta Rosie, T.N.T., Let There Be Rock, Highway to Hell, For Those About to Rock (We Salute You)",
                 "plotoutline": "",
                 "premiered": "1996-11-02",
                 "productioncode": "",
-                "rating": 6.867000102996826,
+                "rating": 6.800000190734863,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 7200.0
                 },
                 "runtime": 7200,
                 "season": -1,
@@ -467,7 +471,7 @@
                     "unknown": "tt0255773"
                 },
                 "userrating": 0,
-                "votes": "15",
+                "votes": "16",
                 "writer": [],
                 "year": 1996
             },
@@ -515,7 +519,6 @@
                     "United States of America"
                 ],
                 "customproperties": {
-                    "available_releases": "Theatrical",
                     "budget": "$0",
                     "cast": "Steven Tyler / Joe Perry / Tom Hamilton / Brad Whitford / Joey Kramer",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=263073&ignore_default=true)",
@@ -546,11 +549,10 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "pretendah",
                     "param.widget": "True",
-                    "popularity": "1.4",
+                    "popularity": "1.164",
                     "revenue": "$0",
                     "slug_id": "aerosmith-mtv-unplugged-1990",
                     "studio": "MTV",
-                    "theatrical_release": "1990-09-20",
                     "tmdb_id": "263073",
                     "tmdb_rating": "9.0",
                     "tmdb_type": "movie",
@@ -567,7 +569,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "tt0737260",
                 "label": "Aerosmith: MTV Unplugged",
@@ -577,14 +579,14 @@
                 "mpaa": "",
                 "originaltitle": "Aerosmith: MTV Unplugged",
                 "playcount": 0,
-                "plot": "MTV viewers get the rare opportunity to see legendary hard rockers Aerosmith perform acoustically on this special edition of \"MTV Unplugged.\" Taped live at the historic Ed Sullivan Theatre in New York City in High Definition TV, band members Steven Tyler (vocals), Joe Perry (guitar), Tom Hamilton (bass), Joey Kramer (drums) and Brad Whitford (guitar) perform a rousing 30 minute acoustic medley of their hit songs past and present. Song selections include \"Toys In The Attic,\" \"Hang Man Jury,\" \"Big 10 Inch,\" \"Dream On,\" \"Walkin' The Dog,\" and \"Train Kept A Rollin'.\" \"MTV Unplugged\" with Aerosmith, with high definition imaging by Captain of America, marks the first airing of a high definition program on the network. Recorded 11 August 1990 at The Ed Sullivan Theater - NYC. Original Premiere Date: 20 September 1990.",
+                "plot": "",
                 "plotoutline": "",
                 "premiered": "1990-09-20",
                 "productioncode": "",
                 "rating": 9.0,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 4800.0
                 },
                 "runtime": 4800,
                 "season": -1,
@@ -605,7 +607,7 @@
                     "MTV"
                 ],
                 "tag": [],
-                "tagline": "Aerosmith MTV Unplugged",
+                "tagline": "",
                 "thumbnail": "",
                 "title": "Aerosmith: MTV Unplugged",
                 "top250": 0,
@@ -663,7 +665,6 @@
                     "United States of America"
                 ],
                 "customproperties": {
-                    "available_releases": "Theatrical",
                     "budget": "$0",
                     "cast": "Layne Staley / Jerry Cantrell / Mike Inez / Sean Kinney",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=30098&ignore_default=true)",
@@ -694,13 +695,10 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "pretendah",
                     "param.widget": "True",
-                    "popularity": "3.936",
-                    "provider.link": "https://www.themoviedb.org/movie/30098-alice-in-chains-mtv-unplugged/watch?locale=US",
-                    "providers": "Apple iTunes / Amazon Video / Google Play Movies / YouTube / Vudu / Microsoft Store",
+                    "popularity": "3.097",
                     "revenue": "$0",
                     "slug_id": "alice-in-chains-mtv-unplugged-1996",
                     "studio": "MTV Productions",
-                    "theatrical_release": "1996-04-10",
                     "tmdb_id": "30098",
                     "tmdb_rating": "8.5",
                     "tmdb_type": "movie",
@@ -719,8 +717,8 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music",
-                    "Documentary"
+                    "Musique",
+                    "Documentaire"
                 ],
                 "imdbnumber": "tt0276768",
                 "label": "Alice In Chains: MTV Unplugged",
@@ -730,14 +728,14 @@
                 "mpaa": "",
                 "originaltitle": "Alice In Chains: MTV Unplugged",
                 "playcount": 0,
-                "plot": "Alice in Chains returned to the popular music eye with this live, acoustic performance in New York on 10th April, 1996. After an absence from the stage of three years the band performed a 13-song set, including 'Heaven Beside You', 'Rooster' and 'Would?'.",
+                "plot": "Unplugged est le premier album live du groupe grunge am\u00e9ricain Alice in Chains sorti le 30 juillet 1996 chez Columbia Records1. La performance a \u00e9t\u00e9 enregistr\u00e9 le 10 avril 1996 au Majestic Theater Music Academy \u00e0 New York2 dans le cadre de l'\u00e9mission MTV Unplugged . Le spectacle a \u00e9t\u00e9 enregistr\u00e9 par Alexa Coletti3. Contrairement \u00e0 leurs concerts traditionnels, le groupe a pr\u00e9sent\u00e9 des \u00e9l\u00e9ments sp\u00e9cifiquement pr\u00e9par\u00e9 pour cette performance4, constitu\u00e9s principalement de chansons issus des EPs Sap et Jar of Flies et \u00e9galement de Dirt et de Alice in Chains5.",
                 "plotoutline": "",
                 "premiered": "1996-04-10",
                 "productioncode": "",
-                "rating": 8.532999992370605,
+                "rating": 8.5,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 4320.0
                 },
                 "runtime": 4320,
                 "season": -1,
@@ -790,7 +788,6 @@
                 "cast": [],
                 "country": [],
                 "customproperties": {
-                    "available_releases": "Theatrical",
                     "budget": "$0",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=69259&ignore_default=true)",
                     "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=69259)",
@@ -820,10 +817,9 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "pretendah",
                     "param.widget": "True",
-                    "popularity": "0.6",
+                    "popularity": "0.71",
                     "revenue": "$0",
                     "slug_id": "alice-in-chains-live-facelift-1991",
-                    "theatrical_release": "1991-07-30",
                     "tmdb_id": "69259",
                     "tmdb_rating": "7.9",
                     "tmdb_type": "movie",
@@ -840,7 +836,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "tt0317880",
                 "label": "Alice in Chains: Live Facelift",
@@ -850,14 +846,14 @@
                 "mpaa": "",
                 "originaltitle": "Alice in Chains: Live Facelift",
                 "playcount": 0,
-                "plot": "Heavy-hitting alternative rockers Alice in Chains serve up their dark guitar-driven music before a hometown crowd in this live video shot at the Moore Theater in Seattle. Along with five live versions of songs from the Facelift album (including \"Man in the Box,\" \"Bleed the Freak,\" and \"Love, Hate, Love\"), Alice in Chains: Live Facelift also includes three bonus music videos, including \"Sea of Sorrow\" and \"We Die Young.\"",
+                "plot": "",
                 "plotoutline": "",
                 "premiered": "1991-07-30",
                 "productioncode": "",
                 "rating": 7.900000095367432,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 2400.0
                 },
                 "runtime": 2400,
                 "season": -1,
@@ -899,110 +895,6 @@
             {
                 "album": "",
                 "art": {
-                    "icon": "image://C%3a%5cKodiTest%5ckodi%2020%20testu2p%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fdefault.png/"
-                },
-                "artist": [],
-                "cast": [],
-                "country": [],
-                "customproperties": {
-                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=59905&ignore_default=true)",
-                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=59905)",
-                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=59905)",
-                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=59905)",
-                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=59905)",
-                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=59905)",
-                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=The Beatles on the Rooftop,tmdb_type=movie,tmdb_id=59905)",
-                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
-                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
-                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
-                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
-                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
-                    "contextmenulabel(5)": "$LOCALIZE[20444]",
-                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
-                    "imdb_id": "tt12252652",
-                    "isplayable": "true",
-                    "item.info": "play",
-                    "item.tmdb_id": "59905",
-                    "item.tmdb_type": "movie",
-                    "item.type": "movie",
-                    "param.info": "trakt_userlist",
-                    "param.list_name": "Concerts",
-                    "param.list_slug": "concerts",
-                    "param.owner": "true",
-                    "param.plugin_category": "Concerts",
-                    "param.user_slug": "pretendah",
-                    "param.widget": "True",
-                    "slug_id": "the-beatles-on-the-rooftop-1969",
-                    "tmdb_id": "59905",
-                    "tmdb_type": "movie",
-                    "trakt_id": "42847",
-                    "widget": "Concerts"
-                },
-                "dateadded": "",
-                "director": [],
-                "episode": -1,
-                "episodeguide": "",
-                "fanart": "",
-                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=59905",
-                "filetype": "file",
-                "firstaired": "",
-                "genre": [],
-                "imdbnumber": "",
-                "label": "[COLOR=ffcc0000][I]The Beatles on the Rooftop[/I][/COLOR]",
-                "lastmodified": "",
-                "lastplayed": "",
-                "mimetype": "application/octet-stream",
-                "mpaa": "",
-                "originaltitle": "",
-                "playcount": 0,
-                "plot": "",
-                "plotoutline": "",
-                "premiered": "",
-                "productioncode": "",
-                "rating": 0.0,
-                "resume": {
-                    "position": 0.0,
-                    "total": 0.0
-                },
-                "runtime": 0,
-                "season": -1,
-                "set": "",
-                "setid": -1,
-                "showlink": [],
-                "showtitle": "",
-                "size": 0,
-                "sorttitle": "",
-                "specialsortepisode": -1,
-                "specialsortseason": -1,
-                "streamdetails": {
-                    "audio": [],
-                    "subtitle": [],
-                    "video": []
-                },
-                "studio": [],
-                "tag": [],
-                "tagline": "",
-                "thumbnail": "",
-                "title": "The Beatles on the Rooftop",
-                "top250": 0,
-                "track": -1,
-                "trailer": "",
-                "tvshowid": -1,
-                "type": "movie",
-                "uniqueid": {
-                    "imdb": "tt12252652",
-                    "slug": "the-beatles-on-the-rooftop-1969",
-                    "tmdb": "59905",
-                    "trakt": "42847"
-                },
-                "userrating": 0,
-                "votes": "0",
-                "writer": [],
-                "year": 1969
-            },
-            {
-                "album": "",
-                "art": {
                     "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fghRWREJBhKlmaKfhhQsTTZPGZUE.jpg/",
                     "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fdRGbNQtPprkioVpUqTabT6MCf16.jpg/",
                     "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fdRGbNQtPprkioVpUqTabT6MCf16.jpg/"
@@ -1035,7 +927,6 @@
                 ],
                 "country": [],
                 "customproperties": {
-                    "available_releases": "Theatrical",
                     "budget": "$0",
                     "cast": "Chris Cornell / Tim Commerford / Brad Wilk / Tom Morello",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=55417&ignore_default=true)",
@@ -1066,13 +957,12 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "pretendah",
                     "param.widget": "True",
-                    "popularity": "1.37",
-                    "provider.link": "https://www.themoviedb.org/movie/55417-audioslave-live-in-cuba/watch?locale=US",
-                    "providers": "Apple iTunes / Amazon Video / Google Play Movies / YouTube / Vudu / Microsoft Store",
+                    "popularity": "0.952",
+                    "provider.link": "https://www.themoviedb.org/movie/55417-audioslave-live-in-cuba/watch?locale=FR",
+                    "providers": "Apple iTunes",
                     "revenue": "$0",
                     "slug_id": "audioslave-live-in-cuba-2005",
                     "studio": "Done+Dusted",
-                    "theatrical_release": "2005-10-11",
                     "tmdb_id": "55417",
                     "tmdb_rating": "7.5",
                     "tmdb_type": "movie",
@@ -1091,7 +981,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "tt0472995",
                 "label": "Audioslave - Live in Cuba",
@@ -1101,14 +991,14 @@
                 "mpaa": "",
                 "originaltitle": "Audioslave - Live in Cuba",
                 "playcount": 0,
-                "plot": "Live in Cuba is the first live DVD of the American hard rock band Audioslave, containing footage of the free concert that the band performed in Cuba in front of over 70,000 people. The concert itself is considered to be an historical event, as it marks the first time in Cuban history that an American rock band has been permitted to perform within the country. The DVD features the show itself, and also a 37 minute documentary based on the band and their time spent in Cuba. According to Chris Cornell (said during the concert), at the time the concert was performed it was the longest one that Audioslave had played.",
+                "plot": "",
                 "plotoutline": "",
                 "premiered": "2005-10-11",
                 "productioncode": "",
                 "rating": 7.5,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 7800.0
                 },
                 "runtime": 7800,
                 "season": -1,
@@ -1212,7 +1102,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "pretendah",
                     "param.widget": "True",
-                    "popularity": "2.928",
+                    "popularity": "1.043",
                     "revenue": "$0",
                     "slug_id": "arctic-monkeys-live-at-glastonbury-2013-2013",
                     "tmdb_id": "204887",
@@ -1231,8 +1121,8 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music",
-                    "Documentary"
+                    "Musique",
+                    "Documentaire"
                 ],
                 "imdbnumber": "",
                 "label": "Arctic Monkeys: Live at Glastonbury 2013",
@@ -1242,14 +1132,14 @@
                 "mpaa": "",
                 "originaltitle": "Arctic Monkeys: Live at Glastonbury 2013",
                 "playcount": 0,
-                "plot": "Six years after their debut appearance at the festival, The Monkeys perform again, a more powerful act than ever.",
+                "plot": "",
                 "plotoutline": "",
                 "premiered": "2013-06-28",
                 "productioncode": "",
                 "rating": 8.0,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 5040.0
                 },
                 "runtime": 5040,
                 "season": -1,
@@ -1351,7 +1241,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "pretendah",
                     "param.widget": "True",
-                    "popularity": "1.398",
+                    "popularity": "0.902",
                     "revenue": "$0",
                     "slug_id": "arctic-monkeys-itunes-festival-2013-2013",
                     "studio": "Apple",
@@ -1371,7 +1261,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "",
                 "label": "Arctic Monkeys : iTunes Festival 2013",
@@ -1381,14 +1271,14 @@
                 "mpaa": "",
                 "originaltitle": "Arctic Monkeys : iTunes Festival 2013",
                 "playcount": 0,
-                "plot": "Arctic Monkeys live at the iTunes Festival 2013",
+                "plot": "Originaires de Sheffield au Royaume-Uni, les Arctic Monkeys sont devenus une r\u00e9f\u00e9rence en mati\u00e8re de musique Indie. Alex Turner et sa bande ont fait parti du Festival iTunes le 9 septembre 2013, en remplissant la Roundhouse de Camden Town.",
                 "plotoutline": "",
                 "premiered": "2013-09-09",
                 "productioncode": "",
                 "rating": 10.0,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 5160.0
                 },
                 "runtime": 5160,
                 "season": -1,
@@ -1430,13 +1320,12 @@
             {
                 "album": "",
                 "art": {
-                    "icon": "image://C%3a%5cKodiTest%5ckodi%2020%20testu2p%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fdefault.png/"
+                    "icon": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p(1)%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fdefault.png/"
                 },
                 "artist": [],
                 "cast": [],
                 "country": [],
                 "customproperties": {
-                    "available_releases": "Theatrical",
                     "budget": "$0",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=194874&ignore_default=true)",
                     "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=194874)",
@@ -1468,7 +1357,6 @@
                     "popularity": "0.6",
                     "revenue": "$0",
                     "slug_id": "allman-brothers-band-vol-1-duane-berry-1976",
-                    "theatrical_release": "1976-12-10",
                     "tmdb_id": "194874",
                     "tmdb_rating": "3.5",
                     "tmdb_type": "movie",
@@ -1485,7 +1373,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "",
                 "label": "Allman Brothers Band - Vol. 1 - Duane & Berry",
@@ -1495,7 +1383,7 @@
                 "mpaa": "",
                 "originaltitle": "Allman Brothers Band - Vol. 1 - Duane & Berry",
                 "playcount": 0,
-                "plot": "Various live performances from the Allman Brothers Band while Duane Allman and Berry Oakley were still alive.  Includes, HOF Tribute, Fillmore East, NY 9-23-1970 show (5 songs), ABC In Concert appearance from Hempstead, NY 11-2-1972 (Berry's last public performance), \"Southern Voices, American Dream\" documentary by Ken Hey, Live clips from Love Valley 7-19-1970 and Central Park, NYC 1970, Statesboro Blues (promo video from DREAMS) and closing slideshow.",
+                "plot": "",
                 "plotoutline": "",
                 "premiered": "1976-12-10",
                 "productioncode": "",
@@ -1542,7 +1430,7 @@
             {
                 "album": "",
                 "art": {
-                    "icon": "image://C%3a%5cKodiTest%5ckodi%2020%20testu2p%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fdefault.png/"
+                    "icon": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p(1)%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fdefault.png/"
                 },
                 "artist": [],
                 "cast": [],
@@ -1656,7 +1544,7 @@
                 ],
                 "country": [],
                 "customproperties": {
-                    "available_releases": "Digital / Physical",
+                    "available_releases": "Physical",
                     "budget": "$0",
                     "cast": "Bob Marley / Aston Barrett",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=38552&ignore_default=true)",
@@ -1674,7 +1562,6 @@
                     "contextmenulabel(5)": "$LOCALIZE[20444]",
                     "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
                     "dbtype": "movie",
-                    "digital_release": "2007-07-01",
                     "imdb_id": "tt1254717",
                     "isplayable": "true",
                     "item.info": "play",
@@ -1689,7 +1576,7 @@
                     "param.user_slug": "pretendah",
                     "param.widget": "True",
                     "physical_release": "1991-07-01",
-                    "popularity": "1.022",
+                    "popularity": "0.74",
                     "revenue": "$0",
                     "slug_id": "bob-marley-and-the-wailers-live-at-the-rainbow-1977",
                     "tmdb_id": "38552",
@@ -1708,24 +1595,24 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "tt1254717",
                 "label": "Bob Marley and the Wailers - Live at the Rainbow",
                 "lastmodified": "",
                 "lastplayed": "",
                 "mimetype": "application/octet-stream",
-                "mpaa": "Rated PG-13",
+                "mpaa": "Rated 12",
                 "originaltitle": "Bob Marley and the Wailers - Live at the Rainbow",
                 "playcount": 0,
-                "plot": "Unparalleled as a live act, Bob Marley and the Wailers perform their world-famous reggae hits in this 1977 concert from London's Rainbow Theatre. The show was filmed during the band's tour to promote their \"Exodus\" album. Thirteen tracks include favorites such as \"No Woman, No Cry,\" \"I Shot the Sheriff,\" \"Lively Up Yourself\" and \"Get Up, Stand Up.\" Also featured are interviews with Marley's wife, Rita, and his mother, Cedella Booker.",
+                "plot": "Concert du Rainbow enregistr\u00e9 \u00e0 l'\u00e9t\u00e9 1977 \u00e0 Londres, dont certains extraits son parus dans la r\u00e9\u00e9dition Deluxe d'Exodus. En cet \u00e9t\u00e9 1977, Bob \u00e9crit un de ses albums promis \u00e0 un succ\u00e8s immense, Exodus, enregistr\u00e9 avec les Wailers d\u00e9but 1977. Les premi\u00e8res dates de cette tourn\u00e9e se feront en Europe et notamment \u00e0 Londres, au th\u00e9\u00e2tre du Rainbow. Devant un public londonien enthousiaste, Bob rend ainsi hommage \u00e0 ce quartier \u00e0 la mystique naturelle particuli\u00e8re.",
                 "plotoutline": "",
                 "premiered": "1977-06-04",
                 "productioncode": "",
                 "rating": 7.599999904632568,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 4320.0
                 },
                 "runtime": 4320,
                 "season": -1,
@@ -1749,7 +1636,7 @@
                 "title": "Bob Marley and the Wailers - Live at the Rainbow",
                 "top250": 0,
                 "track": -1,
-                "trailer": "",
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=336GrWVasCk",
                 "tvshowid": -1,
                 "type": "movie",
                 "uniqueid": {
@@ -1767,9 +1654,9 @@
             {
                 "album": "",
                 "art": {
+                    "clearlogo": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f121441%2fhdmovielogo%2fbob-marley---live-in-concert-5677fd6d5d5a2.png/",
                     "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f5zWpTXlv10hNeGh2N3MGWRFpEG4.jpg/",
                     "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f8KGJTvaDlpWhKgT6WZYyP0xYv5m.jpg/",
-                    "landscape": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f5zWpTXlv10hNeGh2N3MGWRFpEG4.jpg/",
                     "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f8KGJTvaDlpWhKgT6WZYyP0xYv5m.jpg/"
                 },
                 "artist": [],
@@ -1813,7 +1700,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "pretendah",
                     "param.widget": "True",
-                    "popularity": "1.323",
+                    "popularity": "1.081",
                     "revenue": "$0",
                     "slug_id": "bob-marley-live-in-concert-2012-04-12",
                     "tmdb_id": "121441",
@@ -1834,7 +1721,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "tt0191839",
                 "label": "Bob Marley - Live in Concert",
@@ -1844,16 +1731,16 @@
                 "mpaa": "",
                 "originaltitle": "Bob Marley - Live in Concert",
                 "playcount": 0,
-                "plot": "1. Trenchtown Rock 2. Them Belly Full 3. I Shot The Sheriff 4. Rebel Music 5. Lively Up Yourself 6. Crazy Baldhead/ Running Away 7. War/No More Trouble 8. The Heathen 9. No Woman, No Cry 10. Jamming 11. Get Up, Stand Up! 12. Exodus",
+                "plot": "",
                 "plotoutline": "",
                 "premiered": "2012-04-12",
                 "productioncode": "",
                 "rating": 8.0,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 3900.0
                 },
-                "runtime": 4080,
+                "runtime": 3900,
                 "season": -1,
                 "set": "",
                 "setid": -1,
@@ -1902,49 +1789,48 @@
                     {
                         "name": "George Harrison",
                         "order": 0,
-                        "role": "Self",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fzwUO2gnKBnSrKOB9hnhI9GdOX6e.jpg/"
                     },
                     {
                         "name": "Ringo Starr",
                         "order": 1,
-                        "role": "Self",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f7fSrrdl90BYdR3dtOnNkosOw0kw.jpg/"
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fAlgXb1mKCghI3Bj2T70G1vvAyEg.jpg/"
                     },
                     {
                         "name": "Eric Clapton",
                         "order": 2,
-                        "role": "Self",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fxAt8X2SzU4gghOyf8xjPPknHNyv.jpg/"
                     },
                     {
                         "name": "Ravi Shankar",
                         "order": 3,
-                        "role": "Self",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f6yKXSdWMh3F77XCsf87FAAHINnl.jpg/"
+                        "role": ""
                     },
                     {
                         "name": "Bob Dylan",
                         "order": 4,
-                        "role": "Self",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fubCLNwXh9Nv3EHkOkdeVbXMZa5P.jpg/"
                     },
                     {
                         "name": "Billy Preston",
                         "order": 5,
-                        "role": "Self",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fxta6r8p4qU3cZyGMiRSoEN5W9yR.jpg/"
                     },
                     {
                         "name": "Leon Russell",
                         "order": 6,
-                        "role": "Self",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fv1KgMLesGMVUWsZBujqHdA6aju3.jpg/"
                     },
                     {
                         "name": "Klaus Voormann",
                         "order": 7,
-                        "role": "Self",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fiBbhQQaje3bxQqnvLiojP3r12rX.jpg/"
                     }
                 ],
@@ -1953,7 +1839,6 @@
                     "United States of America"
                 ],
                 "customproperties": {
-                    "available_releases": "Theatrical",
                     "budget": "$0",
                     "cast": "George Harrison / Ringo Starr / Eric Clapton / Ravi Shankar / Bob Dylan / Billy Preston / Leon Russell / Klaus Voormann",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=59414&ignore_default=true)",
@@ -1984,11 +1869,10 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "pretendah",
                     "param.widget": "True",
-                    "popularity": "3.165",
+                    "popularity": "1.903",
                     "revenue": "$0",
                     "slug_id": "the-concert-for-bangladesh-1972",
                     "studio": "20th Century Fox",
-                    "theatrical_release": "1972-03-23",
                     "tmdb_id": "59414",
                     "tmdb_rating": "7.9",
                     "tmdb_type": "movie",
@@ -2007,25 +1891,25 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music",
-                    "Documentary"
+                    "Musique",
+                    "Documentaire"
                 ],
                 "imdbnumber": "tt0158560",
                 "label": "The Concert for Bangladesh",
                 "lastmodified": "",
                 "lastplayed": "",
                 "mimetype": "application/octet-stream",
-                "mpaa": "Rated G",
+                "mpaa": "",
                 "originaltitle": "The Concert for Bangladesh",
                 "playcount": 0,
-                "plot": "A film about the first benefit rock concert when major musicians performed to raise relief funds for the poor of Bangladesh. The Concert for Bangladesh was a pair of benefit concerts organised by former Beatles guitarist George Harrison and Indian sitar player Ravi Shankar. The shows were held at 2:30 and 8:00 pm on Sunday, 1 August 1971, at Madison Square Garden in New York City, to raise international awareness of, and fund relief for refugees from East Pakistan, following the Bangladesh Liberation War-related genocide.",
+                "plot": "",
                 "plotoutline": "",
                 "premiered": "1972-03-23",
                 "productioncode": "",
-                "rating": 7.853000164031982,
+                "rating": 7.900000095367432,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 6180.0
                 },
                 "runtime": 6180,
                 "season": -1,
@@ -2079,7 +1963,8 @@
                     {
                         "name": "Ritchie Blackmore",
                         "order": 0,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fdMiEyxI3boBNbeUUZ4yo58FsVgG.jpg/"
                     },
                     {
                         "name": "Rod Evans",
@@ -2114,7 +1999,8 @@
                     {
                         "name": "Roger Glover",
                         "order": 6,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fjxJu9RZ1PwqlkwQiABwT3keoOKK.jpg/"
                     },
                     {
                         "name": "David Coverdale",
@@ -2136,7 +2022,6 @@
                 ],
                 "country": [],
                 "customproperties": {
-                    "available_releases": "Physical",
                     "budget": "$0",
                     "cast": "Ritchie Blackmore / Rod Evans / Jon Lord / Ian Paice / Nick Simper / Ian Gillan / Roger Glover / David Coverdale / Glenn Hughes / Tommy Bolin",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=67533&ignore_default=true)",
@@ -2166,8 +2051,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "pretendah",
                     "param.widget": "True",
-                    "physical_release": "2009-06-03",
-                    "popularity": "0.6",
+                    "popularity": "0.696",
                     "revenue": "$0",
                     "slug_id": "deep-purple-history-hits-highlights-68-76-2009",
                     "tmdb_id": "67533",
@@ -2186,7 +2070,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "",
                 "label": "Deep Purple: History, Hits & Highlights '68-'76",
@@ -2196,14 +2080,14 @@
                 "mpaa": "",
                 "originaltitle": "Deep Purple: History, Hits & Highlights '68-'76",
                 "playcount": 0,
-                "plot": "This collection contains rare and previously unreleased live performances, TV shows appearances & studio sessions footage from 1968 to 1976-era Deep Purple. Also includes a documentary and Interviews with band members.",
+                "plot": "",
                 "plotoutline": "",
                 "premiered": "2009-06-03",
                 "productioncode": "",
                 "rating": 7.5,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 17220.0
                 },
                 "runtime": 17220,
                 "season": -1,
@@ -2257,7 +2141,8 @@
                     {
                         "name": "Ritchie Blackmore",
                         "order": 1,
-                        "role": "Guitar"
+                        "role": "Guitar",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fdMiEyxI3boBNbeUUZ4yo58FsVgG.jpg/"
                     },
                     {
                         "name": "David Coverdale",
@@ -2310,7 +2195,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "pretendah",
                     "param.widget": "True",
-                    "popularity": "0.962",
+                    "popularity": "0.727",
                     "revenue": "$0",
                     "slug_id": "deep-purple-live-in-california-74-2005",
                     "tmdb_id": "63246",
@@ -2329,7 +2214,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "tt1691834",
                 "label": "Deep Purple: Live in California '74",
@@ -2339,14 +2224,14 @@
                 "mpaa": "",
                 "originaltitle": "Deep Purple: Live in California '74",
                 "playcount": 0,
-                "plot": "Deep Purple were the biggest selling album act in America when they embarked on a 28 date tour promoting their new album 'Burn'. The undoubted climax of this tour was headlining the California Jam Festival in front of 200,000 people in 1974. Burn - Might just take your time - Lay down, stay down - Mistreated - Smoke on the water - You fool no one - Space truckin'",
+                "plot": "",
                 "plotoutline": "",
                 "premiered": "2005-11-21",
                 "productioncode": "",
-                "rating": 5.875,
+                "rating": 5.900000095367432,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 7380.0
                 },
                 "runtime": 7380,
                 "season": -1,
@@ -2388,7 +2273,7 @@
             {
                 "album": "",
                 "art": {
-                    "icon": "image://C%3a%5cKodiTest%5ckodi%2020%20testu2p%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fdefault.png/"
+                    "icon": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p(1)%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fdefault.png/"
                 },
                 "artist": [],
                 "cast": [
@@ -2419,7 +2304,6 @@
                 ],
                 "country": [],
                 "customproperties": {
-                    "available_releases": "Theatrical",
                     "budget": "$0",
                     "cast": "Sully Erna / Tony Rombola / Robbie Merrill / Shannon Larkin",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=389408&ignore_default=true)",
@@ -2452,7 +2336,6 @@
                     "popularity": "0.6",
                     "revenue": "$0",
                     "slug_id": "godsmack-rock-on-the-range-festival-2015-2015",
-                    "theatrical_release": "2015-05-16",
                     "tmdb_id": "389408",
                     "tmdb_rating": "0.0",
                     "tmdb_type": "movie",
@@ -2469,7 +2352,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "",
                 "label": "Godsmack: Rock on the Range Festival 2015",
@@ -2479,7 +2362,7 @@
                 "mpaa": "",
                 "originaltitle": "Godsmack: Rock on the Range Festival 2015",
                 "playcount": 0,
-                "plot": "Godsmack at Rock on the Range at Mapfre Stadium, Columbus, OH, USA on May 16th, 2015. Setlist: 1000hp / Cryin' Like a Bitch / What's Next / Straight Out of Line / Awake [with \"Mistakes\" intro] / Generation Day / Something Different / Keep Away / Voodoo / Batalla de los Tambores / Whatever / I Stand Alone",
+                "plot": "",
                 "plotoutline": "",
                 "premiered": "2015-05-16",
                 "productioncode": "",
@@ -2561,7 +2444,6 @@
                     "United States of America"
                 ],
                 "customproperties": {
-                    "available_releases": "Theatrical",
                     "budget": "$0",
                     "cast": "Jim Morrison / Ray Manzarek / Robby Krieger / John Densmore",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=55716&ignore_default=true)",
@@ -2592,13 +2474,12 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "pretendah",
                     "param.widget": "True",
-                    "popularity": "1.4",
-                    "provider.link": "https://www.themoviedb.org/movie/55716-the-doors-live-in-europe-1968/watch?locale=US",
-                    "providers": "Apple iTunes / Amazon Video / Google Play Movies / YouTube",
+                    "popularity": "0.6",
+                    "provider.link": "https://www.themoviedb.org/movie/55716-the-doors-live-in-europe-1968/watch?locale=FR",
+                    "providers": "Apple iTunes",
                     "revenue": "$0",
                     "slug_id": "the-doors-live-in-europe-1968-1991",
                     "studio": "A*Vision Entertainment",
-                    "theatrical_release": "1991-07-01",
                     "tmdb_id": "55716",
                     "tmdb_rating": "6.0",
                     "tmdb_type": "movie",
@@ -2618,7 +2499,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "tt0167904",
                 "label": "The Doors - Live in Europe 1968",
@@ -2626,16 +2507,16 @@
                 "lastplayed": "",
                 "mimetype": "application/octet-stream",
                 "mpaa": "",
-                "originaltitle": "The Doors - Live in Europe 1968",
+                "originaltitle": "The Doors: Live in Europe 1968",
                 "playcount": 0,
-                "plot": "Filmed during their 1968 European tour, The Doors are captured in performances in London, Stockholm, Frankfurt, and Amsterdam. Paul Kantner and Grace Slick of Jefferson Airplane, who shared the bill with The Doors on this tour, narrate this compilation.",
+                "plot": "Enregistr\u00e9 et film\u00e9 pendant leur tourn\u00e9 de 1969 o\u00f9 les Doors enflam\u00e8rent les villes de Londres, Stockholm, Francfort et Amsterdam. Cette collection de rares performances est pr\u00e9sent\u00e9e et comment\u00e9e par Paul KANTNER et Grace SLICK qui avec les autres membres du Jefferson Airplane compl\u00e9taient l'affiche de cette tourn\u00e9e historique. Incontournable collecteur !",
                 "plotoutline": "",
                 "premiered": "1991-07-01",
                 "productioncode": "",
                 "rating": 6.0,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 3480.0
                 },
                 "runtime": 3480,
                 "season": -1,
@@ -2697,12 +2578,14 @@
                     {
                         "name": "Roger Glover",
                         "order": 1,
-                        "role": "Himself"
+                        "role": "Himself",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fjxJu9RZ1PwqlkwQiABwT3keoOKK.jpg/"
                     },
                     {
                         "name": "Ritchie Blackmore",
                         "order": 2,
-                        "role": "Himself"
+                        "role": "Himself",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fdMiEyxI3boBNbeUUZ4yo58FsVgG.jpg/"
                     },
                     {
                         "name": "Jon Lord",
@@ -2727,7 +2610,7 @@
                     "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=183069)",
                     "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=183069)",
                     "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=183069)",
-                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Deep Purple: Made In Japan,tmdb_type=movie,tmdb_id=183069)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Deep Purple : fait au japon,tmdb_type=movie,tmdb_id=183069)",
                     "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
                     "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
                     "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
@@ -2748,7 +2631,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "pretendah",
                     "param.widget": "True",
-                    "popularity": "1.125",
+                    "popularity": "0.62",
                     "revenue": "$0",
                     "slug_id": "deep-purple-made-in-japan-1972",
                     "tmdb_id": "183069",
@@ -2768,14 +2651,14 @@
                 "firstaired": "",
                 "genre": [],
                 "imdbnumber": "",
-                "label": "Deep Purple: Made In Japan",
+                "label": "Deep Purple : fait au japon",
                 "lastmodified": "",
                 "lastplayed": "",
                 "mimetype": "application/octet-stream",
                 "mpaa": "",
                 "originaltitle": "Deep Purple: Made In Japan",
                 "playcount": 0,
-                "plot": "Made in Japan was recorded live over three nights during 15\u201317 August 1972 at Festival Hall, Osaka and at Budokan, Tokyo, Japan. Four of the tracks come from the album Machine Head which had been released earlier that year.  The album was at first seen as somewhat unimportant by the band members, and only Roger Glover and Ian Paice showed up to mix it.  The release in the US was delayed, until April 1973, because Warner Bros. wanted to release Who Do We Think We Are first. The three concerts recorded were later released as Live in Japan 3-CD box set (1993). According to the liner notes for that set, unlike many live albums, there are no overdubs or studio additions to the original album.",
+                "plot": "\"Fabriqu\u00e9 au Japon\" a \u00e9t\u00e9 enregistr\u00e9 en direct pendant trois nuits du 15 au 17 ao\u00fbt 1972 au Festival Hall d'Osaka et au Budokan \u00e0 Tokyo au Japon. Quatre des pistes proviennent de l'album \"Machine Head\" qui \u00e9tait sorti  plus t\u00f4t cette ann\u00e9e. L'album \u00e9tait d'abord consid\u00e9r\u00e9 comme un peu sans importance par les membres du groupe, et seuls Roger Glover et Ian Paice se sont pr\u00e9sent\u00e9s pour le mixer. La sortie aux Etats-Unis a \u00e9t\u00e9 retard\u00e9e, jusqu'en avril 1973. Les trois concerts enregistr\u00e9s ont \u00e9t\u00e9 plus tard d\u00e9livr\u00e9s comme \"Live in Japan\" 3-CD box set (1993). Selon les notes pour cet ensemble, contrairement \u00e0 de nombreux albums en direct, il n'y a pas d'overdubs ou d'ajouts de studio \u00e0 l'album original.",
                 "plotoutline": "",
                 "premiered": "1972-04-30",
                 "productioncode": "",
@@ -2803,7 +2686,7 @@
                 "tag": [],
                 "tagline": "",
                 "thumbnail": "",
-                "title": "Deep Purple: Made In Japan",
+                "title": "Deep Purple : fait au japon",
                 "top250": 0,
                 "track": -1,
                 "trailer": "",
@@ -2818,6 +2701,89 @@
                 "votes": "1",
                 "writer": [],
                 "year": 1972
+            },
+            {
+                "album": "",
+                "art": {
+                    "icon": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p(1)%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage.png/",
+                    "landscape": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p(1)%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage_wide.png/"
+                },
+                "artist": [],
+                "cast": [],
+                "country": [],
+                "customproperties": {
+                    "item.info": "trakt_userlist",
+                    "item.list_name": "Concerts",
+                    "item.list_slug": "concerts",
+                    "item.owner": "true",
+                    "item.page": "2",
+                    "item.plugin_category": "Concerts",
+                    "item.user_slug": "pretendah",
+                    "item.widget": "True",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "pretendah",
+                    "param.widget": "True",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Concerts&list_slug=concerts&owner=true&plugin_category=Concerts&user_slug=pretendah&page=2&widget=true&reload=$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]",
+                "filetype": "directory",
+                "firstaired": "",
+                "genre": [],
+                "imdbnumber": "",
+                "label": "Page suivante",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "x-directory/normal",
+                "mpaa": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "",
+                "plotoutline": "",
+                "premiered": "",
+                "productioncode": "",
+                "rating": 0.0,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 0,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "unknown",
+                "userrating": 0,
+                "votes": "0",
+                "writer": [],
+                "year": 0
             }
         ],
         "limits": {

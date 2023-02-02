@@ -1,0 +1,34 @@
+<shortcuts>
+	<shortcut>
+		<defaultID>568</defaultID>
+		<label>568</label>
+		<label2>pvr</label2>
+		<icon>DefaultAddonPVRClient.png</icon>
+		<thumb />
+		<action>pvr://channels/tv/*?view=lastplayed</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>19287</defaultID>
+		<label>19287</label>
+		<label2>pvr</label2>
+		<icon>DefaultAddonPVRClient.png</icon>
+		<thumb />
+		<action>pvr://channels/tv/*</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>TV en direct</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://resource%3a%2f%2fresource.images.catchuptvandmore%2flive_tv.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.catchuptvandmore/resources/lib/main/tv_guide_menu/?_pickle_=80049538000000000000007d94288c075f7469746c655f948c064672616e6365948c08786d6c74765f6964944e8c076974656d5f6964948c0766725f6c69766594752e",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>IPTV</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://special%3a%2f%2fhome%2faddons%2fplugin.video.sendtokodiU2P%2fresources%2fpng%2fspecial%3a%2f%2fhome%2faddons%2fplugin.video.sendtokodiU2P%2fresources%2fpng%2fiptv.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=iptvLoad",return)</action>
+		</shortcut>
+	</shortcuts>

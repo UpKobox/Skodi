@@ -1,0 +1,18 @@
+<shortcuts>
+	<shortcut>
+		<defaultID>568</defaultID>
+		<label>568</label>
+		<label2>pvr</label2>
+		<icon>DefaultAddonPVRClient.png</icon>
+		<thumb />
+		<action>pvr://channels/tv/*?view=lastplayed</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>19287</defaultID>
+		<label>19287</label>
+		<label2>pvr</label2>
+		<icon>DefaultAddonPVRClient.png</icon>
+		<thumb />
+		<action>pvr://channels/tv/*</action>
+		</shortcut>
+	</shortcuts>

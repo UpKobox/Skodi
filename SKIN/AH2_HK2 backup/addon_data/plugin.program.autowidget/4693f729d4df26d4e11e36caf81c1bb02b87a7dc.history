@@ -1,0 +1,22 @@
+{
+    "history": [
+        [
+            1675344716.4883528,
+            "ad3d338dc77f358f0529cd3d38a860f0c410b6de"
+        ],
+        [
+            1675345169.2922685,
+            "af9e92f88730ea7de219b8bdaddd32217d135b1d"
+        ],
+        [
+            1675346168.0181384,
+            "af9e92f88730ea7de219b8bdaddd32217d135b1d"
+        ]
+    ],
+    "widgets": [
+        "22264318-8b3c-46e9-9729-d5ced8365f66",
+        null,
+        "7bf1b6da-5d8f-4953-a52b-0ff30b770547"
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Live%20concerts&list_slug=live-concerts&plugin_category=Live%20concerts&user_slug=hazeyboy&widget=True"
+}

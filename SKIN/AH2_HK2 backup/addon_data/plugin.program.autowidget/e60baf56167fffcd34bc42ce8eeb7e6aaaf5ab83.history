@@ -1,0 +1,13 @@
+{
+    "history": [
+        [
+            1673340056.433406,
+            "0f422da21950ee80ec06295108100838661bb405"
+        ]
+    ],
+    "widgets": [
+        "8da54429-48d3-4fc9-83d6-10f0261bccd6",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=popular&tmdb_type=movie&page=2&plugin_category=Populaire+Films&widget=true&reload=$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]"
+}

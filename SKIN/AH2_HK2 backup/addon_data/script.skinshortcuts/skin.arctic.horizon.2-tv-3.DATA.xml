@@ -1,0 +1,34 @@
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>Fox</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://special%3a%2f%2fhome%2faddons%2fplugin.video.sendtokodiU2P%2fresources%2fpng%2fiptv.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=loadF&amp;fourn=http%3A%2F%2Fmyf-tv.com%3A8080",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>matrix</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://special%3a%2f%2fhome%2faddons%2fplugin.video.sendtokodiU2P%2fresources%2fpng%2fiptv.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=loadF&amp;fourn=http%3A%2F%2Fmatrix-ott.tv%3A8080",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>branchezvous</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://special%3a%2f%2fhome%2faddons%2fplugin.video.sendtokodiU2P%2fresources%2fpng%2fiptv.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=loadF&amp;fourn=http%3A%2F%2Fbranchezvousiptv.net%3A80",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>IPTV</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://special%3a%2f%2fhome%2faddons%2fplugin.video.sendtokodiU2P%2fresources%2fpng%2fspecial%3a%2f%2fhome%2faddons%2fplugin.video.sendtokodiU2P%2fresources%2fpng%2fiptv.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=iptvLoad",return)</action>
+		</shortcut>
+	</shortcuts>

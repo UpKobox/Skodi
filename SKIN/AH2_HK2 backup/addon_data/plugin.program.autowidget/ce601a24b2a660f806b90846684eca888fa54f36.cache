@@ -6,7 +6,10 @@
             {
                 "album": "",
                 "art": {
+                    "banner": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f332777%2fmoviebanner%2fjoe-bonamassa---muddy-wolf-at-red-rocks-55171487b5308.jpg/",
                     "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fnoyeWpNAqkOUyW3So7Tl2Bk8GMF.jpg/",
+                    "fanart1": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f332777%2fmoviebackground%2fjoe-bonamassa---muddy-wolf-at-red-rocks-5517168c28049.jpg/",
+                    "fanart2": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f332777%2fmoviebackground%2fjoe-bonamassa---muddy-wolf-at-red-rocks-5517173ed27ec.jpg/",
                     "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fc9LZ3iwsUGAkBqcBPyBxgJjr3gY.jpg/",
                     "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fc9LZ3iwsUGAkBqcBPyBxgJjr3gY.jpg/"
                 },
@@ -64,7 +67,6 @@
                     "United States of America"
                 ],
                 "customproperties": {
-                    "available_releases": "Theatrical",
                     "budget": "$0",
                     "cast": "Joe Bonamassa / Anton Fig / Reese Wynans / Michael Rhodes / Lee Thornburg / Ron Dziubla / Nick Lane / Mike Henderson / Kirk Fletcher",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=332777&ignore_default=true)",
@@ -94,10 +96,9 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "bassman22pu",
                     "param.widget": "True",
-                    "popularity": "2.132",
+                    "popularity": "1.555",
                     "revenue": "$0",
                     "slug_id": "joe-bonamassa-muddy-wolf-at-red-rocks-2015",
-                    "theatrical_release": "2015-03-23",
                     "tmdb_id": "332777",
                     "tmdb_rating": "9.0",
                     "tmdb_type": "movie",
@@ -116,7 +117,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "",
                 "label": "Joe Bonamassa - Muddy Wolf at Red Rocks",
@@ -126,14 +127,14 @@
                 "mpaa": "",
                 "originaltitle": "Joe Bonamassa - Muddy Wolf at Red Rocks",
                 "playcount": 0,
-                "plot": "\"They always try to write off the blues; well we\u2019ve proven tonight that at least 9,000 people like the blues,\" says celebrated blues rock master Joe Bonamassa who releases \"Joe Bonamassa \u2013 Muddy Wolf At Red Rocks\" on DVD, Blu-ray and CD set on March 23, 2015.  The exclusive concert experience, which is a tribute to blues legends Muddy Waters and Howlin\u2019 Wolf, was filmed at Red Rocks Amphitheatre over Labor Day weekend in 2014.",
+                "plot": "Le concert exclusif de Joe Bonamass en hommage \u00e0 Muddy Waters et Howlin' Wolf s'est d\u00e9roul\u00e9 le 31 ao\u00fbt 2014 dans le merveilleux d\u00e9cor naturel du Red Rocks Amphitheatre. Face \u00e0 9 000 fans, le plus gros show de la carri\u00e8re de Bonamassa, Joe y joue de nombreux morceaux des deux l\u00e9gendes du blues ainsi que quelques d\u00e9sormais classiques de son propre r\u00e9pertoire.",
                 "plotoutline": "",
                 "premiered": "2015-03-23",
                 "productioncode": "",
                 "rating": 9.0,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 7860.0
                 },
                 "runtime": 7860,
                 "season": -1,
@@ -233,7 +234,6 @@
                 ],
                 "country": [],
                 "customproperties": {
-                    "available_releases": "Theatrical",
                     "budget": "$0",
                     "cast": "Joe Bonamassa / Eric Clapton / Paul Jones / Rick Melick / Carmine Rojas / Bogie Bowles / Anton Fig / Lee Thornburg / Sean Freeman / Michael Feltham",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=36973&ignore_default=true)",
@@ -264,12 +264,11 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "bassman22pu",
                     "param.widget": "True",
-                    "popularity": "1.355",
-                    "provider.link": "https://www.themoviedb.org/movie/36973-joe-bonamassa-live-from-the-royal-albert-hall/watch?locale=US",
-                    "providers": "Apple iTunes / Amazon Video",
+                    "popularity": "0.618",
+                    "provider.link": "https://www.themoviedb.org/movie/36973-joe-bonamassa-live-from-the-royal-albert-hall/watch?locale=FR",
+                    "providers": "Apple iTunes",
                     "revenue": "$0",
                     "slug_id": "joe-bonamassa-live-from-the-royal-albert-hall-2009",
-                    "theatrical_release": "2009-10-06",
                     "tmdb_id": "36973",
                     "tmdb_rating": "3.2",
                     "tmdb_type": "movie",
@@ -289,24 +288,24 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "tt2120781",
                 "label": "Joe Bonamassa: Live from the Royal Albert Hall",
                 "lastmodified": "",
                 "lastplayed": "",
                 "mimetype": "application/octet-stream",
-                "mpaa": "Rated NR",
+                "mpaa": "",
                 "originaltitle": "Joe Bonamassa: Live from the Royal Albert Hall",
                 "playcount": 0,
-                "plot": "Award-winning blues rock star, guitar hero and singer-songwriter Joe Bonamassa's new release, Joe Bonamassa Live From The Royal Albert Hall, a 2-DVD live set, just made it s debut at #6 on Billboard Magazine s Top Music DVD Chart and #10 on the Top Blues Album Chart. The film, released on October 6 by Bonamassa s record company J&R Adventures, captures the intensity and excitement of the May 2009 show that marked Bonamassa s headlining debut at arguably the most prestigious concert venue in the world. May 4, 2009 was a day 20 years in the making, says Bonamassa. I have never been so honored in my life. It was truly larger than the sum of its parts.",
+                "plot": "",
                 "plotoutline": "",
                 "premiered": "2009-10-06",
                 "productioncode": "",
-                "rating": 3.1670000553131104,
+                "rating": 3.200000047683716,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 13800.0
                 },
                 "runtime": 13800,
                 "season": -1,
@@ -349,8 +348,8 @@
                 "album": "",
                 "art": {
                     "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2feawj8eDuyAmqmpgFcvXLeX9oZ1F.jpg/",
-                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fvkQms3WQ5iUMhOJYwtxO92TKogP.jpg/",
-                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fvkQms3WQ5iUMhOJYwtxO92TKogP.jpg/"
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ffRXgKRACuuWu3nkYATYCWywxEt5.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ffRXgKRACuuWu3nkYATYCWywxEt5.jpg/"
                 },
                 "artist": [],
                 "cast": [
@@ -368,8 +367,7 @@
                     {
                         "name": "Doyle Bramhall II",
                         "order": 2,
-                        "role": "Himself",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fhyvh1fPEEkaYdJa6ArtKRy3jJw1.jpg/"
+                        "role": "Himself"
                     },
                     {
                         "name": "Chris Stainton",
@@ -387,7 +385,6 @@
                     "United States of America"
                 ],
                 "customproperties": {
-                    "available_releases": "Theatrical",
                     "budget": "$0",
                     "cast": "Eric Clapton / Derek Trucks / Doyle Bramhall II / Chris Stainton / J.J. Cale",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=446863&ignore_default=true)",
@@ -417,13 +414,10 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "bassman22pu",
                     "param.widget": "True",
-                    "popularity": "2.345",
-                    "provider.link": "https://www.themoviedb.org/movie/446863-eric-clapton-live-in-san-diego-with-special-guest-jj-cale/watch?locale=US",
-                    "providers": "Amazon Video / Google Play Movies / YouTube",
+                    "popularity": "1.746",
                     "revenue": "$0",
                     "slug_id": "eric-clapton-live-in-san-diego-with-special-guest-jj-cale-2017",
                     "studio": "Reprise Records",
-                    "theatrical_release": "2017-03-10",
                     "tmdb_id": "446863",
                     "tmdb_rating": "5.8",
                     "tmdb_type": "movie",
@@ -440,7 +434,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "",
                 "label": "Eric Clapton: Live In San Diego (with Special Guest JJ Cale)",
@@ -450,14 +444,14 @@
                 "mpaa": "",
                 "originaltitle": "Eric Clapton: Live In San Diego (with Special Guest JJ Cale)",
                 "playcount": 0,
-                "plot": "On March 15, 2007, Eric Clapton's world tour stopped at San Diego's iPayOne Center (originally the San Diego Sports Arena and now the Valley View Casino Center). The band lineup for the tour continues to be a firm fan-favorite, with Derek Trucks and Doyle Bramhall II on guitars, Chris Stainton and Tim Carmon on keyboards, Willie Weeks on bass, Steve Jordan on drums and backing vocalists Michelle John and Sharon White During the set, EC's long-time musical inspiration, JJ Cale, sat in for five songs, including three from their Grammy-Award winning album, The Road To Escondido, released in 2006.",
+                "plot": "Synopsis  Enregistr\u00e9 le 15 mars 2007, ce Live In San Diego fait partie d'une tourn\u00e9e mondiale particuli\u00e8rement appr\u00e9ci\u00e9e des fans d'Eric Clapton. Ce concert propose une superbe setlist retra\u00e7ant sa carri\u00e8re, en compagnie de musiciens stellaires tels les guitaristes Derek Trucks (du groupe Tedeschi Trucks) et Doyle Bramhall II. Inclus deux heures de performances remarquables avec la pr\u00e9sence exceptionnelle de JJ Cale sur 5 titres (dont \"After Midnight\" et \"Cocaine\") et celle de Robert Cray sur \"Crossroads\" et en bonus les r\u00e9p\u00e9titions d'Anyway.",
                 "plotoutline": "",
                 "premiered": "2017-03-10",
                 "productioncode": "",
                 "rating": 5.800000190734863,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 6300.0
                 },
                 "runtime": 6300,
                 "season": -1,
@@ -596,7 +590,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "bassman22pu",
                     "param.widget": "True",
-                    "popularity": "0.657",
+                    "popularity": "0.6",
                     "revenue": "$0",
                     "slug_id": "joe-bonamassa-live-at-the-greek-theatre-2016",
                     "studio": "Provogue Records",
@@ -618,7 +612,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "",
                 "label": "Joe Bonamassa: Live at the Greek Theatre",
@@ -628,16 +622,16 @@
                 "mpaa": "",
                 "originaltitle": "Joe Bonamassa: Live at the Greek Theatre",
                 "playcount": 0,
-                "plot": "01. Beginnings  02. See See Baby  03. Some Other Day, Some Other Time  04. Lonesome Whistle Blues  05. Sittin' On The Boat Dock  06. You\u2019ve Got To Love Her With A Feeling  07. Going Down  08. I'll Play The Blues For You  09. I Get Evil  10. Breaking Up Somebody's Home  11. Angel Of Mercy  12. Cadillac Assembly Line  13. Oh, Pretty Woman  14. Let The Good Times Roll  15. Never Make Your Move Too Soon  16. Ole Time Religion  17. Nobody Loves Me But My Mother  18. Boogie Woogie Woman  19. Hummingbird  20. Hide Away  21. Born Under A Bad Sign  22. The Thrill Is Gone  23. Riding With The Kings (Credits)",
+                "plot": "La star du Blues made in 21th century, Joe Bonamassa, rend un \u00e9norme hommage aux trois rois du Blues du 20\u00e8me si\u00e8cle, Albert King, B.B. King et Freddie King en double CD, double DVD, Blu-ray, triple vinyle ! Ce qui nous offre 22 titres et plus de 2 heures de musique.  Enregistr\u00e9 en 2015 au Greek Theatre de Los Angeles, ce live reprend les meilleurs morceaux des Kings du blues : \"The Thrill Is Gone\" de B.B. King, mentor et ami de Bonamassa, \"Born Under A Bad Sign\",\"Lonesome Whistle Blues\", \"Hummingbird\"...  C'est aussi un hommage aux guitares de l\u00e9gende, Bonamassa utilise avec brio quatre Gibson ES, une Gibson Les Paul, une Gibson Flying V, deux nouvelles Gibson Custom Shop, deux Fender Strats et une Dan Erlewine custom Flying V nomm\u00e9e \u00ab Lucy, \u00bb datant de 1972 et qui appartient \u00e0 Steven Seagal .",
                 "plotoutline": "",
                 "premiered": "2016-09-23",
                 "productioncode": "",
                 "rating": 7.0,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 8220.0
                 },
-                "runtime": 0,
+                "runtime": 8220,
                 "season": -1,
                 "set": "",
                 "setid": -1,
@@ -686,17 +680,207 @@
                     {
                         "name": "Eric Clapton",
                         "order": 0,
-                        "role": "Himself",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fxAt8X2SzU4gghOyf8xjPPknHNyv.jpg/"
+                    },
+                    {
+                        "name": "Blake Mills",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Booker T. Jones",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Buddy Guy",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f9J2mWgbZ39QCRASLKtiTeQV23Wr.jpg/"
+                    },
+                    {
+                        "name": "Derek Trucks",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Doyle Bramhall II",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Gary Clark Jr.",
+                        "order": 6,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fw0ePaQi3UUOaejzNGmHpc2V87lK.jpg/"
+                    },
+                    {
+                        "name": "Gregg Allman",
+                        "order": 7,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2faf4x6C09lXLzXRw8L97xmXFlLWT.jpg/"
+                    },
+                    {
+                        "name": "Jeff Beck",
+                        "order": 8,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fX16Bn8VOBYiLenre7ufN7Kzdi.jpg/"
+                    },
+                    {
+                        "name": "John Mayer",
+                        "order": 9,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fj6W5imosdIvPQ2PLZCRMlKiIy4h.jpg/"
+                    },
+                    {
+                        "name": "Keith Richards",
+                        "order": 10,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ft1oa5UsJMmrhNqCIks4jQnAYSQT.jpg/"
+                    },
+                    {
+                        "name": "Keith Urban",
+                        "order": 11,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f6jB3gPO4yhdr24iqLjNS1Nw83SL.jpg/"
+                    },
+                    {
+                        "name": "Los Lobos",
+                        "order": 12,
+                        "role": ""
+                    },
+                    {
+                        "name": "Robert Cray",
+                        "order": 13,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2furFJxPChtAaaz4b2MmlPSeVwNnN.jpg/"
+                    },
+                    {
+                        "name": "Sonny Landreth",
+                        "order": 14,
+                        "role": ""
+                    },
+                    {
+                        "name": "Vince Gill",
+                        "order": 15,
+                        "role": ""
+                    },
+                    {
+                        "name": "Warren Haynes",
+                        "order": 16,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fdMvZ9E5v3wVq7hirdtdYuMlfgf.jpg/"
+                    },
+                    {
+                        "name": "Paul Carrack",
+                        "order": 17,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fkxjGYVkeFInefgNGIAO3pzqokpR.jpg/"
+                    },
+                    {
+                        "name": "Citizen Cope",
+                        "order": 18,
+                        "role": ""
+                    },
+                    {
+                        "name": "Steve Cropper",
+                        "order": 19,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fbpM7BVFPrnasFEecozKmeI34714.jpg/"
+                    },
+                    {
+                        "name": "Andy Fairweather-Low",
+                        "order": 20,
+                        "role": ""
+                    },
+                    {
+                        "name": "Beth Hart",
+                        "order": 21,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f7ylG2gNnOXvieNupT0Mq5ZP6AN.jpg/"
+                    },
+                    {
+                        "name": "B.B. King",
+                        "order": 22,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fyKZKHoX5AKZr2paJpYWaeYq0RuW.jpg/"
+                    },
+                    {
+                        "name": "Earl Klugh",
+                        "order": 23,
+                        "role": ""
+                    },
+                    {
+                        "name": "Albert Lee",
+                        "order": 24,
+                        "role": ""
+                    },
+                    {
+                        "name": "Taj Mahal",
+                        "order": 25,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fq8essPzbetB5NFX0KkaaQdmnMmS.jpg/"
+                    },
+                    {
+                        "name": "Keb' Mo'",
+                        "order": 26,
+                        "role": ""
+                    },
+                    {
+                        "name": "Matt \"Guitar\" Murphy",
+                        "order": 27,
+                        "role": ""
+                    },
+                    {
+                        "name": "Robert Randolph",
+                        "order": 28,
+                        "role": ""
+                    },
+                    {
+                        "name": "Robbie Robertson",
+                        "order": 29,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fpUhQhGrerErQGZKy0kKn6e6m1X7.jpg/"
+                    },
+                    {
+                        "name": "Kurt Rosenwinkel",
+                        "order": 30,
+                        "role": ""
+                    },
+                    {
+                        "name": "Alice Smith",
+                        "order": 31,
+                        "role": ""
+                    },
+                    {
+                        "name": "Quinn Sullivan",
+                        "order": 32,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2faK10XY2xc8vbQFw5hgp7S4dCWdD.jpg/"
+                    },
+                    {
+                        "name": "Jimmie Vaughan",
+                        "order": 33,
+                        "role": ""
+                    },
+                    {
+                        "name": "Tal Wilkenfeld",
+                        "order": 34,
+                        "role": ""
+                    },
+                    {
+                        "name": "Johnny Radelat",
+                        "order": 35,
+                        "role": ""
                     }
                 ],
                 "country": [
                     "United States of America"
                 ],
                 "customproperties": {
-                    "available_releases": "Theatrical",
                     "budget": "$0",
-                    "cast": "Eric Clapton",
+                    "cast": "Eric Clapton / Blake Mills / Booker T. Jones / Buddy Guy / Derek Trucks / Doyle Bramhall II / Gary Clark Jr. / Gregg Allman / Jeff Beck / John Mayer / Keith Richards / Keith Urban / Los Lobos / Robert Cray / Sonny Landreth / Vince Gill / Warren Haynes / Paul Carrack / Citizen Cope / Steve Cropper / Andy Fairweather-Low / Beth Hart / B.B. King / Earl Klugh / Albert Lee / Taj Mahal / Keb' Mo' / Matt \"Guitar\" Murphy / Robert Randolph / Robbie Robertson / Kurt Rosenwinkel / Alice Smith / Quinn Sullivan / Jimmie Vaughan / Tal Wilkenfeld / Johnny Radelat",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=238470&ignore_default=true)",
                     "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=238470)",
                     "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=238470)",
@@ -725,13 +909,14 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "bassman22pu",
                     "param.widget": "True",
-                    "popularity": "0.896",
-                    "provider.link": "https://www.themoviedb.org/movie/238470-eric-clapton-s-crossroads-guitar-festival-2013/watch?locale=US",
-                    "providers": "Apple iTunes",
+                    "popularity": "1.195",
                     "revenue": "$0",
+                    "set.fanart": "",
+                    "set.name": "Crossroads Guitar Festival Collection",
+                    "set.poster": "https://image.tmdb.org/t/p/w500/j52QAw4rar3mxUAHrsqtJPNbZhq.jpg",
+                    "set.tmdb_id": "1073874",
                     "slug_id": "eric-clapton-s-crossroads-guitar-festival-2013-2013",
                     "studio": "Parallel 28 Equipe",
-                    "theatrical_release": "2013-11-19",
                     "tmdb_id": "238470",
                     "tmdb_rating": "5.9",
                     "tmdb_type": "movie",
@@ -750,7 +935,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "tt3108322",
                 "label": "Eric Clapton's Crossroads Guitar Festival 2013",
@@ -760,18 +945,18 @@
                 "mpaa": "",
                 "originaltitle": "Eric Clapton's Crossroads Guitar Festival 2013",
                 "playcount": 0,
-                "plot": "This documentary captures some of the performances  from the 2013 edition of Eric Clapton's Crossroads  Guitar Festival.",
+                "plot": "Documentaire sur l'\u00e9dition 2013 du Crossroads Guitar Festival de Eric Clapton.",
                 "plotoutline": "",
                 "premiered": "2013-11-19",
                 "productioncode": "",
                 "rating": 5.900000095367432,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 17340.0
                 },
                 "runtime": 17340,
                 "season": -1,
-                "set": "",
+                "set": "Crossroads Guitar Festival Collection",
                 "setid": -1,
                 "showlink": [],
                 "showtitle": "",
@@ -826,7 +1011,8 @@
                     {
                         "name": "Roger Glover",
                         "order": 1,
-                        "role": "Himself"
+                        "role": "Himself",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fjxJu9RZ1PwqlkwQiABwT3keoOKK.jpg/"
                     },
                     {
                         "name": "Ian Paice",
@@ -891,7 +1077,9 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "bassman22pu",
                     "param.widget": "True",
-                    "popularity": "0.891",
+                    "popularity": "0.918",
+                    "provider.link": "https://www.themoviedb.org/movie/451711-deep-purple-from-here-to-infinite/watch?locale=FR",
+                    "providers": "Apple iTunes",
                     "revenue": "$0",
                     "slug_id": "deep-purple-from-here-to-infinite-2017",
                     "tmdb_id": "451711",
@@ -910,8 +1098,8 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Documentary",
-                    "Music"
+                    "Documentaire",
+                    "Musique"
                 ],
                 "imdbnumber": "tt6545506",
                 "label": "Deep Purple: From Here To Infinite",
@@ -921,14 +1109,14 @@
                 "mpaa": "",
                 "originaltitle": "Deep Purple: From Here To Infinite",
                 "playcount": 0,
-                "plot": "Feature length documentary about the story behind the pioneering and influential British heavy metal band as they enter the studio to record their new album.",
+                "plot": "",
                 "plotoutline": "",
                 "premiered": "2017-03-16",
                 "productioncode": "",
                 "rating": 7.800000190734863,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 5820.0
                 },
                 "runtime": 5820,
                 "season": -1,
@@ -1040,7 +1228,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "bassman22pu",
                     "param.widget": "True",
-                    "popularity": "1.4",
+                    "popularity": "1.056",
                     "revenue": "$0",
                     "slug_id": "beth-hart-joe-bonamassa-live-in-amsterdam-2014",
                     "tmdb_id": "260694",
@@ -1059,7 +1247,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "",
                 "label": "Beth Hart & Joe Bonamassa - Live in Amsterdam",
@@ -1069,14 +1257,14 @@
                 "mpaa": "",
                 "originaltitle": "Beth Hart & Joe Bonamassa - Live in Amsterdam",
                 "playcount": 0,
-                "plot": "Against the stunning backdrop of the Koninklijk Theater Carr\u00e9 in Amsterdam, blues-rock vocalist Beth Hart and world-renowned guitar hero Bonamassa are on blistering form, turning in an awe-inspiring set of scorching soul covers taken from their 2011 debut album \u201cDon\u2019t Explain\u201d and the 2013 follow-up \u201cSeesaw\u201d, which was Grammy-nominated in the \u201cBest Blues Album\u201d category.",
+                "plot": "Dans le cadre \u00e9poustouflant du Koninklijk Theatre Carr\u00e9 d'Amsterdam, la chanteuse de blues-rock Beth Hart et le guitar hero de renomm\u00e9e mondiale Bonamassa sont sous une forme \u00e9poustouflante, tournant dans un ensemble impressionnant de reprises de soul br\u00fblantes tir\u00e9es de leur premier album de 2011 \u00abDon ' t Explain \u00bbet le suivi de 2013\u00ab Seesaw \u00bb, nomin\u00e9 aux Grammy Awards dans la cat\u00e9gorie\u00ab Meilleur album de blues \u00bb.",
                 "plotoutline": "",
                 "premiered": "2014-03-23",
                 "productioncode": "",
-                "rating": 5.833000183105469,
+                "rating": 5.800000190734863,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 6840.0
                 },
                 "runtime": 6840,
                 "season": -1,
@@ -1173,7 +1361,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "",
                 "label": "Deep Purple: Live In Paris 1985",
@@ -1183,14 +1371,14 @@
                 "mpaa": "",
                 "originaltitle": "Deep Purple: Live In Paris 1985",
                 "playcount": 0,
-                "plot": "Rockpalast Classics presents Deep Purple Live At Omnisports Paris, July 9th 1985.  1. Intro 2. Highway Star 3. Nobody's Home 4. Strange Kind Of Woman 5. A Gypsy's Kiss 6. Perfect Strangers  7. Under The Gun 8. Lazy 9. Knocking At Your Backdoor 10. Beethoven's 9th 11. Space Truckin' 12. Woman From Tokyo 13. Black Light 14. Smoke On The Water  Deep Purple are: Ian Gillan - Vocals / Ritchie Blackmore - Guitars / Jon Lord - Keyboards / Roger Glover - Bass / Ian Paice - Drums",
+                "plot": "",
                 "plotoutline": "",
                 "premiered": "1985-07-09",
                 "productioncode": "",
                 "rating": 0.0,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 6060.0
                 },
                 "runtime": 6060,
                 "season": -1,
@@ -1246,7 +1434,6 @@
                 ],
                 "country": [],
                 "customproperties": {
-                    "available_releases": "Theatrical",
                     "budget": "$0",
                     "cast": "Joe Bonamassa",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=258411&ignore_default=true)",
@@ -1276,10 +1463,9 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "bassman22pu",
                     "param.widget": "True",
-                    "popularity": "0.6",
+                    "popularity": "0.737",
                     "revenue": "$0",
                     "slug_id": "rock-candy-funk-party-takes-new-york-live-at-the-iridium-2014",
-                    "theatrical_release": "2014-02-25",
                     "tmdb_id": "258411",
                     "tmdb_rating": "4.2",
                     "tmdb_type": "movie",
@@ -1296,7 +1482,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "",
                 "label": "Rock Candy Funk Party Takes New York: Live at the Iridium",
@@ -1306,14 +1492,14 @@
                 "mpaa": "",
                 "originaltitle": "Rock Candy Funk Party Takes New York: Live at the Iridium",
                 "playcount": 0,
-                "plot": "With its reboot of classic 70's / 80's jazz-funk, Rock Candy Funk Party (RCFP) delivers a sound that is as celebratory as the name suggests. The group is powered by a lineup of world renowned players who came together for the sheer fun of making music and a mutual love of genre-blurring grooves. They are: album producer Tal Bergman (drums), Joe Bonamassa (guitar), Ron DeJesus (guitar), Mike Merritt (bass) and Renato Neto (keys)",
+                "plot": "",
                 "plotoutline": "",
                 "premiered": "2014-02-25",
                 "productioncode": "",
                 "rating": 4.199999809265137,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 6000.0
                 },
                 "runtime": 6000,
                 "season": -1,
@@ -1379,7 +1565,6 @@
                 ],
                 "country": [],
                 "customproperties": {
-                    "available_releases": "TV",
                     "budget": "$0",
                     "cast": "Jimi Hendrix / Billy Cox / Mitch Mitchell",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=356167&ignore_default=true)",
@@ -1388,7 +1573,7 @@
                     "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=356167)",
                     "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=356167)",
                     "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=356167)",
-                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Jimi Hendrix: Electric Church,tmdb_type=movie,tmdb_id=356167)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Jimi Hendrix : Electric Church,tmdb_type=movie,tmdb_id=356167)",
                     "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
                     "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
                     "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
@@ -1410,17 +1595,16 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "bassman22pu",
                     "param.widget": "True",
-                    "popularity": "2.468",
-                    "provider.link": "https://www.themoviedb.org/movie/356167-jimi-hendrix-electric-church/watch?locale=US",
-                    "providers": "Apple iTunes / Amazon Video / Google Play Movies / YouTube / Microsoft Store",
+                    "popularity": "0.961",
+                    "provider.link": "https://www.themoviedb.org/movie/356167-jimi-hendrix-electric-church/watch?locale=FR",
+                    "providers": "Apple iTunes",
                     "revenue": "$0",
                     "slug_id": "jimi-hendrix-electric-church-2015",
                     "tmdb_id": "356167",
                     "tmdb_rating": "7.3",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "8",
+                    "tmdb_votes": "9",
                     "trakt_id": "222667",
-                    "tv_release": "2015-09-04",
                     "widget": "Concerts"
                 },
                 "dateadded": "",
@@ -1434,25 +1618,25 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Documentary",
-                    "Music"
+                    "Documentaire",
+                    "Musique"
                 ],
                 "imdbnumber": "tt5217608",
-                "label": "Jimi Hendrix: Electric Church",
+                "label": "Jimi Hendrix : Electric Church",
                 "lastmodified": "",
                 "lastplayed": "",
                 "mimetype": "application/octet-stream",
                 "mpaa": "",
                 "originaltitle": "Jimi Hendrix: Electric Church",
                 "playcount": 0,
-                "plot": "This documentary unveils previously unseen footage of Jimi Hendrix's seminal performance at the 1970 Atlanta Pop Festival playing his greatest hits in front of 300,000 people. With interviews from Hendrix and his fellow musicians, including Paul McCartney and Mitch Mitchell, the insight they provide casts a new light into the musician's personality and genius at the juncture of this important cultural gathering, hailed as the 'Southern Woodstock'.",
+                "plot": "Jimi Hendrix Electric Church (titre provenant d'une expression de Hendrix pour d\u00e9signer la musique qui parle directement \u00e0 l'\u00e2me). Deux mois avant sa mort \u00e0 Londres en 1970, le 4 juillet Jimi Hendrix enflammait la sc\u00e8ne de l'Atlanta Pop Festival, une manifestation plus grande que Woodstock. Ce jour-l\u00e0, le guitariste se produisait devant plus de 300 000 spectateurs, faisant de ce concert son plus important en terme d\u2019audience sur le territoire am\u00e9ricain. Un festival d'images in\u00e9dites \u00e0 d\u00e9couvrir.",
                 "plotoutline": "",
                 "premiered": "2015-09-04",
                 "productioncode": "",
                 "rating": 7.300000190734863,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 5340.0
                 },
                 "runtime": 5340,
                 "season": -1,
@@ -1473,7 +1657,7 @@
                 "tag": [],
                 "tagline": "",
                 "thumbnail": "",
-                "title": "Jimi Hendrix: Electric Church",
+                "title": "Jimi Hendrix : Electric Church",
                 "top250": 0,
                 "track": -1,
                 "trailer": "",
@@ -1487,7 +1671,7 @@
                     "unknown": "tt5217608"
                 },
                 "userrating": 0,
-                "votes": "8",
+                "votes": "9",
                 "writer": [],
                 "year": 2015
             },
@@ -1496,7 +1680,6 @@
                 "art": {
                     "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fm9gUqBG10Vr8BXtYTxbXPQFSfft.jpg/",
                     "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fw13w6ahraTtKwsVlvyF3W4hBicg.jpg/",
-                    "landscape": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fm9gUqBG10Vr8BXtYTxbXPQFSfft.jpg/",
                     "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fw13w6ahraTtKwsVlvyF3W4hBicg.jpg/"
                 },
                 "artist": [],
@@ -1504,90 +1687,88 @@
                     {
                         "name": "Eric Clapton",
                         "order": 0,
-                        "role": "Self",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fxAt8X2SzU4gghOyf8xjPPknHNyv.jpg/"
                     },
                     {
                         "name": "Robert Cray",
                         "order": 1,
-                        "role": "Self",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2furFJxPChtAaaz4b2MmlPSeVwNnN.jpg/"
                     },
                     {
                         "name": "Joe Walsh",
                         "order": 2,
-                        "role": "Self",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f2cihrXQeODd0JiYd78IVu9whHW.jpg/"
                     },
                     {
                         "name": "Larry Carlton",
                         "order": 3,
-                        "role": "Self"
+                        "role": ""
                     },
                     {
                         "name": "Steve Vai",
                         "order": 4,
-                        "role": "Self",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ffnXN8KGFMjAZ9aI5N7GpZBVBVMs.jpg/"
                     },
                     {
                         "name": "Jonny Lang",
                         "order": 5,
-                        "role": "Self",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f8JsuvtIlnMVknntqxRtL2EGcN1M.jpg/"
                     },
                     {
                         "name": "Carlos Santana",
                         "order": 6,
-                        "role": "Self",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fhphAanWETS2h42G7mx4QLzV2w0s.jpg/"
                     },
                     {
                         "name": "J.J. Cale",
                         "order": 7,
-                        "role": "Self",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2feHYyuRJNaJHLAwGxZCJhwsLRY1D.jpg/"
                     },
                     {
                         "name": "James Taylor",
                         "order": 8,
-                        "role": "Self",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fz2cFkO0XP2zXXdlVK97WOY2nZBC.jpg/"
                     },
                     {
                         "name": "Buddy Guy",
                         "order": 9,
-                        "role": "Self",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f9J2mWgbZ39QCRASLKtiTeQV23Wr.jpg/"
                     },
                     {
                         "name": "Jimmie Vaughan",
                         "order": 10,
-                        "role": "Self",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f5fDNvlMCXNCXhT7POHfholwoI74.jpg/"
+                        "role": ""
                     },
                     {
                         "name": "B.B. King",
                         "order": 11,
-                        "role": "Self",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fyKZKHoX5AKZr2paJpYWaeYq0RuW.jpg/"
                     },
                     {
                         "name": "Eric Johnson",
                         "order": 12,
-                        "role": "Self",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f3uPAti9td96t5xeFvIpj2FmeOLl.jpg/"
+                        "role": ""
                     },
                     {
                         "name": "Billy Gibbons",
                         "order": 13,
-                        "role": "Self",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fskJrc3ls3z79mh4vxIAWvLi5MUb.jpg/"
                     },
                     {
                         "name": "Vince Gill",
                         "order": 14,
-                        "role": "Self",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2flECxxuWpwtZiXkdE6MUjgVfFHRZ.jpg/"
                     }
                 ],
@@ -1595,7 +1776,6 @@
                     "United States of America"
                 ],
                 "customproperties": {
-                    "available_releases": "Theatrical",
                     "budget": "$0",
                     "cast": "Eric Clapton / Robert Cray / Joe Walsh / Larry Carlton / Steve Vai / Jonny Lang / Carlos Santana / J.J. Cale / James Taylor / Buddy Guy / Jimmie Vaughan / B.B. King / Eric Johnson / Billy Gibbons / Vince Gill",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=247378&ignore_default=true)",
@@ -1604,7 +1784,7 @@
                     "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=247378)",
                     "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=247378)",
                     "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=247378)",
-                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Eric Clapton's Crossroads Guitar Festival 2004,tmdb_type=movie,tmdb_id=247378)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Eric Clapton : Crossroads Guitar Festival 2004,tmdb_type=movie,tmdb_id=247378)",
                     "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
                     "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
                     "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
@@ -1625,11 +1805,14 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "bassman22pu",
                     "param.widget": "True",
-                    "popularity": "1.857",
+                    "popularity": "1.804",
                     "revenue": "$0",
+                    "set.fanart": "",
+                    "set.name": "Crossroads Guitar Festival Collection",
+                    "set.poster": "https://image.tmdb.org/t/p/w500/j52QAw4rar3mxUAHrsqtJPNbZhq.jpg",
+                    "set.tmdb_id": "1073874",
                     "slug_id": "eric-clapton-s-crossroads-guitar-festival-2004-2004",
                     "studio": "Crossroads Films",
-                    "theatrical_release": "2004-06-03",
                     "tmdb_id": "247378",
                     "tmdb_rating": "6.0",
                     "tmdb_type": "movie",
@@ -1648,28 +1831,28 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "",
-                "label": "Eric Clapton's Crossroads Guitar Festival 2004",
+                "label": "Eric Clapton : Crossroads Guitar Festival 2004",
                 "lastmodified": "",
                 "lastplayed": "",
                 "mimetype": "application/octet-stream",
                 "mpaa": "",
                 "originaltitle": "Eric Clapton's Crossroads Guitar Festival 2004",
                 "playcount": 0,
-                "plot": "Eric Clapton's Crossroads Guitar Festival 2004  Recorded Live at the Cotton Bowl, Dallas, Texas",
+                "plot": "Edition 2004 du festival organis\u00e9 par Eric Clapton pour son association Crossroads. Ce DVD a \u00e9t\u00e9 enregistr\u00e9 pendant les 3 jours de festival en juin 2004 au Cotton Bowl de Dallas.",
                 "plotoutline": "",
                 "premiered": "2004-06-03",
                 "productioncode": "",
                 "rating": 6.0,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 12600.0
                 },
                 "runtime": 12600,
                 "season": -1,
-                "set": "",
+                "set": "Crossroads Guitar Festival Collection",
                 "setid": -1,
                 "showlink": [],
                 "showtitle": "",
@@ -1688,7 +1871,7 @@
                 "tag": [],
                 "tagline": "",
                 "thumbnail": "",
-                "title": "Eric Clapton's Crossroads Guitar Festival 2004",
+                "title": "Eric Clapton : Crossroads Guitar Festival 2004",
                 "top250": 0,
                 "track": -1,
                 "trailer": "",
@@ -1707,8 +1890,14 @@
             {
                 "album": "",
                 "art": {
+                    "banner": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f137366%2fmoviebanner%2fled-zeppelin-celebration-day-53ddcf4654474.jpg/",
+                    "clearart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f137366%2fhdmovieclearart%2fled-zeppelin-celebration-day-5209632545a85.png/",
+                    "clearlogo": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f137366%2fhdmovielogo%2fled-zeppelin-celebration-day-51ddeae81df46.png/",
+                    "discart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f137366%2fmoviedisc%2fled-zeppelin-celebration-day-53c62c45e6761.png/",
                     "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f4vfMIeUw0yLpXcpZMUG6PH55GIn.jpg/",
+                    "fanart1": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f137366%2fmoviebackground%2fled-zeppelin-celebration-day-50cb5b0b621a9.jpg/",
                     "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f2xVMTx1aqSgFBTFf6vuRNlmv9xR.jpg/",
+                    "landscape": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f137366%2fmoviethumb%2fled-zeppelin-celebration-day-584b156166318.jpg/",
                     "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f2xVMTx1aqSgFBTFf6vuRNlmv9xR.jpg/"
                 },
                 "artist": [],
@@ -1750,7 +1939,7 @@
                     "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=137366)",
                     "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=137366)",
                     "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=137366)",
-                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Led Zeppelin: Celebration Day,tmdb_type=movie,tmdb_id=137366)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Led Zeppelin : Celebration Day,tmdb_type=movie,tmdb_id=137366)",
                     "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
                     "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
                     "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
@@ -1772,13 +1961,13 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "bassman22pu",
                     "param.widget": "True",
-                    "popularity": "6.638",
-                    "provider.link": "https://www.themoviedb.org/movie/137366-led-zeppelin-celebration-day/watch?locale=US",
+                    "popularity": "6.444",
+                    "provider.link": "https://www.themoviedb.org/movie/137366-led-zeppelin-celebration-day/watch?locale=FR",
                     "providers": "Apple iTunes",
                     "revenue": "$10,000,000",
                     "slug_id": "led-zeppelin-celebration-day-2012",
                     "studio": "Three P Films Limited",
-                    "theatrical_release": "2012-11-19",
+                    "theatrical_release": "2012-10-18",
                     "tmdb_id": "137366",
                     "tmdb_rating": "8.0",
                     "tmdb_type": "movie",
@@ -1797,24 +1986,24 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "tt2414166",
-                "label": "Led Zeppelin: Celebration Day",
+                "label": "Led Zeppelin : Celebration Day",
                 "lastmodified": "",
                 "lastplayed": "",
                 "mimetype": "application/octet-stream",
-                "mpaa": "Rated G",
+                "mpaa": "",
                 "originaltitle": "Led Zeppelin: Celebration Day",
                 "playcount": 0,
-                "plot": "On 10th December 2007, Led Zeppelin took the stage at London's O2 Arena to headline a tribute concert for dear friend and Atlantic Records founder Ahmet Ertegun. Founding members John Paul Jones, Jimmy Page and Robert Plant were joined by Jason Bonham, the son of their late drummer John Bonham, to perform 16 songs from their celebrated catalog.",
+                "plot": "Le 10 d\u00e9cembre 2007 reste grav\u00e9 dans la m\u00e9moire de tous les fans de Led Zeppelin. 27 ans apr\u00e8s sa dissolution, les trois membres fondateurs du groupe, Jimmy Page, Robert Plant et John Paul Jones se retrouvaient sur sc\u00e8ne, avec Jason Bonham \u00e0 la batterie, pour un concert donn\u00e9 en hommage au co-fondateur d\u2019Atlantic Records, Ahmet Ertegun, d\u00e9c\u00e9d\u00e9 un an auparavant.",
                 "plotoutline": "",
                 "premiered": "2012-10-17",
                 "productioncode": "",
-                "rating": 8.01200008392334,
+                "rating": 8.0,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 7440.0
                 },
                 "runtime": 7440,
                 "season": -1,
@@ -1837,7 +2026,7 @@
                 "tag": [],
                 "tagline": "",
                 "thumbnail": "",
-                "title": "Led Zeppelin: Celebration Day",
+                "title": "Led Zeppelin : Celebration Day",
                 "top250": 0,
                 "track": -1,
                 "trailer": "plugin://plugin.video.youtube/play/?video_id=VbusDxLekPQ",
@@ -1859,15 +2048,16 @@
                 "album": "",
                 "art": {
                     "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2ft9TIeXc55MZswCyVprsv47iSwYV.jpg/",
-                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2falRCOnNI5cnupNhgJc8kzsz94Ti.jpg/",
-                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2falRCOnNI5cnupNhgJc8kzsz94Ti.jpg/"
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fkMjZvMtrTd33qai2nZcw1NDTwtS.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fkMjZvMtrTd33qai2nZcw1NDTwtS.jpg/"
                 },
                 "artist": [],
                 "cast": [
                     {
                         "name": "Ritchie Blackmore",
                         "order": 0,
-                        "role": "Guitar"
+                        "role": "Guitar",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fdMiEyxI3boBNbeUUZ4yo58FsVgG.jpg/"
                     },
                     {
                         "name": "Ronnie Romero",
@@ -1905,7 +2095,7 @@
                     "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=426762)",
                     "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=426762)",
                     "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=426762)",
-                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Rainbow: Memories in Rock,tmdb_type=movie,tmdb_id=426762)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Rainbow - Memories in Rock,tmdb_type=movie,tmdb_id=426762)",
                     "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
                     "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
                     "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
@@ -1927,9 +2117,9 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "bassman22pu",
                     "param.widget": "True",
-                    "popularity": "1.4",
-                    "provider.link": "https://www.themoviedb.org/movie/426762-rainbow-memories-in-rock/watch?locale=US",
-                    "providers": "Apple iTunes / Amazon Video",
+                    "popularity": "1.953",
+                    "provider.link": "https://www.themoviedb.org/movie/426762-rainbow-memories-in-rock/watch?locale=FR",
+                    "providers": "Apple iTunes",
                     "revenue": "$0",
                     "slug_id": "rainbow-memories-in-rock-2016",
                     "tmdb_id": "426762",
@@ -1950,24 +2140,24 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "tt6171428",
-                "label": "Rainbow: Memories in Rock",
+                "label": "Rainbow - Memories in Rock",
                 "lastmodified": "",
                 "lastplayed": "",
                 "mimetype": "application/octet-stream",
                 "mpaa": "",
                 "originaltitle": "Rainbow: Memories in Rock",
                 "playcount": 0,
-                "plot": "1. Highway Star 2. Spotlight Kid 3. Mistreated 4. 16th Century Greensleeves 5. Since You Been Gone 6. Man On The Silver Mountain 7. Catch The Rainbow 8. Difficult To Cure (Beethoven's Ninth) 9. Perfect Strangers 10. Stargazer 11. Long Live Rock 'n' Roll 12. Child In Time/Woman From Tokyo 13. Black Night 14. Smoke On The Water  In June 2016 legendary guitarist Ritchie Blackmore made his much-anticipated return to rock music as Ritchie Blackmore's Rainbow played three concerts in Europe, two in Germany and one in England. The two German shows at Loreley and Bietigheim-Bissingen were caught on camera to produce this concert film Memories in Rock. The setlist, combining classic tracks from Deep Purple and Rainbow, was exactly what the fans had wished for.",
+                "plot": "En Juin 2016, le l\u00e9gendaire guitariste Ritchie Blackmore  a jou\u00e9 trois concerts en Europe, deux en Allemagne et un en Angleterre. Les deux concerts allemands \u00e0 Loreley et Bietigheim ont \u00e9t\u00e9 film\u00e9s  pour produire \"Memories In Rock - Live In Germany.\"",
                 "plotoutline": "",
                 "premiered": "2016-11-18",
                 "productioncode": "",
                 "rating": 8.800000190734863,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 8340.0
                 },
                 "runtime": 8340,
                 "season": -1,
@@ -1986,9 +2176,9 @@
                 },
                 "studio": [],
                 "tag": [],
-                "tagline": "Monsters of Rock 2016",
+                "tagline": "",
                 "thumbnail": "",
-                "title": "Rainbow: Memories in Rock",
+                "title": "Rainbow - Memories in Rock",
                 "top250": 0,
                 "track": -1,
                 "trailer": "",
@@ -2009,8 +2199,11 @@
             {
                 "album": "",
                 "art": {
-                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fzH2LDkY9u87D79F3gmuIet5bfNr.jpg/",
-                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fzH2LDkY9u87D79F3gmuIet5bfNr.jpg/"
+                    "clearlogo": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fA3YOpXhg6EkU2I6AkeOp0zXMgAO.png/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f4lFnbFxbGXUSE2fi0WkzVRrUjTi.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fsDQy1qblq0Z93ygq0BuPinu4mrQ.jpg/",
+                    "landscape": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2ffWJUUDDbPsxBUEZjz6z61UHrEoU.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fsDQy1qblq0Z93ygq0BuPinu4mrQ.jpg/"
                 },
                 "artist": [],
                 "cast": [
@@ -2035,6 +2228,7 @@
                 ],
                 "country": [],
                 "customproperties": {
+                    "available_releases": "Theatrical",
                     "budget": "$0",
                     "cast": "Lee Ritenour / Dave Grusin / Ivan Lins",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=114437&ignore_default=true)",
@@ -2064,10 +2258,11 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "bassman22pu",
                     "param.widget": "True",
-                    "popularity": "0.6",
+                    "popularity": "0.951",
                     "revenue": "$0",
                     "slug_id": "lee-ritenour-overtime-2005",
                     "studio": "Eagle Rock Entertainment",
+                    "theatrical_release": "2005-01-28",
                     "tmdb_id": "114437",
                     "tmdb_rating": "5.5",
                     "tmdb_type": "movie",
@@ -2079,12 +2274,12 @@
                 "director": [],
                 "episode": -1,
                 "episodeguide": "",
-                "fanart": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f4lFnbFxbGXUSE2fi0WkzVRrUjTi.jpg/",
                 "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=114437",
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "",
                 "label": "Lee Ritenour : Overtime",
@@ -2094,16 +2289,16 @@
                 "mpaa": "",
                 "originaltitle": "Lee Ritenour : Overtime",
                 "playcount": 0,
-                "plot": "Lee Ritenour is one of the world's most renowned jazz guitarists. Initially performing and recording as a sideman with the likes of The Mamas And The Papas, Tony Bennett, Steely Dan, Pink Floyd and Dizzy Gillespie, since 1976 he has been a major solo artist with over 30 albums to his credit. Overtime was filmed in high definition in Enterprise Studios, Burbank in front of a small audience and is a career retrospective of this extraordinary guitarist in which he is accompanied by some of his many collaborators down the years. The concert is split into four distinct sections. The program starts with acoustic jazz and then moves into Brazilian music, followed by Lee's early fusion music and concludes with a set of his most popular tracks from more recent albums. Interviews with the participants are interspersed between the live performances.",
+                "plot": "Cet album m\u00e9lange les plus grands succ\u00e8s de Lee avec quelques cr\u00e9ations nouvelles. Mais cet album n'est pas un best of de plus. Dans cet enregistrement original, Lee s'entoure d'une bande d'amis musiciens de vieille date. Il y a 20 ans d\u00e9j\u00e0, parfois 30, il jouait avec Dave Grusin, Ivan Lins, harvey Mason, Ernie Watts ou Abraham Laboriel.  Depuis chacun a suivi sa propre carri\u00e8re. Dans Overtime, il a r\u00e9uni tout ce beau monde pour  interpr\u00e9ter son r\u00e9pertoire.  L'album retrace 4 grands moments de la carri\u00e8re de Lee, ou 4 grandes sources d'inspiration :  - La p\u00e9riode jazz acoustic  (\u201cBlue in Green\u201d) et l'influence de la musique br\u00e9silienne avec le vocaliste Ivan Lins (\u201cShe Walks the Earth\u201d)  - La p\u00e9riode fusion (\u201cCaptain Fingers,\u201d \u201cNight Rhythms\u201d) avec une tonalit\u00e9 tr\u00e8s californienne.  - L'influence du guitariste noir  Wes Montgomery (\u201cBoss City,\u201d \u201cLil\u2019 Bumpin\u2019\u201d)  - L'hommage au son \" Motown\u201d (la reprise de \u201cPapa Was a Rolling Stone,\u201d avec Chris Botti \u00e0 la trompette).",
                 "plotoutline": "",
                 "premiered": "2005-01-28",
                 "productioncode": "",
                 "rating": 5.5,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 9060.0
                 },
-                "runtime": 10440,
+                "runtime": 9060,
                 "season": -1,
                 "set": "",
                 "setid": -1,
@@ -2208,7 +2403,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "bassman22pu",
                     "param.widget": "True",
-                    "popularity": "1.243",
+                    "popularity": "0.6",
                     "revenue": "$0",
                     "slug_id": "lee-ritenour-mike-stern-live-at-blue-note-tokyo-2012",
                     "studio": "As Is Productions",
@@ -2228,7 +2423,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "",
                 "label": "Lee Ritenour & Mike Stern: Live at Blue Note Tokyo",
@@ -2238,14 +2433,14 @@
                 "mpaa": "",
                 "originaltitle": "Lee Ritenour & Mike Stern: Live at Blue Note Tokyo",
                 "playcount": 0,
-                "plot": "Lee Ritenour & Mike Stern: Live at Blue Note Tokyo movie was released Apr 18, 2012 by the As Is studio.",
+                "plot": "",
                 "plotoutline": "",
                 "premiered": "2012-04-18",
                 "productioncode": "",
                 "rating": 6.0,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 5340.0
                 },
                 "runtime": 5340,
                 "season": -1,
@@ -2364,7 +2559,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "bassman22pu",
                     "param.widget": "True",
-                    "popularity": "0.6",
+                    "popularity": "0.627",
                     "revenue": "$0",
                     "slug_id": "uli-jon-roth-tokyo-tapes-revisited-2016",
                     "studio": "UDR Music",
@@ -2384,7 +2579,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "",
                 "label": "Uli Jon Roth - Tokyo Tapes Revisited",
@@ -2394,14 +2589,14 @@
                 "mpaa": "",
                 "originaltitle": "Uli Jon Roth - Tokyo Tapes Revisited",
                 "playcount": 0,
-                "plot": "01. All Night Long  02. Longing For Fire  03. Crying Days  04. The Sails Of Charon  05. Sun In My Hand  06. Virgin Killer  07. Kojo No Tsuki  08. We'll Burn The Sky  09. In Trance  10. Rainbow Dream Prelude  11. Fly To The Rainbow  12. Top Of The Bill  13. I've Got To Be Free  14. Polar Nights  15. Dark Lady  16. Pictured Life  17. Catch Your Train  18. All Along The Watchtower  19. Little Wing",
+                "plot": "Uli Jon Roth (Ulrich roth) est connu pour \u00eatre le guitariste du groupe de Heavy Metal (Hard Rock) Scorpions de 1974 \u00e0 1978 et le fondateur du groupe Electric Sun. Il est tr\u00e8s certainement l'un des meilleurs guitaristes que Scorpions ait connu.",
                 "plotoutline": "",
                 "premiered": "2016-12-16",
                 "productioncode": "",
                 "rating": 8.0,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 9420.0
                 },
                 "runtime": 9420,
                 "season": -1,
@@ -2443,108 +2638,6 @@
             {
                 "album": "",
                 "art": {
-                    "icon": "image://C%3a%5cKodiTest%5ckodi%2020%20testu2p%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fdefault.png/"
-                },
-                "artist": [],
-                "cast": [],
-                "country": [],
-                "customproperties": {
-                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=129136&ignore_default=true)",
-                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=129136)",
-                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=129136)",
-                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=129136)",
-                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=129136)",
-                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=129136)",
-                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Jimi Hendrix - Jimi Plays Berkeley,tmdb_type=movie,tmdb_id=129136)",
-                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
-                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
-                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
-                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
-                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
-                    "contextmenulabel(5)": "$LOCALIZE[20444]",
-                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
-                    "isplayable": "true",
-                    "item.info": "play",
-                    "item.tmdb_id": "129136",
-                    "item.tmdb_type": "movie",
-                    "item.type": "movie",
-                    "param.info": "trakt_userlist",
-                    "param.list_name": "Concerts",
-                    "param.list_slug": "concerts",
-                    "param.owner": "true",
-                    "param.plugin_category": "Concerts",
-                    "param.user_slug": "bassman22pu",
-                    "param.widget": "True",
-                    "slug_id": "jimi-hendrix-jimi-plays-berkeley-1971",
-                    "tmdb_id": "129136",
-                    "tmdb_type": "movie",
-                    "trakt_id": "88274",
-                    "widget": "Concerts"
-                },
-                "dateadded": "",
-                "director": [],
-                "episode": -1,
-                "episodeguide": "",
-                "fanart": "",
-                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=129136",
-                "filetype": "file",
-                "firstaired": "",
-                "genre": [],
-                "imdbnumber": "",
-                "label": "[COLOR=ffcc0000][I]Jimi Hendrix - Jimi Plays Berkeley[/I][/COLOR]",
-                "lastmodified": "",
-                "lastplayed": "",
-                "mimetype": "application/octet-stream",
-                "mpaa": "",
-                "originaltitle": "",
-                "playcount": 0,
-                "plot": "",
-                "plotoutline": "",
-                "premiered": "",
-                "productioncode": "",
-                "rating": 0.0,
-                "resume": {
-                    "position": 0.0,
-                    "total": 0.0
-                },
-                "runtime": 0,
-                "season": -1,
-                "set": "",
-                "setid": -1,
-                "showlink": [],
-                "showtitle": "",
-                "size": 0,
-                "sorttitle": "",
-                "specialsortepisode": -1,
-                "specialsortseason": -1,
-                "streamdetails": {
-                    "audio": [],
-                    "subtitle": [],
-                    "video": []
-                },
-                "studio": [],
-                "tag": [],
-                "tagline": "",
-                "thumbnail": "",
-                "title": "Jimi Hendrix - Jimi Plays Berkeley",
-                "top250": 0,
-                "track": -1,
-                "trailer": "",
-                "tvshowid": -1,
-                "type": "movie",
-                "uniqueid": {
-                    "slug": "jimi-hendrix-jimi-plays-berkeley-1971",
-                    "tmdb": "129136",
-                    "trakt": "88274"
-                },
-                "userrating": 0,
-                "votes": "0",
-                "writer": [],
-                "year": 1971
-            },
-            {
-                "album": "",
-                "art": {
                     "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fhTmRw80mVWpfS7W9qIDrj9B3don.jpg/",
                     "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f7uH7EFdhkaDUI30CwZUxAZXNrO6.jpg/",
                     "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f7uH7EFdhkaDUI30CwZUxAZXNrO6.jpg/"
@@ -2576,7 +2669,6 @@
                 ],
                 "country": [],
                 "customproperties": {
-                    "available_releases": "Theatrical",
                     "budget": "$0",
                     "cast": "John Mayall / Eric Clapton / Chris Barber / Mick Taylor",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=86585&ignore_default=true)",
@@ -2607,10 +2699,9 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "bassman22pu",
                     "param.widget": "True",
-                    "popularity": "0.6",
+                    "popularity": "1.249",
                     "revenue": "$0",
                     "slug_id": "john-mayall-the-bluesbreakers-and-friends-70th-birthday-concert-2003",
-                    "theatrical_release": "2003-12-09",
                     "tmdb_id": "86585",
                     "tmdb_rating": "7.0",
                     "tmdb_type": "movie",
@@ -2627,24 +2718,24 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "tt1585986",
                 "label": "John Mayall & The Bluesbreakers And Friends: 70th Birthday Concert",
                 "lastmodified": "",
                 "lastplayed": "",
                 "mimetype": "application/octet-stream",
-                "mpaa": "Rated G",
+                "mpaa": "",
                 "originaltitle": "John Mayall & The Bluesbreakers And Friends: 70th Birthday Concert",
                 "playcount": 0,
-                "plot": "Not all that many blues musicians (or any other kind, for that matter) live to 70, so British bandleader John Mayall had good reason to celebrate when he reached that milestone in 2003--and celebrate he did, with the admirable, 137-minute John Mayall and the Bluesbreakers: 70th Birthday Concert to show for it. Mayall, a capable if not exactly stellar singer and multi-instrumentalist, is best known for the many fine players who passed through his band over the years, and Eric Clapton, the most renowned of the lot, is on hand here, as is former Mayall/Rolling Stones guitarist Mick Taylor. Clapton sings several tunes in addition to playing his trademark stinging solos on \"Hideaway\" and \"All Your Love\" (two of the tunes most responsible for the \"Clapton is God\" graffiti seen around London in the '60s), while Taylor is mostly impressive as well.",
+                "plot": "",
                 "plotoutline": "",
                 "premiered": "2003-12-09",
                 "productioncode": "",
                 "rating": 7.0,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 9540.0
                 },
                 "runtime": 9540,
                 "season": -1,
@@ -2689,7 +2780,6 @@
                     "clearlogo": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fiPJA6sgHaFAqEmGA84r2F0h1R4G.png/",
                     "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fpts3WSvG25wUlT1uSSqBJDJ2tNC.jpg/",
                     "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fwRYwZiEomzxadISvnOGPrhw7Yex.jpg/",
-                    "landscape": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fpts3WSvG25wUlT1uSSqBJDJ2tNC.jpg/",
                     "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fwRYwZiEomzxadISvnOGPrhw7Yex.jpg/"
                 },
                 "artist": [],
@@ -2712,7 +2802,7 @@
                     "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=238586)",
                     "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=238586)",
                     "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=238586)",
-                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=George Thorogood & The Destroyers - Live At Montreux 2013,tmdb_type=movie,tmdb_id=238586)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=George Thorogood & The Destroyers - Live At Montreux,tmdb_type=movie,tmdb_id=238586)",
                     "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
                     "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
                     "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
@@ -2733,9 +2823,9 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "bassman22pu",
                     "param.widget": "True",
-                    "popularity": "1.35",
-                    "provider.link": "https://www.themoviedb.org/movie/238586-george-thorogood-the-destroyers-live-at-montreux-2013/watch?locale=US",
-                    "providers": "Amazon Video",
+                    "popularity": "1.071",
+                    "provider.link": "https://www.themoviedb.org/movie/238586-george-thorogood-the-destroyers-live-at-montreux-2013/watch?locale=FR",
+                    "providers": "Apple iTunes / INA  madelen Amazon Channel",
                     "revenue": "$0",
                     "slug_id": "george-thorogood-the-destroyers-live-at-montreux-2013-2013",
                     "studio": "Eagle Rock Entertainment",
@@ -2755,26 +2845,26 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "",
-                "label": "George Thorogood & The Destroyers - Live At Montreux 2013",
+                "label": "George Thorogood & The Destroyers - Live At Montreux",
                 "lastmodified": "",
                 "lastplayed": "",
                 "mimetype": "application/octet-stream",
                 "mpaa": "",
                 "originaltitle": "George Thorogood & The Destroyers - Live At Montreux 2013",
                 "playcount": 0,
-                "plot": "George Thorogood is an American icon. In a career that stretches back to the mid-70's, he and his band The Destroyers have released 16 studio albums with worldwide sales in excess of 15 million. 2013 saw George &amp; The Destroyers make their long-overdue debut at the legendary Montreux Jazz Festival. Performing at an event that had previously played host to many of their musical heroes inspired the band to produce one of their finest performances on a set list that stretched back to their 1977 debut album right up to recent releases.  George Thorogood &amp; The Destroyers deliver a dozen-song set at the 2013 Montreux festival that includes his signature tunes \"One Bourbon, One Scotch, One Beer,\" \"Cocaine Blues,\" and \"Bad to the Bone.\"",
+                "plot": "George Thorogood & The Destroyers livrent un set d'une douzaine de chansons au festival de Montreux 2013 qui comprend ses chansons embl\u00e9matiques \"One Bourbon, One Scotch, One Beer\", \"Cocaine Blues\" et \"Bad to the Bone\".",
                 "plotoutline": "",
                 "premiered": "2013-11-19",
                 "productioncode": "",
                 "rating": 6.400000095367432,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 4800.0
                 },
-                "runtime": 0,
+                "runtime": 4800,
                 "season": -1,
                 "set": "",
                 "setid": -1,
@@ -2795,7 +2885,7 @@
                 "tag": [],
                 "tagline": "",
                 "thumbnail": "",
-                "title": "George Thorogood & The Destroyers - Live At Montreux 2013",
+                "title": "George Thorogood & The Destroyers - Live At Montreux",
                 "top250": 0,
                 "track": -1,
                 "trailer": "",
@@ -2858,7 +2948,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "bassman22pu",
                     "param.widget": "True",
-                    "popularity": "0.6",
+                    "popularity": "0.876",
                     "revenue": "$0",
                     "slug_id": "reggae-britannia-2011",
                     "tmdb_id": "85212",
@@ -2879,8 +2969,8 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Documentary",
-                    "Music"
+                    "Documentaire",
+                    "Musique"
                 ],
                 "imdbnumber": "tt2193846",
                 "label": "Reggae Britannia",
@@ -2890,14 +2980,14 @@
                 "mpaa": "",
                 "originaltitle": "Reggae Britannia",
                 "playcount": 0,
-                "plot": "The acclaimed BBC4 Britannia series moves into the world of British reggae. Showing how it came from Jamaica in the 1960s to influence, over the next 20 years, both British music and society, the programme includes major artists and performances from that era, including Big Youth, Max Romeo, Linton Kwesi Johnson, Jerry Dammers and the Specials, the Police, UB40, Dennis Bovell, lovers rock performers Carroll Thompson and Janet Kay, bands like Aswad and Steel Pulse and reggae admirers such as Boy George and Paul Weller.  The programme celebrates the impact of reggae, the changes it brought about and its lasting musical legacy.",
+                "plot": "",
                 "plotoutline": "",
                 "premiered": "2011-02-11",
                 "productioncode": "",
                 "rating": 6.5,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 5340.0
                 },
                 "runtime": 5340,
                 "season": -1,
@@ -2935,6 +3025,89 @@
                 "votes": "1",
                 "writer": [],
                 "year": 2011
+            },
+            {
+                "album": "",
+                "art": {
+                    "icon": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p(1)%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage.png/",
+                    "landscape": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p(1)%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage_wide.png/"
+                },
+                "artist": [],
+                "cast": [],
+                "country": [],
+                "customproperties": {
+                    "item.info": "trakt_userlist",
+                    "item.list_name": "Concerts",
+                    "item.list_slug": "concerts",
+                    "item.owner": "true",
+                    "item.page": "2",
+                    "item.plugin_category": "Concerts",
+                    "item.user_slug": "bassman22pu",
+                    "item.widget": "True",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "bassman22pu",
+                    "param.widget": "True",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Concerts&list_slug=concerts&owner=true&plugin_category=Concerts&user_slug=bassman22pu&page=2&widget=true&reload=$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]",
+                "filetype": "directory",
+                "firstaired": "",
+                "genre": [],
+                "imdbnumber": "",
+                "label": "Page suivante",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "x-directory/normal",
+                "mpaa": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "",
+                "plotoutline": "",
+                "premiered": "",
+                "productioncode": "",
+                "rating": 0.0,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 0,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "unknown",
+                "userrating": 0,
+                "votes": "0",
+                "writer": [],
+                "year": 0
             }
         ],
         "limits": {

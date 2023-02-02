@@ -1,0 +1,13 @@
+{
+    "history": [
+        [
+            1675344738.204036,
+            "76728b9950e3bb2441260716e5d262fc53f4a100"
+        ]
+    ],
+    "widgets": [
+        "7bf1b6da-5d8f-4953-a52b-0ff30b770547",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Concerts&list_slug=concerts&plugin_category=Concerts&user_slug=rjchignell&widget=True"
+}

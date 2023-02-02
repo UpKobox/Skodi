@@ -1,0 +1,13 @@
+{
+    "action": "static",
+    "id": "987123e7-7049-4734-8990-7997012a3c98",
+    "group": "concerts_live-1675340768.9877484",
+    "refresh": 2.0,
+    "path": "music_concerts_artists__bands_(2_of4)-1675344031.5348115",
+    "version": "3.7.0",
+    "current": 0,
+    "label": "Music Concerts, Artists & Bands (2 of4)",
+    "stack": [
+        "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Music+Concerts%2C+Artists+%26+Bands+%282+of4%29&list_slug=music-concerts-artists-bands-2-of4&plugin_category=Music+Concerts%2C+Artists+%26+Bands+%282+of4%29&user_slug=krissykk&page=2&widget=true&reload=$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]"
+    ]
+}

@@ -1,0 +1,90 @@
+<shortcuts>
+	<shortcut>
+		<defaultID>31195</defaultID>
+		<label>$SKIN[31195|skin.arctic.zephyr.mod|None]</label>
+		<label2>Power Menu Shortcut</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ReloadSkin()</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>13012</defaultID>
+		<label>13012</label>
+		<label2>Power Menu Shortcut</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>Quit()</action>
+		<visible>System.ShowExitButton</visible>
+		</shortcut>
+	<shortcut>
+		<defaultID>20046</defaultID>
+		<label>20046</label>
+		<label2>Power Menu Shortcut</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>mastermode</action>
+		<visible>System.HasLocks</visible>
+		</shortcut>
+	<shortcut>
+		<defaultID>31360</defaultID>
+		<label>$SKIN[31360|skin.arctic.zephyr.mod|None]</label>
+		<label2>Power Menu Shortcut</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>SystemLogOff</action>
+		<visible>[System.HasLoginScreen | Integer.IsGreater(System.ProfileCount,1)] + System.Loggedon</visible>
+		</shortcut>
+	<shortcut>
+		<defaultID>20151</defaultID>
+		<label>20151</label>
+		<label2>Power Menu Shortcut</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>CancelAlarm(shutdowntimer)</action>
+		<visible>System.HasAlarm(shutdowntimer)</visible>
+		</shortcut>
+	<shortcut>
+		<defaultID>31364</defaultID>
+		<label>$SKIN[31364|skin.arctic.zephyr.mod|None]</label>
+		<label2>Power Menu Shortcut</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>noop</action>
+		<visible>System.HasAlarm(shutdowntimer)</visible>
+		</shortcut>
+	<shortcut>
+		<defaultID>31232</defaultID>
+		<label>$SKIN[31232|skin.arctic.zephyr.mod|None]</label>
+		<label2>Power Menu Shortcut</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>RebootToAndroid</action>
+		<visible>System.PathExist("/dev/env")</visible>
+		</shortcut>
+	<shortcut>
+		<defaultID>31156</defaultID>
+		<label>$SKIN[31156|skin.arctic.zephyr.mod|None]</label>
+		<label2>Power Menu Shortcut</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindowAndFocus(skinsettings,9108,2)</action>
+		<visible>System.Loggedon</visible>
+		</shortcut>
+	<shortcut>
+		<defaultID>5</defaultID>
+		<label>5</label>
+		<label2>Power Menu Shortcut</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(settings)</action>
+		<visible>System.Loggedon</visible>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>skodi</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Programs,"plugin://plugin.program.Skodi",return)</action>
+		</shortcut>
+	</shortcuts>

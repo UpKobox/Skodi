@@ -36,7 +36,6 @@
                 ],
                 "country": [],
                 "customproperties": {
-                    "available_releases": "Theatrical",
                     "budget": "$0",
                     "cast": "Tom Keifer / Eric Brittingham / Jeff LaBar / Fred Coury",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=57029&ignore_default=true)",
@@ -66,12 +65,9 @@
                     "param.plugin_category": "Live Concerts & Music",
                     "param.user_slug": "dwarnes1970",
                     "param.widget": "True",
-                    "popularity": "0.698",
-                    "provider.link": "https://www.themoviedb.org/movie/57029-cinderella-in-concert/watch?locale=US",
-                    "providers": "Amazon Video / Vudu / VUDU Free",
+                    "popularity": "0.6",
                     "revenue": "$0",
                     "slug_id": "cinderella-in-concert-2005",
-                    "theatrical_release": "2005-03-29",
                     "tmdb_id": "57029",
                     "tmdb_rating": "5.5",
                     "tmdb_type": "movie",
@@ -88,7 +84,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "",
                 "label": "Cinderella - In Concert",
@@ -98,14 +94,14 @@
                 "mpaa": "",
                 "originaltitle": "Cinderella - In Concert",
                 "playcount": 0,
-                "plot": "Filmed at the height of the band's popularity during the Heartbreak Station Tour in 1991, this spectacular performance includes all of their biggest hits including Night Songs, Don't Know What You Got 'Til It's Gone, Nobody's Fool, Shelter Me and more.",
+                "plot": "Film\u00e9e au plus fort de la popularit\u00e9 du groupe lors de la tourn\u00e9e Heartbreak Station Tour en 1991, cette performance spectaculaire comprend tous leurs plus grands succ\u00e8s, notamment Night Songs, Don't Know What You Got 'Til It's Gone, Nobody's Fool, Shelter Me et bien d'autres.",
                 "plotoutline": "",
                 "premiered": "2005-03-29",
                 "productioncode": "",
                 "rating": 5.5,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 3000.0
                 },
                 "runtime": 3000,
                 "season": -1,
@@ -124,7 +120,7 @@
                 },
                 "studio": [],
                 "tag": [],
-                "tagline": "",
+                "tagline": "Version \"remastered\" sorti en 2011",
                 "thumbnail": "",
                 "title": "Cinderella - In Concert",
                 "top250": 0,
@@ -145,7 +141,7 @@
             {
                 "album": "",
                 "art": {
-                    "icon": "image://C%3a%5cKodiTest%5ckodi%2020%20testu2p%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fdefault.png/"
+                    "icon": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p(1)%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fdefault.png/"
                 },
                 "artist": [],
                 "cast": [
@@ -182,7 +178,6 @@
                 ],
                 "country": [],
                 "customproperties": {
-                    "available_releases": "Theatrical",
                     "budget": "$0",
                     "cast": "Joe Elliott / Rick Savage / Rick Allen / Phil Collen / Steve Clark",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=154351&ignore_default=true)",
@@ -215,7 +210,6 @@
                     "popularity": "0.6",
                     "revenue": "$0",
                     "slug_id": "def-leppard-pyromania-world-tour-1983",
-                    "theatrical_release": "1983-12-12",
                     "tmdb_id": "154351",
                     "tmdb_rating": "0.0",
                     "tmdb_type": "movie",
@@ -232,7 +226,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "",
                 "label": "Def Leppard: Pyromania - World Tour",
@@ -242,14 +236,14 @@
                 "mpaa": "",
                 "originaltitle": "Def Leppard: Pyromania - World Tour",
                 "playcount": 0,
-                "plot": "Two concerts from Def Leppard Pyromania World Tour, Fragments of concerts in Lyon, France and Dortmund, Germany.",
+                "plot": "",
                 "plotoutline": "",
                 "premiered": "1983-12-12",
                 "productioncode": "",
                 "rating": 0.0,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 2940.0
                 },
                 "runtime": 2940,
                 "season": -1,
@@ -289,6 +283,7 @@
             {
                 "album": "",
                 "art": {
+                    "discart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f225341%2fmoviedisc%2fdef-leppard-viva-hysteria-concert-57f03e1143939.png/",
                     "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f2JahjLMy934gmnmEEwBTCcmNEp7.jpg/",
                     "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2frjIUb4AAXassEhltBxysIjpFJQD.jpg/",
                     "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2frjIUb4AAXassEhltBxysIjpFJQD.jpg/"
@@ -358,15 +353,13 @@
                     "param.plugin_category": "Live Concerts & Music",
                     "param.user_slug": "dwarnes1970",
                     "param.widget": "True",
-                    "popularity": "1.599",
-                    "provider.link": "https://www.themoviedb.org/movie/225341-def-leppard-viva-hysteria/watch?locale=US",
-                    "providers": "Amazon Video / Tubi TV / Plex",
+                    "popularity": "1.109",
                     "revenue": "$0",
                     "slug_id": "def-leppard-viva-hysteria-2013",
                     "tmdb_id": "225341",
-                    "tmdb_rating": "6.6",
+                    "tmdb_rating": "6.7",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "4",
+                    "tmdb_votes": "5",
                     "trakt_id": "138043",
                     "widget": "Live Concerts & Music"
                 },
@@ -379,7 +372,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "tt3109048",
                 "label": "Def Leppard: Viva! Hysteria",
@@ -389,16 +382,16 @@
                 "mpaa": "",
                 "originaltitle": "Def Leppard: Viva! Hysteria",
                 "playcount": 0,
-                "plot": "A performance captured live over nine nights during the band's spring 2013 residency at The Joint located in the Hard Rock Hotel, Las Vegas in which Def Leppard plays through the entirety of their most successful album, \"Hysteria,\" in its entirety.  Plus two additional hits, \"Rock of Ages\" and \"Photograph\" as an encore.  Finally \"Viva! HYSTERIA\" showcases for the first time a career-defining album (excluding concept albums) performed live in its entirety - from start to finish - for a commercial audio/video release. \"Viva! HYSTERIA\"! is unlike any show Def Leppard has ever done or will ever do again.",
+                "plot": "Def Leppard, le plus grand groupe de rock d'ar\u00e8ne de Grande-Bretagne, arrive sur grand \u00e9cran pour un \u00e9v\u00e9nement de cin\u00e9ma One Night Only \u2122 dans un style spectaculaire comme ils ne peuvent le faire qu'avec Viva! Hysteria, un \u00e9v\u00e9nement sans barri\u00e8res, tourn\u00e9 en direct en mars 2013 au Hard Rock Hotel de Las Vegas. C\u00e9l\u00e8bre pour ses productions extravagantes et exub\u00e9rantes dans les ar\u00e8nes, le groupe a confondu les attentes en r\u00e9servant l'in\u00e9galable The Joint, un lieu intime permettant aux fans de vivre une exp\u00e9rience de concert vraiment intime et personnelle. Tourn\u00e9 au cours de neuf nuits, la liste comprend l'album de vente \u00e0 succ\u00e8s Hysteria dans son int\u00e9gralit\u00e9, ainsi que bon nombre des plus grands succ\u00e8s du groupe - Pyromania et Photograph parmi eux.",
                 "plotoutline": "",
                 "premiered": "2013-10-02",
                 "productioncode": "",
-                "rating": 6.599999904632568,
+                "rating": 6.699999809265137,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 5100.0
                 },
-                "runtime": 5220,
+                "runtime": 5100,
                 "season": -1,
                 "set": "",
                 "setid": -1,
@@ -431,7 +424,7 @@
                     "unknown": "tt3109048"
                 },
                 "userrating": 0,
-                "votes": "4",
+                "votes": "5",
                 "writer": [],
                 "year": 2013
             },
@@ -452,7 +445,6 @@
                 ],
                 "country": [],
                 "customproperties": {
-                    "available_releases": "Theatrical",
                     "budget": "$0",
                     "cast": "Ted Nugent",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=154530&ignore_default=true)",
@@ -486,7 +478,6 @@
                     "popularity": "0.6",
                     "revenue": "$0",
                     "slug_id": "ted-nugent-motor-city-mayhem-6-000th-concert-2009",
-                    "theatrical_release": "2009-06-30",
                     "tmdb_id": "154530",
                     "tmdb_rating": "0.0",
                     "tmdb_type": "movie",
@@ -513,14 +504,14 @@
                 "mpaa": "",
                 "originaltitle": "Ted Nugent: Motor City Mayhem - 6,000th Concert",
                 "playcount": 0,
-                "plot": "Veteran rocker Ted Nugent marks his 6,000th concert by whipping a hometown Detroit crowd into a frenzy with this sizzling Fourth of July show, featuring unforgettable hits such as \"Cat Scratch Fever\" and \"Stranglehold.\" The Motor City Madman also pays tribute to America's birthday with a rendition of \"The Star-Spangled Banner,\" then lays into \"Need You Bad,\" \"Wango Tango,\" \"Free for All\" and more.",
+                "plot": "",
                 "plotoutline": "",
                 "premiered": "2009-06-30",
                 "productioncode": "",
                 "rating": 0.0,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 7740.0
                 },
                 "runtime": 7740,
                 "season": -1,
@@ -539,7 +530,7 @@
                 },
                 "studio": [],
                 "tag": [],
-                "tagline": "Ted Nugent Motor City Mayhem",
+                "tagline": "",
                 "thumbnail": "",
                 "title": "Ted Nugent: Motor City Mayhem - 6,000th Concert",
                 "top250": 0,
@@ -593,7 +584,6 @@
                 ],
                 "country": [],
                 "customproperties": {
-                    "available_releases": "Theatrical",
                     "budget": "$0",
                     "cast": "Scott Weiland / Dean DeLeo / Robert DeLeo / Eric Kretz",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=116552&ignore_default=true)",
@@ -624,12 +614,11 @@
                     "param.plugin_category": "Live Concerts & Music",
                     "param.user_slug": "dwarnes1970",
                     "param.widget": "True",
-                    "popularity": "0.6",
-                    "provider.link": "https://www.themoviedb.org/movie/116552-stone-temple-pilots-alive-in-the-windy-city/watch?locale=US",
-                    "providers": "Peacock / Peacock Premium / Amazon Video / Pluto TV / FILMRISE / Freevee Amazon Channel",
+                    "popularity": "1.124",
+                    "provider.link": "https://www.themoviedb.org/movie/116552-stone-temple-pilots-alive-in-the-windy-city/watch?locale=FR",
+                    "providers": "Apple iTunes",
                     "revenue": "$0",
                     "slug_id": "stone-temple-pilots-alive-in-the-windy-city-2012",
-                    "theatrical_release": "2012-06-26",
                     "tmdb_id": "116552",
                     "tmdb_rating": "2.0",
                     "tmdb_type": "movie",
@@ -646,7 +635,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "tt3129350",
                 "label": "Stone Temple Pilots: Alive in the Windy City",
@@ -656,14 +645,14 @@
                 "mpaa": "",
                 "originaltitle": "Stone Temple Pilots: Alive in the Windy City",
                 "playcount": 0,
-                "plot": "Filmed at a sold out Riviera Theatre in Chicago in March 2010, Alive In The Windy City is the first Stone Temple Pilots live concert to be authorized for video release. The band are in top form and the show both looks and sounds spectacular. The concert was held shortly before the release of their recent Stone Temple Pilots album and the tracklisting combines new songs interspersed with their classic hits. This is a great live concert by one of the most successful rock acts of the last twenty years./ Line-up: Scott Weiland (lead vocals), Robert DeLeo (bass), Dean DeLeo (guitars), Eric Kretz (drums).",
+                "plot": "",
                 "plotoutline": "",
                 "premiered": "2012-06-26",
                 "productioncode": "",
                 "rating": 2.0,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 4620.0
                 },
                 "runtime": 4620,
                 "season": -1,
@@ -745,7 +734,6 @@
                     "United States of America"
                 ],
                 "customproperties": {
-                    "available_releases": "Theatrical",
                     "budget": "$0",
                     "cast": "Ronnie James Dio / Jimmy Bain / Simon Wright / Doug Aldrich / Scott Warren",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=67002&ignore_default=true)",
@@ -776,13 +764,10 @@
                     "param.plugin_category": "Live Concerts & Music",
                     "param.user_slug": "dwarnes1970",
                     "param.widget": "True",
-                    "popularity": "1.435",
-                    "provider.link": "https://www.themoviedb.org/movie/67002-dio-evil-or-divine/watch?locale=US",
-                    "providers": "Google Play Movies / YouTube",
+                    "popularity": "1.201",
                     "revenue": "$0",
                     "slug_id": "dio-evil-or-divine-2003",
                     "studio": "Eagle Vision",
-                    "theatrical_release": "2003-07-01",
                     "tmdb_id": "67002",
                     "tmdb_rating": "5.0",
                     "tmdb_type": "movie",
@@ -801,7 +786,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "tt1585563",
                 "label": "Dio: Evil or Divine",
@@ -811,14 +796,14 @@
                 "mpaa": "",
                 "originaltitle": "Dio: Evil or Divine",
                 "playcount": 0,
-                "plot": "On a rain-soaked Friday the 13th in December of 2002, the mastery of DIO took full command of New York City's famous Roseland Ballroom. In grand fashion, the formidable quintet was unleashed upon a rabid sold-out crowd, delivering a memorable performance that was nothing less than a heavy metal history lesson.",
+                "plot": "",
                 "plotoutline": "",
                 "premiered": "2003-07-01",
                 "productioncode": "",
                 "rating": 5.0,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 6000.0
                 },
                 "runtime": 6000,
                 "season": -1,
@@ -863,7 +848,6 @@
             {
                 "album": "",
                 "art": {
-                    "clearlogo": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fobcNS3azGIEBdTJA0nempxyDj2O.png/",
                     "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2frbGYoEmfAExkqhlKe1PhZYrdePA.jpg/",
                     "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f4TvWVa6pQWdrKpPydl6yqyodBhe.jpg/",
                     "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f4TvWVa6pQWdrKpPydl6yqyodBhe.jpg/"
@@ -911,7 +895,6 @@
                     "United Kingdom"
                 ],
                 "customproperties": {
-                    "available_releases": "Theatrical",
                     "budget": "$1,000,000",
                     "cast": "Bruce Dickinson / Janick Gers / Steve Harris / Nicko McBrain / Dave Murray / Adrian Smith",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=31477&ignore_default=true)",
@@ -942,11 +925,10 @@
                     "param.plugin_category": "Live Concerts & Music",
                     "param.user_slug": "dwarnes1970",
                     "param.widget": "True",
-                    "popularity": "4.895",
+                    "popularity": "3.707",
                     "revenue": "$10,000,000",
                     "slug_id": "iron-maiden-rock-in-rio-2001-2002",
                     "studio": "Sanctuary Mgt Productions Ltd.",
-                    "theatrical_release": "2002-07-16",
                     "tmdb_id": "31477",
                     "tmdb_rating": "8.0",
                     "tmdb_type": "movie",
@@ -965,8 +947,8 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music",
-                    "Documentary"
+                    "Musique",
+                    "Documentaire"
                 ],
                 "imdbnumber": "tt0280898",
                 "label": "Iron Maiden: Rock In Rio 2001",
@@ -976,14 +958,14 @@
                 "mpaa": "",
                 "originaltitle": "Iron Maiden: Rock In Rio 2001",
                 "playcount": 0,
-                "plot": "Rock In Rio Festival 2001 - Iron Maiden headlines one of the biggest shows on Earth to a massive sell-out 250,000 crowd and a global TV audience of millions. The explosive two hour set, shot using 18 cameras and edited by Steve Harris, is Maiden at its best, performing their biggest show ever on the final date of their Brave New World Tour.",
+                "plot": "Rock in Rio est le cinqui\u00e8me album live du groupe de heavy metal britannique Iron Maiden au stade Maracan\u00e3 de Rio de Janeiro enregistr\u00e9 le 19 janvier 2001 et sorti le 26 mars 2002.  Le 1er septembre 2005, Rock in Rio a \u00e9t\u00e9 le premier album musical au monde \u00e0 avoir \u00e9t\u00e9 press\u00e9 au format UMD, mis au point par Sony pour \u00eatre utilis\u00e9 sur la console de jeu PSP.  Au concert, 250 000 personnes \u00e9taient pr\u00e9sentes.",
                 "plotoutline": "",
                 "premiered": "2002-07-16",
                 "productioncode": "",
-                "rating": 8.039999961853027,
+                "rating": 8.0,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 7500.0
                 },
                 "runtime": 7500,
                 "season": -1,
@@ -1005,7 +987,7 @@
                     "Mine, The"
                 ],
                 "tag": [],
-                "tagline": "Rock in Rio Festival 2001",
+                "tagline": "",
                 "thumbnail": "",
                 "title": "Iron Maiden: Rock In Rio 2001",
                 "top250": 0,
@@ -1067,7 +1049,6 @@
                 ],
                 "country": [],
                 "customproperties": {
-                    "available_releases": "Physical / Physical",
                     "budget": "$0",
                     "cast": "Bruce Dickinson / Steve Harris / Dave Murray / Adrian Smith / Nicko McBrain",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=31475&ignore_default=true)",
@@ -1098,8 +1079,9 @@
                     "param.plugin_category": "Live Concerts & Music",
                     "param.user_slug": "dwarnes1970",
                     "param.widget": "True",
-                    "physical_release": "1985-10-23",
-                    "popularity": "2.321",
+                    "popularity": "1.611",
+                    "provider.link": "https://www.themoviedb.org/movie/31475-iron-maiden-live-after-death/watch?locale=FR",
+                    "providers": "Apple iTunes",
                     "revenue": "$0",
                     "slug_id": "iron-maiden-live-after-death-1985",
                     "tmdb_id": "31475",
@@ -1120,8 +1102,8 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music",
-                    "Documentary"
+                    "Musique",
+                    "Documentaire"
                 ],
                 "imdbnumber": "tt0426499",
                 "label": "Iron Maiden - Live After Death",
@@ -1131,14 +1113,14 @@
                 "mpaa": "",
                 "originaltitle": "Iron Maiden - Live After Death",
                 "playcount": 0,
-                "plot": "Filmed and recorded towards the tail end of 'The World Slavery Tour' over a record breaking four sold out nights at Los Angeles' 13,200 capacity Long Beach Arena.  Featuring tracks from their first five albums.",
+                "plot": "Le DVD officiel d\u2019Iron Maiden Live After Death est paru le 4 f\u00e9vrier 2008 partout dans le monde sauf en Am\u00e9rique du Nord o\u00f9 il est sorti le 5 f\u00e9vrier. Il s\u2019agit de la version vid\u00e9o de l\u2019album Live After Death, enregistr\u00e9 lors des quatre concerts \u00e0 Long Beach Arena en Californie en 1984, et d\u00e9j\u00e0 parue en VHS en octobre 1985.",
                 "plotoutline": "",
                 "premiered": "1985-10-23",
                 "productioncode": "",
-                "rating": 7.875,
+                "rating": 7.900000095367432,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 5400.0
                 },
                 "runtime": 5400,
                 "season": -1,
@@ -1180,6 +1162,7 @@
             {
                 "album": "",
                 "art": {
+                    "clearlogo": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f23357%2fhdmovielogo%2fmegadeth-that-one-night-5910275f38a0a.png/",
                     "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fvrbHLn2xxZtFWY9tdU9kfq8EOX5.jpg/",
                     "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fnUxZCtgKgONKQ85PYZNFgoiHisH.jpg/",
                     "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fnUxZCtgKgONKQ85PYZNFgoiHisH.jpg/"
@@ -1212,7 +1195,6 @@
                 ],
                 "country": [],
                 "customproperties": {
-                    "available_releases": "Theatrical",
                     "budget": "$0",
                     "cast": "Dave Mustaine / Glen Drover / Shawn Drover / James MacDonough",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=23357&ignore_default=true)",
@@ -1243,12 +1225,9 @@
                     "param.plugin_category": "Live Concerts & Music",
                     "param.user_slug": "dwarnes1970",
                     "param.widget": "True",
-                    "popularity": "1.794",
-                    "provider.link": "https://www.themoviedb.org/movie/23357-megadeth-that-one-night-live-in-buenos-aires/watch?locale=US",
-                    "providers": "Amazon Video / Google Play Movies / YouTube / Tubi TV / Microsoft Store / Night Flight Plus / FlixFling",
+                    "popularity": "1.018",
                     "revenue": "$0",
                     "slug_id": "megadeth-that-one-night-live-in-buenos-aires-2007",
-                    "theatrical_release": "2007-03-06",
                     "tmdb_id": "23357",
                     "tmdb_rating": "7.5",
                     "tmdb_type": "movie",
@@ -1265,7 +1244,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "tt1179780",
                 "label": "Megadeth: That One Night - Live in Buenos Aires",
@@ -1275,14 +1254,14 @@
                 "mpaa": "",
                 "originaltitle": "Megadeth: That One Night - Live in Buenos Aires",
                 "playcount": 0,
-                "plot": "This show was filmed live on October 9, 2005 at Obras Stadium, Buenos Aires, Argentina before a rabid audience of over 25,000 fans. The 90-plus minute film features songs encompassing MEGADETH's career, ranging from their 1986 album Peace Sells\u2026But Who's Buying through 2004's The System Has Failed . \u201cThis was one of the greatest nights of my life,\u201d says MEGADETH founder and frontman DAVE MUSTAINE . \u201cI am glad I was able to document it and share it with you. \u2018That One Night' is a lesson in metal fanaticism by some of the best participating, most frenzied, and intense concert-goers in the world!",
+                "plot": "",
                 "plotoutline": "",
                 "premiered": "2007-03-06",
                 "productioncode": "",
                 "rating": 7.5,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 5700.0
                 },
                 "runtime": 5700,
                 "season": -1,
@@ -1301,7 +1280,7 @@
                 },
                 "studio": [],
                 "tag": [],
-                "tagline": "Live at Obras Stadium, Buenos Aires, Argentina - 09.october.2005",
+                "tagline": "",
                 "thumbnail": "",
                 "title": "Megadeth: That One Night - Live in Buenos Aires",
                 "top250": 0,
@@ -1359,7 +1338,6 @@
                     "United States of America"
                 ],
                 "customproperties": {
-                    "available_releases": "Theatrical",
                     "budget": "$0",
                     "cast": "Dave Mustaine / David Ellefson / Jimmy DeGrasso / Al Pitrelli",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=45557&ignore_default=true)",
@@ -1390,10 +1368,9 @@
                     "param.plugin_category": "Live Concerts & Music",
                     "param.user_slug": "dwarnes1970",
                     "param.widget": "True",
-                    "popularity": "1.42",
+                    "popularity": "1.012",
                     "revenue": "$0",
                     "slug_id": "megadeth-rude-awakening-2002",
-                    "theatrical_release": "2002-04-09",
                     "tmdb_id": "45557",
                     "tmdb_rating": "6.8",
                     "tmdb_type": "movie",
@@ -1412,8 +1389,8 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music",
-                    "Documentary"
+                    "Musique",
+                    "Documentaire"
                 ],
                 "imdbnumber": "tt0310085",
                 "label": "Megadeth: Rude Awakening",
@@ -1423,14 +1400,14 @@
                 "mpaa": "",
                 "originaltitle": "Megadeth: Rude Awakening",
                 "playcount": 0,
-                "plot": "Taken from two live concerts, performed two nights in a row in November 2001. The first night was at the Rialto Theater in Tucson, Arizona, followed the next day by an almost identical performance (To ensure clean audio and video footage, and for a variety of editing options), at the Web Theater in Phoenix, Arizona.",
+                "plot": "Enregistr\u00e9 lors de la derni\u00e8re date de la tourn\u00e9e am\u00e9ricaine de The World Needs a Hero, il s'agit du dernier concert donn\u00e9 avant la dissolution du groupe. On peut donc y voir la derni\u00e8re apparition de David Ellefson, avant son retour en 2010, au c\u0153ur du groupe qu'il a cofond\u00e9 avec Dave Mustaine dix-huit ans plus t\u00f4t.  A l'origine l'enregistrement de cet album \u00e9tait pr\u00e9vu lors de deux concerts en Argentine mais suite aux attentats du 11 septembre 2001, le groupe annula tous ses concerts hors des USA.\r 1. Dread And The Fugitive Mind\r 2. Kill The King\r 3. Wake Up Dead\r 4. In My Darkest Hour\r 5. Angry Again\r 6. She Wolf\r 7. Reckoning Day\r 8. Devil's Island\r 9. Train Of Consequences\r 10. A Tout Le Mond\r 11. Burning Bridges\r 12. Hangar 18\r 13. Return To Hangar\r 14. Hook In Mouth\r 15. Almost Honest\r 16. 1000 Times Goodbye\r 17. Mechanix\r 18. Tornado Of Souls\r 19. Ashes In Your Mouth\r 20. Sweating Bullets\r 21. Trust\r 22. Symphony of Destruction\r 23. Peace Sells\r 24. Holy Wars",
                 "plotoutline": "",
                 "premiered": "2002-04-09",
                 "productioncode": "",
                 "rating": 6.800000190734863,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 8400.0
                 },
                 "runtime": 8400,
                 "season": -1,
@@ -1468,110 +1445,6 @@
                 "votes": "2",
                 "writer": [],
                 "year": 2002
-            },
-            {
-                "album": "",
-                "art": {
-                    "icon": "image://C%3a%5cKodiTest%5ckodi%2020%20testu2p%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fdefault.png/"
-                },
-                "artist": [],
-                "cast": [],
-                "country": [],
-                "customproperties": {
-                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=51961&ignore_default=true)",
-                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=51961)",
-                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=51961)",
-                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=51961)",
-                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=51961)",
-                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=51961)",
-                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Metallica/Slayer/Megadeth/Anthrax: The Big 4 - Live from Sofia, Bulgaria,tmdb_type=movie,tmdb_id=51961)",
-                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
-                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
-                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
-                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
-                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
-                    "contextmenulabel(5)": "$LOCALIZE[20444]",
-                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
-                    "imdb_id": "tt1792588",
-                    "isplayable": "true",
-                    "item.info": "play",
-                    "item.tmdb_id": "51961",
-                    "item.tmdb_type": "movie",
-                    "item.type": "movie",
-                    "param.info": "trakt_userlist",
-                    "param.list_name": "Live Concerts & Music",
-                    "param.list_slug": "live-concerts-music",
-                    "param.owner": "true",
-                    "param.plugin_category": "Live Concerts & Music",
-                    "param.user_slug": "dwarnes1970",
-                    "param.widget": "True",
-                    "slug_id": "metallica-slayer-megadeth-anthrax-the-big-4-live-from-sofia-bulgaria-2010",
-                    "tmdb_id": "51961",
-                    "tmdb_type": "movie",
-                    "trakt_id": "36522",
-                    "widget": "Live Concerts & Music"
-                },
-                "dateadded": "",
-                "director": [],
-                "episode": -1,
-                "episodeguide": "",
-                "fanart": "",
-                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=51961",
-                "filetype": "file",
-                "firstaired": "",
-                "genre": [],
-                "imdbnumber": "",
-                "label": "[COLOR=ffcc0000][I]Metallica/Slayer/Megadeth/Anthrax: The Big 4 - Live from Sofia, Bulgaria[/I][/COLOR]",
-                "lastmodified": "",
-                "lastplayed": "",
-                "mimetype": "application/octet-stream",
-                "mpaa": "",
-                "originaltitle": "",
-                "playcount": 0,
-                "plot": "",
-                "plotoutline": "",
-                "premiered": "",
-                "productioncode": "",
-                "rating": 0.0,
-                "resume": {
-                    "position": 0.0,
-                    "total": 0.0
-                },
-                "runtime": 0,
-                "season": -1,
-                "set": "",
-                "setid": -1,
-                "showlink": [],
-                "showtitle": "",
-                "size": 0,
-                "sorttitle": "",
-                "specialsortepisode": -1,
-                "specialsortseason": -1,
-                "streamdetails": {
-                    "audio": [],
-                    "subtitle": [],
-                    "video": []
-                },
-                "studio": [],
-                "tag": [],
-                "tagline": "",
-                "thumbnail": "",
-                "title": "Metallica/Slayer/Megadeth/Anthrax: The Big 4 - Live from Sofia, Bulgaria",
-                "top250": 0,
-                "track": -1,
-                "trailer": "",
-                "tvshowid": -1,
-                "type": "movie",
-                "uniqueid": {
-                    "imdb": "tt1792588",
-                    "slug": "metallica-slayer-megadeth-anthrax-the-big-4-live-from-sofia-bulgaria-2010",
-                    "tmdb": "51961",
-                    "trakt": "36522"
-                },
-                "userrating": 0,
-                "votes": "0",
-                "writer": [],
-                "year": 2010
             },
             {
                 "album": "",
@@ -1624,7 +1497,7 @@
                     "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=35058)",
                     "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=35058)",
                     "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=35058)",
-                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=AC/DC: Stiff Upper Lip Live,tmdb_type=movie,tmdb_id=35058)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=AC/DC - Stiff Upper Lip Live,tmdb_type=movie,tmdb_id=35058)",
                     "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
                     "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
                     "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
@@ -1646,7 +1519,7 @@
                     "param.plugin_category": "Live Concerts & Music",
                     "param.user_slug": "dwarnes1970",
                     "param.widget": "True",
-                    "popularity": "2.05",
+                    "popularity": "1.941",
                     "revenue": "$0",
                     "slug_id": "ac-dc-stiff-upper-lip-live-2001",
                     "theatrical_release": "2001-12-04",
@@ -1668,24 +1541,24 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "tt0368557",
-                "label": "AC/DC: Stiff Upper Lip Live",
+                "label": "AC/DC - Stiff Upper Lip Live",
                 "lastmodified": "",
                 "lastplayed": "",
                 "mimetype": "application/octet-stream",
-                "mpaa": "",
+                "mpaa": "Rated U",
                 "originaltitle": "AC/DC: Stiff Upper Lip Live",
                 "playcount": 0,
-                "plot": "1. Newsflash 2. Stiff Upper Lip 3. You Shook Me All Night Long 4. Problem Child 5. Thunderstruck 6. Hell Ain't A Bad Place To Be 7. Hard As A Rock 8. Shoot To Thrill 9. Rock And Roll Ain't Noise Pollution 10. What Do You Do For Money Honey 11. Bad Boy Boogie 12. Hells Bells 13. Up To My Neck In You 14. The Jack 15. Back In Black 16. Dirty Deeds Done Dirt Cheap 17. Highway To Hell 18. Whole Lotta Rosie 19. Let There Be Rock 20. T.N.T. 21. For Those About To Rock We Salute You 22. Shot Down In Flames  The relentless power chords of AC/DC have ruled the likes of rock music and endured through all of its varying forms for nearly three decades. There's not a rock band on MTV or in the basement that doesn't bow before the masters of dirty deeds. Stiff Upper Lip Live captures AC/DC where they shine most--in front of thousands of their rabid fans.",
+                "plot": "Stiff Upper Lip Live est un DVD du groupe de hard rock AC/DC enregistr\u00e9 pendant la tourn\u00e9e mondiale suivant l'album Stiff Upper Lip. Il a \u00e9t\u00e9 enregistr\u00e9 le 14 juin 2001 au Stade olympique de Munich. La version DVD contient 10 minutes d'interview du groupe en bonus.",
                 "plotoutline": "",
                 "premiered": "2001-12-04",
                 "productioncode": "",
-                "rating": 7.077000141143799,
+                "rating": 7.099999904632568,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 8400.0
                 },
                 "runtime": 8400,
                 "season": -1,
@@ -1706,7 +1579,7 @@
                 "tag": [],
                 "tagline": "",
                 "thumbnail": "",
-                "title": "AC/DC: Stiff Upper Lip Live",
+                "title": "AC/DC - Stiff Upper Lip Live",
                 "top250": 0,
                 "track": -1,
                 "trailer": "",
@@ -1727,6 +1600,7 @@
             {
                 "album": "",
                 "art": {
+                    "clearlogo": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f20349%2fhdmovielogo%2facdc-family-jewels-55f67dd6c642b.png/",
                     "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fpI2Ta22cURcqwKp7eF9A0BC48A7.jpg/",
                     "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2furBB9VvoVtpkxB1YdRtmC7wLZs2.jpg/",
                     "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2furBB9VvoVtpkxB1YdRtmC7wLZs2.jpg/"
@@ -1784,7 +1658,6 @@
                 ],
                 "country": [],
                 "customproperties": {
-                    "available_releases": "Theatrical",
                     "budget": "$0",
                     "cast": "Angus Young / Bon Scott / Brian Johnson / Malcolm Young / Cliff Williams / Phil Rudd / Simon Wright / Chris Slade",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=20349&ignore_default=true)",
@@ -1815,12 +1688,11 @@
                     "param.plugin_category": "Live Concerts & Music",
                     "param.user_slug": "dwarnes1970",
                     "param.widget": "True",
-                    "popularity": "2.114",
-                    "provider.link": "https://www.themoviedb.org/movie/20349-ac-dc-family-jewels/watch?locale=US",
+                    "popularity": "1.779",
+                    "provider.link": "https://www.themoviedb.org/movie/20349-ac-dc-family-jewels/watch?locale=FR",
                     "providers": "Apple iTunes",
                     "revenue": "$0",
                     "slug_id": "ac-dc-family-jewels-2005",
-                    "theatrical_release": "2005-03-23",
                     "tmdb_id": "20349",
                     "tmdb_rating": "7.8",
                     "tmdb_type": "movie",
@@ -1847,24 +1719,24 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "tt0476635",
                 "label": "AC/DC: Family Jewels",
                 "lastmodified": "",
                 "lastplayed": "",
                 "mimetype": "application/octet-stream",
-                "mpaa": "Rated PG",
+                "mpaa": "",
                 "originaltitle": "AC/DC: Family Jewels",
                 "playcount": 0,
-                "plot": "Over 3 hours of classic videos,live footage and TV appearances from 1975 to 1993 (+ home video and alternate versions).  [Tracklist:] 1-1 Baby Please Don't Go 1-2 Show Business 1-3 HighVoltage 1-4 It's A Long Way To The Top 1-5 TNT 1-6 Jailbreak 1-7 Dirty Deeds Done Dirt Cheap 1-8 DogEatDog 1-9 Let There Be Rock 1-10 Rock'N'Roll Damnation 1-11 SinCity 1-12 RiffRaff 1-13 Flying Thing/Rocker 1-14 Whole Lotta Rosie 1-15 Shot Down In Flames 1-16 Walk All Over You 1-17 Touch Too Much 1-18 If You Want Blood 1-19 Girls Got Rhythm 1-20 Highway To Hell 2-1 HellsBells 2-2 Back In Black 2-3 What Do You Do For Money Honey 2-4 Rock And Roll Ain't Noise Pollution 2-5 Let's Get Up 2-6 For Those About To Rock 2-7 Flick Of The Switch 2-8 NervousShakedown 2-9 Fly On The Wall 2-10 Danger 2-11 Sink The Pink 2-12 StandUp 2-13 Shake Your Foundations 2-14 Who Made Who 2-15 You Shook Me All Night Long 2-16 Heatseeker 2-17 That's The Way I Wanna Rock N Roll 2-18 Thunderstruck 2-19 Moneytalks 2-20 Are You Ready",
+                "plot": "Family Jewels en 2005, ce double DVD d'AC/DC arrive \u00e0 la date anniversaire des 25 ans du d\u00e9c\u00e8s de Bon Scott. Le coffret regroupe les principaux clips vid\u00e9os, quelques lives et des shows t\u00e9l\u00e9vis\u00e9s, tourn\u00e9s par le groupe de Baby, Please Don't Go (avril 1975) jusqu'\u00e0 Are You Ready (mars 1991).",
                 "plotoutline": "",
                 "premiered": "2005-03-18",
                 "productioncode": "",
-                "rating": 7.7779998779296875,
+                "rating": 7.800000190734863,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 9000.0
                 },
                 "runtime": 9000,
                 "season": -1,
@@ -1906,6 +1778,7 @@
             {
                 "album": "",
                 "art": {
+                    "clearlogo": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f24983%2fmovielogo%2facdc---no-bull-4fc1b6d338617.png/",
                     "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2faVsB72O0VmjxyVcvNop5DAGsTu6.jpg/",
                     "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f2yDKSXkq8RVm72NF1j4ApGjNP01.jpg/",
                     "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f2yDKSXkq8RVm72NF1j4ApGjNP01.jpg/"
@@ -1945,7 +1818,6 @@
                 ],
                 "country": [],
                 "customproperties": {
-                    "available_releases": "Physical / Physical / Physical",
                     "budget": "$0",
                     "cast": "Angus Young / Malcolm Young / Brian Johnson / Cliff Williams / Phil Rudd",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=24983&ignore_default=true)",
@@ -1976,17 +1848,16 @@
                     "param.plugin_category": "Live Concerts & Music",
                     "param.user_slug": "dwarnes1970",
                     "param.widget": "True",
-                    "physical_release": "2008-09-16",
-                    "popularity": "2.01",
-                    "provider.link": "https://www.themoviedb.org/movie/24983-ac-dc-no-bull/watch?locale=US",
-                    "providers": "Apple iTunes / Google Play Movies / YouTube / Microsoft Store",
+                    "popularity": "2.152",
+                    "provider.link": "https://www.themoviedb.org/movie/24983-ac-dc-no-bull/watch?locale=FR",
+                    "providers": "Apple iTunes",
                     "revenue": "$0",
                     "slug_id": "ac-dc-no-bull-1996",
                     "studio": "Cowboy Films",
                     "tmdb_id": "24983",
-                    "tmdb_rating": "6.9",
+                    "tmdb_rating": "6.8",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "15",
+                    "tmdb_votes": "16",
                     "trakt_id": "15078",
                     "widget": "Live Concerts & Music"
                 },
@@ -2001,24 +1872,24 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "tt0255773",
                 "label": "AC/DC: No Bull",
                 "lastmodified": "",
                 "lastplayed": "",
                 "mimetype": "application/octet-stream",
-                "mpaa": "Rated NR",
+                "mpaa": "",
                 "originaltitle": "AC/DC: No Bull",
                 "playcount": 0,
-                "plot": "1. Back In Black 2. Shot Down In Flames 3. Thunderstruck 4. Girl's Got Rhythm 5. Hard As A Rock 6. Shoot To Thrill 7. Boogie Man 8. Hail Caesar 9. Hells Bells 10. Dog Eat Dog 11. The Jack 12. Ballbreaker 13. Rock And Roll Ain't Noise Pollution 14. Dirty Deeds Done Dirt Cheap 15. You Shook Me All Night Long 16. Whole Lotta Rosie 17. T.N.T. 18. Let There Be Rock 19. Highway To Hell 20. For Those About To Rock (We Salute You)  No Bull captures the over the top spectacle that was AC/DC's 1996 Ballbreaker tour. Shot at the Plaza De Toros De Las Ventas bullfighting arena in Madrid, the film has been completely re-edited in HD and remixed in both Stereo and 5.1 Surround Sound.",
+                "plot": "No Bull est un concert film\u00e9 en 1996 aux Ar\u00e8nes de Madrid au cours de la tourn\u00e9e Ballbreaker d'AC/DC, sorti en VHS en 1996 et en DVD en 2000. On y retrouve les morceaux suivants: Back in Black, Shot Down in Flames, Thunderstruck, Girls Got Rhythm, Hard as a Rock, Shoot to Thrill, Boogie Man, Hail Caesar, Hells Bells, Dog Eat Dog, The Jack, Ballbreaker, Rock and Roll Ain't Noise Pollution, Dirty Deeds Done Dirt Cheap, You Shook Me All Night Long, Whole Lotta Rosie, T.N.T., Let There Be Rock, Highway to Hell, For Those About to Rock (We Salute You)",
                 "plotoutline": "",
                 "premiered": "1996-11-02",
                 "productioncode": "",
-                "rating": 6.867000102996826,
+                "rating": 6.800000190734863,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 7200.0
                 },
                 "runtime": 7200,
                 "season": -1,
@@ -2056,7 +1927,7 @@
                     "unknown": "tt0255773"
                 },
                 "userrating": 0,
-                "votes": "15",
+                "votes": "16",
                 "writer": [],
                 "year": 1996
             },
@@ -2120,7 +1991,6 @@
                 ],
                 "country": [],
                 "customproperties": {
-                    "available_releases": "Theatrical",
                     "budget": "$0",
                     "cast": "Bon Scott / Brian Johnson / Angus Young / Malcolm Young / Cliff Williams / Phil Rudd / Simon Wright / Chris Slade",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=36037&ignore_default=true)",
@@ -2151,12 +2021,11 @@
                     "param.plugin_category": "Live Concerts & Music",
                     "param.user_slug": "dwarnes1970",
                     "param.widget": "True",
-                    "popularity": "0.737",
-                    "provider.link": "https://www.themoviedb.org/movie/36037-ac-dc-plug-me-in/watch?locale=US",
-                    "providers": "Apple iTunes / Amazon Video",
+                    "popularity": "2.498",
+                    "provider.link": "https://www.themoviedb.org/movie/36037-ac-dc-plug-me-in/watch?locale=FR",
+                    "providers": "Apple iTunes",
                     "revenue": "$0",
                     "slug_id": "ac-dc-plug-me-in-2007",
-                    "theatrical_release": "2007-10-16",
                     "tmdb_id": "36037",
                     "tmdb_rating": "8.5",
                     "tmdb_type": "movie",
@@ -2175,24 +2044,24 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "tt1174684",
                 "label": "AC/DC: Plug Me In",
                 "lastmodified": "",
                 "lastplayed": "",
                 "mimetype": "application/octet-stream",
-                "mpaa": "Rated NR",
+                "mpaa": "",
                 "originaltitle": "AC/DC: Plug Me In",
                 "playcount": 0,
-                "plot": "The AC/DC Plug Me In DVD collection brings together for the very first time an astonishing five hours of definitive live concert and television performances -- many of them previously unavailable -- chronicling the on- going career (now in its fourth decade!) of a groundbreaking rock &amp; roll powerhouse whose music transcends the test of time.",
+                "plot": "",
                 "plotoutline": "",
                 "premiered": "2007-10-16",
                 "productioncode": "",
                 "rating": 8.5,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 25200.0
                 },
                 "runtime": 25200,
                 "season": -1,
@@ -2234,9 +2103,21 @@
             {
                 "album": "",
                 "art": {
+                    "banner": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f63973%2fmoviebanner%2facdc-live-at-river-plate-546650540a773.jpg/",
+                    "clearart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f63973%2fhdmovieclearart%2facdc-live-at-river-plate-5299d44e71a32.png/",
+                    "clearlogo": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f63973%2fhdmovielogo%2facdc-live-at-river-plate-53ec6429bfa50.png/",
+                    "discart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f63973%2fmoviedisc%2facdc-live-at-river-plate-5298f4b57eeef.png/",
                     "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f8ly6ZrxZPNYra1GCUxTC0vfNA2I.jpg/",
-                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f3IBHZxJbhpeFgWbIZNdr8aHTl3h.jpg/",
-                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f3IBHZxJbhpeFgWbIZNdr8aHTl3h.jpg/"
+                    "fanart1": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f63973%2fmoviebackground%2facdc-live-at-river-plate-54575b1437004.jpg/",
+                    "fanart2": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f63973%2fmoviebackground%2facdc-live-at-river-plate-54575b1436805.jpg/",
+                    "fanart3": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f63973%2fmoviebackground%2facdc-live-at-river-plate-54575b1437a76.jpg/",
+                    "fanart4": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f63973%2fmoviebackground%2facdc-live-at-river-plate-54575b1437712.jpg/",
+                    "fanart5": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f63973%2fmoviebackground%2facdc-live-at-river-plate-54575b14373bc.jpg/",
+                    "fanart6": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f63973%2fmoviebackground%2facdc-live-at-river-plate-54575b1436c1e.jpg/",
+                    "fanart7": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f63973%2fmoviebackground%2facdc-live-at-river-plate-54575b1436254.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fcfAxBsSkcbpOVla9VhAFzlXYPSo.jpg/",
+                    "landscape": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f63973%2fmoviethumb%2facdc-live-at-river-plate-54575bc7d8469.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fcfAxBsSkcbpOVla9VhAFzlXYPSo.jpg/"
                 },
                 "artist": [],
                 "cast": [
@@ -2307,9 +2188,9 @@
                     "param.plugin_category": "Live Concerts & Music",
                     "param.user_slug": "dwarnes1970",
                     "param.widget": "True",
-                    "popularity": "9.29",
-                    "provider.link": "https://www.themoviedb.org/movie/63973-ac-dc-live-at-river-plate/watch?locale=US",
-                    "providers": "Apple iTunes / Amazon Video / Google Play Movies / YouTube / Vudu / Microsoft Store",
+                    "popularity": "10.307",
+                    "provider.link": "https://www.themoviedb.org/movie/63973-ac-dc-live-at-river-plate/watch?locale=FR",
+                    "providers": "Apple iTunes",
                     "revenue": "$0",
                     "slug_id": "ac-dc-live-at-river-plate-2009",
                     "studio": "Leidseplein Presse",
@@ -2332,8 +2213,8 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music",
-                    "Documentary"
+                    "Musique",
+                    "Documentaire"
                 ],
                 "imdbnumber": "tt1933535",
                 "label": "AC/DC: Live at River Plate",
@@ -2343,16 +2224,16 @@
                 "mpaa": "",
                 "originaltitle": "AC/DC: Live at River Plate",
                 "playcount": 0,
-                "plot": "A definitive live concert film documenting AC/DC\u2019s massive Black Ice World Tour. Shot in December of 2009, AC/DC Live at River Plate marks AC/DC\u2019s triumphant return to Buenos Aires where nearly 200,000 fans, and 3 sold-out shows, welcomed the band back after a 13 year absence from Argentina. This stunning live footage of AC/DC underscores what Argentina\u2019s Pagina 12 newspaper reported by saying \u201cno one is on the same level when it comes to pure and clear Rock \u2018n Roll.\u201d",
+                "plot": "Les cloches de l\u2019enfer du groupe le plus rock de la plan\u00e8te r\u00e9sonnent \u00e0 nouveau ! Tourn\u00e9 en 2009 au \u00ab\u202fEl Monumental\u202f\u00bb River Plate Stadium, le programme marque le retour du groupe \u00e0 Buenos Aires, o\u00f9 200 000 fans et 3 spectacles \u00e0 guichets ferm\u00e9s ont salu\u00e9 l\u2019une des dates les plus spectaculaires du \u00ab\u202fBlack Ice World Tour\u202f\u00bb des AC/DC. R\u00e9alis\u00e9 par David Mallet et produit par Rocky Oldman, \u00ab\u202fLive at River Plate\u202f\u00bb a \u00e9t\u00e9 tourn\u00e9 avec 32 cam\u00e9ras HD et d\u00e9voile la derni\u00e8re tourn\u00e9e mondiale d\u2019Angus Young & C dans toute sa splendeur. Incontournable !  1.  Rock N Roll Train  2.  Hell Ain\u2019t A Bad Place To Be  3.  Back In Black  4.  Big Jack  5.  Dirty Deeds Done Dirt Cheap  6.  Shot Down In Flames  7.  Thunderstruck  8.  Black Ice  9.  The Jack  10. Hells Bells  11. Shoot To Thrill  12. War Machine  13. Dog Eat Dog  14. You Shook Me All Night Long  15. T.N.T.  16. Whole Lotta Rosie  17. Let There Be Rock  18. Highway To Hell  19. For Those About To Rock (We Salute You)",
                 "plotoutline": "",
                 "premiered": "2009-12-11",
                 "productioncode": "",
-                "rating": 8.050999641418457,
+                "rating": 8.100000381469727,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 6660.0
                 },
-                "runtime": 6600,
+                "runtime": 6660,
                 "season": -1,
                 "set": "",
                 "setid": -1,
@@ -2371,7 +2252,7 @@
                     "Leidseplein Presse"
                 ],
                 "tag": [],
-                "tagline": "Estadio River Plate in Buenos Aires, Argentina on December 2009",
+                "tagline": "",
                 "thumbnail": "",
                 "title": "AC/DC: Live at River Plate",
                 "top250": 0,
@@ -2394,6 +2275,7 @@
             {
                 "album": "",
                 "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f2Fjl9AlbIe1FjPeOIW9QM9XDz9Q.jpg/",
                     "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fxWbfFPmkKuzU3WBJ6XN2zapYh1B.jpg/",
                     "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fxWbfFPmkKuzU3WBJ6XN2zapYh1B.jpg/"
                 },
@@ -2426,7 +2308,6 @@
                 ],
                 "country": [],
                 "customproperties": {
-                    "available_releases": "Theatrical",
                     "budget": "$0",
                     "cast": "Sammy Hagar / Eddie Van Halen / Alex Van Halen / Michael Anthony",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=24466&ignore_default=true)",
@@ -2457,11 +2338,10 @@
                     "param.plugin_category": "Live Concerts & Music",
                     "param.user_slug": "dwarnes1970",
                     "param.widget": "True",
-                    "popularity": "0.778",
+                    "popularity": "0.77",
                     "revenue": "$0",
                     "slug_id": "van-halen-live-right-here-right-now-1993",
                     "studio": "Warner Bros. Records",
-                    "theatrical_release": "1993-02-23",
                     "tmdb_id": "24466",
                     "tmdb_rating": "7.3",
                     "tmdb_type": "movie",
@@ -2475,12 +2355,12 @@
                 ],
                 "episode": -1,
                 "episodeguide": "",
-                "fanart": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f2Fjl9AlbIe1FjPeOIW9QM9XDz9Q.jpg/",
                 "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=24466",
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "tt0275766",
                 "label": "Van Halen - Live: Right Here, Right Now",
@@ -2490,14 +2370,14 @@
                 "mpaa": "",
                 "originaltitle": "Van Halen - Live: Right Here, Right Now",
                 "playcount": 0,
-                "plot": "Live: Right Here, Right Now. is the one and only live album by American hard rock band Van Halen, released in 1993. The album combines songs performed over two nights in May 1992 at the Selland Arena in Fresno, CA. The bulk of the songs on this album were from the first night, such as the solos performed by Eddie Van Halen and Sammy Hagar.",
+                "plot": "\"Right Here, Right Now\" est le seul et unique album live du groupe de hard rock am\u00e9ricain Van Halen, sorti en 1993. L'album combine des chansons interpr\u00e9t\u00e9es pendant deux nuits en mai 1992 \u00e0 la Selland Arena de Fresno, en Californie. La plupart des titres de cet album provenaient de la premi\u00e8re nuit, comme les solos interpr\u00e9t\u00e9s par Eddie Van Halen et Sammy Hagar.",
                 "plotoutline": "",
                 "premiered": "1993-02-23",
                 "productioncode": "",
-                "rating": 7.333000183105469,
+                "rating": 7.300000190734863,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 7200.0
                 },
                 "runtime": 7200,
                 "season": -1,
@@ -2542,8 +2422,8 @@
                 "album": "",
                 "art": {
                     "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fnfoORGlLVzByE5hnW4FiNAUyeRD.jpg/",
-                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f9ITUFXtbEhJV8xdzsd9tgiahfoq.jpg/",
-                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f9ITUFXtbEhJV8xdzsd9tgiahfoq.jpg/"
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fjE9kerlPWAVg5IRDcLaDFKoLCqY.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fjE9kerlPWAVg5IRDcLaDFKoLCqY.jpg/"
                 },
                 "artist": [],
                 "cast": [
@@ -2574,7 +2454,6 @@
                 ],
                 "country": [],
                 "customproperties": {
-                    "available_releases": "Digital",
                     "budget": "$0",
                     "cast": "Sammy Hagar / Eddie Van Halen / Michael Anthony / Alex Van Halen",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=24465&ignore_default=true)",
@@ -2592,7 +2471,6 @@
                     "contextmenulabel(5)": "$LOCALIZE[20444]",
                     "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
                     "dbtype": "movie",
-                    "digital_release": "1987-09-15",
                     "imdb_id": "tt0290905",
                     "isplayable": "true",
                     "item.info": "play",
@@ -2606,7 +2484,7 @@
                     "param.plugin_category": "Live Concerts & Music",
                     "param.user_slug": "dwarnes1970",
                     "param.widget": "True",
-                    "popularity": "0.6",
+                    "popularity": "1.093",
                     "revenue": "$0",
                     "slug_id": "van-halen-live-without-a-net-86-1987",
                     "tmdb_id": "24465",
@@ -2627,7 +2505,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "tt0290905",
                 "label": "Van Halen - Live Without A Net 86'",
@@ -2637,14 +2515,14 @@
                 "mpaa": "",
                 "originaltitle": "Van Halen - Live Without A Net 86'",
                 "playcount": 0,
-                "plot": "Live Without a Net is a live concert video of Van Halen recorded in New Haven, Connecticut in 1986, and released the following year. It was of their performance on August 27, 1986 at New Haven's Veterans Memorial Coliseum. The 90-minute release removed a few songs from the full performance. While the band attempted to record the previous night, audio problems prevented it from being used, although some video footage from that night would later surface in music videos. The concerts were part of the 5150 Tour, supporting the album of the same name, Van Halen's first with lead singer Sammy Hagar.",
+                "plot": "\"Live Without a Net\" est une vid\u00e9o de concert en direct de Van Halen enregistr\u00e9e \u00e0 New Haven, Connecticut en 1986, et sortie l'ann\u00e9e suivante. C'\u00e9tait de leur performance le 27 ao\u00fbt 1986 au Veterans Memorial Coliseum de New Haven. La sortie de 90 minutes a supprim\u00e9 quelques chansons de la performance compl\u00e8te. Alors que le groupe a tent\u00e9 d'enregistrer la nuit pr\u00e9c\u00e9dente, des probl\u00e8mes audio ont emp\u00each\u00e9 son utilisation, bien que certaines s\u00e9quences vid\u00e9o de cette nuit fassent surface plus tard dans des vid\u00e9oclips. Les concerts faisaient partie de la tourn\u00e9e 5150, soutenant l'album du m\u00eame nom, le premier de Van Halen avec le chanteur Sammy Hagar.",
                 "plotoutline": "",
                 "premiered": "1987-09-15",
                 "productioncode": "",
-                "rating": 6.75,
+                "rating": 6.800000190734863,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 5400.0
                 },
                 "runtime": 5400,
                 "season": -1,
@@ -2695,17 +2573,207 @@
                     {
                         "name": "Eric Clapton",
                         "order": 0,
-                        "role": "Himself",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fxAt8X2SzU4gghOyf8xjPPknHNyv.jpg/"
+                    },
+                    {
+                        "name": "Blake Mills",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Booker T. Jones",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Buddy Guy",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f9J2mWgbZ39QCRASLKtiTeQV23Wr.jpg/"
+                    },
+                    {
+                        "name": "Derek Trucks",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Doyle Bramhall II",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Gary Clark Jr.",
+                        "order": 6,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fw0ePaQi3UUOaejzNGmHpc2V87lK.jpg/"
+                    },
+                    {
+                        "name": "Gregg Allman",
+                        "order": 7,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2faf4x6C09lXLzXRw8L97xmXFlLWT.jpg/"
+                    },
+                    {
+                        "name": "Jeff Beck",
+                        "order": 8,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fX16Bn8VOBYiLenre7ufN7Kzdi.jpg/"
+                    },
+                    {
+                        "name": "John Mayer",
+                        "order": 9,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fj6W5imosdIvPQ2PLZCRMlKiIy4h.jpg/"
+                    },
+                    {
+                        "name": "Keith Richards",
+                        "order": 10,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ft1oa5UsJMmrhNqCIks4jQnAYSQT.jpg/"
+                    },
+                    {
+                        "name": "Keith Urban",
+                        "order": 11,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f6jB3gPO4yhdr24iqLjNS1Nw83SL.jpg/"
+                    },
+                    {
+                        "name": "Los Lobos",
+                        "order": 12,
+                        "role": ""
+                    },
+                    {
+                        "name": "Robert Cray",
+                        "order": 13,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2furFJxPChtAaaz4b2MmlPSeVwNnN.jpg/"
+                    },
+                    {
+                        "name": "Sonny Landreth",
+                        "order": 14,
+                        "role": ""
+                    },
+                    {
+                        "name": "Vince Gill",
+                        "order": 15,
+                        "role": ""
+                    },
+                    {
+                        "name": "Warren Haynes",
+                        "order": 16,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fdMvZ9E5v3wVq7hirdtdYuMlfgf.jpg/"
+                    },
+                    {
+                        "name": "Paul Carrack",
+                        "order": 17,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fkxjGYVkeFInefgNGIAO3pzqokpR.jpg/"
+                    },
+                    {
+                        "name": "Citizen Cope",
+                        "order": 18,
+                        "role": ""
+                    },
+                    {
+                        "name": "Steve Cropper",
+                        "order": 19,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fbpM7BVFPrnasFEecozKmeI34714.jpg/"
+                    },
+                    {
+                        "name": "Andy Fairweather-Low",
+                        "order": 20,
+                        "role": ""
+                    },
+                    {
+                        "name": "Beth Hart",
+                        "order": 21,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f7ylG2gNnOXvieNupT0Mq5ZP6AN.jpg/"
+                    },
+                    {
+                        "name": "B.B. King",
+                        "order": 22,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fyKZKHoX5AKZr2paJpYWaeYq0RuW.jpg/"
+                    },
+                    {
+                        "name": "Earl Klugh",
+                        "order": 23,
+                        "role": ""
+                    },
+                    {
+                        "name": "Albert Lee",
+                        "order": 24,
+                        "role": ""
+                    },
+                    {
+                        "name": "Taj Mahal",
+                        "order": 25,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fq8essPzbetB5NFX0KkaaQdmnMmS.jpg/"
+                    },
+                    {
+                        "name": "Keb' Mo'",
+                        "order": 26,
+                        "role": ""
+                    },
+                    {
+                        "name": "Matt \"Guitar\" Murphy",
+                        "order": 27,
+                        "role": ""
+                    },
+                    {
+                        "name": "Robert Randolph",
+                        "order": 28,
+                        "role": ""
+                    },
+                    {
+                        "name": "Robbie Robertson",
+                        "order": 29,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fpUhQhGrerErQGZKy0kKn6e6m1X7.jpg/"
+                    },
+                    {
+                        "name": "Kurt Rosenwinkel",
+                        "order": 30,
+                        "role": ""
+                    },
+                    {
+                        "name": "Alice Smith",
+                        "order": 31,
+                        "role": ""
+                    },
+                    {
+                        "name": "Quinn Sullivan",
+                        "order": 32,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2faK10XY2xc8vbQFw5hgp7S4dCWdD.jpg/"
+                    },
+                    {
+                        "name": "Jimmie Vaughan",
+                        "order": 33,
+                        "role": ""
+                    },
+                    {
+                        "name": "Tal Wilkenfeld",
+                        "order": 34,
+                        "role": ""
+                    },
+                    {
+                        "name": "Johnny Radelat",
+                        "order": 35,
+                        "role": ""
                     }
                 ],
                 "country": [
                     "United States of America"
                 ],
                 "customproperties": {
-                    "available_releases": "Theatrical",
                     "budget": "$0",
-                    "cast": "Eric Clapton",
+                    "cast": "Eric Clapton / Blake Mills / Booker T. Jones / Buddy Guy / Derek Trucks / Doyle Bramhall II / Gary Clark Jr. / Gregg Allman / Jeff Beck / John Mayer / Keith Richards / Keith Urban / Los Lobos / Robert Cray / Sonny Landreth / Vince Gill / Warren Haynes / Paul Carrack / Citizen Cope / Steve Cropper / Andy Fairweather-Low / Beth Hart / B.B. King / Earl Klugh / Albert Lee / Taj Mahal / Keb' Mo' / Matt \"Guitar\" Murphy / Robert Randolph / Robbie Robertson / Kurt Rosenwinkel / Alice Smith / Quinn Sullivan / Jimmie Vaughan / Tal Wilkenfeld / Johnny Radelat",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=238470&ignore_default=true)",
                     "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=238470)",
                     "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=238470)",
@@ -2734,13 +2802,14 @@
                     "param.plugin_category": "Live Concerts & Music",
                     "param.user_slug": "dwarnes1970",
                     "param.widget": "True",
-                    "popularity": "0.896",
-                    "provider.link": "https://www.themoviedb.org/movie/238470-eric-clapton-s-crossroads-guitar-festival-2013/watch?locale=US",
-                    "providers": "Apple iTunes",
+                    "popularity": "1.195",
                     "revenue": "$0",
+                    "set.fanart": "",
+                    "set.name": "Crossroads Guitar Festival Collection",
+                    "set.poster": "https://image.tmdb.org/t/p/w500/j52QAw4rar3mxUAHrsqtJPNbZhq.jpg",
+                    "set.tmdb_id": "1073874",
                     "slug_id": "eric-clapton-s-crossroads-guitar-festival-2013-2013",
                     "studio": "Parallel 28 Equipe",
-                    "theatrical_release": "2013-11-19",
                     "tmdb_id": "238470",
                     "tmdb_rating": "5.9",
                     "tmdb_type": "movie",
@@ -2759,7 +2828,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "tt3108322",
                 "label": "Eric Clapton's Crossroads Guitar Festival 2013",
@@ -2769,18 +2838,18 @@
                 "mpaa": "",
                 "originaltitle": "Eric Clapton's Crossroads Guitar Festival 2013",
                 "playcount": 0,
-                "plot": "This documentary captures some of the performances  from the 2013 edition of Eric Clapton's Crossroads  Guitar Festival.",
+                "plot": "Documentaire sur l'\u00e9dition 2013 du Crossroads Guitar Festival de Eric Clapton.",
                 "plotoutline": "",
                 "premiered": "2013-11-19",
                 "productioncode": "",
                 "rating": 5.900000095367432,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 17340.0
                 },
                 "runtime": 17340,
                 "season": -1,
-                "set": "",
+                "set": "Crossroads Guitar Festival Collection",
                 "setid": -1,
                 "showlink": [],
                 "showtitle": "",
@@ -2821,8 +2890,8 @@
                 "album": "",
                 "art": {
                     "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fayHdpABEHJebLPz744tDFyqzXp1.jpg/",
-                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f9KnFVhVN4AwUZbYpjZOPjj0dUfD.jpg/",
-                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f9KnFVhVN4AwUZbYpjZOPjj0dUfD.jpg/"
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fwKxMQPI7HcXIwJXPg0YLnfjri5Z.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fwKxMQPI7HcXIwJXPg0YLnfjri5Z.jpg/"
                 },
                 "artist": [],
                 "cast": [
@@ -2849,7 +2918,7 @@
                     "Japan"
                 ],
                 "customproperties": {
-                    "available_releases": "Theatrical",
+                    "available_releases": "Digital",
                     "budget": "$0",
                     "cast": "Sting / Andy Summers / Stewart Copeland",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=38520&ignore_default=true)",
@@ -2858,7 +2927,7 @@
                     "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=38520)",
                     "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=38520)",
                     "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=38520)",
-                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=The Police: Live In Concert Tokyo,tmdb_type=movie,tmdb_id=38520)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=The Police : Live In Concert Tokyo,tmdb_type=movie,tmdb_id=38520)",
                     "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
                     "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
                     "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
@@ -2867,6 +2936,7 @@
                     "contextmenulabel(5)": "$LOCALIZE[20444]",
                     "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
                     "dbtype": "movie",
+                    "digital_release": "2008-10-21",
                     "isplayable": "true",
                     "item.info": "play",
                     "item.tmdb_id": "38520",
@@ -2879,11 +2949,10 @@
                     "param.plugin_category": "Live Concerts & Music",
                     "param.user_slug": "dwarnes1970",
                     "param.widget": "True",
-                    "popularity": "0.988",
+                    "popularity": "0.6",
                     "revenue": "$0",
                     "slug_id": "the-police-live-in-concert-tokyo-2008",
                     "studio": "Coqueiro Verde",
-                    "theatrical_release": "2008-08-08",
                     "tmdb_id": "38520",
                     "tmdb_rating": "8.0",
                     "tmdb_type": "movie",
@@ -2902,26 +2971,26 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "",
-                "label": "The Police: Live In Concert Tokyo",
+                "label": "The Police : Live In Concert Tokyo",
                 "lastmodified": "",
                 "lastplayed": "",
                 "mimetype": "application/octet-stream",
-                "mpaa": "",
+                "mpaa": "Rated U",
                 "originaltitle": "The Police: Live In Concert Tokyo",
                 "playcount": 0,
-                "plot": "The Police Reunion Tour was a 2007-2008 worldwide concert tour by The Police, marking the 30th anniversary of their beginnings. At its conclusion, the tour became the fourth highest grossing tour of all time, with revenues reaching over $340 million. The tour began in May 2007 to overwhelmingly positive reviews from fans and critics alike and ended in August 2008 with a final show at Madison Square Garden.",
+                "plot": "The Police Reunion Tour a \u00e9t\u00e9 une tourn\u00e9e de concerts \u00e0 travers le monde en 2007-2008 du groupe Police, marquant le 30e anniversaire de leurs d\u00e9buts. Lors de sa conclusion, le tour est devenu le quatri\u00e8me plus haut tour de tous les temps, avec des recettes atteignant 340 millions de dollars. La tourn\u00e9e a commenc\u00e9 en mai 2007 avec une \u00e9crasante majorit\u00e9 de commentaire positif des fans et des critiques, et il s'est termin\u00e9e en ao\u00fbt 2008 avec un spectacle final au Madison Square Garden.",
                 "plotoutline": "",
                 "premiered": "2008-08-08",
                 "productioncode": "",
                 "rating": 8.0,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 5580.0
                 },
-                "runtime": 7980,
+                "runtime": 5580,
                 "season": -1,
                 "set": "",
                 "setid": -1,
@@ -2942,10 +3011,10 @@
                 "tag": [],
                 "tagline": "",
                 "thumbnail": "",
-                "title": "The Police: Live In Concert Tokyo",
+                "title": "The Police : Live In Concert Tokyo",
                 "top250": 0,
                 "track": -1,
-                "trailer": "",
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=qZ9GwWY5hF4",
                 "tvshowid": -1,
                 "type": "movie",
                 "uniqueid": {
@@ -2957,6 +3026,89 @@
                 "votes": "1",
                 "writer": [],
                 "year": 2008
+            },
+            {
+                "album": "",
+                "art": {
+                    "icon": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p(1)%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage.png/",
+                    "landscape": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p(1)%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage_wide.png/"
+                },
+                "artist": [],
+                "cast": [],
+                "country": [],
+                "customproperties": {
+                    "item.info": "trakt_userlist",
+                    "item.list_name": "Live Concerts & Music",
+                    "item.list_slug": "live-concerts-music",
+                    "item.owner": "true",
+                    "item.page": "2",
+                    "item.plugin_category": "Live Concerts & Music",
+                    "item.user_slug": "dwarnes1970",
+                    "item.widget": "True",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Live Concerts & Music",
+                    "param.list_slug": "live-concerts-music",
+                    "param.owner": "true",
+                    "param.plugin_category": "Live Concerts & Music",
+                    "param.user_slug": "dwarnes1970",
+                    "param.widget": "True",
+                    "widget": "Live Concerts & Music"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Live+Concerts+%26+Music&list_slug=live-concerts-music&owner=true&plugin_category=Live+Concerts+%26+Music&user_slug=dwarnes1970&page=2&widget=true&reload=$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]",
+                "filetype": "directory",
+                "firstaired": "",
+                "genre": [],
+                "imdbnumber": "",
+                "label": "Page suivante",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "x-directory/normal",
+                "mpaa": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "",
+                "plotoutline": "",
+                "premiered": "",
+                "productioncode": "",
+                "rating": 0.0,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 0,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "unknown",
+                "userrating": 0,
+                "votes": "0",
+                "writer": [],
+                "year": 0
             }
         ],
         "limits": {

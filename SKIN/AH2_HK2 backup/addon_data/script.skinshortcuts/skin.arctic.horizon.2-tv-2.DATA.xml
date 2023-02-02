@@ -1,0 +1,42 @@
+<shortcuts>
+	<shortcut>
+		<defaultID>customnode2</defaultID>
+		<label>Catch-up TV &amp; More</label>
+		<label2>Elément personnalisé</label2>
+		<icon>special://skin/extras/icons/shortcut.png</icon>
+		<thumb />
+		<action>CustomNode2</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Télévision de rattrapage</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://resource%3a%2f%2fresource.images.catchuptvandmore%2freplay.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.catchuptvandmore/resources/lib/main/generic_menu/?_pickle_=8004953a000000000000007d94288c075f7469746c655f948c064672616e6365948c08786d6c74765f6964944e8c076974656d5f6964948c0966725f7265706c617994752e",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>customnode1</defaultID>
+		<label>iPTV Fournisseurs</label>
+		<label2>Elément personnalisé</label2>
+		<icon>special://skin/extras/icons/shortcut.png</icon>
+		<thumb />
+		<action>CustomNode1</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Fox</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://special%3a%2f%2fhome%2faddons%2fplugin.video.sendtokodiU2P%2fresources%2fpng%2fiptv.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=loadF&amp;fourn=http%3A%2F%2Fmyf-tv.com%3A8080",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>customnode3</defaultID>
+		<label>TV en Direct Kodi</label>
+		<label2>Elément personnalisé</label2>
+		<icon>special://skin/extras/icons/shortcut.png</icon>
+		<thumb />
+		<action>CustomNode3</action>
+		</shortcut>
+	</shortcuts>

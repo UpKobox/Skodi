@@ -1,0 +1,17 @@
+{
+    "history": [
+        [
+            1673340039.772992,
+            "9dd7b29617ef5e1cee36e7964c775fc5761fd75e"
+        ],
+        [
+            1673477021.7806826,
+            "1c4ed1ad2f26f52985d7a97ccd408071c12f505f"
+        ]
+    ],
+    "widgets": [
+        "0eb1d4a4-ac55-4f18-bf5e-0885493c547d",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Les%20suites%20(Animes%20de%20l%e2%80%99%c3%a9t%c3%a9%202022)&list_slug=les-suites-animes-de-l-ete-2022&plugin_category=Les%20suites%20(Animes%20de%20l%e2%80%99%c3%a9t%c3%a9%202022)&user_slug=didi232&widget=True"
+}

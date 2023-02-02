@@ -5,7 +5,7 @@
 		<label2>Elément personnalisé</label2>
 		<icon>special://skin/extras/icons/film.png</icon>
 		<thumb>special://home/media/Arctic Horizon 2/Movie-Clapper-icon.png</thumb>
-		<action>ActivateWindow(1120)</action>
+		<action>ActivateWindow(1132)</action>
 		</shortcut>
 	<shortcut>
 		<defaultID>tvshows</defaultID>
@@ -13,39 +13,30 @@
 		<label2>Elément personnalisé</label2>
 		<icon>special://skin/extras/icons/tv.png</icon>
 		<thumb>special://home/media/Arctic Horizon 2/tv_series_icon_by_quaffleeye_d6qj64q-fullview.png</thumb>
-		<action>ActivateWindow(1121)</action>
+		<action>ActivateWindow(1132)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>plugin.program.Skodi</defaultID>
+		<label>Skodi/U2Pplay</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons/plugin.video.sendtokodiU2P/icon.png</thumb>
+		<action>ActivateWindow(1132)</action>
 		</shortcut>
 	<shortcut>
 		<defaultID>plugin.audio.tidal2</defaultID>
 		<label>Musiques</label>
-		<label2>Extensions Musique</label2>
+		<label2>Elément personnalisé</label2>
 		<icon>DefaultShortcut.png</icon>
 		<thumb>special://home/media/Arctic Horizon 2/Guyman-Helmet-Music-icon.png</thumb>
-		<action>ActivateWindow(Music,"plugin://plugin.audio.tidal2",return)</action>
+		<action>ActivateWindow(1132)</action>
 		</shortcut>
 	<shortcut>
 		<defaultID>plugin.video.catchuptvandmore</defaultID>
-		<label>MyCanal~TV</label>
+		<label>TV</label>
 		<label2>Elément personnalisé</label2>
 		<icon>DefaultShortcut.png</icon>
 		<thumb>special://home/media/Arctic Horizon 2/Network-icon.png</thumb>
-		<action>StartAndroidActivity("com.canal.android.canal")</action>
-		</shortcut>
-	<shortcut>
-		<defaultID>plugin.program.Skodi</defaultID>
-		<label>[COLOR lime]Skodi[/COLOR]</label>
-		<label2>Programme</label2>
-		<icon>DefaultShortcut.png</icon>
-		<thumb>special://home/addons/plugin.program.Skodi/icon.png</thumb>
-		<action>ActivateWindow(Programs,"plugin://plugin.program.Skodi",return)</action>
-		</shortcut>
-	<shortcut>
-		<defaultID>livetv</defaultID>
-		<label>$SKIN[31085|skin.arctic.horizon.2|None]</label>
-		<label2>Common Shortcut</label2>
-		<icon>special://skin/extras/icons/livetv.png</icon>
-		<thumb>/storage/emulated/0/Android/media/Arctic Horizon 2/Network-icon.png</thumb>
-		<action>ActivateWindow(TVChannels)</action>
-		<visible>PVR.HasTVChannels</visible>
+		<action>ActivateWindow(1132)</action>
 		</shortcut>
 	</shortcuts>

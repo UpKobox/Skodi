@@ -3,7 +3,7 @@
         "::PROFILELIST::",
         [
             [
-                "C:\\KodiTest\\kodi 20 testu2p\\Kodi\\portable_data\\userdata\\",
+                "C:\\KodiTest\\kodi 21 testu2p(1)\\Kodi\\portable_data\\userdata\\",
                 "String.IsEqual(System.ProfileName,Master user)",
                 "Master user"
             ]
@@ -15,7 +15,7 @@
     ],
     [
         "::XBMCVER::",
-        "20"
+        "21"
     ],
     [
         "::HIDEPVR::",
@@ -35,130 +35,178 @@
     ],
     [
         "::SKINVER::",
-        "0.7.9"
+        "0.8.3"
     ],
     [
-        "C:\\KodiTest\\kodi 20 testu2p\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-mycanal-tv-1.DATA.xml",
-        "b17d111c0f861fce2413fc8117b41549"
+        "C:\\KodiTest\\kodi 21 testu2p(1)\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-movies.DATA.xml",
+        "f41edda65def6221d8870599275894ce"
     ],
     [
-        "C:\\KodiTest\\kodi 20 testu2p\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-movies.DATA.xml",
-        "5e29b1d21e8e717829cfd04d0776ac5f"
+        "C:\\KodiTest\\kodi 21 testu2p(1)\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-skodi-u2pplay-4.DATA.xml",
+        "30fda70f61b83f75a5a20ef07605b295"
     ],
     [
-        "C:\\KodiTest\\kodi 20 testu2p\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-plugin-program-skodi.DATA.xml",
-        "e3468bd5f30e7710c19342ec2a768c20"
+        "C:\\KodiTest\\kodi 21 testu2p(1)\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-tv-2.DATA.xml",
+        "773dd1b83982b4f5ee46dcbd4e70e887"
     ],
     [
-        "C:\\KodiTest\\kodi 20 testu2p\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-powermenu.DATA.xml",
-        "64faac12ce8fdf4f1f6e02f47202b375"
+        "C:\\KodiTest\\kodi 21 testu2p(1)\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-powermenu.DATA.xml",
+        "11d200f941dc779aa7caad04dcc1f38d"
     ],
     [
-        "C:\\KodiTest\\kodi 20 testu2p\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-series-animes-1.DATA.xml",
-        "1f9c09137f142469f7f66411d3ad71e0"
+        "C:\\KodiTest\\kodi 21 testu2p(1)\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-musiques-4.DATA.xml",
+        "050787b1c1d7ed5e2f471e8623a89035"
     ],
     [
-        "C:\\KodiTest\\kodi 20 testu2p\\Kodi\\portable_data\\addons\\skin.arctic.horizon.2\\shortcuts\\overrides.xml",
-        "b4aff68d4b5393ea7ae8d22c097b073c"
-    ],
-    [
-        "C:\\KodiTest\\kodi 20 testu2p\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-mycanal-tv.DATA.xml",
-        "39a1484761757f2c0586141efb597f44"
-    ],
-    [
-        "C:\\KodiTest\\kodi 20 testu2p\\Kodi\\portable_data\\addons\\script.skinshortcuts\\resources\\shortcuts\\movies.DATA.xml",
-        "4997634763cceea26b3e7ed557b130e2"
-    ],
-    [
-        "C:\\KodiTest\\kodi 20 testu2p\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-31085.DATA.xml",
-        "a5a7999c9cab0725158c89ce745564f4"
-    ],
-    [
-        "C:\\KodiTest\\kodi 20 testu2p\\Kodi\\portable_data\\addons\\skin.arctic.horizon.2\\shortcuts\\searchmenu.DATA.xml",
-        "f3ce44af32a8b7ccef6d5dafae266cf1"
-    ],
-    [
-        "C:\\KodiTest\\kodi 20 testu2p\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2.properties",
-        "b8dc22eabe28967f46305caadba9efa4"
-    ],
-    [
-        "C:\\KodiTest\\kodi 20 testu2p\\Kodi\\portable_data\\addons\\skin.arctic.horizon.2\\shortcuts\\mainmenu.DATA.xml",
-        "b191804fe49051325e5a6a380cc3a30d"
-    ],
-    [
-        "C:\\KodiTest\\kodi 20 testu2p\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-plugin-audio-tidal2-1.DATA.xml",
-        "02a6200ba94c998c6441c5978533b85a"
-    ],
-    [
-        "C:\\KodiTest\\kodi 20 testu2p\\Kodi\\portable_data\\addons\\script.skinshortcuts\\resources\\shortcuts\\overrides.xml",
-        "5d367b4cf434ffcb86069273d402dc28"
-    ],
-    [
-        "C:\\KodiTest\\kodi 20 testu2p\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-mainmenu.DATA.xml",
-        "dffd79f685ba99f6491fa8f4c7fd76d1"
-    ],
-    [
-        "C:\\KodiTest\\kodi 20 testu2p\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-movies-1.DATA.xml",
-        "181edc75bca95349ae72e6995c88a673"
-    ],
-    [
-        "C:\\KodiTest\\kodi 20 testu2p\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-31085-1.DATA.xml",
-        "e1c2ba36fea0a78818358282144d451f"
-    ],
-    [
-        "C:\\KodiTest\\kodi 20 testu2p\\Kodi\\portable_data\\addons\\script.skinshortcuts\\resources\\shortcuts\\mainmenu.DATA.xml",
-        "8523f5b50afc14f67af449ca99ee21f8"
-    ],
-    [
-        "C:\\KodiTest\\kodi 20 testu2p\\Kodi\\portable_data\\addons\\skin.arctic.horizon.2\\shortcuts\\tvshows.DATA.xml",
-        "311df79aa412768392152e2b9e1fe0e8"
-    ],
-    [
-        "C:\\KodiTest\\kodi 20 testu2p\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-plugin-audio-tidal2.DATA.xml",
-        "301bcf030923ca5eb90a54d433215533"
-    ],
-    [
-        "C:\\KodiTest\\kodi 20 testu2p\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-plugin-program-skodi-1.DATA.xml",
-        "8913352eacaad1d12130ca990313e2a5"
-    ],
-    [
-        "C:\\KodiTest\\kodi 20 testu2p\\Kodi\\portable_data\\addons\\skin.arctic.horizon.2\\shortcuts\\movies.DATA.xml",
-        "fe96c71013a28ce4c8b193b3b3a6d925"
-    ],
-    [
-        "C:\\KodiTest\\kodi 20 testu2p\\Kodi\\portable_data\\addons\\skin.arctic.horizon.2\\1080i\\script-skinshortcuts-includes.xml",
-        "ef22ed355a57a553b0201e44855b5fbc"
-    ],
-    [
-        "C:\\KodiTest\\kodi 20 testu2p\\Kodi\\portable_data\\addons\\skin.arctic.horizon.2\\shortcuts\\31085-1.DATA.xml",
-        "1c583541f8e53cc11913ee73674199b3"
-    ],
-    [
-        "C:\\KodiTest\\kodi 20 testu2p\\Kodi\\portable_data\\addons\\skin.arctic.horizon.2\\shortcuts\\movies-1.DATA.xml",
-        "635ae939d0b7f4273dfb807b247c96f8"
-    ],
-    [
-        "C:\\KodiTest\\kodi 20 testu2p\\Kodi\\portable_data\\addons\\skin.arctic.horizon.2\\shortcuts\\template.xml",
-        "17357b071860237be712bcb45b596630"
-    ],
-    [
-        "C:\\KodiTest\\kodi 20 testu2p\\Kodi\\portable_data\\addons\\script.skinshortcuts\\resources\\shortcuts\\tvshows.DATA.xml",
+        "C:\\KodiTest\\kodi 21 testu2p(1)\\Kodi\\portable_data\\addons\\script.skinshortcuts\\resources\\shortcuts\\tvshows.DATA.xml",
         "a86ff5cfeb2ecd934ccf77a45b7a0deb"
     ],
     [
-        "C:\\KodiTest\\kodi 20 testu2p\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-series-animes.DATA.xml",
-        "fee813e2f4ab2d43df9f418a1c53513e"
+        "C:\\KodiTest\\kodi 21 testu2p(1)\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-tv-3.DATA.xml",
+        "12f6f02afaf08f135b1a730df6415c54"
     ],
     [
-        "C:\\KodiTest\\kodi 20 testu2p\\Kodi\\portable_data\\addons\\skin.arctic.horizon.2\\shortcuts\\powermenu.DATA.xml",
+        "C:\\KodiTest\\kodi 21 testu2p(1)\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-tv-1.DATA.xml",
+        "df21817aae41a6f91f33a49af8012b61"
+    ],
+    [
+        "C:\\KodiTest\\kodi 21 testu2p(1)\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2.properties",
+        "493737e52c1adc98244a5f312872e393"
+    ],
+    [
+        "C:\\KodiTest\\kodi 21 testu2p(1)\\Kodi\\portable_data\\addons\\skin.arctic.horizon.2\\shortcuts\\powermenu.DATA.xml",
         "f620a1c731775d237771930147537f59"
     ],
     [
-        "C:\\KodiTest\\kodi 20 testu2p\\Kodi\\portable_data\\addons\\script.skinshortcuts\\resources\\shortcuts\\livetv.DATA.xml",
-        "3d409a85845a37633a956e43636c0535"
+        "C:\\KodiTest\\kodi 21 testu2p(1)\\Kodi\\portable_data\\addons\\skin.arctic.horizon.2\\shortcuts\\overrides.xml",
+        "df5b11a36a288e763e1787a6b344c0d9"
     ],
     [
-        "C:\\KodiTest\\kodi 20 testu2p\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-searchmenu.DATA.xml",
+        "C:\\KodiTest\\kodi 21 testu2p(1)\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-skodi-u2pplay-1.DATA.xml",
+        "a166437327d681d27387ef4d59a48059"
+    ],
+    [
+        "C:\\KodiTest\\kodi 21 testu2p(1)\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-skodi-u2pplay-2.DATA.xml",
+        "9c12534c6117af78ef15550fa6cf0e64"
+    ],
+    [
+        "C:\\KodiTest\\kodi 21 testu2p(1)\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-musiques-2.DATA.xml",
+        "6df18a4de922156ac174576d07e5d7e1"
+    ],
+    [
+        "C:\\KodiTest\\kodi 21 testu2p(1)\\Kodi\\portable_data\\addons\\script.skinshortcuts\\resources\\shortcuts\\movies.DATA.xml",
+        "4997634763cceea26b3e7ed557b130e2"
+    ],
+    [
+        "C:\\KodiTest\\kodi 21 testu2p(1)\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-tv-4.DATA.xml",
+        "4681021df49b58b85a487aaf169da9f4"
+    ],
+    [
+        "C:\\KodiTest\\kodi 21 testu2p(1)\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-movies-3.DATA.xml",
+        "916e8f45791a09acb5482125350050bb"
+    ],
+    [
+        "C:\\KodiTest\\kodi 21 testu2p(1)\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-searchmenu.DATA.xml",
         "17c0eeaad83bf683094f0c174f709c54"
+    ],
+    [
+        "C:\\KodiTest\\kodi 21 testu2p(1)\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-movies-1.DATA.xml",
+        "9c37dfdcd4469b359c0dc504f38e59c0"
+    ],
+    [
+        "C:\\KodiTest\\kodi 21 testu2p(1)\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-movies-5.DATA.xml",
+        "cef045544c68df8681c5f4fc244da95a"
+    ],
+    [
+        "C:\\KodiTest\\kodi 21 testu2p(1)\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-movies-2.DATA.xml",
+        "a35c656f796cd9c76c03e86b814ef643"
+    ],
+    [
+        "C:\\KodiTest\\kodi 21 testu2p(1)\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-musiques.DATA.xml",
+        "301bcf030923ca5eb90a54d433215533"
+    ],
+    [
+        "C:\\KodiTest\\kodi 21 testu2p(1)\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-musiques-3.DATA.xml",
+        "899e1ace72e07398808ce5a79af0a8d2"
+    ],
+    [
+        "C:\\KodiTest\\kodi 21 testu2p(1)\\Kodi\\portable_data\\addons\\skin.arctic.horizon.2\\shortcuts\\movies-1.DATA.xml",
+        "635ae939d0b7f4273dfb807b247c96f8"
+    ],
+    [
+        "C:\\KodiTest\\kodi 21 testu2p(1)\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-tv-5.DATA.xml",
+        "fdbb8a718913cf02ae8fe94a06b2b703"
+    ],
+    [
+        "C:\\KodiTest\\kodi 21 testu2p(1)\\Kodi\\portable_data\\addons\\skin.arctic.horizon.2\\shortcuts\\template.xml",
+        "dec62bc69d536b5c106ccc6ff7a4fc02"
+    ],
+    [
+        "C:\\KodiTest\\kodi 21 testu2p(1)\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-series-animes-5.DATA.xml",
+        "e4d00db0863db2a2c6511c49648e5f1c"
+    ],
+    [
+        "C:\\KodiTest\\kodi 21 testu2p(1)\\Kodi\\portable_data\\addons\\skin.arctic.horizon.2\\shortcuts\\tvshows.DATA.xml",
+        "311df79aa412768392152e2b9e1fe0e8"
+    ],
+    [
+        "C:\\KodiTest\\kodi 21 testu2p(1)\\Kodi\\portable_data\\addons\\skin.arctic.horizon.2\\shortcuts\\mainmenu.DATA.xml",
+        "b191804fe49051325e5a6a380cc3a30d"
+    ],
+    [
+        "C:\\KodiTest\\kodi 21 testu2p(1)\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-series-animes-1.DATA.xml",
+        "45fb41b75e055cfb74fee5149f5e197d"
+    ],
+    [
+        "C:\\KodiTest\\kodi 21 testu2p(1)\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-series-animes-2.DATA.xml",
+        "64dbd417add54f59ce5d32e51ebca6fd"
+    ],
+    [
+        "C:\\KodiTest\\kodi 21 testu2p(1)\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-skodi-u2pplay-5.DATA.xml",
+        "f2f06a9178456e023086911b608c9fe3"
+    ],
+    [
+        "C:\\KodiTest\\kodi 21 testu2p(1)\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-mainmenu.DATA.xml",
+        "72a9156ab4f4f225ccb9414fbc2939e9"
+    ],
+    [
+        "C:\\KodiTest\\kodi 21 testu2p(1)\\Kodi\\portable_data\\addons\\skin.arctic.horizon.2\\1080i\\script-skinshortcuts-includes.xml",
+        "d96bb852c15365107bfa3fb2dbb0b7ea"
+    ],
+    [
+        "C:\\KodiTest\\kodi 21 testu2p(1)\\Kodi\\portable_data\\addons\\script.skinshortcuts\\resources\\shortcuts\\overrides.xml",
+        "5d367b4cf434ffcb86069273d402dc28"
+    ],
+    [
+        "C:\\KodiTest\\kodi 21 testu2p(1)\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-musiques-1.DATA.xml",
+        "5c23a0a6f47190171f5ccfd6472da9dc"
+    ],
+    [
+        "C:\\KodiTest\\kodi 21 testu2p(1)\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-skodi-u2pplay.DATA.xml",
+        "a08e167313933cf1cfa40eeb4e1814be"
+    ],
+    [
+        "C:\\KodiTest\\kodi 21 testu2p(1)\\Kodi\\portable_data\\addons\\skin.arctic.horizon.2\\shortcuts\\searchmenu.DATA.xml",
+        "f3ce44af32a8b7ccef6d5dafae266cf1"
+    ],
+    [
+        "C:\\KodiTest\\kodi 21 testu2p(1)\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-series-animes.DATA.xml",
+        "c626eebda9fcc7f8d4a58684654edbfa"
+    ],
+    [
+        "C:\\KodiTest\\kodi 21 testu2p(1)\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-tv.DATA.xml",
+        "d52d60791d1128a15c99659e335045dc"
+    ],
+    [
+        "C:\\KodiTest\\kodi 21 testu2p(1)\\Kodi\\portable_data\\addons\\script.skinshortcuts\\resources\\shortcuts\\mainmenu.DATA.xml",
+        "8523f5b50afc14f67af449ca99ee21f8"
+    ],
+    [
+        "C:\\KodiTest\\kodi 21 testu2p(1)\\Kodi\\portable_data\\addons\\skin.arctic.horizon.2\\shortcuts\\movies.DATA.xml",
+        "fe96c71013a28ce4c8b193b3b3a6d925"
+    ],
+    [
+        "C:\\KodiTest\\kodi 21 testu2p(1)\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-skodi-u2pplay-3.DATA.xml",
+        "5bd6247751e730e7ff1b699184947fda"
     ]
 ]

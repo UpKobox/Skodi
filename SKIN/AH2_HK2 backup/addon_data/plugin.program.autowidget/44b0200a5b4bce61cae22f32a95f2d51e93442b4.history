@@ -1,0 +1,25 @@
+{
+    "history": [
+        [
+            1675345212.5498464,
+            "21d195c0c428864be271273748c092ccb9fc1ade"
+        ],
+        [
+            1675345213.4571233,
+            "21d195c0c428864be271273748c092ccb9fc1ade"
+        ],
+        [
+            1675346160.0467107,
+            "21d195c0c428864be271273748c092ccb9fc1ade"
+        ],
+        [
+            1675346642.4527023,
+            "21d195c0c428864be271273748c092ccb9fc1ade"
+        ]
+    ],
+    "widgets": [
+        "987123e7-7049-4734-8990-7997012a3c98",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Music+Concerts%2C+Artists+%26+Bands+%282+of4%29&list_slug=music-concerts-artists-bands-2-of4&plugin_category=Music+Concerts%2C+Artists+%26+Bands+%282+of4%29&user_slug=krissykk&page=3&widget=true&reload=$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]"
+}

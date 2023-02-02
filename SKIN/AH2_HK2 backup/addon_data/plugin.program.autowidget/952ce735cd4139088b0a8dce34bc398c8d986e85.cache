@@ -6,6 +6,235 @@
             {
                 "album": "",
                 "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fucduRoPpWLbnJocEEmY7q5Y1a1Z.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f3XnxSUPxjUUnH482l1o6aJrysKx.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f3XnxSUPxjUUnH482l1o6aJrysKx.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "James Hetfield",
+                        "order": 0,
+                        "role": "Guitars",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f1DBDpjWorXCwvMQLZeDIGfDQ5sJ.jpg/"
+                    },
+                    {
+                        "name": "Tom Araya",
+                        "order": 1,
+                        "role": "Vocals, bass",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f2lfBAcR3B8ZcbyhPLhhHmZRlYxc.jpg/"
+                    },
+                    {
+                        "name": "Dave Mustaine",
+                        "order": 2,
+                        "role": "Vocals, guitars",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2feckZS3SqYsSt0CHWXc8VxwqszFF.jpg/"
+                    },
+                    {
+                        "name": "Joey Belladonna",
+                        "order": 3,
+                        "role": "Vocals",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fhL2iXvQKPT8U8qDbnXGzj8lxoFB.jpg/"
+                    },
+                    {
+                        "name": "Lars Ulrich",
+                        "order": 4,
+                        "role": "Drums",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fuMcUqvbViiHftEpz0u4AxAnCgF3.jpg/"
+                    },
+                    {
+                        "name": "Dave Lombardo",
+                        "order": 5,
+                        "role": "Drums"
+                    },
+                    {
+                        "name": "Charlie Benante",
+                        "order": 6,
+                        "role": "Drums",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2frLbKOgIDuuqkMRVk9hjNTnJm9QK.jpg/"
+                    },
+                    {
+                        "name": "Shawn Drover",
+                        "order": 7,
+                        "role": "Drums",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2faIf8RyBqALDjg0Fkfuk4A1yL8bB.jpg/"
+                    },
+                    {
+                        "name": "Kirk Hammett",
+                        "order": 8,
+                        "role": "Guitars",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fwMsYlpaoALVgtOColQ9Fl68mx0u.jpg/"
+                    },
+                    {
+                        "name": "Chris Broderick",
+                        "order": 9,
+                        "role": "Guitars",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2frQGishgB5MxzzMlF339PbEGBQV3.jpg/"
+                    },
+                    {
+                        "name": "Scott Ian",
+                        "order": 10,
+                        "role": "Guitars",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f17EZYDZyp90zmcAFqvWa7Lp3KNl.jpg/"
+                    },
+                    {
+                        "name": "Kerry King",
+                        "order": 11,
+                        "role": "Guitars"
+                    },
+                    {
+                        "name": "Robert Trujillo",
+                        "order": 12,
+                        "role": "Bass",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2faDy6CSER3EcKrP2YPijW7Z9kJ8H.jpg/"
+                    },
+                    {
+                        "name": "David Ellefson",
+                        "order": 13,
+                        "role": "Bass",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f4crEkwrctqIDz6FI2nZRdeU5WMN.jpg/"
+                    },
+                    {
+                        "name": "Frank Bello",
+                        "order": 14,
+                        "role": "Bass",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fnGqD8VRHXiowQirZNrwSEyNOC6Y.jpg/"
+                    },
+                    {
+                        "name": "Jeff Hanneman",
+                        "order": 15,
+                        "role": "Guitars"
+                    },
+                    {
+                        "name": "Rob Caggiano",
+                        "order": 16,
+                        "role": "Guitars"
+                    }
+                ],
+                "country": [
+                    "Bulgaria"
+                ],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "James Hetfield / Tom Araya / Dave Mustaine / Joey Belladonna / Lars Ulrich / Dave Lombardo / Charlie Benante / Shawn Drover / Kirk Hammett / Chris Broderick / Scott Ian / Kerry King / Robert Trujillo / David Ellefson / Frank Bello / Jeff Hanneman / Rob Caggiano",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=40601&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=40601)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=40601)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=40601)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=40601)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=40601)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=The Big 4 - Live from Sofia,tmdb_type=movie,tmdb_id=40601)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt1792588",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "40601",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Music & Live Concerts",
+                    "param.list_slug": "music-live-concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Music & Live Concerts",
+                    "param.user_slug": "condemned",
+                    "param.widget": "True",
+                    "popularity": "4.215",
+                    "provider.link": "https://www.themoviedb.org/movie/40601-the-big-four-live-in-sofia/watch?locale=FR",
+                    "providers": "Apple iTunes",
+                    "revenue": "$0",
+                    "slug_id": "the-big-four-live-in-sofia-2010",
+                    "studio": "Splinter Films Ltd.",
+                    "tmdb_id": "40601",
+                    "tmdb_rating": "8.4",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "60",
+                    "trakt_id": "26706",
+                    "widget": "Music & Live Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Nick Wickham",
+                    "Nick Levitt"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fucduRoPpWLbnJocEEmY7q5Y1a1Z.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=40601",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique"
+                ],
+                "imdbnumber": "tt1792588",
+                "label": "The Big 4 - Live from Sofia",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "The Big Four: Live in Sofia",
+                "playcount": 0,
+                "plot": "Lorsque les \u00abBig Four\u00bb, Metallica, Slayer, Megadeth et Anthrax, ont partag\u00e9 une sc\u00e8ne ensemble le 22 juin 2010, \u00e0 Sofia, en Bulgarie, c'\u00e9tait le moment que leurs fans avaient attendu pendant des d\u00e9cennies. Ce spectacle monumental a \u00e9t\u00e9 retransmis en direct dans plus de 1000 cin\u00e9mas dans le monde par satellite.",
+                "plotoutline": "",
+                "premiered": "2010-06-22",
+                "productioncode": "",
+                "rating": 8.399999618530273,
+                "resume": {
+                    "position": 0.0,
+                    "total": 13920.0
+                },
+                "runtime": 13920,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Splinter Films Ltd.",
+                    "Universal/Music/DVD",
+                    "Vertigo",
+                    "Mercury Music Group",
+                    "Sonisphere Festival"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "The Big 4 - Live from Sofia",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=BibR2SKY2AI",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt1792588",
+                    "slug": "the-big-four-live-in-sofia-2010",
+                    "tmdb": "40601",
+                    "trakt": "26706",
+                    "unknown": "tt1792588"
+                },
+                "userrating": 0,
+                "votes": "60",
+                "writer": [],
+                "year": 2010
+            },
+            {
+                "album": "",
+                "art": {
                     "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2faySkAsvhoZYeiWnTs5Eah9gwCv4.jpg/",
                     "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2faySkAsvhoZYeiWnTs5Eah9gwCv4.jpg/"
                 },
@@ -24,7 +253,6 @@
                 ],
                 "country": [],
                 "customproperties": {
-                    "available_releases": "Theatrical",
                     "budget": "$0",
                     "cast": "Klayton / Brett Stahli",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=126566&ignore_default=true)",
@@ -55,11 +283,8 @@
                     "param.user_slug": "condemned",
                     "param.widget": "True",
                     "popularity": "0.6",
-                    "provider.link": "https://www.themoviedb.org/movie/126566-celldweller-live-upon-a-blackstar/watch?locale=US",
-                    "providers": "Apple iTunes / Amazon Video / Google Play Movies / YouTube / VUDU Free / Tubi TV",
                     "revenue": "$0",
                     "slug_id": "celldweller-live-upon-a-blackstar-2012",
-                    "theatrical_release": "2012-06-12",
                     "tmdb_id": "126566",
                     "tmdb_rating": "0.0",
                     "tmdb_type": "movie",
@@ -84,14 +309,14 @@
                 "mpaa": "",
                 "originaltitle": "Celldweller - Live Upon A Blackstar",
                 "playcount": 0,
-                "plot": "Live Upon a Blackstar is the first live album from the American electronic rock project, Celldweller. It includes a Live DVD/Blu-ray with footages taken in the US, Russian, Japanese and Canadian live shows. The full backing videos from the shows are also included on the DVD in High Definition along with \"tour diaries, 2 Celldweller music videos and more\". Live Upon a Blackstar is also accompanied by an audio-only CD and digital release.",
+                "plot": "",
                 "plotoutline": "",
                 "premiered": "2012-06-12",
                 "productioncode": "",
                 "rating": 0.0,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 3780.0
                 },
                 "runtime": 3780,
                 "season": -1,
@@ -175,7 +400,6 @@
                 ],
                 "country": [],
                 "customproperties": {
-                    "available_releases": "Physical",
                     "budget": "$0",
                     "cast": "Alexi Laiho / Henkka Blacksmith / Roope Latvala / Jaska Raatikainen / Janne Warman / Patric Ullaeus",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=61249&ignore_default=true)",
@@ -205,8 +429,7 @@
                     "param.plugin_category": "Music & Live Concerts",
                     "param.user_slug": "condemned",
                     "param.widget": "True",
-                    "physical_release": "2006-12-05",
-                    "popularity": "0.6",
+                    "popularity": "0.625",
                     "revenue": "$0",
                     "slug_id": "children-of-bodom-chaos-ridden-years-2006",
                     "tmdb_id": "61249",
@@ -225,7 +448,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "",
                 "label": "Children of Bodom - Chaos Ridden Years",
@@ -235,14 +458,14 @@
                 "mpaa": "",
                 "originaltitle": "Children of Bodom - Chaos Ridden Years",
                 "playcount": 0,
-                "plot": "Chaos Ridden Years - Stockholm Knockout Live is a live album by Finnish melodic death metal band Children of Bodom. The release was released on Spinefarm Records both as a live album entitled Chaos Ridden Years on October, 2006 and the DVD version entitled, Stockholm Knockout Live - Chaos Ridden Years on October 11, 2006. The album is a live show from Arenan, Stockholm, Sweden and contains: a documentary of the band, the making of the album, deleted scenes, a photo gallery, and seven promotional videos.",
+                "plot": "",
                 "plotoutline": "",
                 "premiered": "2006-12-05",
                 "productioncode": "",
                 "rating": 7.0,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 10980.0
                 },
                 "runtime": 10980,
                 "season": -1,
@@ -357,7 +580,7 @@
                     "param.plugin_category": "Music & Live Concerts",
                     "param.user_slug": "condemned",
                     "param.widget": "True",
-                    "popularity": "0.993",
+                    "popularity": "0.998",
                     "revenue": "$0",
                     "slug_id": "devin-townsend-the-retinal-circus-2013",
                     "tmdb_id": "222151",
@@ -376,7 +599,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "tt3319746",
                 "label": "Devin Townsend - The Retinal Circus",
@@ -386,14 +609,14 @@
                 "mpaa": "",
                 "originaltitle": "Devin Townsend - The Retinal Circus",
                 "playcount": 0,
-                "plot": "Renowned multi-instrumentalist, singer, songwriter, producer and now ringleader Devin Townsend played a special concert October 27, 2012 at the Roundhouse venue in London, England as part of a one-night-only event, dubbed \"The Retinal Circus\".",
+                "plot": "Le c\u00e9l\u00e8bre multi-instrumentiste, chanteur, auteur-compositeur, producteur et maintenant meneur Devin Townsend a donn\u00e9 un concert sp\u00e9cial le 27 octobre 2012 au Roundhouse \u00e0 Londres, en Angleterre, dans le cadre d'un \u00e9v\u00e9nement d'une nuit seulement, surnomm\u00e9 \"The Retinal Circus\".",
                 "plotoutline": "",
                 "premiered": "2013-09-30",
                 "productioncode": "",
                 "rating": 5.5,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 9600.0
                 },
                 "runtime": 9600,
                 "season": -1,
@@ -412,7 +635,7 @@
                 },
                 "studio": [],
                 "tag": [],
-                "tagline": "The Bizarre World of Devin Townsend",
+                "tagline": "",
                 "thumbnail": "",
                 "title": "Devin Townsend - The Retinal Circus",
                 "top250": 0,
@@ -437,7 +660,6 @@
                 "art": {
                     "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fmg8OCqAE81EPGJegNt0lh5JJo2X.jpg/",
                     "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fp2616zMUE6H7SgdGcQajvNF4v1b.jpg/",
-                    "landscape": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f9uKRYXEzaFwhYftiJc1PAP2axjr.jpg/",
                     "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fp2616zMUE6H7SgdGcQajvNF4v1b.jpg/"
                 },
                 "artist": [],
@@ -451,7 +673,6 @@
                 ],
                 "country": [],
                 "customproperties": {
-                    "available_releases": "Theatrical",
                     "budget": "$0",
                     "cast": "Eminem",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=24988&ignore_default=true)",
@@ -482,10 +703,9 @@
                     "param.plugin_category": "Music & Live Concerts",
                     "param.user_slug": "condemned",
                     "param.widget": "True",
-                    "popularity": "4.306",
+                    "popularity": "3.377",
                     "revenue": "$0",
                     "slug_id": "eminem-live-from-new-york-city-2005-2005",
-                    "theatrical_release": "2005-01-01",
                     "tmdb_id": "24988",
                     "tmdb_rating": "8.6",
                     "tmdb_type": "movie",
@@ -502,7 +722,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "tt0495688",
                 "label": "Eminem Live from New York City 2005",
@@ -512,14 +732,14 @@
                 "mpaa": "",
                 "originaltitle": "Eminem Live from New York City 2005",
                 "playcount": 0,
-                "plot": "This concert was filmed at Madison Square Garden in New York in 2005 at the culmination of his farewell tour prior to his retirement. It\u2019s a spectacular show with multi-level staging, amazing lighting and guest appearances from D12, Obie Trice and Stat Quo. Originally filmed for US TV station Showtime the show is now available on Blu-ray for the first time and gives us Eminem at his charismatic best.",
+                "plot": "1) Backstage 12) Evil Deeds3) Mosh4) Rain Man5) Ass Like That6) Puke7) Kill You8) Like Toy Soldiers9) Git Up (Feat. D12)10) How Come (Feat. D12)11) Rock Star (Feat. Bizarre of D12)12) 40 Oz (Feat. D12)13) My Band (Feat. D12)14) Backstage 215) Stan16) The Way I Am17) Just Don't Give A Fuck18) Got Some Teeth (Feat. Obbie Trice)19) Stay 'Bout It (Aqua) (Feat. Stat Quo)20) The Set Up (Feat. Stat Quo)21) Like Dat (Feat. Stat Quo &amp; Obie Trice)22) Cleaning Out My Closet23) Mockingbird24) Just Lose It25) Backstage 326) Lose Yourself (Feat. D12)",
                 "plotoutline": "",
                 "premiered": "2005-01-01",
                 "productioncode": "",
-                "rating": 8.571000099182129,
+                "rating": 8.600000381469727,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 4680.0
                 },
                 "runtime": 4680,
                 "season": -1,
@@ -607,7 +827,6 @@
                     "United States of America"
                 ],
                 "customproperties": {
-                    "available_releases": "Physical",
                     "budget": "$0",
                     "cast": "Eminem / D12 / Dido / Dr. Dre / Marilyn Manson / Xzibit",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=273181&ignore_default=true)",
@@ -638,8 +857,7 @@
                     "param.plugin_category": "Music & Live Concerts",
                     "param.user_slug": "condemned",
                     "param.widget": "True",
-                    "physical_release": "2002-06-18",
-                    "popularity": "2.324",
+                    "popularity": "1.392",
                     "revenue": "$0",
                     "slug_id": "eminem-all-access-europe-2002",
                     "studio": "Interscope Records",
@@ -659,8 +877,8 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Documentary",
-                    "Music"
+                    "Documentaire",
+                    "Musique"
                 ],
                 "imdbnumber": "tt0463503",
                 "label": "Eminem: All Access Europe",
@@ -670,16 +888,16 @@
                 "mpaa": "",
                 "originaltitle": "Eminem: All Access Europe",
                 "playcount": 0,
-                "plot": "All Access Europe is a video album released by Eminem in 2002. The album contains segments of Eminem's live performances during a European tour intended to promote The Marshall Mathers LP. The album includes live guest appearances by Dido, Marilyn Manson and Xzibit.",
+                "plot": "All Access Europe est un album vid\u00e9o d'Eminem sorti le 18 juin 2002 en DVD. L'album contient des parties de diff\u00e9rents spectacles d'Eminem dans le cadre du Anger Management Tour, pour promouvoir l'album The Marshall Mathers LP. Des personnalit\u00e9s comme Dido, Marilyn Manson ou Xzibit apparaissent sur sc\u00e8ne aux c\u00f4t\u00e9s d'Eminem.",
                 "plotoutline": "",
                 "premiered": "2002-06-18",
                 "productioncode": "",
                 "rating": 7.599999904632568,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 5880.0
                 },
-                "runtime": 4560,
+                "runtime": 5880,
                 "season": -1,
                 "set": "",
                 "setid": -1,
@@ -724,7 +942,7 @@
             {
                 "album": "",
                 "art": {
-                    "icon": "image://C%3a%5cKodiTest%5ckodi%2020%20testu2p%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fdefault.png/"
+                    "icon": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p(1)%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fdefault.png/"
                 },
                 "artist": [],
                 "cast": [
@@ -737,7 +955,6 @@
                 ],
                 "country": [],
                 "customproperties": {
-                    "available_releases": "Theatrical",
                     "budget": "$0",
                     "cast": "Ivan L. Moody",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=325107&ignore_default=true)",
@@ -770,7 +987,6 @@
                     "popularity": "0.6",
                     "revenue": "$0",
                     "slug_id": "five-finger-death-punch-purgatory-tales-from-the-pit-2013",
-                    "theatrical_release": "2013-11-16",
                     "tmdb_id": "325107",
                     "tmdb_rating": "10.0",
                     "tmdb_type": "movie",
@@ -787,7 +1003,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "",
                 "label": "Five Finger Death Punch Purgatory (Tales from the pit)",
@@ -797,7 +1013,7 @@
                 "mpaa": "",
                 "originaltitle": "Five Finger Death Punch Purgatory (Tales from the pit)",
                 "playcount": 0,
-                "plot": "\u2018Purgatory (Tales From the Pit)\u2019 DVD, features 15 live videos from the Trespass America US tour 2012.",
+                "plot": "",
                 "plotoutline": "",
                 "premiered": "2013-11-16",
                 "productioncode": "",
@@ -844,108 +1060,6 @@
             {
                 "album": "",
                 "art": {
-                    "icon": "image://C%3a%5cKodiTest%5ckodi%2020%20testu2p%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fdefault.png/"
-                },
-                "artist": [],
-                "cast": [],
-                "country": [],
-                "customproperties": {
-                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=66665&ignore_default=true)",
-                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=66665)",
-                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=66665)",
-                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=66665)",
-                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=66665)",
-                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=66665)",
-                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Marilyn Manson: Guns, God, and Government - Live in L.A,tmdb_type=movie,tmdb_id=66665)",
-                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
-                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
-                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
-                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
-                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
-                    "contextmenulabel(5)": "$LOCALIZE[20444]",
-                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
-                    "isplayable": "true",
-                    "item.info": "play",
-                    "item.tmdb_id": "66665",
-                    "item.tmdb_type": "movie",
-                    "item.type": "movie",
-                    "param.info": "trakt_userlist",
-                    "param.list_name": "Music & Live Concerts",
-                    "param.list_slug": "music-live-concerts",
-                    "param.owner": "true",
-                    "param.plugin_category": "Music & Live Concerts",
-                    "param.user_slug": "condemned",
-                    "param.widget": "True",
-                    "slug_id": "marilyn-manson-guns-god-and-government-live-in-l-a-2008",
-                    "tmdb_id": "66665",
-                    "tmdb_type": "movie",
-                    "trakt_id": "48381",
-                    "widget": "Music & Live Concerts"
-                },
-                "dateadded": "",
-                "director": [],
-                "episode": -1,
-                "episodeguide": "",
-                "fanart": "",
-                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=66665",
-                "filetype": "file",
-                "firstaired": "",
-                "genre": [],
-                "imdbnumber": "",
-                "label": "[COLOR=ffcc0000][I]Marilyn Manson: Guns, God, and Government - Live in L.A[/I][/COLOR]",
-                "lastmodified": "",
-                "lastplayed": "",
-                "mimetype": "application/octet-stream",
-                "mpaa": "",
-                "originaltitle": "",
-                "playcount": 0,
-                "plot": "",
-                "plotoutline": "",
-                "premiered": "",
-                "productioncode": "",
-                "rating": 0.0,
-                "resume": {
-                    "position": 0.0,
-                    "total": 0.0
-                },
-                "runtime": 0,
-                "season": -1,
-                "set": "",
-                "setid": -1,
-                "showlink": [],
-                "showtitle": "",
-                "size": 0,
-                "sorttitle": "",
-                "specialsortepisode": -1,
-                "specialsortseason": -1,
-                "streamdetails": {
-                    "audio": [],
-                    "subtitle": [],
-                    "video": []
-                },
-                "studio": [],
-                "tag": [],
-                "tagline": "",
-                "thumbnail": "",
-                "title": "Marilyn Manson: Guns, God, and Government - Live in L.A",
-                "top250": 0,
-                "track": -1,
-                "trailer": "",
-                "tvshowid": -1,
-                "type": "movie",
-                "uniqueid": {
-                    "slug": "marilyn-manson-guns-god-and-government-live-in-l-a-2008",
-                    "tmdb": "66665",
-                    "trakt": "48381"
-                },
-                "userrating": 0,
-                "votes": "0",
-                "writer": [],
-                "year": 2008
-            },
-            {
-                "album": "",
-                "art": {
                     "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f1hgqmskgS0WO56pJqUbWvGX4dpr.jpg/",
                     "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fdJi4q13MjJgdMPn9gyhqWT9bZz7.jpg/",
                     "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fdJi4q13MjJgdMPn9gyhqWT9bZz7.jpg/"
@@ -961,7 +1075,6 @@
                 ],
                 "country": [],
                 "customproperties": {
-                    "available_releases": "Theatrical",
                     "budget": "$0",
                     "cast": "Dave Mustaine",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=34387&ignore_default=true)",
@@ -991,10 +1104,9 @@
                     "param.plugin_category": "Music & Live Concerts",
                     "param.user_slug": "condemned",
                     "param.widget": "True",
-                    "popularity": "0.6",
+                    "popularity": "1.736",
                     "revenue": "$0",
                     "slug_id": "megadeth-arsenal-of-megadeth-2006",
-                    "theatrical_release": "2006-03-21",
                     "tmdb_id": "34387",
                     "tmdb_rating": "6.5",
                     "tmdb_type": "movie",
@@ -1011,7 +1123,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "",
                 "label": "Megadeth: Arsenal Of Megadeth",
@@ -1021,14 +1133,14 @@
                 "mpaa": "",
                 "originaltitle": "Megadeth: Arsenal Of Megadeth",
                 "playcount": 0,
-                "plot": "Over 20 years since Dave Mustaine first forged an unrelenting trail in trash-metal, Megadeth soldiers on with hit records, worldwide tours, and now their first-ever career-spanning DVD collection, Arsenal of Megadeth compiles over 2.5 hours of stunning footage on two discs to rattle your @#*%! head.",
+                "plot": "",
                 "plotoutline": "",
                 "premiered": "2006-03-21",
                 "productioncode": "",
                 "rating": 6.5,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 9000.0
                 },
                 "runtime": 9000,
                 "season": -1,
@@ -1068,110 +1180,7 @@
             {
                 "album": "",
                 "art": {
-                    "icon": "image://C%3a%5cKodiTest%5ckodi%2020%20testu2p%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fdefault.png/"
-                },
-                "artist": [],
-                "cast": [],
-                "country": [],
-                "customproperties": {
-                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=155481&ignore_default=true)",
-                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=155481)",
-                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=155481)",
-                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=155481)",
-                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=155481)",
-                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=155481)",
-                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Megadeth: Behind The Music,tmdb_type=movie,tmdb_id=155481)",
-                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
-                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
-                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
-                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
-                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
-                    "contextmenulabel(5)": "$LOCALIZE[20444]",
-                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
-                    "imdb_id": "tt0520959",
-                    "isplayable": "true",
-                    "item.info": "play",
-                    "item.tmdb_id": "155481",
-                    "item.tmdb_type": "movie",
-                    "item.type": "movie",
-                    "param.info": "trakt_userlist",
-                    "param.list_name": "Music & Live Concerts",
-                    "param.list_slug": "music-live-concerts",
-                    "param.owner": "true",
-                    "param.plugin_category": "Music & Live Concerts",
-                    "param.user_slug": "condemned",
-                    "param.widget": "True",
-                    "slug_id": "megadeth-behind-the-music-2001",
-                    "tmdb_id": "155481",
-                    "tmdb_type": "movie",
-                    "trakt_id": "101251",
-                    "widget": "Music & Live Concerts"
-                },
-                "dateadded": "",
-                "director": [],
-                "episode": -1,
-                "episodeguide": "",
-                "fanart": "",
-                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=155481",
-                "filetype": "file",
-                "firstaired": "",
-                "genre": [],
-                "imdbnumber": "",
-                "label": "[COLOR=ffcc0000][I]Megadeth: Behind The Music[/I][/COLOR]",
-                "lastmodified": "",
-                "lastplayed": "",
-                "mimetype": "application/octet-stream",
-                "mpaa": "",
-                "originaltitle": "",
-                "playcount": 0,
-                "plot": "",
-                "plotoutline": "",
-                "premiered": "",
-                "productioncode": "",
-                "rating": 0.0,
-                "resume": {
-                    "position": 0.0,
-                    "total": 0.0
-                },
-                "runtime": 0,
-                "season": -1,
-                "set": "",
-                "setid": -1,
-                "showlink": [],
-                "showtitle": "",
-                "size": 0,
-                "sorttitle": "",
-                "specialsortepisode": -1,
-                "specialsortseason": -1,
-                "streamdetails": {
-                    "audio": [],
-                    "subtitle": [],
-                    "video": []
-                },
-                "studio": [],
-                "tag": [],
-                "tagline": "",
-                "thumbnail": "",
-                "title": "Megadeth: Behind The Music",
-                "top250": 0,
-                "track": -1,
-                "trailer": "",
-                "tvshowid": -1,
-                "type": "movie",
-                "uniqueid": {
-                    "imdb": "tt0520959",
-                    "slug": "megadeth-behind-the-music-2001",
-                    "tmdb": "155481",
-                    "trakt": "101251"
-                },
-                "userrating": 0,
-                "votes": "0",
-                "writer": [],
-                "year": 2001
-            },
-            {
-                "album": "",
-                "art": {
+                    "clearlogo": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f45370%2fmovielogo%2fmegadeth---rust-in-peace-live-4f8a906fe59b8.png/",
                     "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fcUtF5ddlCBVyloMNwXSrRPpPG2h.jpg/",
                     "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2faFUFLpwjgAhSoHJ6O0cEfbYAaMv.jpg/",
                     "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2faFUFLpwjgAhSoHJ6O0cEfbYAaMv.jpg/"
@@ -1206,7 +1215,6 @@
                     "United States of America"
                 ],
                 "customproperties": {
-                    "available_releases": "Theatrical",
                     "budget": "$0",
                     "cast": "David Ellefson / Dave Mustaine / Chris Broderick / Shawn Drover",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=45370&ignore_default=true)",
@@ -1237,13 +1245,10 @@
                     "param.plugin_category": "Music & Live Concerts",
                     "param.user_slug": "condemned",
                     "param.widget": "True",
-                    "popularity": "1.346",
-                    "provider.link": "https://www.themoviedb.org/movie/45370-megadeth-rust-in-peace-live/watch?locale=US",
-                    "providers": "Amazon Video / Google Play Movies / YouTube / Vudu / Tubi TV / Pluto TV",
+                    "popularity": "1.901",
                     "revenue": "$0",
                     "slug_id": "megadeth-rust-in-peace-live-2010",
                     "studio": "Shout! Factory",
-                    "theatrical_release": "2010-09-07",
                     "tmdb_id": "45370",
                     "tmdb_rating": "5.9",
                     "tmdb_type": "movie",
@@ -1262,7 +1267,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "tt2007427",
                 "label": "Megadeth: Rust in Peace Live",
@@ -1272,14 +1277,14 @@
                 "mpaa": "",
                 "originaltitle": "Megadeth: Rust in Peace Live",
                 "playcount": 0,
-                "plot": "In March of 2010 Megadeth hit the road in celebration of the 20th anniversary of their classic 1990 album, Rust In Peace. The show was filmed on the last night of the tour at the legendary Hollywood Palladium, not far from where Megadeth was formed in 1983. The band played Rust In Peace in its entirety, including all-time classics Holy Wars...The Punishment Due and Hangar 18. The set list also featured several other fan favorites, including Trust, Symphony Of Destruction and Peace Sells.",
+                "plot": "",
                 "plotoutline": "",
                 "premiered": "2010-09-07",
                 "productioncode": "",
                 "rating": 5.900000095367432,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 5400.0
                 },
                 "runtime": 5400,
                 "season": -1,
@@ -1359,7 +1364,7 @@
                     "param.plugin_category": "Music & Live Concerts",
                     "param.user_slug": "condemned",
                     "param.widget": "True",
-                    "popularity": "1.477",
+                    "popularity": "1.244",
                     "revenue": "$0",
                     "slug_id": "meshuggah-the-ophidian-trek-2014",
                     "tmdb_id": "298861",
@@ -1380,7 +1385,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "",
                 "label": "Meshuggah - The Ophidian Trek",
@@ -1390,16 +1395,16 @@
                 "mpaa": "",
                 "originaltitle": "Meshuggah - The Ophidian Trek",
                 "playcount": 0,
-                "plot": "Celebrating over a quarter of a century as one of the spearheads of their genre, MESHUGGAH are now treating their fans to the release of a new DVD entitled \u00bbThe Ophidian Trek\u00ab. This audio-visual encounter contains a full MESHUGGAH live show, recorded on May 03, 2013 at their co-headline show alongside DEVIN TOWNSEND at Brixton Academy, London.  The thirteen tracks on \u00bbThe Ophidian Trek\u00ab represent a great retrospective of MESHUGGAH\u2019s fulminant carrier.Kicking off the show with \u2018Swarm\u2019, just one of many from their most recent album \u00bbKoloss\u00ab (2012), going back to \u00bbObZen\u00ab (2008) with songs like \u2018Lethargica\u2019 and \u2018Bleed\u2019 and all the way to the very early days of \u00bbChaosphere\u00ab (1998) with the track \u2018New Millenium Cynadie Christ\u2019.  \u00bbThe Ophidian Trek\u00ab was released on September 26 (UK: 29.09., US: 30.09.) via Nuclear Blast. A true must-have for all die-hard MESHUGGAH-fans and those who still need to be fully convinced!",
+                "plot": "Enregistr\u00e9e le 03 mai 2013 lors de leur \u00e9mission en co-titre aux c\u00f4t\u00e9s de DEVIN TOWNSEND \u00e0 la Brixton Academy de Londres. Les treize titres de \"The Ophidian Trek\" repr\u00e9sentent une grande r\u00e9trospective de la carri\u00e8re fulminante de MESHUGGAH. Un v\u00e9ritable must-have pour tous les fans inconditionnels de MESHUGGAH et ceux qui ont encore besoin d'\u00eatre pleinement convaincus !",
                 "plotoutline": "",
                 "premiered": "2014-09-26",
                 "productioncode": "",
                 "rating": 5.300000190734863,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 5400.0
                 },
-                "runtime": 0,
+                "runtime": 5400,
                 "season": -1,
                 "set": "",
                 "setid": -1,
@@ -1416,7 +1421,7 @@
                 },
                 "studio": [],
                 "tag": [],
-                "tagline": "Meshuggah - The Ophidian Trek",
+                "tagline": "",
                 "thumbnail": "",
                 "title": "Meshuggah - The Ophidian Trek",
                 "top250": 0,
@@ -1471,7 +1476,6 @@
                 ],
                 "country": [],
                 "customproperties": {
-                    "available_releases": "Theatrical",
                     "budget": "$0",
                     "cast": "Jens Kidman / Fredrik Thordendal / M\u00e5rten Hagstr\u00f6m / Tomas Haake / Dick L\u00f6vgren",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=42826&ignore_default=true)",
@@ -1502,11 +1506,8 @@
                     "param.user_slug": "condemned",
                     "param.widget": "True",
                     "popularity": "0.6",
-                    "provider.link": "https://www.themoviedb.org/movie/42826-meshuggah-alive/watch?locale=US",
-                    "providers": "Amazon Video / Vudu / VUDU Free",
                     "revenue": "$0",
                     "slug_id": "meshuggah-alive-2010",
-                    "theatrical_release": "2010-02-05",
                     "tmdb_id": "42826",
                     "tmdb_rating": "6.3",
                     "tmdb_type": "movie",
@@ -1525,17 +1526,17 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "",
                 "label": "Meshuggah: Alive",
                 "lastmodified": "",
                 "lastplayed": "",
                 "mimetype": "application/octet-stream",
-                "mpaa": "Rated PG-13",
+                "mpaa": "",
                 "originaltitle": "Meshuggah: Alive",
                 "playcount": 0,
-                "plot": "Math Metal gods and pioneers Meshuggah strike back with the first ever DVD in the band's history.  \"Alive\" comprises several live cuts on DVD, taped during various shows on their North American tour with Cynic in 2009 and the Loudpark festival in Tokyo 2008. This is rounded off with lots of backstage stuff, including insights into their drum and guitar work.",
+                "plot": "",
                 "plotoutline": "",
                 "premiered": "2010-02-05",
                 "productioncode": "",
@@ -1561,7 +1562,7 @@
                 },
                 "studio": [],
                 "tag": [],
-                "tagline": "In space no one can hear you unless you scream.",
+                "tagline": "",
                 "thumbnail": "",
                 "title": "Meshuggah: Alive",
                 "top250": 0,
@@ -1582,10 +1583,15 @@
             {
                 "album": "",
                 "art": {
-                    "clearlogo": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2ftABcduzk0BeD4aCrgHxhNAbeeAe.png/",
+                    "banner": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f193613%2fmoviebanner%2fmetallica-through-the-never-53a9fded74b6d.jpg/",
+                    "clearlogo": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f193613%2fhdmovielogo%2fmetallica-through-the-never-51f224785cfda.png/",
+                    "discart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f193613%2fmoviedisc%2fmetallica-through-the-never-60e60aa1261a4.png/",
                     "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fureMn9c20KTB8mZgQED2hv0JY8P.jpg/",
+                    "fanart1": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f193613%2fmoviebackground%2fmetallica-through-the-never-60e60ac623d35.jpg/",
+                    "fanart2": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f193613%2fmoviebackground%2fmetallica-through-the-never-60e60ac894c42.jpg/",
+                    "fanart3": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f193613%2fmoviebackground%2fmetallica-through-the-never-532df6a331ac1.jpg/",
                     "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fwBdTTq4755yi4GtWS4ahKtBmIkv.jpg/",
-                    "landscape": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fo025etqMTnC2TL96sn7TULyIHQx.jpg/",
+                    "landscape": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f193613%2fmoviethumb%2fmetallica-through-the-never-589cbdc9db0d4.jpg/",
                     "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fwBdTTq4755yi4GtWS4ahKtBmIkv.jpg/"
                 },
                 "artist": [],
@@ -1646,7 +1652,7 @@
                     "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=193613)",
                     "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=193613)",
                     "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=193613)",
-                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Metallica: Through the Never,tmdb_type=movie,tmdb_id=193613)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Metallica : Through the Never,tmdb_type=movie,tmdb_id=193613)",
                     "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
                     "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
                     "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
@@ -1668,17 +1674,17 @@
                     "param.plugin_category": "Music & Live Concerts",
                     "param.user_slug": "condemned",
                     "param.widget": "True",
-                    "popularity": "11.065",
-                    "provider.link": "https://www.themoviedb.org/movie/193613-metallica-through-the-never/watch?locale=US",
-                    "providers": "Apple iTunes",
+                    "popularity": "10.109",
+                    "provider.link": "https://www.themoviedb.org/movie/193613-metallica-through-the-never/watch?locale=FR",
+                    "providers": "Apple iTunes / Google Play Movies / Microsoft Store / YouTube / Bbox VOD / Cinemas a la Demande",
                     "revenue": "$7,972,967",
                     "slug_id": "metallica-through-the-never-2013",
                     "studio": "Exclusive Media",
-                    "theatrical_release": "2013-09-27",
+                    "theatrical_release": "2013-10-09",
                     "tmdb_id": "193613",
                     "tmdb_rating": "6.8",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "241",
+                    "tmdb_votes": "240",
                     "trakt_id": "120869",
                     "widget": "Music & Live Concerts"
                 },
@@ -1693,26 +1699,26 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "tt2172935",
-                "label": "Metallica: Through the Never",
+                "label": "Metallica : Through the Never",
                 "lastmodified": "",
                 "lastplayed": "",
                 "mimetype": "application/octet-stream",
-                "mpaa": "Rated R",
+                "mpaa": "",
                 "originaltitle": "Metallica: Through the Never",
                 "playcount": 0,
-                "plot": "Trip, a young roadie for Metallica, is sent on an urgent mission during the band's show. But what seems like a simple assignment turns into a surreal adventure.",
+                "plot": "Alors que Metallica joue plusieurs de ses tubes devant des milliers de fans, Trip est envoy\u00e9 r\u00e9cup\u00e9rer un objet myst\u00e9rieux qu'il doit absolument rapporter pour le spectacle. La t\u00e2che apparemment simple prend la tournure d'une aventure surr\u00e9aliste quand sa camionnette est violemment heurt\u00e9e par une voiture. Trip, sonn\u00e9, s'extrait du van pour se retrouver au milieu d'un imminent affrontement entre casseurs en col\u00e8re et escouades de police anti-\u00e9meute. Dans ce chaos, un chevalier masqu\u00e9, dot\u00e9 des pires intentions pose son regard meurtrier sur Trip. Seul et d\u00e9sarm\u00e9 dans un paysage urbain post-apocalyptique, Trip ne peut compter que sur lui-m\u00eame pour combattre le chevalier et prot\u00e9ger le pr\u00e9cieux sac de cuir qu'il doit remettre au groupe.",
                 "plotoutline": "",
                 "premiered": "2013-09-25",
                 "productioncode": "",
-                "rating": 6.800000190734863,
+                "rating": 6.8420000076293945,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 5640.0
                 },
-                "runtime": 5580,
+                "runtime": 5640,
                 "season": -1,
                 "set": "",
                 "setid": -1,
@@ -1732,12 +1738,12 @@
                     "Picturehouse Entertainment"
                 ],
                 "tag": [],
-                "tagline": "Experience Metallica like never before",
+                "tagline": "",
                 "thumbnail": "",
-                "title": "Metallica: Through the Never",
+                "title": "Metallica : Through the Never",
                 "top250": 0,
                 "track": -1,
-                "trailer": "plugin://plugin.video.youtube/play/?video_id=N4IhWJ8r7_4",
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=Re9KSuxs2aY",
                 "tvshowid": -1,
                 "type": "movie",
                 "uniqueid": {
@@ -1748,7 +1754,7 @@
                     "unknown": "tt2172935"
                 },
                 "userrating": 0,
-                "votes": "241",
+                "votes": "240",
                 "writer": [
                     "Nimr\u00f3d Antal",
                     "James Hetfield",
@@ -1782,7 +1788,7 @@
                         "name": "John 5",
                         "order": 2,
                         "role": "Guitars",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f8zQpF4N0PYohLHRQsZz8Tr25TjW.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fdfP0Q4l35cB0o5PfuCHoPzG1yGE.jpg/"
                     },
                     {
                         "name": "Piggy D.",
@@ -1793,7 +1799,6 @@
                 ],
                 "country": [],
                 "customproperties": {
-                    "available_releases": "Physical",
                     "budget": "$0",
                     "cast": "Ginger Fish / Rob Zombie / John 5 / Piggy D.",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=285749&ignore_default=true)",
@@ -1824,10 +1829,9 @@
                     "param.plugin_category": "Music & Live Concerts",
                     "param.user_slug": "condemned",
                     "param.widget": "True",
-                    "physical_release": "2014-05-19",
-                    "popularity": "2.614",
-                    "provider.link": "https://www.themoviedb.org/movie/285749-rob-zombie-the-zombie-horror-picture-show/watch?locale=US",
-                    "providers": "Amazon Video",
+                    "popularity": "2.379",
+                    "provider.link": "https://www.themoviedb.org/movie/285749-rob-zombie-the-zombie-horror-picture-show/watch?locale=FR",
+                    "providers": "Apple iTunes",
                     "revenue": "$0",
                     "slug_id": "rob-zombie-the-zombie-horror-picture-show-2014",
                     "tmdb_id": "285749",
@@ -1848,25 +1852,25 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music",
-                    "Documentary"
+                    "Musique",
+                    "Documentaire"
                 ],
                 "imdbnumber": "tt4036514",
                 "label": "Rob Zombie: The Zombie Horror Picture Show",
                 "lastmodified": "",
                 "lastplayed": "",
                 "mimetype": "application/octet-stream",
-                "mpaa": "Rated NR",
+                "mpaa": "",
                 "originaltitle": "Rob Zombie: The Zombie Horror Picture Show",
                 "playcount": 0,
-                "plot": "Rob Zombie's first concert film, The Zombie Horror Picture Show is a feature-length concert film, recorded live over two sizzling nights in Texas. It captures Zombie's elaborate, multi-media production of mind-blowing SFX, animatronic robots, pyrotechnics, oversized LED screens and state-of-the-art light show combined with his powerhouse band featuring John 5, Piggy D and Ginger Fish. The Zombie Horror Picture Show puts the viewer at the center of the hot and nasty action for a blistering set of 16 Rob Zombie classics, including 'Dragula', 'Dead City Radio and the New Gods of Super Town', 'Living Dead Girl', 'More Human Than Human' and the crushing cover of Grand Funk Railroad's 'We're An American Band' from the seven-time Grammy\u00ae nominee's Top 10 2013 album, Venomous Rat Regeneration Vendor.",
+                "plot": "The Zombie Horror Picture Show fut enregistr\u00e9 durant la tourn\u00e9e de Venomous Rat Regeneration Vendor au Rockstar Energy Drink Mayhem Festival \u00e0 Houston et Dallas le 3 et 4 ao\u00fbt 2013. Rob Zombie interpr\u00e8te 16 classiques (avec entre autres \"Dragula\", \"Dead city radio and the new gods of super town\", \"Living dead girl\" et \"More human than human\"). En plus, vous retrouverez une reprise d\u00e9tonnante de \"We're an american band\" de Grand Funk Railroad, pr\u00e9sent sur l'album qui est rentr\u00e9 au Top10 US.",
                 "plotoutline": "",
                 "premiered": "2014-05-16",
                 "productioncode": "",
                 "rating": 8.199999809265137,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 4860.0
                 },
                 "runtime": 4860,
                 "season": -1,
@@ -1908,237 +1912,6 @@
             {
                 "album": "",
                 "art": {
-                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fucduRoPpWLbnJocEEmY7q5Y1a1Z.jpg/",
-                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f3XnxSUPxjUUnH482l1o6aJrysKx.jpg/",
-                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f3XnxSUPxjUUnH482l1o6aJrysKx.jpg/"
-                },
-                "artist": [],
-                "cast": [
-                    {
-                        "name": "James Hetfield",
-                        "order": 0,
-                        "role": "Guitars",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f1DBDpjWorXCwvMQLZeDIGfDQ5sJ.jpg/"
-                    },
-                    {
-                        "name": "Tom Araya",
-                        "order": 1,
-                        "role": "Vocals, bass",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f2lfBAcR3B8ZcbyhPLhhHmZRlYxc.jpg/"
-                    },
-                    {
-                        "name": "Dave Mustaine",
-                        "order": 2,
-                        "role": "Vocals, guitars",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2feckZS3SqYsSt0CHWXc8VxwqszFF.jpg/"
-                    },
-                    {
-                        "name": "Joey Belladonna",
-                        "order": 3,
-                        "role": "Vocals",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fdhqXZtmp6GHtBsFgAZC2Hzm8iHz.jpg/"
-                    },
-                    {
-                        "name": "Lars Ulrich",
-                        "order": 4,
-                        "role": "Drums",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fuMcUqvbViiHftEpz0u4AxAnCgF3.jpg/"
-                    },
-                    {
-                        "name": "Dave Lombardo",
-                        "order": 5,
-                        "role": "Drums",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fhluCjXxPZ1S3pGqGM4F7SXYErnb.jpg/"
-                    },
-                    {
-                        "name": "Charlie Benante",
-                        "order": 6,
-                        "role": "Drums",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2frLbKOgIDuuqkMRVk9hjNTnJm9QK.jpg/"
-                    },
-                    {
-                        "name": "Shawn Drover",
-                        "order": 7,
-                        "role": "Drums",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2faIf8RyBqALDjg0Fkfuk4A1yL8bB.jpg/"
-                    },
-                    {
-                        "name": "Kirk Hammett",
-                        "order": 8,
-                        "role": "Guitars",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fwMsYlpaoALVgtOColQ9Fl68mx0u.jpg/"
-                    },
-                    {
-                        "name": "Chris Broderick",
-                        "order": 9,
-                        "role": "Guitars",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2frQGishgB5MxzzMlF339PbEGBQV3.jpg/"
-                    },
-                    {
-                        "name": "Scott Ian",
-                        "order": 10,
-                        "role": "Guitars",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f17EZYDZyp90zmcAFqvWa7Lp3KNl.jpg/"
-                    },
-                    {
-                        "name": "Kerry King",
-                        "order": 11,
-                        "role": "Guitars",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fwTOk9ArNrE8zOsp0M27Ll8VJ9BQ.jpg/"
-                    },
-                    {
-                        "name": "Robert Trujillo",
-                        "order": 12,
-                        "role": "Bass",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2faDy6CSER3EcKrP2YPijW7Z9kJ8H.jpg/"
-                    },
-                    {
-                        "name": "David Ellefson",
-                        "order": 13,
-                        "role": "Bass",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f4crEkwrctqIDz6FI2nZRdeU5WMN.jpg/"
-                    },
-                    {
-                        "name": "Frank Bello",
-                        "order": 14,
-                        "role": "Bass",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fnGqD8VRHXiowQirZNrwSEyNOC6Y.jpg/"
-                    },
-                    {
-                        "name": "Jeff Hanneman",
-                        "order": 15,
-                        "role": "Guitars",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f2d2Zw2NJ6lHhateeAEcTaqiALXk.jpg/"
-                    },
-                    {
-                        "name": "Rob Caggiano",
-                        "order": 16,
-                        "role": "Guitars"
-                    }
-                ],
-                "country": [
-                    "Bulgaria"
-                ],
-                "customproperties": {
-                    "budget": "$0",
-                    "cast": "James Hetfield / Tom Araya / Dave Mustaine / Joey Belladonna / Lars Ulrich / Dave Lombardo / Charlie Benante / Shawn Drover / Kirk Hammett / Chris Broderick / Scott Ian / Kerry King / Robert Trujillo / David Ellefson / Frank Bello / Jeff Hanneman / Rob Caggiano",
-                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=40601&ignore_default=true)",
-                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=40601)",
-                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=40601)",
-                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=40601)",
-                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=40601)",
-                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=40601)",
-                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=The Big Four: Live in Sofia,tmdb_type=movie,tmdb_id=40601)",
-                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
-                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
-                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
-                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
-                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
-                    "contextmenulabel(5)": "$LOCALIZE[20444]",
-                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
-                    "dbtype": "movie",
-                    "imdb_id": "tt1792588",
-                    "isplayable": "true",
-                    "item.info": "play",
-                    "item.tmdb_id": "40601",
-                    "item.tmdb_type": "movie",
-                    "item.type": "movie",
-                    "param.info": "trakt_userlist",
-                    "param.list_name": "Music & Live Concerts",
-                    "param.list_slug": "music-live-concerts",
-                    "param.owner": "true",
-                    "param.plugin_category": "Music & Live Concerts",
-                    "param.user_slug": "condemned",
-                    "param.widget": "True",
-                    "popularity": "5.121",
-                    "revenue": "$0",
-                    "slug_id": "the-big-four-live-in-sofia-2010",
-                    "studio": "Splinter Films Ltd.",
-                    "tmdb_id": "40601",
-                    "tmdb_rating": "8.4",
-                    "tmdb_type": "movie",
-                    "tmdb_votes": "60",
-                    "trakt_id": "26706",
-                    "widget": "Music & Live Concerts"
-                },
-                "dateadded": "",
-                "director": [
-                    "Nick Wickham",
-                    "Nick Levitt"
-                ],
-                "episode": -1,
-                "episodeguide": "",
-                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fucduRoPpWLbnJocEEmY7q5Y1a1Z.jpg/",
-                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=40601",
-                "filetype": "file",
-                "firstaired": "",
-                "genre": [
-                    "Music"
-                ],
-                "imdbnumber": "tt1792588",
-                "label": "The Big Four: Live in Sofia",
-                "lastmodified": "",
-                "lastplayed": "",
-                "mimetype": "application/octet-stream",
-                "mpaa": "",
-                "originaltitle": "The Big Four: Live in Sofia",
-                "playcount": 0,
-                "plot": "When the 'Big Four,' Metallica, Slayer, Megadeth and Anthrax, shared a stage together on June 22nd, 2010, in Sofia, Bulgaria, it was the moment their fans had waited for decades. That monumental show was beamed live into over 1000 theaters worldwide via satellite in a special HD cinematic event.",
-                "plotoutline": "",
-                "premiered": "2010-06-22",
-                "productioncode": "",
-                "rating": 8.375,
-                "resume": {
-                    "position": 0.0,
-                    "total": 0.0
-                },
-                "runtime": 13920,
-                "season": -1,
-                "set": "",
-                "setid": -1,
-                "showlink": [],
-                "showtitle": "",
-                "size": 0,
-                "sorttitle": "",
-                "specialsortepisode": -1,
-                "specialsortseason": -1,
-                "streamdetails": {
-                    "audio": [],
-                    "subtitle": [],
-                    "video": []
-                },
-                "studio": [
-                    "Splinter Films Ltd.",
-                    "Universal/Music/DVD",
-                    "Vertigo",
-                    "Mercury Music Group",
-                    "Sonisphere Festival"
-                ],
-                "tag": [],
-                "tagline": "",
-                "thumbnail": "",
-                "title": "The Big Four: Live in Sofia",
-                "top250": 0,
-                "track": -1,
-                "trailer": "plugin://plugin.video.youtube/play/?video_id=BibR2SKY2AI",
-                "tvshowid": -1,
-                "type": "movie",
-                "uniqueid": {
-                    "imdb": "tt1792588",
-                    "slug": "the-big-four-live-in-sofia-2010",
-                    "tmdb": "40601",
-                    "trakt": "26706",
-                    "unknown": "tt1792588"
-                },
-                "userrating": 0,
-                "votes": "60",
-                "writer": [],
-                "year": 2010
-            },
-            {
-                "album": "",
-                "art": {
-                    "clearlogo": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fgxHERuxCIpP1rA6burBxEWhkcGH.png/",
                     "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fvTM2VGFFdgsaP8PEgogmVPoIAlg.jpg/",
                     "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2famYrP5cL5Q2uKJP5RM027ZUzFyQ.jpg/",
                     "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2famYrP5cL5Q2uKJP5RM027ZUzFyQ.jpg/"
@@ -2180,7 +1953,7 @@
                     "United Kingdom"
                 ],
                 "customproperties": {
-                    "available_releases": "Premiere / Limited / Digital",
+                    "available_releases": "Theatrical",
                     "budget": "$0",
                     "cast": "Nick Cave / Warren Ellis / Marianne Faithfull / Earl Cave / Andrew Dominik",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=927025&ignore_default=true)",
@@ -2198,14 +1971,12 @@
                     "contextmenulabel(5)": "$LOCALIZE[20444]",
                     "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
                     "dbtype": "movie",
-                    "digital_release": "2022-07-08",
                     "imdb_id": "tt15721828",
                     "isplayable": "true",
                     "item.info": "play",
                     "item.tmdb_id": "927025",
                     "item.tmdb_type": "movie",
                     "item.type": "movie",
-                    "limited_release": "2022-05-11",
                     "param.info": "trakt_userlist",
                     "param.list_name": "Music & Live Concerts",
                     "param.list_slug": "music-live-concerts",
@@ -2213,17 +1984,17 @@
                     "param.plugin_category": "Music & Live Concerts",
                     "param.user_slug": "condemned",
                     "param.widget": "True",
-                    "popularity": "3.578",
-                    "premiere_release": "2022-03-12",
-                    "provider.link": "https://www.themoviedb.org/movie/927025-this-much-i-know-to-be-true/watch?locale=US",
-                    "providers": "Apple iTunes / Amazon Video / Google Play Movies / YouTube / Hoopla / Microsoft Store / MUBI / MUBI Amazon Channel",
+                    "popularity": "4.067",
+                    "provider.link": "https://www.themoviedb.org/movie/927025-this-much-i-know-to-be-true/watch?locale=FR",
+                    "providers": "MUBI / MUBI Amazon Channel",
                     "revenue": "$0",
                     "slug_id": "this-much-i-know-to-be-true-2022",
                     "studio": "Uncommon Creative Studio",
+                    "theatrical_release": "2022-05-12",
                     "tmdb_id": "927025",
                     "tmdb_rating": "7.4",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "17",
+                    "tmdb_votes": "18",
                     "trakt_id": "743048",
                     "widget": "Music & Live Concerts"
                 },
@@ -2238,8 +2009,8 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Documentary",
-                    "Music"
+                    "Documentaire",
+                    "Musique"
                 ],
                 "imdbnumber": "tt15721828",
                 "label": "This Much I Know to Be True",
@@ -2249,14 +2020,14 @@
                 "mpaa": "",
                 "originaltitle": "This Much I Know to Be True",
                 "playcount": 0,
-                "plot": "Like all musicians in 2021, Nick Cave was unable to connect with his audience in person. He uses this concert film to break the vocal and instrumental silence, talk about himself and perform songs from \u201cGhosteen\u201d and \u201cCarnage\u201d, with help from Warren Ellis.",
+                "plot": "Tourn\u00e9 sur place \u00e0 Londres et Brighton, le nouveau long m\u00e9trage documentaire d'Andrew Dominik, THIS MUCH I KNOW TO BE TRUE,d\u00e9voile la relation cr\u00e9ative exceptionnelle entre Nick Cave et Warren Ellis alors qu'ils donnent vie aux chansons leurs deux oeuvres les plus r\u00e9centes : Ghosteen (Nick Cave & the Bad Seeds) et Carnage (Nick Cave & Warren Ellis).  On peut notamment y voir leurs toutes premi\u00e8res interpr\u00e9tations de ces albums, film\u00e9 au printemps 2021 avant leur tourn\u00e9e au Royaume-Uni. Le public voit les deux hommes, accompagn\u00e9s de chanteurs et d'un quatuor \u00e0 cordes, donner vie \u00e0 chaque chanson. Le documentaire comprend une apparition sp\u00e9ciale de Marianne Faithfull, amie proche et collaboratrice de longue date.",
                 "plotoutline": "",
                 "premiered": "2022-05-11",
                 "productioncode": "",
-                "rating": 7.440999984741211,
+                "rating": 7.400000095367432,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 6300.0
                 },
                 "runtime": 6300,
                 "season": -1,
@@ -2293,16 +2064,16 @@
                     "unknown": "tt15721828"
                 },
                 "userrating": 0,
-                "votes": "17",
+                "votes": "18",
                 "writer": [],
                 "year": 2022
             },
             {
                 "album": "",
                 "art": {
+                    "clearlogo": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f34759%2fhdmovielogo%2fziggy--stardust-and-the-spiders-from-mars-5675a499db968.png/",
                     "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f1dOpnYhTK1PzszKuXUpaIIwNuKa.jpg/",
                     "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fdz4erM8bFxDjMpZmKLWKS6ryHER.jpg/",
-                    "landscape": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fhc8jtqISCpinAmlMT4Ozz8lySUH.jpg/",
                     "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fdz4erM8bFxDjMpZmKLWKS6ryHER.jpg/"
                 },
                 "artist": [],
@@ -2311,7 +2082,7 @@
                         "name": "David Bowie",
                         "order": 0,
                         "role": "Self / Ziggy Stardust",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fqrqQJivS0zLzxZKfgNZnDtjbqpI.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f7OIa363iSLG43x9Sb9HojUANwbh.jpg/"
                     },
                     {
                         "name": "Mick Ronson",
@@ -2360,6 +2131,12 @@
                         "name": "Angela Bowie",
                         "order": 9,
                         "role": "Self (uncredited)"
+                    },
+                    {
+                        "name": "Ringo Starr",
+                        "order": 10,
+                        "role": "Self (uncredited)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fAlgXb1mKCghI3Bj2T70G1vvAyEg.jpg/"
                     }
                 ],
                 "country": [
@@ -2368,7 +2145,7 @@
                 "customproperties": {
                     "available_releases": "Theatrical",
                     "budget": "$0",
-                    "cast": "David Bowie / Mick Ronson / Trevor Bolder / Mick 'Woody' Woodmansey / Ken Fordham / Brian Wilshaw / Geoffrey MacCormack / John 'Hutch' Hutchinson / Mike Garson / Angela Bowie",
+                    "cast": "David Bowie / Mick Ronson / Trevor Bolder / Mick 'Woody' Woodmansey / Ken Fordham / Brian Wilshaw / Geoffrey MacCormack / John 'Hutch' Hutchinson / Mike Garson / Angela Bowie / Ringo Starr",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=34759&ignore_default=true)",
                     "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=34759)",
                     "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=34759)",
@@ -2397,13 +2174,11 @@
                     "param.plugin_category": "Music & Live Concerts",
                     "param.user_slug": "condemned",
                     "param.widget": "True",
-                    "popularity": "3.856",
-                    "provider.link": "https://www.themoviedb.org/movie/34759-ziggy-stardust-and-the-spiders-from-mars/watch?locale=US",
-                    "providers": "Apple iTunes",
+                    "popularity": "4.206",
                     "revenue": "$0",
                     "slug_id": "ziggy-stardust-and-the-spiders-from-mars-1983",
                     "studio": "Bewlay Bros.",
-                    "theatrical_release": "1983-12-23",
+                    "theatrical_release": "2003-03-23",
                     "tmdb_id": "34759",
                     "tmdb_rating": "7.4",
                     "tmdb_type": "movie",
@@ -2422,25 +2197,25 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Documentary",
-                    "Music"
+                    "Documentaire",
+                    "Musique"
                 ],
                 "imdbnumber": "tt0086643",
                 "label": "Ziggy Stardust and the Spiders from Mars",
                 "lastmodified": "",
                 "lastplayed": "",
                 "mimetype": "application/octet-stream",
-                "mpaa": "Rated PG",
+                "mpaa": "Rated U",
                 "originaltitle": "Ziggy Stardust and the Spiders from Mars",
                 "playcount": 0,
-                "plot": "Hammersmith Odeon, London, July 3, 1973. British singer David Bowie performs his alter ego Ziggy Stardust for the very last time. A decadent show, a hallucinogenic collage of kitsch, pop irony and flamboyant excess: a musical symbiosis of feminine passion and masculine dominance that defines Bowie's art and the glam rock genre.",
+                "plot": "Le 3 juillet 1973, au Hammersmith Odeon de Londres. Dans les loges, David Bowie se m\u00e9tamorphose une derni\u00e8re fois en Ziggy Stardust, ange sexy, androgyne futuriste, diva kitsch dont les jambes nues font grimper les jeunes filles (et les autres) au rideau. Sur sc\u00e8ne, la star la plus glam encha\u00eene ses standards.",
                 "plotoutline": "",
                 "premiered": "1983-12-23",
                 "productioncode": "",
-                "rating": 7.355000019073486,
+                "rating": 7.400000095367432,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 5400.0
                 },
                 "runtime": 5400,
                 "season": -1,
@@ -2463,7 +2238,7 @@
                     "MainMan"
                 ],
                 "tag": [],
-                "tagline": "The historic farewell performance of the king of glitter rock.",
+                "tagline": "",
                 "thumbnail": "",
                 "title": "Ziggy Stardust and the Spiders from Mars",
                 "top250": 0,
@@ -2485,9 +2260,9 @@
             }
         ],
         "limits": {
-            "end": 17,
+            "end": 15,
             "start": 0,
-            "total": 17
+            "total": 15
         }
     }
 }

@@ -1,0 +1,18 @@
+<shortcuts>
+	<shortcut>
+		<defaultID>customnode1</defaultID>
+		<label>Skodi</label>
+		<label2>Elément personnalisé</label2>
+		<icon>special://skin/extras/icons/shortcut.png</icon>
+		<thumb />
+		<action>CustomNode1</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>customnode2</defaultID>
+		<label>U2Pplay</label>
+		<label2>Elément personnalisé</label2>
+		<icon>special://skin/extras/icons/shortcut.png</icon>
+		<thumb />
+		<action>CustomNode2</action>
+		</shortcut>
+	</shortcuts>

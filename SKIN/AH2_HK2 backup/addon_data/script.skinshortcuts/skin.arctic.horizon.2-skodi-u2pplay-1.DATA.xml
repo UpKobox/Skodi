@@ -1,0 +1,27 @@
+<shortcuts>
+	<shortcut>
+		<defaultID>plugin.program.Skodi</defaultID>
+		<label>[COLOR limegreen]Skodi[/COLOR]</label>
+		<label2>Programme</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>thumb</thumb>
+		<action>ActivateWindow(Programs,"plugin://plugin.program.Skodi",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR aqua]- Choisissez un skin préconfiguré[/COLOR]</label>
+		<label2>Programme</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>thumb</thumb>
+		<action>ActivateWindow(Programs,"plugin://plugin.program.Skodi/?action=hk2",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR magenta]----- Menu HK2 Maj et paramètres / Menu Skin Sauvegardes[/COLOR]</label>
+		<label2>Programme</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>thumb</thumb>
+		<action>ActivateWindow(Programs,"plugin://plugin.program.Skodi/?action=menumajhk2",return)</action>
+		<disabled>True</disabled>
+		</shortcut>
+	</shortcuts>

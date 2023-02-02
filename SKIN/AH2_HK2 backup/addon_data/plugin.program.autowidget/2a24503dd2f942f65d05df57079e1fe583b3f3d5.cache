@@ -22,7 +22,7 @@
                         "name": "Stevie Nicks",
                         "order": 1,
                         "role": "Self",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fzmqgqYySZwYPp7HMzuqPyYJMZOl.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fn8gLNEXq7GNO4gH4MDsvYOlwuLE.jpg/"
                     },
                     {
                         "name": "John McVie",
@@ -45,7 +45,6 @@
                 ],
                 "country": [],
                 "customproperties": {
-                    "available_releases": "TV",
                     "budget": "$0",
                     "cast": "Mick Fleetwood / Stevie Nicks / John McVie / Christine McVie / Lindsey Buckingham",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=62608&ignore_default=true)",
@@ -76,7 +75,7 @@
                     "param.plugin_category": "Live concerts",
                     "param.user_slug": "hazeyboy",
                     "param.widget": "True",
-                    "popularity": "1.4",
+                    "popularity": "0.717",
                     "revenue": "$0",
                     "slug_id": "fleetwood-mac-in-concert-the-mirage-tour-1983",
                     "tmdb_id": "62608",
@@ -84,7 +83,6 @@
                     "tmdb_type": "movie",
                     "tmdb_votes": "2",
                     "trakt_id": "44980",
-                    "tv_release": "1983-02-18",
                     "widget": "Live concerts"
                 },
                 "dateadded": "",
@@ -98,24 +96,24 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "tt0260028",
                 "label": "Fleetwood Mac in Concert - The Mirage Tour",
                 "lastmodified": "",
                 "lastplayed": "",
                 "mimetype": "application/octet-stream",
-                "mpaa": "Rated NR",
+                "mpaa": "",
                 "originaltitle": "Fleetwood Mac in Concert - The Mirage Tour",
                 "playcount": 0,
-                "plot": "Fleetwood Mac performs at the Great Western Forum in Inglewood, CA, over two days, October 21 and 22, 1982. Hits from their classic Rumours album are performed, along with cuts from the 1975 Fleetwood Mac album, Tusk and Mirage.",
+                "plot": "",
                 "plotoutline": "",
                 "premiered": "1983-02-18",
                 "productioncode": "",
                 "rating": 7.5,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 4620.0
                 },
                 "runtime": 4620,
                 "season": -1,
@@ -171,7 +169,6 @@
                 ],
                 "country": [],
                 "customproperties": {
-                    "available_releases": "Physical / TV",
                     "budget": "$0",
                     "cast": "Elton John",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=17916&ignore_default=true)",
@@ -202,8 +199,7 @@
                     "param.plugin_category": "Live concerts",
                     "param.user_slug": "hazeyboy",
                     "param.widget": "True",
-                    "physical_release": "2008-11-25",
-                    "popularity": "1.098",
+                    "popularity": "1.186",
                     "revenue": "$0",
                     "slug_id": "elton-john-tantrums-tiaras-1997",
                     "tmdb_id": "17916",
@@ -211,7 +207,6 @@
                     "tmdb_type": "movie",
                     "tmdb_votes": "7",
                     "trakt_id": "10960",
-                    "tv_release": "1997-09-03",
                     "widget": "Live concerts"
                 },
                 "dateadded": "",
@@ -225,24 +220,24 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Documentary"
+                    "Documentaire"
                 ],
                 "imdbnumber": "tt0124158",
                 "label": "Elton John: Tantrums & Tiaras",
                 "lastmodified": "",
                 "lastplayed": "",
                 "mimetype": "application/octet-stream",
-                "mpaa": "Rated PG",
+                "mpaa": "",
                 "originaltitle": "Elton John: Tantrums & Tiaras",
                 "playcount": 0,
-                "plot": "Unprecedented access into one of the world's greatest musical talents and his larger than life lifestyle: Elton John. With frank, funny, and touching filmmaking, this documentary is a fascinating and honest look at the complex character of a modern day composer and performing artist.",
+                "plot": "",
                 "plotoutline": "",
                 "premiered": "1997-09-03",
                 "productioncode": "",
-                "rating": 7.14300012588501,
+                "rating": 7.099999904632568,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 4440.0
                 },
                 "runtime": 4440,
                 "season": -1,
@@ -261,7 +256,7 @@
                 },
                 "studio": [],
                 "tag": [],
-                "tagline": "Behind the scenes of a superstar's incredible lifestyle... as captured by his partner.",
+                "tagline": "",
                 "thumbnail": "",
                 "title": "Elton John: Tantrums & Tiaras",
                 "top250": 0,
@@ -284,8 +279,11 @@
             {
                 "album": "",
                 "art": {
+                    "clearlogo": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f24128%2fhdmovielogo%2fstop-making-sense-525797f67e072.png/",
+                    "discart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f24128%2fmoviedisc%2fstop-making-sense-52ad8cf9d0fc5.png/",
                     "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fneHuJ0x2vzE9Xg73EvTvyxGQC4b.jpg/",
                     "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fuFMsMsk1NGo0QWs9IHknZVHSe4O.jpg/",
+                    "landscape": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f24128%2fmoviethumb%2fstop-making-sense-61d87aa4534e1.jpg/",
                     "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fuFMsMsk1NGo0QWs9IHknZVHSe4O.jpg/"
                 },
                 "artist": [],
@@ -347,7 +345,6 @@
                     "United States of America"
                 ],
                 "customproperties": {
-                    "available_releases": "Theatrical / Physical",
                     "budget": "$1,200,000",
                     "cast": "David Byrne / Tina Weymouth / Jerry Harrison / Chris Frantz / Bernie Worrell / Alex Weir / Steven Scales / Ednah Holt / Lynn Mabry",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=24128&ignore_default=true)",
@@ -356,7 +353,7 @@
                     "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=24128)",
                     "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=24128)",
                     "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=24128)",
-                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Stop Making Sense,tmdb_type=movie,tmdb_id=24128)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Talking Heads - Stop Making Sense,tmdb_type=movie,tmdb_id=24128)",
                     "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
                     "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
                     "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
@@ -378,18 +375,14 @@
                     "param.plugin_category": "Live concerts",
                     "param.user_slug": "hazeyboy",
                     "param.widget": "True",
-                    "physical_release": "2009-10-13",
-                    "popularity": "8.489",
-                    "provider.link": "https://www.themoviedb.org/movie/24128-stop-making-sense/watch?locale=US",
-                    "providers": "AMC+ Amazon Channel / The Roku Channel / AMC+ / Kanopy / DIRECTV / Sundance Now / Pluto TV / Plex",
+                    "popularity": "9.129",
                     "revenue": "$4,978,922",
                     "slug_id": "stop-making-sense-1984",
                     "studio": "Talking Heads",
-                    "theatrical_release": "1984-11-16",
                     "tmdb_id": "24128",
                     "tmdb_rating": "8.3",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "184",
+                    "tmdb_votes": "188",
                     "trakt_id": "14488",
                     "widget": "Live concerts"
                 },
@@ -404,25 +397,25 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music",
-                    "Documentary"
+                    "Musique",
+                    "Documentaire"
                 ],
                 "imdbnumber": "tt0088178",
-                "label": "Stop Making Sense",
+                "label": "Talking Heads - Stop Making Sense",
                 "lastmodified": "",
                 "lastplayed": "",
                 "mimetype": "application/octet-stream",
-                "mpaa": "Rated NR",
+                "mpaa": "",
                 "originaltitle": "Stop Making Sense",
                 "playcount": 0,
-                "plot": "A concert film documenting Talking Heads at the height of their popularity, on tour for their 1983 album \"Speaking in Tongues.\" The band takes the stage one by one and is joined by a cadre of guest musicians for a career-spanning and cinematic performance that features creative choreography and visuals.",
+                "plot": "Captation d'un concert du groupe am\u00e9ricain Talking Heads.",
                 "plotoutline": "",
                 "premiered": "1984-11-16",
                 "productioncode": "",
-                "rating": 8.303999900817871,
+                "rating": 8.303000450134277,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 5280.0
                 },
                 "runtime": 5280,
                 "season": -1,
@@ -445,9 +438,9 @@
                     "Palm Pictures"
                 ],
                 "tag": [],
-                "tagline": "Why stop making sense? Why a movie? Why a big suit? Where do the odd movements come from? What will the band do next?",
+                "tagline": "",
                 "thumbnail": "",
-                "title": "Stop Making Sense",
+                "title": "Talking Heads - Stop Making Sense",
                 "top250": 0,
                 "track": -1,
                 "trailer": "plugin://plugin.video.youtube/play/?video_id=yCXT5Fs-V10",
@@ -461,7 +454,7 @@
                     "unknown": "tt0088178"
                 },
                 "userrating": 0,
-                "votes": "184",
+                "votes": "188",
                 "writer": [
                     "Jonathan Demme"
                 ],
@@ -497,8 +490,7 @@
                     {
                         "name": "Doyle Bramhall II",
                         "order": 3,
-                        "role": "Guitar, Backing Vocals",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fhyvh1fPEEkaYdJa6ArtKRy3jJw1.jpg/"
+                        "role": "Guitar, Backing Vocals"
                     },
                     {
                         "name": "Gary Clark Jr.",
@@ -533,8 +525,7 @@
                     {
                         "name": "Jimmie Vaughan",
                         "order": 9,
-                        "role": "Guitar",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f5fDNvlMCXNCXhT7POHfholwoI74.jpg/"
+                        "role": "Guitar"
                     },
                     {
                         "name": "Buddy Guy",
@@ -567,7 +558,7 @@
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fdMvZ9E5v3wVq7hirdtdYuMlfgf.jpg/"
                     },
                     {
-                        "name": "Ron Wood",
+                        "name": "Ronnie Wood",
                         "order": 15,
                         "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fx9cPzzqEOLIuvwsqfqoDTdXeeny.jpg/"
@@ -599,9 +590,8 @@
                     "United States of America"
                 ],
                 "customproperties": {
-                    "available_releases": "Theatrical",
                     "budget": "$100,000",
-                    "cast": "Eric Clapton / Jeff Beck / Joe Bonamassa / Doyle Bramhall II / Gary Clark Jr. / Robert Cray / Sheryl Crow / Vince Gill / B.B. King / Jimmie Vaughan / Buddy Guy / Billy Gibbons / Frank Beard / Dusty Hill / Warren Haynes / Ron Wood / James Burton / Citizen Cope / Pino Daniele / Vinnie Colaiuta",
+                    "cast": "Eric Clapton / Jeff Beck / Joe Bonamassa / Doyle Bramhall II / Gary Clark Jr. / Robert Cray / Sheryl Crow / Vince Gill / B.B. King / Jimmie Vaughan / Buddy Guy / Billy Gibbons / Frank Beard / Dusty Hill / Warren Haynes / Ronnie Wood / James Burton / Citizen Cope / Pino Daniele / Vinnie Colaiuta",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=239920&ignore_default=true)",
                     "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=239920)",
                     "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=239920)",
@@ -630,13 +620,10 @@
                     "param.plugin_category": "Live concerts",
                     "param.user_slug": "hazeyboy",
                     "param.widget": "True",
-                    "popularity": "1.999",
-                    "provider.link": "https://www.themoviedb.org/movie/239920-eric-clapton-s-crossroads-guitar-festival-2010/watch?locale=US",
-                    "providers": "Apple iTunes / Amazon Video / Google Play Movies / YouTube",
+                    "popularity": "2.19",
                     "revenue": "$1,000,000",
                     "slug_id": "eric-clapton-s-crossroads-guitar-festival-2010-2010",
                     "studio": "Parallel 28 Equipe",
-                    "theatrical_release": "2010-06-26",
                     "tmdb_id": "239920",
                     "tmdb_rating": "8.5",
                     "tmdb_type": "movie",
@@ -653,7 +640,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "tt1705030",
                 "label": "Eric Clapton's Crossroads Guitar Festival 2010",
@@ -663,14 +650,14 @@
                 "mpaa": "",
                 "originaltitle": "Eric Clapton's Crossroads Guitar Festival 2010",
                 "playcount": 0,
-                "plot": "Often credited as being one of the all-time greatest guitarists, and known amongst his peers as one of the all-time greatest collaborators. The ultimate Clapton collaboration took place on June 26, 2010 at Chicago's Toyota Park. For one day only, Clapton gathered the past, present, and future of guitar music onto one stage for an incredible all-day musical event in front of a crowd of over 27,000.",
+                "plot": "",
                 "plotoutline": "",
                 "premiered": "2010-06-26",
                 "productioncode": "",
                 "rating": 8.5,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 16740.0
                 },
                 "runtime": 16740,
                 "season": -1,
@@ -723,60 +710,59 @@
                     {
                         "name": "Eric Clapton",
                         "order": 0,
-                        "role": "Guitar",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fxAt8X2SzU4gghOyf8xjPPknHNyv.jpg/"
                     },
                     {
                         "name": "B.B. King",
                         "order": 1,
-                        "role": "Guitar",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fyKZKHoX5AKZr2paJpYWaeYq0RuW.jpg/"
                     },
                     {
                         "name": "Jeff Beck",
                         "order": 2,
-                        "role": "Guitar",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fX16Bn8VOBYiLenre7ufN7Kzdi.jpg/"
                     },
                     {
                         "name": "Buddy Guy",
                         "order": 3,
-                        "role": "Himself",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f9J2mWgbZ39QCRASLKtiTeQV23Wr.jpg/"
                     },
                     {
                         "name": "Robert Cray",
                         "order": 4,
-                        "role": "Himself",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2furFJxPChtAaaz4b2MmlPSeVwNnN.jpg/"
                     },
                     {
                         "name": "Robbie Robertson",
                         "order": 5,
-                        "role": "Himself",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fpUhQhGrerErQGZKy0kKn6e6m1X7.jpg/"
                     },
                     {
                         "name": "Sheryl Crow",
                         "order": 6,
-                        "role": "Herself",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fqS0VRNBZYqIxP56y4JbKzi4r2vm.jpg/"
                     },
                     {
                         "name": "Derek Trucks",
                         "order": 7,
-                        "role": "Himself"
+                        "role": ""
                     },
                     {
                         "name": "John Mayer",
                         "order": 8,
-                        "role": "Himself",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fj6W5imosdIvPQ2PLZCRMlKiIy4h.jpg/"
                     }
                 ],
                 "country": [],
                 "customproperties": {
-                    "available_releases": "Theatrical",
                     "budget": "$0",
                     "cast": "Eric Clapton / B.B. King / Jeff Beck / Buddy Guy / Robert Cray / Robbie Robertson / Sheryl Crow / Derek Trucks / John Mayer",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=247421&ignore_default=true)",
@@ -807,12 +793,13 @@
                     "param.plugin_category": "Live concerts",
                     "param.user_slug": "hazeyboy",
                     "param.widget": "True",
-                    "popularity": "1.4",
-                    "provider.link": "https://www.themoviedb.org/movie/247421-eric-clapton-s-crossroads-guitar-festival-2007/watch?locale=US",
-                    "providers": "Apple iTunes",
+                    "popularity": "1.61",
                     "revenue": "$0",
+                    "set.fanart": "",
+                    "set.name": "Crossroads Guitar Festival Collection",
+                    "set.poster": "https://image.tmdb.org/t/p/w500/j52QAw4rar3mxUAHrsqtJPNbZhq.jpg",
+                    "set.tmdb_id": "1073874",
                     "slug_id": "eric-clapton-s-crossroads-guitar-festival-2007-2007",
-                    "theatrical_release": "2007-12-07",
                     "tmdb_id": "247421",
                     "tmdb_rating": "6.5",
                     "tmdb_type": "movie",
@@ -831,7 +818,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "tt1091176",
                 "label": "Eric Clapton's Crossroads Guitar Festival 2007",
@@ -841,18 +828,18 @@
                 "mpaa": "",
                 "originaltitle": "Eric Clapton's Crossroads Guitar Festival 2007",
                 "playcount": 0,
-                "plot": "Double-DVD Captures Highlights from Festival With Performances and Collaborations by Guitar Wizards Eric Clapton, B.B. King, Buddy Guy, Jeff Beck, John Mayer, Robert Cray, Robbie Robertson, Sheryl Crow, Derek Trucks and More",
+                "plot": "",
                 "plotoutline": "",
                 "premiered": "2007-12-07",
                 "productioncode": "",
                 "rating": 6.5,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 7980.0
                 },
                 "runtime": 7980,
                 "season": -1,
-                "set": "",
+                "set": "Crossroads Guitar Festival Collection",
                 "setid": -1,
                 "showlink": [],
                 "showtitle": "",
@@ -890,9 +877,12 @@
             {
                 "album": "",
                 "art": {
+                    "banner": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f704%2fmoviebanner%2fa-hard-days-night-51d20dbc0aaf2.jpg/",
                     "clearlogo": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fj38DTGPG7hP7Sx89AUCXcY0r8LF.png/",
+                    "discart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f704%2fmoviedisc%2fa-hard-days-night-5e358bfc4d6ed.png/",
                     "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f9hWiNbvLR3nPDanTdEWOc4EeBGp.jpg/",
                     "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fp0kHz7m64wDzvPLmkUl36pN2IHP.jpg/",
+                    "landscape": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f704%2fmoviethumb%2fa-hard-days-night-542ac35f3a43c.jpg/",
                     "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fp0kHz7m64wDzvPLmkUl36pN2IHP.jpg/"
                 },
                 "artist": [],
@@ -901,13 +891,13 @@
                         "name": "John Lennon",
                         "order": 0,
                         "role": "John",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2feoaFA3ekdmEhAtSZ3wb9gEm2TYh.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fyqBmIyL31BDRI9N3MSN537QS844.jpg/"
                     },
                     {
                         "name": "Paul McCartney",
                         "order": 1,
                         "role": "Paul",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fsCPsv9ueP5UR6BkMSmRDlwbra6S.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fdSheYj41UvBQ4DAEtfyuS1R52Ce.jpg/"
                     },
                     {
                         "name": "George Harrison",
@@ -919,7 +909,7 @@
                         "name": "Ringo Starr",
                         "order": 3,
                         "role": "Ringo",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f7fSrrdl90BYdR3dtOnNkosOw0kw.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fAlgXb1mKCghI3Bj2T70G1vvAyEg.jpg/"
                     },
                     {
                         "name": "Wilfrid Brambell",
@@ -987,7 +977,7 @@
                     {
                         "name": "David Janson",
                         "order": 15,
-                        "role": "Young Boy (as David Jaxon)",
+                        "role": "Young Boy",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fnHhWX0DqvkHi2il7SZf45jMCR0K.jpg/"
                     },
                     {
@@ -1062,7 +1052,7 @@
                         "name": "Susan Hampshire",
                         "order": 28,
                         "role": "Dancer at Disco",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2flgzKKduHCx2B0w5hoMyXwqR9wYq.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f6C7nO6mJq3o5DJpvY2mkIuUqY95.jpg/"
                     },
                     {
                         "name": "Victor Harrington",
@@ -1103,13 +1093,13 @@
                         "name": "Derek Nimmo",
                         "order": 35,
                         "role": "Leslie Jackson",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fyhBNbYlmuEMmWluO0uvt1kYGzTF.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2flH4iG8RKKBmKJvq38Y3BC3rojhh.jpg/"
                     },
                     {
                         "name": "Margaret Nolan",
                         "order": 36,
                         "role": "Grandfather's Girl at Casino",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fbGKKaHUx8mQRzc26vjEWNxKafhf.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fb1wUAQaUl0FhyJOw9eAzG1BuHf6.jpg/"
                     },
                     {
                         "name": "Jim O'Brady",
@@ -1121,7 +1111,7 @@
                         "name": "Charlotte Rampling",
                         "order": 38,
                         "role": "Girl at Disco",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f5U35yScoao1hf6SibbMZcld2CJd.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f7fhg5FCcl0VfYERP5D0unpybqgx.jpg/"
                     },
                     {
                         "name": "Gordon Rollings",
@@ -1169,7 +1159,6 @@
                     "United Kingdom"
                 ],
                 "customproperties": {
-                    "available_releases": "Theatrical",
                     "budget": "$560,000",
                     "cast": "John Lennon / Paul McCartney / George Harrison / Ringo Starr / Wilfrid Brambell / Norman Rossington / John Junkin / Victor Spinetti / Anna Quayle / Deryck Guyler / Richard Vernon / Edward Malin / Lionel Blair / Robin Ray / Alison Seebohm / David Janson / Bridget Armstrong / Roger Avon / Bruce Beeby / Isla Blair / John Bluthal / Pattie Boyd / Andre Charisse / Phil Collins / Sheila Fearn / Rosemarie Frankland / Bob Godfrey / Kenneth Haigh / Susan Hampshire / Victor Harrington / Julian Holloway / Clare Kelly / David Langton / Al Lewis / Jeremy Lloyd / Derek Nimmo / Margaret Nolan / Jim O'Brady / Charlotte Rampling / Gordon Rollings / Edina Ronay / Marianne Stone / Noel Trevarthen / Michael Trubshawe / Carol White / Neil Wilson",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=704&ignore_default=true)",
@@ -1178,7 +1167,7 @@
                     "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=704)",
                     "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=704)",
                     "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=704)",
-                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=A Hard Day's Night,tmdb_type=movie,tmdb_id=704)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Quatre gar\u00e7ons dans le vent,tmdb_type=movie,tmdb_id=704)",
                     "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
                     "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
                     "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
@@ -1200,17 +1189,16 @@
                     "param.plugin_category": "Live concerts",
                     "param.user_slug": "hazeyboy",
                     "param.widget": "True",
-                    "popularity": "12.322",
-                    "provider.link": "https://www.themoviedb.org/movie/704-a-hard-day-s-night/watch?locale=US",
-                    "providers": "Apple iTunes / HBO Max / Amazon Video / Google Play Movies / YouTube / Vudu / Criterion Channel / Alamo on Demand",
+                    "popularity": "11.596",
+                    "provider.link": "https://www.themoviedb.org/movie/704-a-hard-day-s-night/watch?locale=FR",
+                    "providers": "Bbox VOD",
                     "revenue": "$2,360,561",
                     "slug_id": "a-hard-day-s-night-1964",
                     "studio": "United Artists",
-                    "theatrical_release": "1964-08-11",
                     "tmdb_id": "704",
                     "tmdb_rating": "7.4",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "545",
+                    "tmdb_votes": "554",
                     "trakt_id": "576",
                     "widget": "Live concerts"
                 },
@@ -1225,27 +1213,27 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music",
-                    "Comedy"
+                    "Musique",
+                    "Com\u00e9die"
                 ],
                 "imdbnumber": "tt0058182",
-                "label": "A Hard Day's Night",
+                "label": "Quatre gar\u00e7ons dans le vent",
                 "lastmodified": "",
                 "lastplayed": "",
                 "mimetype": "application/octet-stream",
-                "mpaa": "Rated G",
+                "mpaa": "",
                 "originaltitle": "A Hard Day's Night",
                 "playcount": 0,
-                "plot": "Capturing John Lennon, Paul McCartney, George Harrison and Ringo Starr in their electrifying element, 'A Hard Day's Night' is a wildly irreverent journey through this pastiche of a day in the life of The Beatles during 1964. The band have to use all their guile and wit to avoid the pursuing fans and press to reach their scheduled television performance, in spite of Paul's troublemaking grandfather and Ringo's arrest.",
+                "plot": "En 1964, les Beatles prennent le train pour donner un concert. Le grand-p\u00e8re de l'un d'eux, qui les accompagne et dont la devise est de semer le d\u00e9sordre et l'anarchie partout o\u00f9 il passe, dispara\u00eet soudain avec son petit-fils. Commence alors une course folle pour les retrouver avant que le concert ne commence.",
                 "plotoutline": "",
                 "premiered": "1964-07-07",
                 "productioncode": "",
                 "rating": 7.400000095367432,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 5220.0
                 },
-                "runtime": 5280,
+                "runtime": 5220,
                 "season": -1,
                 "set": "",
                 "setid": -1,
@@ -1267,9 +1255,9 @@
                     "Maljack Productions"
                 ],
                 "tag": [],
-                "tagline": "The Beatles, starring in their first full-length, hilarious, action-packed film!",
+                "tagline": "",
                 "thumbnail": "",
-                "title": "A Hard Day's Night",
+                "title": "Quatre gar\u00e7ons dans le vent",
                 "top250": 0,
                 "track": -1,
                 "trailer": "plugin://plugin.video.youtube/play/?video_id=PeWS5HtCpU4",
@@ -1283,7 +1271,7 @@
                     "unknown": "tt0058182"
                 },
                 "userrating": 0,
-                "votes": "545",
+                "votes": "554",
                 "writer": [
                     "Alun Owen"
                 ],
@@ -1302,12 +1290,11 @@
                         "name": "David Bowie",
                         "order": 0,
                         "role": "",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fqrqQJivS0zLzxZKfgNZnDtjbqpI.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f7OIa363iSLG43x9Sb9HojUANwbh.jpg/"
                     }
                 ],
                 "country": [],
                 "customproperties": {
-                    "available_releases": "Digital",
                     "budget": "$0",
                     "cast": "David Bowie",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=273085&ignore_default=true)",
@@ -1316,7 +1303,7 @@
                     "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=273085)",
                     "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=273085)",
                     "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=273085)",
-                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=David Bowie: Best of Bowie,tmdb_type=movie,tmdb_id=273085)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=David Bowie : Best Of,tmdb_type=movie,tmdb_id=273085)",
                     "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
                     "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
                     "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
@@ -1325,7 +1312,6 @@
                     "contextmenulabel(5)": "$LOCALIZE[20444]",
                     "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
                     "dbtype": "movie",
-                    "digital_release": "2002-11-19",
                     "imdb_id": "tt0349136",
                     "isplayable": "true",
                     "item.info": "play",
@@ -1339,7 +1325,7 @@
                     "param.plugin_category": "Live concerts",
                     "param.user_slug": "hazeyboy",
                     "param.widget": "True",
-                    "popularity": "1.003",
+                    "popularity": "0.872",
                     "revenue": "$0",
                     "slug_id": "david-bowie-best-of-bowie-2002",
                     "tmdb_id": "273085",
@@ -1362,24 +1348,24 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "tt0349136",
-                "label": "David Bowie: Best of Bowie",
+                "label": "David Bowie : Best Of",
                 "lastmodified": "",
                 "lastplayed": "",
                 "mimetype": "application/octet-stream",
                 "mpaa": "",
                 "originaltitle": "David Bowie: Best of Bowie",
                 "playcount": 0,
-                "plot": "Disc 1: Oh. You Pretty Things, Queen Bitch), Five Years, Starman, John I'm Only Dancing, The Jean Genie, Space Oddity, Drive-in Saturday, Life on Mars?, Ziggy Stardust, Rebel Rebel, Young Americans, Be My Wife, \"Heroes,\" Boys Keep Swinging, D.J., Look Back in Anger, Ashes to Ashes, Fashion, Wild Is the Wind, Let's Dance, China Girl, Modern Love, Cat People (Putting Out Fire), Blue Jean, Loving the Alien, Dancing in the Street (with Mick Jagger) Disc 2: Absolute Beginners, Underground, As the World Falls Down, Day-In Day-Out, Time Will Crawl, Never Let Me Down, Fame '90, Jump They Say, Black Tie White Noise, Miracle Goodnight, Buddha of Suburbia, The Heart's Filthy Lesson, Strangers When We Meet, Hallo Spaceboy, Little Wonder, Dead Man Walking, Seven Years in Tibet, I'm Afraid of Americans, Thursday's Child and Survive.",
+                "plot": "Tout Bowie de 1969 \u00e0 2002 : toutes les vid\u00e9os performances TV rares et in\u00e9dites, des images live, des versions alternatives\u2026",
                 "plotoutline": "",
                 "premiered": "2002-06-30",
                 "productioncode": "",
                 "rating": 7.0,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 12240.0
                 },
                 "runtime": 12240,
                 "season": -1,
@@ -1400,7 +1386,7 @@
                 "tag": [],
                 "tagline": "",
                 "thumbnail": "",
-                "title": "David Bowie: Best of Bowie",
+                "title": "David Bowie : Best Of",
                 "top250": 0,
                 "track": -1,
                 "trailer": "",
@@ -1431,14 +1417,13 @@
                         "name": "Neil Diamond",
                         "order": 0,
                         "role": "Himself",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fgeiwcAPT3xJDiNAeAGP929wq9LO.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2facb9GQPrp21CGlXkodYdde6KTLU.jpg/"
                     }
                 ],
                 "country": [
                     "United States of America"
                 ],
                 "customproperties": {
-                    "available_releases": "Theatrical",
                     "budget": "$0",
                     "cast": "Neil Diamond",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=38168&ignore_default=true)",
@@ -1469,11 +1454,10 @@
                     "param.plugin_category": "Live concerts",
                     "param.user_slug": "hazeyboy",
                     "param.widget": "True",
-                    "popularity": "1.238",
+                    "popularity": "1.856",
                     "revenue": "$0",
                     "slug_id": "neil-diamond-hot-august-night-nyc-2009",
                     "studio": "Columbia Music Video",
-                    "theatrical_release": "2009-02-23",
                     "tmdb_id": "38168",
                     "tmdb_rating": "6.2",
                     "tmdb_type": "movie",
@@ -1492,7 +1476,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "tt1494804",
                 "label": "Neil Diamond: Hot August Night/NYC",
@@ -1502,14 +1486,14 @@
                 "mpaa": "",
                 "originaltitle": "Neil Diamond: Hot August Night/NYC",
                 "playcount": 0,
-                "plot": "Recorded live at New York's Madison Square Garden in August, 2008, the DVD and Blu-Ray include the entire show from beginning to end and feature 25 career-spanning hits from Neil's phenomenal four-night sold-out run at the fabled concert hall.",
+                "plot": "",
                 "plotoutline": "",
                 "premiered": "2009-02-23",
                 "productioncode": "",
                 "rating": 6.199999809265137,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 8580.0
                 },
                 "runtime": 8580,
                 "season": -1,
@@ -1555,7 +1539,6 @@
                 "art": {
                     "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fpQOs5bwFpaimeaK5PA2XXteU1Ly.jpg/",
                     "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ft4yJoAIRZGGlIjljv0qGcv8rSiU.jpg/",
-                    "landscape": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fzzYZt5jvGRvnMiCxKFD11qmHbcH.jpg/",
                     "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ft4yJoAIRZGGlIjljv0qGcv8rSiU.jpg/"
                 },
                 "artist": [],
@@ -1563,31 +1546,31 @@
                     {
                         "name": "Freddie Mercury",
                         "order": 0,
-                        "role": "Lead Singer",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f29YpQZNzrGJtoa49ZVo2XLKZuQr.jpg/"
                     },
                     {
                         "name": "Brian May",
                         "order": 1,
-                        "role": "Guitar",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fdcSrV82AWt21t6XNa5UsYGeBzqx.jpg/"
                     },
                     {
                         "name": "Roger Taylor",
                         "order": 2,
-                        "role": "Drums",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f3RK6HF5pPgpOMDLzxkKhptjlJzv.jpg/"
                     },
                     {
                         "name": "John Deacon",
                         "order": 3,
-                        "role": "Bass",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fucbtgzdLR5oeVXfsTkbxl5TBU5z.jpg/"
                     },
                     {
                         "name": "Spike Edney",
                         "order": 4,
-                        "role": "Keyboards",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2frUnmXEwC4BdRrXROpXhhfIDvCO8.jpg/"
                     }
                 ],
@@ -1595,7 +1578,6 @@
                     "United Kingdom"
                 ],
                 "customproperties": {
-                    "available_releases": "TV",
                     "budget": "$0",
                     "cast": "Freddie Mercury / Brian May / Roger Taylor / John Deacon / Spike Edney",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=20575&ignore_default=true)",
@@ -1604,7 +1586,7 @@
                     "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=20575)",
                     "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=20575)",
                     "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=20575)",
-                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Queen: Live at Wembley Stadium,tmdb_type=movie,tmdb_id=20575)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Queen - Live at Wembley Stadium,tmdb_type=movie,tmdb_id=20575)",
                     "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
                     "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
                     "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
@@ -1626,18 +1608,17 @@
                     "param.plugin_category": "Live concerts",
                     "param.user_slug": "hazeyboy",
                     "param.widget": "True",
-                    "popularity": "8.214",
-                    "provider.link": "https://www.themoviedb.org/movie/20575-queen-live-at-wembley-stadium/watch?locale=US",
-                    "providers": "Apple iTunes / Amazon Video / Google Play Movies / YouTube",
+                    "popularity": "8.835",
+                    "provider.link": "https://www.themoviedb.org/movie/20575-queen-live-at-wembley-stadium/watch?locale=FR",
+                    "providers": "Apple iTunes",
                     "revenue": "$0",
                     "slug_id": "queen-live-at-wembley-stadium-1986",
                     "studio": "Channel 4 Television",
                     "tmdb_id": "20575",
                     "tmdb_rating": "8.5",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "117",
+                    "tmdb_votes": "120",
                     "trakt_id": "12637",
-                    "tv_release": "1986-07-12",
                     "widget": "Live concerts"
                 },
                 "dateadded": "",
@@ -1651,24 +1632,24 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "tt0158874",
-                "label": "Queen: Live at Wembley Stadium",
+                "label": "Queen - Live at Wembley Stadium",
                 "lastmodified": "",
                 "lastplayed": "",
                 "mimetype": "application/octet-stream",
                 "mpaa": "",
                 "originaltitle": "Queen: Live at Wembley Stadium",
                 "playcount": 0,
-                "plot": "One of the world's biggest bands returns to the scene of their Live Aid triumph (one year earlier in 1985) to play all their greatest hits in front of a packed Wembley Stadium.",
+                "plot": "Un stade d\u00e9mesur\u00e9 pour un groupe d\u00e9mesur\u00e9. Il fallait au moins ces 80.000 personnes hyst\u00e9riques pour  qu\u2019\u00e9clate toute la puissance et la fureur du groupe.  Freddie Mercury, qui se sait d\u00e9j\u00e0 malade, sent que c\u2019est peut-\u00eatre sa derni\u00e8re tourn\u00e9e, alors il se donne sans compter avec un groupe \u00e0 son apog\u00e9e.  Ce concert exceptionnel est consid\u00e9r\u00e9 comme l\u2019ultime t\u00e9moignage des performances live du groupe.  Le concert du vendredi est in\u00e9dit ce qui fait de cette sortie un \u00e9v\u00e9nement.",
                 "plotoutline": "",
                 "premiered": "1986-07-12",
                 "productioncode": "",
-                "rating": 8.5,
+                "rating": 8.541999816894531,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 6600.0
                 },
                 "runtime": 6600,
                 "season": -1,
@@ -1692,7 +1673,7 @@
                 "tag": [],
                 "tagline": "",
                 "thumbnail": "",
-                "title": "Queen: Live at Wembley Stadium",
+                "title": "Queen - Live at Wembley Stadium",
                 "top250": 0,
                 "track": -1,
                 "trailer": "plugin://plugin.video.youtube/play/?video_id=9duYNTthw04",
@@ -1706,7 +1687,7 @@
                     "unknown": "tt0158874"
                 },
                 "userrating": 0,
-                "votes": "117",
+                "votes": "120",
                 "writer": [],
                 "year": 1986
             },
@@ -1780,7 +1761,7 @@
                     "param.plugin_category": "Live concerts",
                     "param.user_slug": "hazeyboy",
                     "param.widget": "True",
-                    "popularity": "0.84",
+                    "popularity": "0.6",
                     "revenue": "$0",
                     "slug_id": "eagles-new-zealand-concert-1995",
                     "tmdb_id": "427514",
@@ -1799,7 +1780,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "",
                 "label": "Eagles - New Zealand Concert",
@@ -1809,14 +1790,14 @@
                 "mpaa": "",
                 "originaltitle": "Eagles - New Zealand Concert",
                 "playcount": 0,
-                "plot": "1. Hotel California, 2. Victim Of Love, 3. New Kid In Town,  4. Wasted Time, 5. Pretty Maids All In A Row, 6. The Girl From Yesterday, 7. I Can't Tell You Why, 8. Ordinary Average Guy, 9. Lyin' Eyes, 10. One Of These Nights, 11. Tequila Sunrise, 12. Help Me Thru The Night, 13. Love Will Keep Us Alive, 14. The Heart Of The Matter, 15. You Belong To The City, 16. The Boys Of Summer, 17. Funk 49, 18. Dirty Laundry, 19. Smuggler's Blues, 20. Life's Been Good, 21. Heartache Tonight, 22. Life In The Fast Lane, 23. Already Gone, 24. Rocky Mountain Way, 25. Desperado, 26. Take It Easy",
+                "plot": "",
                 "plotoutline": "",
                 "premiered": "1995-11-26",
                 "productioncode": "",
                 "rating": 0.0,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 5400.0
                 },
                 "runtime": 5400,
                 "season": -1,
@@ -1856,6 +1837,7 @@
             {
                 "album": "",
                 "art": {
+                    "discart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f34490%2fmoviedisc%2fthe-freddie-mercury-tribute-concert-5be99e9bc31a7.png/",
                     "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f3DfmT8R6ny3HGFX9z2VdcrM5kyb.jpg/",
                     "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fruDIZj4M7Mw4TU58dVEISHkz54C.jpg/",
                     "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fruDIZj4M7Mw4TU58dVEISHkz54C.jpg/"
@@ -1890,7 +1872,7 @@
                         "name": "David Bowie",
                         "order": 4,
                         "role": "Himself",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fqrqQJivS0zLzxZKfgNZnDtjbqpI.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f7OIa363iSLG43x9Sb9HojUANwbh.jpg/"
                     },
                     {
                         "name": "Rick Allen",
@@ -2047,9 +2029,9 @@
                     "param.plugin_category": "Live concerts",
                     "param.user_slug": "hazeyboy",
                     "param.widget": "True",
-                    "popularity": "5.185",
-                    "provider.link": "https://www.themoviedb.org/movie/34490-the-freddie-mercury-tribute-concert/watch?locale=US",
-                    "providers": "Apple iTunes / Amazon Video",
+                    "popularity": "2.735",
+                    "provider.link": "https://www.themoviedb.org/movie/34490-the-freddie-mercury-tribute-concert/watch?locale=FR",
+                    "providers": "Apple iTunes",
                     "revenue": "$0",
                     "slug_id": "the-freddie-mercury-tribute-concert-1992",
                     "studio": "Eagle Vision",
@@ -2071,8 +2053,8 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music",
-                    "Documentary"
+                    "Musique",
+                    "Documentaire"
                 ],
                 "imdbnumber": "tt0103999",
                 "label": "The Freddie Mercury Tribute Concert",
@@ -2082,14 +2064,14 @@
                 "mpaa": "",
                 "originaltitle": "The Freddie Mercury Tribute Concert",
                 "playcount": 0,
-                "plot": "A live concert in tribute to Freddie Mercury, former lead singer of Queen. Mercury died of AIDS and so some of the proceeds of this concert went to AIDS research. Features performers such as Metallica, Def Leppard, Elton John, Axl Rose, Extreme, George Michael, and many others. Performers alternate between doing their own hits, covering Queen songs, or jamming with the surviving members of Queen.",
+                "plot": "Le 20 Avril 1992, Roger Taylor, Brian May et John Deacon, les autres membres du groupe Queen, prirent d'assaut la sc\u00e8ne du Wembley Stadium pour l'un des plus grands \u00e9v\u00e9nements de l'histoire du rock, un concert-hommage \u00e0 leur regrett\u00e9 coll\u00e8gue, l'incomparable Freddie Mercury ! Queen furent rejoints sur sc\u00e8ne par quelques uns des plus grands talents musicaux mondiaux pour c\u00e9l\u00e9brer la vie et l'oeuvre de Freddie, et pour sensibiliser le public aux ravages du SIDA qui avait pr\u00e9matur\u00e9ment emport\u00e9 leur leader l'ann\u00e9e pr\u00e9c\u00e9dente. En plus d'\u00eatre un spectacle d exception, ce concert commen\u00e7a \u00e0 collecter des sommes importantes et toujours grandissantes pour le Mercury Phoenix Trust, une oeuvre de bienfaisance visant \u00e0 soulager tous ceux qui souffrent du SIDA dans le monde. Aujourd'hui et pour la premi\u00e8re fois, les deux parties du concert sont disponibles en Blu-Ray, accompagn\u00e9es de bonus pour cette \u00e9dition sp\u00e9ciale.",
                 "plotoutline": "",
                 "premiered": "1992-04-22",
                 "productioncode": "",
                 "rating": 8.199999809265137,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 10500.0
                 },
                 "runtime": 10500,
                 "season": -1,
@@ -2141,243 +2123,243 @@
                     {
                         "name": "Elton John",
                         "order": 0,
-                        "role": "Himself",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f9G3k29OWPyZtScEDZEAsFJpqiM7.jpg/"
                     },
                     {
                         "name": "James Morrison",
                         "order": 1,
-                        "role": "Himself"
+                        "role": ""
                     },
                     {
                         "name": "Lily Allen",
                         "order": 2,
-                        "role": "Herself",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2feFd1agkLtzEGfFY2IStCjPUxiWe.jpg/"
                     },
                     {
                         "name": "Fergie",
                         "order": 3,
-                        "role": "Herself",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fk5Gfivn4A2YrGMcNRrysJ3CcOt4.jpg/"
                     },
                     {
                         "name": "Pharrell Williams",
                         "order": 4,
-                        "role": "Himself",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fvbgFf9k1VE0WLWqQFOQ2nohJlLz.jpg/"
                     },
                     {
                         "name": "Nelly Furtado",
                         "order": 5,
-                        "role": "Herself",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f7Z65ynRIFVF2FIJgToAzI3eYcrZ.jpg/"
                     },
                     {
                         "name": "Joss Stone",
                         "order": 6,
-                        "role": "Herself",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fkFbmkxR4RjvEhKQ4Ad7LFVoevR4.jpg/"
                     },
                     {
                         "name": "Roger Hodgson",
                         "order": 7,
-                        "role": "Himself",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ftdYCZ5APb4r8z8jRMvbXcPDeY3R.jpg/"
                     },
                     {
                         "name": "Tom Jones",
                         "order": 8,
-                        "role": "Himself",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fA88iOPpDT6In8tWvl9LWyxLPHzR.jpg/"
                     },
                     {
                         "name": "Joe Perry",
                         "order": 9,
-                        "role": "Himself",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f2yM9WrIwIJe2XIhCU2tgJfjDrQ3.jpg/"
                     },
                     {
                         "name": "Will Young",
                         "order": 10,
-                        "role": "Himself",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fsDsdMyHpJEsyqsnFkXm86YwN67O.jpg/"
                     },
                     {
                         "name": "Natasha Bedingfield",
                         "order": 11,
-                        "role": "Herself",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f45F0iH8tr4puyYvnGlsjMNPppgn.jpg/"
                     },
                     {
                         "name": "Bryan Ferry",
                         "order": 12,
-                        "role": "Himself",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fehh9Gejim5gjIitLJWA8e1JbpCj.jpg/"
                     },
                     {
                         "name": "Anastacia",
                         "order": 13,
-                        "role": "Herself",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f2Vv9fRk8CnG3CKVlejJkw2E0Occ.jpg/"
                     },
                     {
                         "name": "Connie Fisher",
                         "order": 14,
-                        "role": "Herself"
+                        "role": ""
                     },
                     {
                         "name": "Andrea Ross",
                         "order": 15,
-                        "role": "Herself",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fsGgLlGebNNZXcUKcdB37dgKD0Cp.jpg/"
                     },
                     {
                         "name": "Andrea Bocelli",
                         "order": 16,
-                        "role": "Himself",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fi5ggWcWV7S9vaxknd4XYxWlV9Ze.jpg/"
                     },
                     {
                         "name": "Sarah Brightman",
                         "order": 17,
-                        "role": "Herself",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f1BtpbDFAO7GYvtbPANRrHxgnreJ.jpg/"
                     },
                     {
                         "name": "Josh Groban",
                         "order": 18,
-                        "role": "Himself",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fnMkS2XKWYYD6dFvm1jqVagky3Ja.jpg/"
                     },
                     {
                         "name": "Donny Osmond",
                         "order": 19,
-                        "role": "Himself",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f5h4mbUYffMaLg3nRWhoQH73YsHn.jpg/"
                     },
                     {
                         "name": "Jason Donovan",
                         "order": 20,
-                        "role": "Himself",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fbwQx8cbD9Rq8uPZ0vq1TPkPS4uX.jpg/"
                     },
                     {
                         "name": "Lee Mead",
                         "order": 21,
-                        "role": "Himself",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f9TbXWom1Y3gSRrrIROwLuOOs4QG.jpg/"
                     },
                     {
                         "name": "Rod Stewart",
                         "order": 22,
-                        "role": "Himself",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f2lWU2oL8AiE1oPCy1pVNrknqZH.jpg/"
                     },
                     {
                         "name": "Kanye West",
                         "order": 23,
-                        "role": "Himself",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fxMGWSdT0mcqzentuImFmVhkEgAQ.jpg/"
                     },
                     {
                         "name": "Sean Combs",
                         "order": 24,
-                        "role": "Himself",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f4AIfaoGkcuWPhTRR4A6k5tjYJci.jpg/"
                     },
                     {
                         "name": "Ricky Gervais",
                         "order": 25,
-                        "role": "Himself",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f2mAjcq9AQA9peQxNoeEW76DPIju.jpg/"
                     },
                     {
                         "name": "Prince William",
                         "order": 26,
-                        "role": "Himself",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fjM14RLQpmp4ItqE2rZMybcLqXpo.jpg/"
                     },
                     {
                         "name": "Prince Harry",
                         "order": 27,
-                        "role": "Himself",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fzc94yOx3ZmsZUSC4eQzC8QkW4GU.jpg/"
                     },
                     {
                         "name": "Simon Le Bon",
                         "order": 28,
-                        "role": "Himself",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fr4erCSxvHRnxvc4u1GlfruArabK.jpg/"
                     },
                     {
                         "name": "John Taylor",
                         "order": 29,
-                        "role": "HImself",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fjLC3xdufwM1PjLFUBEryqhO0r6P.jpg/"
                     },
                     {
                         "name": "Roger Taylor",
                         "order": 30,
-                        "role": "Himself",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fr9y7WfXs9aIiWYGlG2zptzU0asw.jpg/"
                     },
                     {
                         "name": "Nick Rhodes",
                         "order": 31,
-                        "role": "Himself",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f2F1XE4y0eoP8NbQKD0fYGvn6kbA.jpg/"
                     },
                     {
                         "name": "Dan Gillespie Sells",
                         "order": 32,
-                        "role": "Himself"
+                        "role": ""
                     },
                     {
                         "name": "Richard Jones",
                         "order": 33,
-                        "role": "Himself"
+                        "role": ""
                     },
                     {
                         "name": "Kevin Jeremiah",
                         "order": 34,
-                        "role": "Himself"
+                        "role": ""
                     },
                     {
                         "name": "Ciaran Jeremiah",
                         "order": 35,
-                        "role": "Himself"
+                        "role": ""
                     },
                     {
                         "name": "Paul Stewart",
                         "order": 36,
-                        "role": "Himself"
+                        "role": ""
                     },
                     {
                         "name": "Francis Rossi",
                         "order": 37,
-                        "role": "Himself",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f9BCWTwUYE9XX1L5i7BzfdrQefFx.jpg/"
                     },
                     {
                         "name": "Andy Bown",
                         "order": 38,
-                        "role": "Himself"
+                        "role": ""
                     },
                     {
                         "name": "John \"Rhino\" Edwards",
                         "order": 39,
-                        "role": "Himself"
+                        "role": ""
                     },
                     {
                         "name": "Matt Letley",
                         "order": 40,
-                        "role": "Himself"
+                        "role": ""
                     },
                     {
                         "name": "Mario Testino",
                         "order": 41,
-                        "role": "Self"
+                        "role": ""
                     },
                     {
                         "name": "Gary Barlow",
@@ -2404,7 +2386,9 @@
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fpxMlyJueqxs6y8oufTJiqjS5Lfl.jpg/"
                     }
                 ],
-                "country": [],
+                "country": [
+                    "United Kingdom"
+                ],
                 "customproperties": {
                     "budget": "$0",
                     "cast": "Elton John / James Morrison / Lily Allen / Fergie / Pharrell Williams / Nelly Furtado / Joss Stone / Roger Hodgson / Tom Jones / Joe Perry / Will Young / Natasha Bedingfield / Bryan Ferry / Anastacia / Connie Fisher / Andrea Ross / Andrea Bocelli / Sarah Brightman / Josh Groban / Donny Osmond / Jason Donovan / Lee Mead / Rod Stewart / Kanye West / Sean Combs / Ricky Gervais / Prince William / Prince Harry / Simon Le Bon / John Taylor / Roger Taylor / Nick Rhodes / Dan Gillespie Sells / Richard Jones / Kevin Jeremiah / Ciaran Jeremiah / Paul Stewart / Francis Rossi / Andy Bown / John \"Rhino\" Edwards / Matt Letley / Mario Testino / Gary Barlow / Howard Donald / Mark Owen / Jason Orange",
@@ -2436,9 +2420,10 @@
                     "param.plugin_category": "Live concerts",
                     "param.user_slug": "hazeyboy",
                     "param.widget": "True",
-                    "popularity": "1.575",
+                    "popularity": "1.823",
                     "revenue": "$0",
                     "slug_id": "concert-for-diana-2007",
+                    "studio": "Live Nation",
                     "tmdb_id": "46177",
                     "tmdb_rating": "8.0",
                     "tmdb_type": "movie",
@@ -2458,7 +2443,8 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique",
+                    "Documentaire"
                 ],
                 "imdbnumber": "tt0918508",
                 "label": "Concert for Diana",
@@ -2468,14 +2454,14 @@
                 "mpaa": "",
                 "originaltitle": "Concert for Diana",
                 "playcount": 0,
-                "plot": "Live broadcast of the concert at Wembley Stadium in London on July 1st 2007 to commemorate the life of Princess Diana on what would have been her 46th birthday. It was broadcast live to over 140 countries.",
+                "plot": "",
                 "plotoutline": "",
                 "premiered": "2007-07-01",
                 "productioncode": "",
                 "rating": 8.0,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 18420.0
                 },
                 "runtime": 18420,
                 "season": -1,
@@ -2492,7 +2478,9 @@
                     "subtitle": [],
                     "video": []
                 },
-                "studio": [],
+                "studio": [
+                    "Live Nation"
+                ],
                 "tag": [],
                 "tagline": "",
                 "thumbnail": "",
@@ -2564,9 +2552,7 @@
                     "param.plugin_category": "Live concerts",
                     "param.user_slug": "hazeyboy",
                     "param.widget": "True",
-                    "popularity": "1.8",
-                    "provider.link": "https://www.themoviedb.org/movie/15608-tiesto-in-concert/watch?locale=US",
-                    "providers": "Apple iTunes / Amazon Video / Google Play Movies / YouTube / VUDU Free / Tubi TV",
+                    "popularity": "1.694",
                     "revenue": "$0",
                     "slug_id": "tiesto-in-concert-2003",
                     "studio": "Black Hole",
@@ -2586,7 +2572,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music"
+                    "Musique"
                 ],
                 "imdbnumber": "tt0410774",
                 "label": "Ti\u00ebsto in Concert",
@@ -2596,14 +2582,14 @@
                 "mpaa": "",
                 "originaltitle": "Ti\u00ebsto in Concert",
                 "playcount": 0,
-                "plot": "On May 10, 2003, for the first time on our planet, one DJ has filled a soccer stadium with 25,000 people for an 8 hour performance/set. The show featured guest singers, live bands and performers, plus stunning visual effects.",
+                "plot": "Le 10 mai 2003, pour la premi\u00e8re fois sur notre plan\u00e8te, un DJ a rempli un stade de football de 25 000 personnes pour une performance/set de 8 heures. Le spectacle mettait en vedette des chanteurs invit\u00e9s, des groupes et des artistes en direct, ainsi que des effets visuels \u00e9poustouflants.",
                 "plotoutline": "",
                 "premiered": "2003-11-02",
                 "productioncode": "",
                 "rating": 7.900000095367432,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 12000.0
                 },
                 "runtime": 12000,
                 "season": -1,
@@ -2649,6 +2635,7 @@
                 "art": {
                     "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f9Rjs6wszvwuXzyNiMHablPcC8QP.jpg/",
                     "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fakF10IEslLrHfHR7tsmCWZMq0c3.jpg/",
+                    "landscape": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fypZ3m8iSMOgzqjoQx2UqY7C1FYu.jpg/",
                     "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fakF10IEslLrHfHR7tsmCWZMq0c3.jpg/"
                 },
                 "artist": [],
@@ -2656,25 +2643,24 @@
                     {
                         "name": "Amy Winehouse",
                         "order": 0,
-                        "role": "Herself (archive footage)",
+                        "role": "Self (archive footage)",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f5uaJkQ7B46GSgofUtuf3GINnGxw.jpg/"
                     },
                     {
                         "name": "Mark Ronson",
                         "order": 1,
-                        "role": "Himself",
+                        "role": "Self",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f2xmMlZ7LLlojzSMqNVzwqB5YEsd.jpg/"
                     },
                     {
                         "name": "Salaam Remi",
                         "order": 2,
-                        "role": "Himself",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f6pAtNLKTQQZjAg2DzvTamddtn8m.jpg/"
+                        "role": "Self"
                     },
                     {
                         "name": "Ronnie Spector",
                         "order": 3,
-                        "role": "Herself",
+                        "role": "Self",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fhCBc1Xss3ve2K3MUeXVtXJaKoGB.jpg/"
                     }
                 ],
@@ -2682,7 +2668,6 @@
                     "United Kingdom"
                 ],
                 "customproperties": {
-                    "available_releases": "Physical",
                     "budget": "$0",
                     "cast": "Amy Winehouse / Mark Ronson / Salaam Remi / Ronnie Spector",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=555377&ignore_default=true)",
@@ -2691,7 +2676,7 @@
                     "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=555377)",
                     "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=555377)",
                     "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=555377)",
-                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Amy Winehouse - Back To Black:The Real Story Behind The Modern Classic,tmdb_type=movie,tmdb_id=555377)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Amy Winehouse - Back to Black,tmdb_type=movie,tmdb_id=555377)",
                     "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
                     "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
                     "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
@@ -2713,10 +2698,7 @@
                     "param.plugin_category": "Live concerts",
                     "param.user_slug": "hazeyboy",
                     "param.widget": "True",
-                    "physical_release": "2018-11-02",
-                    "popularity": "3.081",
-                    "provider.link": "https://www.themoviedb.org/movie/555377-amy-winehouse-back-to-black-the-real-story-behind-the-modern-classic/watch?locale=US",
-                    "providers": "Apple iTunes / Amazon Video",
+                    "popularity": "1.205",
                     "revenue": "$0",
                     "slug_id": "amy-winehouse-back-to-black-the-real-story-behind-the-modern-classic-2018",
                     "studio": "BBC",
@@ -2738,27 +2720,27 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Documentary",
-                    "Music"
+                    "Documentaire",
+                    "Musique"
                 ],
                 "imdbnumber": "tt9049130",
-                "label": "Amy Winehouse - Back To Black:The Real Story Behind The Modern Classic",
+                "label": "Amy Winehouse - Back to Black",
                 "lastmodified": "",
                 "lastplayed": "",
                 "mimetype": "application/octet-stream",
-                "mpaa": "Rated NR",
+                "mpaa": "",
                 "originaltitle": "Amy Winehouse - Back To Black:The Real Story Behind The Modern Classic",
                 "playcount": 0,
-                "plot": "The true story of how Amy Winehouse\u2019s best known and most celebrated body of work came into being. Featuring previously unseen footage of Amy, new interviews with producers Mark Ronson and Salaam Remi, and the musicians who worked with Amy on the album, offering fresh insights into Amy\u2019s remarkable gifts as a singer, songwriter, musician and performer",
+                "plot": "Plongeant dans la gen\u00e8se de l\u2019album \"Back to Black\", ce documentaire d\u00e9voile des facettes in\u00e9dites de la chanteuse Amy Winehouse, ic\u00f4ne de la soul dont on comm\u00e9more cette ann\u00e9e le dixi\u00e8me anniversaire de la mort.",
                 "plotoutline": "",
                 "premiered": "2018-09-14",
                 "productioncode": "",
                 "rating": 7.400000095367432,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 3540.0
                 },
-                "runtime": 3480,
+                "runtime": 3540,
                 "season": -1,
                 "set": "",
                 "setid": -1,
@@ -2779,9 +2761,9 @@
                     "BBC Music"
                 ],
                 "tag": [],
-                "tagline": "The real story behind the modern classic",
+                "tagline": "",
                 "thumbnail": "",
-                "title": "Amy Winehouse - Back To Black:The Real Story Behind The Modern Classic",
+                "title": "Amy Winehouse - Back to Black",
                 "top250": 0,
                 "track": -1,
                 "trailer": "",
@@ -2802,6 +2784,9 @@
             {
                 "album": "",
                 "art": {
+                    "clearart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f79931%2fhdmovieclearart%2fadele-live-at-the-royal-albert-hall-5297ccf2e70d0.png/",
+                    "clearlogo": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f4q2t4EWvuSDWUloV9GYMB1HOGHC.png/",
+                    "discart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f79931%2fmoviedisc%2fadele-live-at-the-royal-albert-hall-511382cf726de.png/",
                     "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fnourcgjOGs59YxNwDuLWxOjo3ME.jpg/",
                     "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2frKHVEjAJ9DG7dNN5VEahTdExzgv.jpg/",
                     "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2frKHVEjAJ9DG7dNN5VEahTdExzgv.jpg/"
@@ -2811,7 +2796,7 @@
                     {
                         "name": "Adele",
                         "order": 0,
-                        "role": "Lead Vocal",
+                        "role": "Cantora",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f3eARarxsWedHczppAPi6MRZ3qOA.jpg/"
                     },
                     {
@@ -2893,7 +2878,7 @@
                     "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=79931)",
                     "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=79931)",
                     "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=79931)",
-                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Adele: Live at the Royal Albert Hall,tmdb_type=movie,tmdb_id=79931)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Adele - Live at the Royal Albert Hall,tmdb_type=movie,tmdb_id=79931)",
                     "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
                     "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
                     "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
@@ -2915,11 +2900,11 @@
                     "param.plugin_category": "Live concerts",
                     "param.user_slug": "hazeyboy",
                     "param.widget": "True",
-                    "popularity": "7.739",
+                    "popularity": "5.716",
                     "revenue": "$0",
                     "slug_id": "adele-live-at-the-royal-albert-hall-2011",
                     "studio": "Sony Music Entertainment",
-                    "theatrical_release": "2011-11-29",
+                    "theatrical_release": "2011-12-05",
                     "tmdb_id": "79931",
                     "tmdb_rating": "7.9",
                     "tmdb_type": "movie",
@@ -2938,27 +2923,27 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music",
-                    "Documentary"
+                    "Musique",
+                    "Documentaire"
                 ],
                 "imdbnumber": "tt2122272",
-                "label": "Adele: Live at the Royal Albert Hall",
+                "label": "Adele - Live at the Royal Albert Hall",
                 "lastmodified": "",
                 "lastplayed": "",
                 "mimetype": "application/octet-stream",
-                "mpaa": "Rated NR",
+                "mpaa": "",
                 "originaltitle": "Adele: Live at the Royal Albert Hall",
                 "playcount": 0,
-                "plot": "Live At The Royal Albert Hall was recorded on September 22nd. 2011 at the height of what has been an amazing year for Adele.  This concert video features vocalist Adele's groundbreaking performance at the Royal Albert Hall in London. Set-List: 1. Hometown Glory / 2. I'll Be Waiting / 3. Don't You Remember / 4. Turning Tables / 5. Set Fire to the Rain / 6. If It Hadn't Been for Love / 7. My Same / 8. Take It All / 9. Rumour Has It / 10. Right as Rain / 11. One and Only / 12. Lovesong / 13. Chasing Pavements / 14. I Can't Make You Love Me / 15. Make You Feel My Love / 16. Someone like You / 17. Rolling in the Deep.",
+                "plot": "Le 22 Septembre 2011, Ad\u00e8le a fait ses d\u00e9buts Royal Albert Hall dans le cadre de sa tourn\u00e9e Ad\u00e8le Live, une performance qui a laiss\u00e9 les fans bouche b\u00e9\u00e9 face \u00e0 son au professionnalisme et son talent.",
                 "plotoutline": "",
                 "premiered": "2011-11-27",
                 "productioncode": "",
                 "rating": 7.900000095367432,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 5400.0
                 },
-                "runtime": 6480,
+                "runtime": 5400,
                 "season": -1,
                 "set": "",
                 "setid": -1,
@@ -2979,9 +2964,9 @@
                     "XL Recordings"
                 ],
                 "tag": [],
-                "tagline": "A live performance at the Royal Albert Hall in London.",
+                "tagline": "Cette soir\u00e9e incroyable a \u00e9t\u00e9 immortalis\u00e9e sur le DVD Live at the Royal Albert Hall.",
                 "thumbnail": "",
-                "title": "Adele: Live at the Royal Albert Hall",
+                "title": "Adele - Live at the Royal Albert Hall",
                 "top250": 0,
                 "track": -1,
                 "trailer": "plugin://plugin.video.youtube/play/?video_id=5Oio8V3e3WU",
@@ -3002,6 +2987,7 @@
             {
                 "album": "",
                 "art": {
+                    "clearlogo": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f448449%2fhdmovielogo%2fwhitney-can-i-be-me-5b61e8155635f.png/",
                     "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fnmWcy1bkUiRe5CkJSxAIbNWPS2X.jpg/",
                     "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f1gDcXT1bNvSpFYeEXwqdCuKC5P1.jpg/",
                     "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f1gDcXT1bNvSpFYeEXwqdCuKC5P1.jpg/"
@@ -3082,7 +3068,7 @@
                     "United States of America"
                 ],
                 "customproperties": {
-                    "available_releases": "Premiere / TV",
+                    "available_releases": "TV",
                     "budget": "$0",
                     "cast": "Whitney Houston / Oprah Winfrey / Mike Tyson / Cissy Houston / Serge Gainsbourg / Bobbi Kristina Brown / Bobby Brown / Robyn Crawford / John Russell Houston Jr. / David Roberts / Johnny Carson / Clive Davis",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=448449&ignore_default=true)",
@@ -3091,7 +3077,7 @@
                     "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=448449)",
                     "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=448449)",
                     "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=448449)",
-                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Whitney: Can I Be Me,tmdb_type=movie,tmdb_id=448449)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Whitney : Can I Be Me,tmdb_type=movie,tmdb_id=448449)",
                     "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
                     "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
                     "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
@@ -3113,19 +3099,18 @@
                     "param.plugin_category": "Live concerts",
                     "param.user_slug": "hazeyboy",
                     "param.widget": "True",
-                    "popularity": "7.533",
-                    "premiere_release": "2017-04-27",
-                    "provider.link": "https://www.themoviedb.org/movie/448449-whitney-can-i-be-me/watch?locale=US",
-                    "providers": "Apple iTunes / fuboTV / Amazon Video / Google Play Movies / YouTube / Showtime Amazon Channel / Showtime Roku Premium Channel / Vudu / Showtime / Microsoft Store / DIRECTV / Crackle / Pluto TV / FlixFling / Paramount+ Showtime",
+                    "popularity": "7.515",
+                    "provider.link": "https://www.themoviedb.org/movie/448449-whitney-can-i-be-me/watch?locale=FR",
+                    "providers": "Apple iTunes / Google Play Movies / Orange VOD / YouTube / Rakuten TV / Universcine / Amazon Video",
                     "revenue": "$0",
                     "slug_id": "whitney-can-i-be-me-2017",
-                    "studio": "BBC Films",
+                    "studio": "BBC Film",
                     "tmdb_id": "448449",
                     "tmdb_rating": "6.5",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "147",
+                    "tmdb_votes": "148",
                     "trakt_id": "295140",
-                    "tv_release": "2017-08-25",
+                    "tv_release": "2017-09-18",
                     "widget": "Live concerts"
                 },
                 "dateadded": "",
@@ -3140,25 +3125,25 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music",
-                    "Documentary"
+                    "Musique",
+                    "Documentaire"
                 ],
                 "imdbnumber": "tt5563330",
-                "label": "Whitney: Can I Be Me",
+                "label": "Whitney : Can I Be Me",
                 "lastmodified": "",
                 "lastplayed": "",
                 "mimetype": "application/octet-stream",
-                "mpaa": "",
+                "mpaa": "Rated U",
                 "originaltitle": "Whitney: Can I Be Me",
                 "playcount": 0,
-                "plot": "The life and tragic death of Whitney Houston.",
+                "plot": "Documentaire retra\u00e7ant la carri\u00e8re de la chanteuse Whitney Houston, de son heure de gloire au d\u00e9but des ann\u00e9es 1990 \u00e0 son d\u00e9c\u00e8s soudain en f\u00e9vrier 2012.",
                 "plotoutline": "",
                 "premiered": "2017-04-24",
                 "productioncode": "",
-                "rating": 6.4730000495910645,
+                "rating": 6.5,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 6300.0
                 },
                 "runtime": 6300,
                 "season": -1,
@@ -3176,7 +3161,7 @@
                     "video": []
                 },
                 "studio": [
-                    "BBC Films",
+                    "BBC Film",
                     "Dogwoof",
                     "Passion Pictures",
                     "Showtime Documentary Films"
@@ -3184,10 +3169,10 @@
                 "tag": [],
                 "tagline": "",
                 "thumbnail": "",
-                "title": "Whitney: Can I Be Me",
+                "title": "Whitney : Can I Be Me",
                 "top250": 0,
                 "track": -1,
-                "trailer": "plugin://plugin.video.youtube/play/?video_id=vYq7de5Ga0E",
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=1G2fY0xci_c",
                 "tvshowid": -1,
                 "type": "movie",
                 "uniqueid": {
@@ -3198,7 +3183,7 @@
                     "unknown": "tt5563330"
                 },
                 "userrating": 0,
-                "votes": "147",
+                "votes": "148",
                 "writer": [
                     "Nick Broomfield"
                 ],
@@ -3224,7 +3209,6 @@
                     "United States of America"
                 ],
                 "customproperties": {
-                    "available_releases": "Theatrical",
                     "budget": "$0",
                     "cast": "Adele",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=371627&ignore_default=true)",
@@ -3233,7 +3217,7 @@
                     "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=371627)",
                     "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=371627)",
                     "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=371627)",
-                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Adele: Live in New York City,tmdb_type=movie,tmdb_id=371627)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Adele Live in New York City,tmdb_type=movie,tmdb_id=371627)",
                     "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
                     "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
                     "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
@@ -3255,11 +3239,10 @@
                     "param.plugin_category": "Live concerts",
                     "param.user_slug": "hazeyboy",
                     "param.widget": "True",
-                    "popularity": "4.518",
+                    "popularity": "3.931",
                     "revenue": "$0",
                     "slug_id": "adele-live-in-new-york-city-2015",
                     "studio": "NBC",
-                    "theatrical_release": "2015-12-14",
                     "tmdb_id": "371627",
                     "tmdb_rating": "8.3",
                     "tmdb_type": "movie",
@@ -3278,27 +3261,27 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music",
-                    "TV Movie"
+                    "Musique",
+                    "T\u00e9l\u00e9film"
                 ],
                 "imdbnumber": "tt5164686",
-                "label": "Adele: Live in New York City",
+                "label": "Adele Live in New York City",
                 "lastmodified": "",
                 "lastplayed": "",
                 "mimetype": "application/octet-stream",
-                "mpaa": "Rated PG",
+                "mpaa": "",
                 "originaltitle": "Adele: Live in New York City",
                 "playcount": 0,
-                "plot": "Multiple Grammy Award-winning singer Adele performs a special one-night only concert in New York at Radio City Music Hall. This extraordinary performance marked the artist's first concert in the U.S. since fall 2011 and her largest show in New York to date.",
+                "plot": "Cinq millions, c'est le chiffre record qu'Adele a vendu de son nouvel album 25 en trois semaines aux Etats-Unis. Depuis qu'elle a fait son grand retour durant le dernier trimestre de 2015, la chanteuse britannique d\u00e9vaste tout sur son passage et \u00e9videmment elle se retrouve en t\u00eate des charts du monde entier. Alors qu'elle s'appr\u00eate \u00e0 battre son propre record au Billboard Hot 100 avec son single Hello, Adele \u00e9tait r\u00e9cemment de passage \u00e0 New York afin de livrer un concert sp\u00e9cial pour la cha\u00eene NBC. Durant presque une heure, les centaines de fans chanceux ont pu d\u00e9couvrir quelques nouveaux titres de 25 mais ils ont \u00e9galement pu reprendre en choeur tous les tubes de la diva.",
                 "plotoutline": "",
                 "premiered": "2015-12-14",
                 "productioncode": "",
                 "rating": 8.300000190734863,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 2580.0
                 },
-                "runtime": 3600,
+                "runtime": 2580,
                 "season": -1,
                 "set": "",
                 "setid": -1,
@@ -3319,7 +3302,7 @@
                 "tag": [],
                 "tagline": "",
                 "thumbnail": "",
-                "title": "Adele: Live in New York City",
+                "title": "Adele Live in New York City",
                 "top250": 0,
                 "track": -1,
                 "trailer": "",
@@ -3340,7 +3323,7 @@
             {
                 "album": "",
                 "art": {
-                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fkctKGe6qgpnMc79tgVSO5BgqRfN.jpg/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fsxtnrgmqH6TOdffjNMcZUQCnjmU.jpg/",
                     "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f5TDZqiRPBhUNDRermZ5HfKf4WoF.jpg/",
                     "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f5TDZqiRPBhUNDRermZ5HfKf4WoF.jpg/"
                 },
@@ -3389,16 +3372,16 @@
                     "param.plugin_category": "Live concerts",
                     "param.user_slug": "hazeyboy",
                     "param.widget": "True",
-                    "popularity": "4.391",
-                    "provider.link": "https://www.themoviedb.org/movie/408619-justin-timberlake-the-tennessee-kids/watch?locale=US",
+                    "popularity": "4.522",
+                    "provider.link": "https://www.themoviedb.org/movie/408619-justin-timberlake-the-tennessee-kids/watch?locale=FR",
                     "providers": "Netflix / Netflix basic with Ads",
                     "revenue": "$0",
                     "slug_id": "justin-timberlake-the-tennessee-kids-2016",
                     "studio": "Playtone",
                     "tmdb_id": "408619",
-                    "tmdb_rating": "7.6",
+                    "tmdb_rating": "7.4",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "41",
+                    "tmdb_votes": "42",
                     "trakt_id": "254661",
                     "widget": "Live concerts"
                 },
@@ -3408,13 +3391,13 @@
                 ],
                 "episode": -1,
                 "episodeguide": "",
-                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fkctKGe6qgpnMc79tgVSO5BgqRfN.jpg/",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fsxtnrgmqH6TOdffjNMcZUQCnjmU.jpg/",
                 "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=408619",
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music",
-                    "Documentary"
+                    "Musique",
+                    "Documentaire"
                 ],
                 "imdbnumber": "tt5001772",
                 "label": "Justin Timberlake + The Tennessee Kids",
@@ -3424,14 +3407,14 @@
                 "mpaa": "",
                 "originaltitle": "Justin Timberlake + The Tennessee Kids",
                 "playcount": 0,
-                "plot": "For Justin Timberlake it's the final two dates of his 20/20 Experience World Tour at the MGM Grand Garden Arena in Las Vegas. Surrounded by the 25 band members of The Tennessee Kids and featuring show-stopping performances from one of the highest-grossing tours of the decade, the film is a culmination of the singer\u2019s 134 shows and 2 years on the road.",
+                "plot": "Un concert film\u00e9 de Justin Timberlake lors de sa tourn\u00e9e 20/20 Experience World Tour.",
                 "plotoutline": "",
                 "premiered": "2016-09-13",
                 "productioncode": "",
-                "rating": 7.585000038146973,
+                "rating": 7.400000095367432,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 5400.0
                 },
                 "runtime": 5400,
                 "season": -1,
@@ -3469,7 +3452,7 @@
                     "unknown": "tt5001772"
                 },
                 "userrating": 0,
-                "votes": "41",
+                "votes": "42",
                 "writer": [],
                 "year": 2016
             },
@@ -3637,7 +3620,6 @@
                     "United Kingdom"
                 ],
                 "customproperties": {
-                    "available_releases": "TV",
                     "budget": "$0",
                     "cast": "George Michael / Naomi Campbell / Christy Turlington / Cindy Crawford / Tatjana Patitz / Linda Evangelista / Stevie Wonder / Elton John / Ricky Gervais / Nile Rodgers / Mark Ronson / Tracey Emin / Liam Gallagher / Mary J. Blige / Jean-Paul Gaultier / James Corden / Tony Bennett / Emmanuelle Alt / David Austin / Jellybean Ben\u00edtez / Clive Davis / Kate Moss / Paul Russell / Tony Russell / Simon Rutter / Andy Stephens",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=476517&ignore_default=true)",
@@ -3668,16 +3650,15 @@
                     "param.plugin_category": "Live concerts",
                     "param.user_slug": "hazeyboy",
                     "param.widget": "True",
-                    "popularity": "4.585",
+                    "popularity": "3.577",
                     "revenue": "$0",
                     "slug_id": "george-michael-freedom-2017",
                     "studio": "Sony Music Entertainment (UK) Ltd",
                     "tmdb_id": "476517",
-                    "tmdb_rating": "7.9",
+                    "tmdb_rating": "7.8",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "25",
+                    "tmdb_votes": "26",
                     "trakt_id": "323817",
-                    "tv_release": "2017-10-21",
                     "widget": "Live concerts"
                 },
                 "dateadded": "",
@@ -3692,7 +3673,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Documentary"
+                    "Documentaire"
                 ],
                 "imdbnumber": "tt7521040",
                 "label": "George Michael: Freedom",
@@ -3702,14 +3683,14 @@
                 "mpaa": "",
                 "originaltitle": "George Michael: Freedom",
                 "playcount": 0,
-                "plot": "This documentary covers the span of George Michael's entire career, concentrating on the formative period in the late Grammy\u00ae Award winner\u2019s life and career, leading up to and following the making of his acclaimed, best-selling album \u201cListen Without Prejudice Vol. 1\u201d and his subsequent, infamous High Court battle with his record label that followed, while also becoming poignantly personal about the death of his late partner and first love, Anselmo Feleppa.",
+                "plot": "George Michael se raconte dans ce documentaire, qu'il avait en grande partie con\u00e7u et qui fut termin\u00e9 apr\u00e8s sa mort. Un autoportrait \u00e9mouvant, ponctu\u00e9 d'archives pop et d'hommages de grands noms de la musique et de la mode, de Stevie Wonder \u00e0 Nile Rodgers, en passant par Jean Paul Gaultier et Mark Ronson.",
                 "plotoutline": "",
                 "premiered": "2017-10-16",
                 "productioncode": "",
-                "rating": 7.900000095367432,
+                "rating": 7.800000190734863,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 5160.0
                 },
                 "runtime": 5160,
                 "season": -1,
@@ -3748,7 +3729,7 @@
                     "unknown": "tt7521040"
                 },
                 "userrating": 0,
-                "votes": "25",
+                "votes": "26",
                 "writer": [],
                 "year": 2017
             },
@@ -3756,9 +3737,10 @@
                 "album": "",
                 "art": {
                     "clearlogo": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fAm0bZ3NMdmop1BSvTt83MraFde5.png/",
+                    "discart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f74406%2fmoviedisc%2fqueen---days-of-our-lives-5c69b1a9b59a2.png/",
                     "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fdXl3zlrPYA1f3rikYsZIAlC7B6X.jpg/",
+                    "fanart1": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f74406%2fmoviebackground%2fqueen---days-of-our-lives-5c69b1b3d776c.jpg/",
                     "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f3hgtcR7HiSihP3FQ166kZKV9aMw.jpg/",
-                    "landscape": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f9tv96CF6pwqDmVgxB9jPUFMumpd.jpg/",
                     "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f3hgtcR7HiSihP3FQ166kZKV9aMw.jpg/"
                 },
                 "artist": [],
@@ -3866,7 +3848,6 @@
                     "United Kingdom"
                 ],
                 "customproperties": {
-                    "available_releases": "Theatrical",
                     "budget": "$0",
                     "cast": "Freddie Mercury / Brian May / John Deacon / Roger Taylor / Roy Thomas Baker / Jim Beach / Paul Gambaccini / Peter Hince / Rosie Horide / Harvey Kubernik / Reinhold Mack / John Reid / David Richards / Chris Smith / Felix Taylor / Midge Ure / Bob Harris / Fred Mandel",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=74406&ignore_default=true)",
@@ -3897,17 +3878,14 @@
                     "param.plugin_category": "Live concerts",
                     "param.user_slug": "hazeyboy",
                     "param.widget": "True",
-                    "popularity": "10.541",
-                    "provider.link": "https://www.themoviedb.org/movie/74406-queen-days-of-our-lives/watch?locale=US",
-                    "providers": "Apple iTunes / Amazon Video / Google Play Movies / YouTube",
+                    "popularity": "10.367",
                     "revenue": "$0",
                     "slug_id": "queen-days-of-our-lives-2011-05-29",
                     "studio": "BBC",
-                    "theatrical_release": "2011-06-27",
                     "tmdb_id": "74406",
                     "tmdb_rating": "8.1",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "164",
+                    "tmdb_votes": "166",
                     "trakt_id": "54773",
                     "widget": "Live concerts"
                 },
@@ -3922,8 +3900,8 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Music",
-                    "Documentary"
+                    "Musique",
+                    "Documentaire"
                 ],
                 "imdbnumber": "tt1977894",
                 "label": "Queen: Days of Our Lives",
@@ -3933,16 +3911,16 @@
                 "mpaa": "",
                 "originaltitle": "Queen: Days of Our Lives",
                 "playcount": 0,
-                "plot": "In 1971, four college students got together to form a rock band. Since then, that certain band called Queen have released 26 albums and sold over 300 million records worldwide. The popularity of Freddie Mercury, Brian May, Roger Taylor and John Deacon is stronger than ever 40 years on. But it was no bed of roses. No pleasure cruise. Queen had their share of kicks in the face, but they came through and this is how they did it, set against the backdrop of brilliant music and stunning live performances from every corner of the globe. In this film, for the first time, it is the band that tells their story. Featuring brand new interviews with the band and unseen archive footage (including their recently unearthed, first ever TV performance), it is a compelling story told with intelligence, wit, plenty of humor and painful honesty.",
+                "plot": "En 1971, 4 \u00e9tudiants se regroupent pour former un groupe de rock. Depuis lors, ce groupe appel\u00e9 Queen a publi\u00e9 26 albums et vendu plus de 300 millions de disques dans le monde entier. La popularit\u00e9 de Freddie Mercury, Brian May, Roger Taylor et John Deacon est plus forte que jamais depuis 40 ans. Mais cela n'a pas \u00e9t\u00e9 \"un lit de roses\". \"Pas une croisi\u00e8re de plaisance\". Dans ce film, pour la premi\u00e8re fois, c'est le groupe qui raconte son histoire. Mettant en vedette de toutes nouvelles interviews du groupe et des images d'archives in\u00e9dites (y compris leur premi\u00e8re performance t\u00e9l\u00e9vis\u00e9e r\u00e9cemment d\u00e9couverte), il s'agit d'une histoire fascinante racont\u00e9e avec intelligence, esprit, beaucoup d'humour et une honn\u00eatet\u00e9 douloureuse.",
                 "plotoutline": "",
                 "premiered": "2011-05-29",
                 "productioncode": "",
-                "rating": 8.109999656677246,
+                "rating": 8.100000381469727,
                 "resume": {
                     "position": 0.0,
-                    "total": 0.0
+                    "total": 5880.0
                 },
-                "runtime": 7200,
+                "runtime": 5880,
                 "season": -1,
                 "set": "",
                 "setid": -1,
@@ -3961,7 +3939,7 @@
                     "BBC"
                 ],
                 "tag": [],
-                "tagline": "The life and times of the rock band Queen",
+                "tagline": "",
                 "thumbnail": "",
                 "title": "Queen: Days of Our Lives",
                 "top250": 0,
@@ -3977,15 +3955,98 @@
                     "unknown": "tt1977894"
                 },
                 "userrating": 0,
-                "votes": "164",
+                "votes": "166",
                 "writer": [],
                 "year": 2011
+            },
+            {
+                "album": "",
+                "art": {
+                    "icon": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p(1)%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage.png/",
+                    "landscape": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p(1)%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage_wide.png/"
+                },
+                "artist": [],
+                "cast": [],
+                "country": [],
+                "customproperties": {
+                    "item.info": "trakt_userlist",
+                    "item.list_name": "Live concerts",
+                    "item.list_slug": "live-concerts",
+                    "item.owner": "true",
+                    "item.page": "2",
+                    "item.plugin_category": "Live concerts",
+                    "item.user_slug": "hazeyboy",
+                    "item.widget": "True",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Live concerts",
+                    "param.list_slug": "live-concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Live concerts",
+                    "param.user_slug": "hazeyboy",
+                    "param.widget": "True",
+                    "widget": "Live concerts"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Live+concerts&list_slug=live-concerts&owner=true&plugin_category=Live+concerts&user_slug=hazeyboy&page=2&widget=true&reload=$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]",
+                "filetype": "directory",
+                "firstaired": "",
+                "genre": [],
+                "imdbnumber": "",
+                "label": "Page suivante",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "x-directory/normal",
+                "mpaa": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "",
+                "plotoutline": "",
+                "premiered": "",
+                "productioncode": "",
+                "rating": 0.0,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 0,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "unknown",
+                "userrating": 0,
+                "votes": "0",
+                "writer": [],
+                "year": 0
             }
         ],
         "limits": {
-            "end": 20,
+            "end": 21,
             "start": 0,
-            "total": 20
+            "total": 21
         }
     }
 }
