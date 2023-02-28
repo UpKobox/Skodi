@@ -1,0 +1,34 @@
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>Sports</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/musicvideo.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=MenuFilm&amp;famille=%23Sports",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Sports (divers)</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/musicvideo.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=MenuDivers&amp;repo=sports",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>UFC Catch</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/musicvideo.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=MenuFilm&amp;groupe=UFC+Catch",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>WWE Doc</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/musicvideo.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=MenuFilm&amp;groupe=WWE+Doc",return)</action>
+		</shortcut>
+	</shortcuts>

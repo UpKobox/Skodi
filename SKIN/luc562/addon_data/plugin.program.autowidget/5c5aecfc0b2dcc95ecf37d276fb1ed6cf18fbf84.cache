@@ -1,0 +1,3139 @@
+{
+    "id": 1,
+    "jsonrpc": "2.0",
+    "result": {
+        "files": [
+            {
+                "album": "",
+                "art": {
+                    "icon": "image://C%3a%5cKodiTest%5cKodi%20matrix%20pour%20zip%20complet%202%20full%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fdefault.png/"
+                },
+                "artist": [],
+                "cast": [],
+                "country": [],
+                "customproperties": {
+                    "contextmenuaction(0)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=person,tmdb_id=570768)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=person,tmdb_id=570768)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=person,tmdb_id=570768)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "item.info": "related",
+                    "item.tmdb_id": "570768",
+                    "item.tmdb_type": "person",
+                    "item.type": "person",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "rjchignell",
+                    "param.widget": "True",
+                    "slug_id": "allman-brothers-band",
+                    "tmdb_id": "570768",
+                    "tmdb_type": "person",
+                    "trakt_id": "451352",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=related&tmdb_type=person&tmdb_id=570768",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [],
+                "imdbnumber": "",
+                "label": "Allman Brothers Band",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "",
+                "plotoutline": "",
+                "premiered": "",
+                "productioncode": "",
+                "rating": 0.0,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 0,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Allman Brothers Band",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "unknown",
+                "uniqueid": {
+                    "slug": "allman-brothers-band",
+                    "tmdb": "570768",
+                    "trakt": "451352"
+                },
+                "votes": "0",
+                "writer": [],
+                "year": 0
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fd8akeoGhUnK1UwvRemU0of7WiY1.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fk3ReV8hweNxRBZ4BvLetbxDgd0w.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fk3ReV8hweNxRBZ4BvLetbxDgd0w.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Nick Hexum",
+                        "order": 0,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Doug \"SA\" Martinez",
+                        "order": 1,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Aaron \"P-Nut\" Wills",
+                        "order": 2,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Chad Sexton",
+                        "order": 3,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Tim Mahoney",
+                        "order": 4,
+                        "role": "Himself"
+                    }
+                ],
+                "country": [],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Nick Hexum / Doug \"SA\" Martinez / Aaron \"P-Nut\" Wills / Chad Sexton / Tim Mahoney",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=143116&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=143116)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=143116)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=143116)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=143116)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=143116)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt0440989",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "143116",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "rjchignell",
+                    "param.widget": "True",
+                    "popularity": "1.771",
+                    "revenue": "$0",
+                    "slug_id": "311-day-live-in-new-orleans-2004",
+                    "tmdb_id": "143116",
+                    "tmdb_rating": "5.2",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "2",
+                    "trakt_id": "95193",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Sean M. Stuart"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fd8akeoGhUnK1UwvRemU0of7WiY1.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=143116",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique"
+                ],
+                "imdbnumber": "tt0440989",
+                "label": "311 Day: Live in New Orleans",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "311 Day: Live in New Orleans",
+                "playcount": 0,
+                "plot": "",
+                "plotoutline": "",
+                "premiered": "2004-10-26",
+                "productioncode": "",
+                "rating": 5.199999809265137,
+                "resume": {
+                    "position": 0.0,
+                    "total": 18000.0
+                },
+                "runtime": 18000,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "311 Day: Live in New Orleans",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt0440989",
+                    "slug": "311-day-live-in-new-orleans-2004",
+                    "tmdb": "143116",
+                    "trakt": "95193",
+                    "unknown": "tt0440989"
+                },
+                "votes": "2",
+                "writer": [],
+                "year": 2004
+            },
+            {
+                "album": "",
+                "art": {
+                    "banner": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f704%2fmoviebanner%2fa-hard-days-night-51d20dbc0aaf2.jpg/",
+                    "clearlogo": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f704%2fhdmovielogo%2fa-hard-days-night-5e35833a082dd.png/",
+                    "discart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f704%2fmoviedisc%2fa-hard-days-night-5e358bfc4d6ed.png/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f9hWiNbvLR3nPDanTdEWOc4EeBGp.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f6Ulsccp2VkaVU5qbya3bxm9JG4x.jpg/",
+                    "landscape": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f704%2fmoviethumb%2fa-hard-days-night-542ac35f3a43c.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f6Ulsccp2VkaVU5qbya3bxm9JG4x.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "John Lennon",
+                        "order": 0,
+                        "role": "John"
+                    },
+                    {
+                        "name": "Paul McCartney",
+                        "order": 1,
+                        "role": "Paul"
+                    },
+                    {
+                        "name": "George Harrison",
+                        "order": 2,
+                        "role": "George"
+                    },
+                    {
+                        "name": "Ringo Starr",
+                        "order": 3,
+                        "role": "Ringo"
+                    },
+                    {
+                        "name": "Wilfrid Brambell",
+                        "order": 4,
+                        "role": "Grandfather"
+                    },
+                    {
+                        "name": "Norman Rossington",
+                        "order": 5,
+                        "role": "Norm"
+                    },
+                    {
+                        "name": "John Junkin",
+                        "order": 6,
+                        "role": "Shake"
+                    },
+                    {
+                        "name": "Victor Spinetti",
+                        "order": 7,
+                        "role": "TV Director"
+                    },
+                    {
+                        "name": "Anna Quayle",
+                        "order": 8,
+                        "role": "Millie"
+                    },
+                    {
+                        "name": "Deryck Guyler",
+                        "order": 9,
+                        "role": "Police Inspector"
+                    },
+                    {
+                        "name": "Richard Vernon",
+                        "order": 10,
+                        "role": "Man on Train"
+                    },
+                    {
+                        "name": "Edward Malin",
+                        "order": 11,
+                        "role": "Hotel Waiter"
+                    },
+                    {
+                        "name": "Lionel Blair",
+                        "order": 12,
+                        "role": "TV Choreographer"
+                    },
+                    {
+                        "name": "Robin Ray",
+                        "order": 13,
+                        "role": "TV Floor Manager"
+                    },
+                    {
+                        "name": "Alison Seebohm",
+                        "order": 14,
+                        "role": "Secretary"
+                    },
+                    {
+                        "name": "David Janson",
+                        "order": 15,
+                        "role": "Young Boy (as David Jaxon)"
+                    },
+                    {
+                        "name": "Bridget Armstrong",
+                        "order": 16,
+                        "role": "Lead Make-Up Girl"
+                    },
+                    {
+                        "name": "Roger Avon",
+                        "order": 17,
+                        "role": "Policeman"
+                    },
+                    {
+                        "name": "Bruce Beeby",
+                        "order": 18,
+                        "role": "Casino Man"
+                    },
+                    {
+                        "name": "Isla Blair",
+                        "order": 19,
+                        "role": "Actress"
+                    },
+                    {
+                        "name": "John Bluthal",
+                        "order": 20,
+                        "role": "Car Thief"
+                    },
+                    {
+                        "name": "Pattie Boyd",
+                        "order": 21,
+                        "role": "Jean - Schoolgirl on Train #1"
+                    },
+                    {
+                        "name": "Andre Charisse",
+                        "order": 22,
+                        "role": "Casino Champagne Waiter"
+                    },
+                    {
+                        "name": "Phil Collins",
+                        "order": 23,
+                        "role": "Necktie wearing fan"
+                    },
+                    {
+                        "name": "Sheila Fearn",
+                        "order": 24,
+                        "role": "Make-Up Girl"
+                    },
+                    {
+                        "name": "Rosemarie Frankland",
+                        "order": 25,
+                        "role": "Brunette Showgirl"
+                    },
+                    {
+                        "name": "Bob Godfrey",
+                        "order": 26,
+                        "role": "Man in Pub"
+                    },
+                    {
+                        "name": "Kenneth Haigh",
+                        "order": 27,
+                        "role": "Simon Marshall"
+                    },
+                    {
+                        "name": "Susan Hampshire",
+                        "order": 28,
+                        "role": "Dancer at Disco"
+                    },
+                    {
+                        "name": "Victor Harrington",
+                        "order": 29,
+                        "role": "Man at Casino"
+                    },
+                    {
+                        "name": "Julian Holloway",
+                        "order": 30,
+                        "role": "Adrian"
+                    },
+                    {
+                        "name": "Clare Kelly",
+                        "order": 31,
+                        "role": "Barmaid"
+                    },
+                    {
+                        "name": "David Langton",
+                        "order": 32,
+                        "role": "Actor"
+                    },
+                    {
+                        "name": "Al Lewis",
+                        "order": 33,
+                        "role": "Gambler"
+                    },
+                    {
+                        "name": "Jeremy Lloyd",
+                        "order": 34,
+                        "role": "Tall Man at Disco"
+                    },
+                    {
+                        "name": "Derek Nimmo",
+                        "order": 35,
+                        "role": "Leslie Jackson"
+                    },
+                    {
+                        "name": "Margaret Nolan",
+                        "order": 36,
+                        "role": "Grandfather's Girl at Casino"
+                    },
+                    {
+                        "name": "Jim O'Brady",
+                        "order": 37,
+                        "role": "Man in Pub"
+                    },
+                    {
+                        "name": "Charlotte Rampling",
+                        "order": 38,
+                        "role": "Girl at Disco"
+                    },
+                    {
+                        "name": "Gordon Rollings",
+                        "order": 39,
+                        "role": "Man with Sandwich in Pub"
+                    },
+                    {
+                        "name": "Edina Ronay",
+                        "order": 40,
+                        "role": "Girl at Disco"
+                    },
+                    {
+                        "name": "Marianne Stone",
+                        "order": 41,
+                        "role": "Society Journalist"
+                    },
+                    {
+                        "name": "Noel Trevarthen",
+                        "order": 42,
+                        "role": "Journalist"
+                    },
+                    {
+                        "name": "Michael Trubshawe",
+                        "order": 43,
+                        "role": "Casino Manager"
+                    },
+                    {
+                        "name": "Carol White",
+                        "order": 44,
+                        "role": "Minor Role"
+                    },
+                    {
+                        "name": "Neil Wilson",
+                        "order": 45,
+                        "role": "Doorman"
+                    }
+                ],
+                "country": [
+                    "United Kingdom"
+                ],
+                "customproperties": {
+                    "budget": "$560,000",
+                    "cast": "John Lennon / Paul McCartney / George Harrison / Ringo Starr / Wilfrid Brambell / Norman Rossington / John Junkin / Victor Spinetti / Anna Quayle / Deryck Guyler / Richard Vernon / Edward Malin / Lionel Blair / Robin Ray / Alison Seebohm / David Janson / Bridget Armstrong / Roger Avon / Bruce Beeby / Isla Blair / John Bluthal / Pattie Boyd / Andre Charisse / Phil Collins / Sheila Fearn / Rosemarie Frankland / Bob Godfrey / Kenneth Haigh / Susan Hampshire / Victor Harrington / Julian Holloway / Clare Kelly / David Langton / Al Lewis / Jeremy Lloyd / Derek Nimmo / Margaret Nolan / Jim O'Brady / Charlotte Rampling / Gordon Rollings / Edina Ronay / Marianne Stone / Noel Trevarthen / Michael Trubshawe / Carol White / Neil Wilson",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=704&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=704)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=704)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=704)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=704)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=704)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt0058182",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "704",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "rjchignell",
+                    "param.widget": "True",
+                    "popularity": "14.403",
+                    "provider.link": "https://www.themoviedb.org/movie/704-a-hard-day-s-night/watch?locale=FR",
+                    "providers": "Apple iTunes / Canal VOD / Bbox VOD",
+                    "revenue": "$2,360,561",
+                    "slug_id": "a-hard-day-s-night-1964",
+                    "studio": "United Artists",
+                    "tmdb_id": "704",
+                    "tmdb_rating": "7.4",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "525",
+                    "trakt_id": "576",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Richard Lester"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f9hWiNbvLR3nPDanTdEWOc4EeBGp.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=704",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique",
+                    "Com\u00e9die"
+                ],
+                "imdbnumber": "tt0058182",
+                "label": "Quatre gar\u00e7ons dans le vent",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "A Hard Day's Night",
+                "playcount": 0,
+                "plot": "En 1964, les Beatles prennent le train pour donner un concert. Le grand-p\u00e8re de l'un d'eux, qui les accompagne et dont la devise est de semer le d\u00e9sordre et l'anarchie partout o\u00f9 il passe, dispara\u00eet soudain avec son petit-fils. Commence alors une course folle pour les retrouver avant que le concert ne commence.",
+                "plotoutline": "",
+                "premiered": "1964-07-07",
+                "productioncode": "",
+                "rating": 7.400000095367432,
+                "resume": {
+                    "position": 0.0,
+                    "total": 5220.0
+                },
+                "runtime": 5220,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "United Artists",
+                    "Proscenium Films",
+                    "Walter Shenson Films",
+                    "Maljack Productions"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Quatre gar\u00e7ons dans le vent",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=PeWS5HtCpU4",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt0058182",
+                    "slug": "a-hard-day-s-night-1964",
+                    "tmdb": "704",
+                    "trakt": "576",
+                    "unknown": "tt0058182"
+                },
+                "votes": "525",
+                "writer": [
+                    "Alun Owen"
+                ],
+                "year": 1964
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2ft7aRyEq2tCUJKErEgQLJpMcwrFH.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f8j5i2Fp06dtKvS0xKtGmguZDI3P.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f8j5i2Fp06dtKvS0xKtGmguZDI3P.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Scott Hoying",
+                        "order": 0,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Mitch Grassi",
+                        "order": 1,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Kirstin Maldonado",
+                        "order": 2,
+                        "role": "Herself"
+                    },
+                    {
+                        "name": "Kevin Olusola",
+                        "order": 3,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Avi Kaplan",
+                        "order": 4,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Kelly Clarkson",
+                        "order": 5,
+                        "role": "Herself"
+                    },
+                    {
+                        "name": "Reba McEntire",
+                        "order": 6,
+                        "role": "Herself"
+                    },
+                    {
+                        "name": "Dolly Parton",
+                        "order": 7,
+                        "role": "Herself - Special Appearance"
+                    },
+                    {
+                        "name": "Briana Lee",
+                        "order": 8,
+                        "role": "Herself"
+                    }
+                ],
+                "country": [
+                    "United States of America"
+                ],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Scott Hoying / Mitch Grassi / Kirstin Maldonado / Kevin Olusola / Avi Kaplan / Kelly Clarkson / Reba McEntire / Dolly Parton / Briana Lee",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=430301&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=430301)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=430301)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=430301)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=430301)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=430301)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt6305430",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "430301",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "rjchignell",
+                    "param.widget": "True",
+                    "popularity": "1.036",
+                    "revenue": "$0",
+                    "slug_id": "a-pentatonix-christmas-special-2016",
+                    "studio": "Brad Lachman Productions",
+                    "tmdb_id": "430301",
+                    "tmdb_rating": "8.0",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "2",
+                    "trakt_id": "274014",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Joe DeMaio"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2ft7aRyEq2tCUJKErEgQLJpMcwrFH.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=430301",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "T\u00e9l\u00e9film",
+                    "Musique"
+                ],
+                "imdbnumber": "tt6305430",
+                "label": "A Pentatonix Christmas Special",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "A Pentatonix Christmas Special",
+                "playcount": 0,
+                "plot": "",
+                "plotoutline": "",
+                "premiered": "2016-12-14",
+                "productioncode": "",
+                "rating": 8.0,
+                "resume": {
+                    "position": 0.0,
+                    "total": 2640.0
+                },
+                "runtime": 2640,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Brad Lachman Productions"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "A Pentatonix Christmas Special",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt6305430",
+                    "slug": "a-pentatonix-christmas-special-2016",
+                    "tmdb": "430301",
+                    "trakt": "274014",
+                    "unknown": "tt6305430"
+                },
+                "votes": "2",
+                "writer": [
+                    "Jon Macks",
+                    "Matt Lachman"
+                ],
+                "year": 2016
+            },
+            {
+                "album": "",
+                "art": {
+                    "clearlogo": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f20349%2fhdmovielogo%2facdc-family-jewels-55f67dd6c642b.png/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fpI2Ta22cURcqwKp7eF9A0BC48A7.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2furBB9VvoVtpkxB1YdRtmC7wLZs2.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2furBB9VvoVtpkxB1YdRtmC7wLZs2.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Angus Young",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Bon Scott",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Brian Johnson",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Malcolm Young",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Cliff Williams",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Phil Rudd",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Simon Wright",
+                        "order": 6,
+                        "role": ""
+                    },
+                    {
+                        "name": "Chris Slade",
+                        "order": 7,
+                        "role": ""
+                    }
+                ],
+                "country": [],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Angus Young / Bon Scott / Brian Johnson / Malcolm Young / Cliff Williams / Phil Rudd / Simon Wright / Chris Slade",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=20349&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=20349)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=20349)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=20349)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=20349)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=20349)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt0476635",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "20349",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "rjchignell",
+                    "param.widget": "True",
+                    "popularity": "0.958",
+                    "provider.link": "https://www.themoviedb.org/movie/20349-ac-dc-family-jewels/watch?locale=FR",
+                    "providers": "Apple iTunes",
+                    "revenue": "$0",
+                    "slug_id": "ac-dc-family-jewels-2005",
+                    "tmdb_id": "20349",
+                    "tmdb_rating": "7.8",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "9",
+                    "trakt_id": "12494",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Russell Mulcahy",
+                    "David Mallet",
+                    "Paul Becher",
+                    "Derek Burbidge",
+                    "George Young",
+                    "Eric Dionysius",
+                    "Paul Drane",
+                    "Eric Mistler",
+                    "Brian Ward"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fpI2Ta22cURcqwKp7eF9A0BC48A7.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=20349",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique"
+                ],
+                "imdbnumber": "tt0476635",
+                "label": "AC/DC: Family Jewels",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "AC/DC: Family Jewels",
+                "playcount": 0,
+                "plot": "Family Jewels en 2005, ce double DVD d'AC/DC arrive \u00e0 la date anniversaire des 25 ans du d\u00e9c\u00e8s de Bon Scott. Le coffret regroupe les principaux clips vid\u00e9os, quelques lives et des shows t\u00e9l\u00e9vis\u00e9s, tourn\u00e9s par le groupe de Baby, Please Don't Go (avril 1975) jusqu'\u00e0 Are You Ready (mars 1991).",
+                "plotoutline": "",
+                "premiered": "2005-03-18",
+                "productioncode": "",
+                "rating": 7.800000190734863,
+                "resume": {
+                    "position": 0.0,
+                    "total": 9000.0
+                },
+                "runtime": 9000,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "AC/DC: Family Jewels",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt0476635",
+                    "slug": "ac-dc-family-jewels-2005",
+                    "tmdb": "20349",
+                    "trakt": "12494",
+                    "unknown": "tt0476635"
+                },
+                "votes": "9",
+                "writer": [],
+                "year": 2005
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f2HjgpuHbU5TBrJ0AbvaZ51z0KvB.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f54XGtezkEJWOh3Xr4FyVDRQQYiq.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f54XGtezkEJWOh3Xr4FyVDRQQYiq.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Bon Scott",
+                        "order": 0,
+                        "role": "Vocals"
+                    },
+                    {
+                        "name": "Angus Young",
+                        "order": 1,
+                        "role": "Lead Guitar"
+                    },
+                    {
+                        "name": "Malcolm Young",
+                        "order": 2,
+                        "role": "Rhythm Guitar"
+                    },
+                    {
+                        "name": "Cliff Williams",
+                        "order": 3,
+                        "role": "Bass Guitar"
+                    },
+                    {
+                        "name": "Phil Rudd",
+                        "order": 4,
+                        "role": "Drums"
+                    }
+                ],
+                "country": [
+                    "United Kingdom"
+                ],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Bon Scott / Angus Young / Malcolm Young / Cliff Williams / Phil Rudd",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=171808&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=171808)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=171808)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=171808)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=171808)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=171808)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "171808",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "rjchignell",
+                    "param.widget": "True",
+                    "popularity": "0.921",
+                    "revenue": "$0",
+                    "slug_id": "ac-dc-live-77-at-the-hippodrome-golders-green-london-2003",
+                    "studio": "BBC",
+                    "tmdb_id": "171808",
+                    "tmdb_rating": "8.0",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "1",
+                    "trakt_id": "109339",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Tom Corcoran"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f2HjgpuHbU5TBrJ0AbvaZ51z0KvB.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=171808",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [],
+                "imdbnumber": "",
+                "label": "AC/DC - Live '77 At The Hippodrome Golders Green London",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "AC/DC: Live '77 At The Hippodrome Golders Green London",
+                "playcount": 0,
+                "plot": "AC/DC live au Golders Green Hippodrome \u00e0 Londres, Angleterre. Avec Bon Scott, c'est AC/DC \u00e0 l'un de leurs meilleurs moments ! Film\u00e9 par la BBC le 27 octobre 1977 pour \"Sight & Sound In Concert\" et diffus\u00e9 le 29 octobre 1977. Tourn\u00e9 \u00e0 l'origine en vid\u00e9o, l'audio utilis\u00e9 sur ce DVD a \u00e9t\u00e9 tir\u00e9 du master vid\u00e9o original qui \u00e9tait en mono, donc le mix 2.0 n'est pas un \"vrai\" mix st\u00e9r\u00e9o. Bien qu'\u00e9mis dans le commerce et uniquement au Japon, ce DVD peut \u00eatre consid\u00e9r\u00e9 comme un DVD semi-officiel, non autoris\u00e9 par le groupe ou par Sony, et la sortie am\u00e9ricaine pr\u00e9vue pour f\u00e9vrier 2003 a \u00e9t\u00e9 annul\u00e9e pour cette raison. Des copies contrefaites ont \u00e9t\u00e9 diffus\u00e9es.",
+                "plotoutline": "",
+                "premiered": "2003-01-22",
+                "productioncode": "",
+                "rating": 8.0,
+                "resume": {
+                    "position": 0.0,
+                    "total": 2520.0
+                },
+                "runtime": 2520,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "BBC",
+                    "VAP Video"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "AC/DC - Live '77 At The Hippodrome Golders Green London",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "slug": "ac-dc-live-77-at-the-hippodrome-golders-green-london-2003",
+                    "tmdb": "171808",
+                    "trakt": "109339"
+                },
+                "votes": "1",
+                "writer": [],
+                "year": 2003
+            },
+            {
+                "album": "",
+                "art": {
+                    "banner": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f19027%2fmoviebanner%2facdc-live-at-donington-61981d9c0f0e1.jpg/",
+                    "clearlogo": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f19027%2fhdmovielogo%2facdc-live-at-donington-50c4673105fe7.png/",
+                    "discart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f19027%2fmoviedisc%2facdc-live-at-donington-5235bef68147f.png/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2faAZYrUWB8W3QpCYZ3K7HIfhi0Gx.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ff6nV1l36huMMQbdPB7W04kgmTpK.jpg/",
+                    "landscape": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f19027%2fmoviethumb%2facdc-live-at-donington-61981db0da55a.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ff6nV1l36huMMQbdPB7W04kgmTpK.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Angus Young",
+                        "order": 0,
+                        "role": "Self - Lead Guitar"
+                    },
+                    {
+                        "name": "Malcolm Young",
+                        "order": 1,
+                        "role": "Self - Rhythm Guitar"
+                    },
+                    {
+                        "name": "Brian Johnson",
+                        "order": 2,
+                        "role": "Self - Lead Singer"
+                    },
+                    {
+                        "name": "Cliff Williams",
+                        "order": 3,
+                        "role": "Self - Bass"
+                    },
+                    {
+                        "name": "Chris Slade",
+                        "order": 4,
+                        "role": "Self - Drums"
+                    }
+                ],
+                "country": [],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Angus Young / Malcolm Young / Brian Johnson / Cliff Williams / Chris Slade",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=19027&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=19027)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=19027)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=19027)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=19027)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=19027)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt0337566",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "19027",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "rjchignell",
+                    "param.widget": "True",
+                    "popularity": "7.328",
+                    "provider.link": "https://www.themoviedb.org/movie/19027-ac-dc-live-at-donington/watch?locale=FR",
+                    "providers": "Apple iTunes",
+                    "revenue": "$1,000,000",
+                    "slug_id": "ac-dc-live-at-donington-1992",
+                    "studio": "Leidseplein Presse",
+                    "tmdb_id": "19027",
+                    "tmdb_rating": "8.3",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "75",
+                    "trakt_id": "11707",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "David Mallet"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2faAZYrUWB8W3QpCYZ3K7HIfhi0Gx.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=19027",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique"
+                ],
+                "imdbnumber": "tt0337566",
+                "label": "AC/DC: Live At Donington",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "AC/DC: Live At Donington",
+                "playcount": 0,
+                "plot": "Concert d'AC/DC au festival \"Monsters of Rock\" \u00e0 Donington Park le 17 ao\u00fbt 1991. Les 2 heures de concert ont \u00e9t\u00e9 jou\u00e9es devant 72 500 spectateurs.  Thunderstruck - Shoot to Thrill - Back in Black - Hell Ain't a Bad Place to Be - Heatseeker - Fire Your Guns - Jailbreak - The Jack - Dirty Deeds Done Dirt Cheap - Moneytalks - Hells Bells - High Voltage - Whole Lotta Rosie - You Shook Me All Night Long - T.N.T. - Let There Be Rock - Highway to Hell - For Those About to Rock (We Salute You)",
+                "plotoutline": "",
+                "premiered": "1992-10-27",
+                "productioncode": "",
+                "rating": 8.300000190734863,
+                "resume": {
+                    "position": 0.0,
+                    "total": 7080.0
+                },
+                "runtime": 7080,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Leidseplein Presse"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "AC/DC: Live At Donington",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=6pluDM_0n_w",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt0337566",
+                    "slug": "ac-dc-live-at-donington-1992",
+                    "tmdb": "19027",
+                    "trakt": "11707",
+                    "unknown": "tt0337566"
+                },
+                "votes": "75",
+                "writer": [
+                    "Angus Young",
+                    "Brian Johnson"
+                ],
+                "year": 1992
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fhBZ1bpLIfnnY1Hcq3Y61cAUkf2U.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fuiQmaI8Fxgivw6ltvihFYQwhWWE.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fuiQmaI8Fxgivw6ltvihFYQwhWWE.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Angus Young",
+                        "order": 0,
+                        "role": "Himself - Lead Guitar"
+                    },
+                    {
+                        "name": "Brian Johnson",
+                        "order": 1,
+                        "role": "Himself - Lead Vocals"
+                    },
+                    {
+                        "name": "Malcolm Young",
+                        "order": 2,
+                        "role": "Himself - Rhythm Guitar"
+                    },
+                    {
+                        "name": "Cliff Williams",
+                        "order": 3,
+                        "role": "Himself - Bass"
+                    },
+                    {
+                        "name": "Phil Rudd ",
+                        "order": 4,
+                        "role": "Himself - Drums"
+                    }
+                ],
+                "country": [
+                    "Germany"
+                ],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Angus Young / Brian Johnson / Malcolm Young / Cliff Williams / Phil Rudd ",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=122307&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=122307)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=122307)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=122307)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=122307)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=122307)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "122307",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "rjchignell",
+                    "param.widget": "True",
+                    "popularity": "1.341",
+                    "revenue": "$0",
+                    "slug_id": "ac-dc-live-at-the-circus-krone-2003-06-17",
+                    "studio": "Columbia Music Video",
+                    "tmdb_id": "122307",
+                    "tmdb_rating": "0.0",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "0",
+                    "trakt_id": "84617",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Jim Gable"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fhBZ1bpLIfnnY1Hcq3Y61cAUkf2U.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=122307",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique"
+                ],
+                "imdbnumber": "",
+                "label": "AC/DC: Live At The Circus Krone",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "AC/DC: Live At The Circus Krone",
+                "playcount": 0,
+                "plot": "",
+                "plotoutline": "",
+                "premiered": "2003-06-17",
+                "productioncode": "",
+                "rating": 0.0,
+                "resume": {
+                    "position": 0.0,
+                    "total": 2700.0
+                },
+                "runtime": 2700,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Columbia Music Video",
+                    "Graying & Balding Production"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "AC/DC: Live At The Circus Krone",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "slug": "ac-dc-live-at-the-circus-krone-2003-06-17",
+                    "tmdb": "122307",
+                    "trakt": "84617"
+                },
+                "votes": "0",
+                "writer": [],
+                "year": 2003
+            },
+            {
+                "album": "",
+                "art": {
+                    "banner": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f63973%2fmoviebanner%2facdc-live-at-river-plate-546650540a773.jpg/",
+                    "clearart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f63973%2fhdmovieclearart%2facdc-live-at-river-plate-5299d44e71a32.png/",
+                    "clearlogo": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f63973%2fhdmovielogo%2facdc-live-at-river-plate-53ec6429bfa50.png/",
+                    "discart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f63973%2fmoviedisc%2facdc-live-at-river-plate-5298f4b57eeef.png/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f8ly6ZrxZPNYra1GCUxTC0vfNA2I.jpg/",
+                    "fanart1": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f63973%2fmoviebackground%2facdc-live-at-river-plate-54575b1437004.jpg/",
+                    "fanart2": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f63973%2fmoviebackground%2facdc-live-at-river-plate-54575b1436805.jpg/",
+                    "fanart3": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f63973%2fmoviebackground%2facdc-live-at-river-plate-54575b1437a76.jpg/",
+                    "fanart4": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f63973%2fmoviebackground%2facdc-live-at-river-plate-54575b1437712.jpg/",
+                    "fanart5": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f63973%2fmoviebackground%2facdc-live-at-river-plate-54575b14373bc.jpg/",
+                    "fanart6": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f63973%2fmoviebackground%2facdc-live-at-river-plate-54575b1436c1e.jpg/",
+                    "fanart7": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f63973%2fmoviebackground%2facdc-live-at-river-plate-54575b1436254.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f3IBHZxJbhpeFgWbIZNdr8aHTl3h.jpg/",
+                    "landscape": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f63973%2fmoviethumb%2facdc-live-at-river-plate-54575bc7d8469.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f3IBHZxJbhpeFgWbIZNdr8aHTl3h.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Angus Young",
+                        "order": 0,
+                        "role": "Guitars"
+                    },
+                    {
+                        "name": "Malcolm Young",
+                        "order": 1,
+                        "role": "Guitars"
+                    },
+                    {
+                        "name": "Brian Johnson",
+                        "order": 2,
+                        "role": "Vocals"
+                    },
+                    {
+                        "name": "Cliff Williams",
+                        "order": 3,
+                        "role": "Bass"
+                    },
+                    {
+                        "name": "Phil Rudd",
+                        "order": 4,
+                        "role": "Drums"
+                    }
+                ],
+                "country": [
+                    "Argentina",
+                    "United States of America"
+                ],
+                "customproperties": {
+                    "available_releases": "Theatrical",
+                    "budget": "$0",
+                    "cast": "Angus Young / Malcolm Young / Brian Johnson / Cliff Williams / Phil Rudd",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=63973&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=63973)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=63973)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=63973)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=63973)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=63973)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt1933535",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "63973",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "rjchignell",
+                    "param.widget": "True",
+                    "popularity": "11.193",
+                    "provider.link": "https://www.themoviedb.org/movie/63973-ac-dc-live-at-river-plate/watch?locale=FR",
+                    "providers": "Apple iTunes",
+                    "revenue": "$0",
+                    "slug_id": "ac-dc-live-at-river-plate-2009",
+                    "studio": "Leidseplein Presse",
+                    "theatrical_release": "2009-12-11",
+                    "tmdb_id": "63973",
+                    "tmdb_rating": "8.0",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "77",
+                    "trakt_id": "46137",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "David Mallet"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f8ly6ZrxZPNYra1GCUxTC0vfNA2I.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=63973",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique",
+                    "Documentaire"
+                ],
+                "imdbnumber": "tt1933535",
+                "label": "AC/DC: Live at River Plate",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "AC/DC: Live at River Plate",
+                "playcount": 0,
+                "plot": "Les cloches de l\u2019enfer du groupe le plus rock de la plan\u00e8te r\u00e9sonnent \u00e0 nouveau ! Tourn\u00e9 en 2009 au \u00ab\u202fEl Monumental\u202f\u00bb River Plate Stadium, le programme marque le retour du groupe \u00e0 Buenos Aires, o\u00f9 200 000 fans et 3 spectacles \u00e0 guichets ferm\u00e9s ont salu\u00e9 l\u2019une des dates les plus spectaculaires du \u00ab\u202fBlack Ice World Tour\u202f\u00bb des AC/DC. R\u00e9alis\u00e9 par David Mallet et produit par Rocky Oldman, \u00ab\u202fLive at River Plate\u202f\u00bb a \u00e9t\u00e9 tourn\u00e9 avec 32 cam\u00e9ras HD et d\u00e9voile la derni\u00e8re tourn\u00e9e mondiale d\u2019Angus Young & C dans toute sa splendeur. Incontournable !  1.  Rock N Roll Train  2.  Hell Ain\u2019t A Bad Place To Be  3.  Back In Black  4.  Big Jack  5.  Dirty Deeds Done Dirt Cheap  6.  Shot Down In Flames  7.  Thunderstruck  8.  Black Ice  9.  The Jack  10. Hells Bells  11. Shoot To Thrill  12. War Machine  13. Dog Eat Dog  14. You Shook Me All Night Long  15. T.N.T.  16. Whole Lotta Rosie  17. Let There Be Rock  18. Highway To Hell  19. For Those About To Rock (We Salute You)",
+                "plotoutline": "",
+                "premiered": "2009-12-11",
+                "productioncode": "",
+                "rating": 8.0,
+                "resume": {
+                    "position": 0.0,
+                    "total": 6660.0
+                },
+                "runtime": 6660,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Leidseplein Presse"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "AC/DC: Live at River Plate",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=xnQ_f-lqp_s",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt1933535",
+                    "slug": "ac-dc-live-at-river-plate-2009",
+                    "tmdb": "63973",
+                    "trakt": "46137",
+                    "unknown": "tt1933535"
+                },
+                "votes": "77",
+                "writer": [],
+                "year": 2009
+            },
+            {
+                "album": "",
+                "art": {
+                    "clearlogo": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f24983%2fmovielogo%2facdc---no-bull-4fc1b6d338617.png/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2faVsB72O0VmjxyVcvNop5DAGsTu6.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f2yDKSXkq8RVm72NF1j4ApGjNP01.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f2yDKSXkq8RVm72NF1j4ApGjNP01.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Angus Young",
+                        "order": 0,
+                        "role": "Lead Guitar"
+                    },
+                    {
+                        "name": "Malcolm Young",
+                        "order": 1,
+                        "role": "Rhythm Guitar"
+                    },
+                    {
+                        "name": "Brian Johnson",
+                        "order": 2,
+                        "role": "Vocals"
+                    },
+                    {
+                        "name": "Cliff Williams",
+                        "order": 3,
+                        "role": "Bass Guitar"
+                    },
+                    {
+                        "name": "Phil Rudd",
+                        "order": 4,
+                        "role": "Drums"
+                    }
+                ],
+                "country": [],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Angus Young / Malcolm Young / Brian Johnson / Cliff Williams / Phil Rudd",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=24983&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=24983)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=24983)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=24983)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=24983)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=24983)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt0255773",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "24983",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "rjchignell",
+                    "param.widget": "True",
+                    "popularity": "1.37",
+                    "provider.link": "https://www.themoviedb.org/movie/24983-ac-dc-no-bull/watch?locale=FR",
+                    "providers": "Apple iTunes",
+                    "revenue": "$0",
+                    "slug_id": "ac-dc-no-bull-1996",
+                    "studio": "Cowboy Films",
+                    "tmdb_id": "24983",
+                    "tmdb_rating": "6.9",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "15",
+                    "trakt_id": "15078",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "David Mallet"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2faVsB72O0VmjxyVcvNop5DAGsTu6.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=24983",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique"
+                ],
+                "imdbnumber": "tt0255773",
+                "label": "AC/DC: No Bull",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "AC/DC: No Bull",
+                "playcount": 0,
+                "plot": "No Bull est un concert film\u00e9 en 1996 aux Ar\u00e8nes de Madrid au cours de la tourn\u00e9e Ballbreaker d'AC/DC, sorti en VHS en 1996 et en DVD en 2000. On y retrouve les morceaux suivants: Back in Black, Shot Down in Flames, Thunderstruck, Girls Got Rhythm, Hard as a Rock, Shoot to Thrill, Boogie Man, Hail Caesar, Hells Bells, Dog Eat Dog, The Jack, Ballbreaker, Rock and Roll Ain't Noise Pollution, Dirty Deeds Done Dirt Cheap, You Shook Me All Night Long, Whole Lotta Rosie, T.N.T., Let There Be Rock, Highway to Hell, For Those About to Rock (We Salute You)",
+                "plotoutline": "",
+                "premiered": "1996-11-02",
+                "productioncode": "",
+                "rating": 6.900000095367432,
+                "resume": {
+                    "position": 0.0,
+                    "total": 7200.0
+                },
+                "runtime": 7200,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Cowboy Films",
+                    "Serpent Films"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "AC/DC: No Bull",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=RPiigNBG94M",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt0255773",
+                    "slug": "ac-dc-no-bull-1996",
+                    "tmdb": "24983",
+                    "trakt": "15078",
+                    "unknown": "tt0255773"
+                },
+                "votes": "15",
+                "writer": [],
+                "year": 1996
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fyhfNoXMn7Nqvjl2o52zcjp03GhA.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fgdyBpIp2RdMlTGZoI4DAqmBS1Jb.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fgdyBpIp2RdMlTGZoI4DAqmBS1Jb.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Bon Scott",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Brian Johnson",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Angus Young",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Malcolm Young",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Cliff Williams",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Phil Rudd",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Simon Wright",
+                        "order": 6,
+                        "role": ""
+                    },
+                    {
+                        "name": "Chris Slade",
+                        "order": 7,
+                        "role": ""
+                    }
+                ],
+                "country": [],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Bon Scott / Brian Johnson / Angus Young / Malcolm Young / Cliff Williams / Phil Rudd / Simon Wright / Chris Slade",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=36037&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=36037)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=36037)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=36037)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=36037)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=36037)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt1174684",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "36037",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "rjchignell",
+                    "param.widget": "True",
+                    "popularity": "1.582",
+                    "provider.link": "https://www.themoviedb.org/movie/36037-ac-dc-plug-me-in/watch?locale=FR",
+                    "providers": "Apple iTunes",
+                    "revenue": "$0",
+                    "slug_id": "ac-dc-plug-me-in-2007",
+                    "tmdb_id": "36037",
+                    "tmdb_rating": "8.5",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "4",
+                    "trakt_id": "22854",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "David Mallet"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fyhfNoXMn7Nqvjl2o52zcjp03GhA.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=36037",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique"
+                ],
+                "imdbnumber": "tt1174684",
+                "label": "AC/DC: Plug Me In",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "AC/DC: Plug Me In",
+                "playcount": 0,
+                "plot": "",
+                "plotoutline": "",
+                "premiered": "2007-10-16",
+                "productioncode": "",
+                "rating": 8.5,
+                "resume": {
+                    "position": 0.0,
+                    "total": 25200.0
+                },
+                "runtime": 25200,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "AC/DC: Plug Me In",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt1174684",
+                    "slug": "ac-dc-plug-me-in-2007",
+                    "tmdb": "36037",
+                    "trakt": "22854",
+                    "unknown": "tt1174684"
+                },
+                "votes": "4",
+                "writer": [],
+                "year": 2007
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2ffaqwJeCJD39mj74Jmu8lTn4jHWT.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2frIaOHCYt0bgQayaFG5dTtJ9CXrT.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2frIaOHCYt0bgQayaFG5dTtJ9CXrT.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Brian Johnson",
+                        "order": 0,
+                        "role": "Himself - Vocals"
+                    },
+                    {
+                        "name": "Angus Young",
+                        "order": 1,
+                        "role": "Himself - Lead Guitar"
+                    },
+                    {
+                        "name": "Malcolm Young",
+                        "order": 2,
+                        "role": "Himself - Rhythm Guitar"
+                    },
+                    {
+                        "name": "Cliff Williams",
+                        "order": 3,
+                        "role": "Himself - Bass Guitar"
+                    },
+                    {
+                        "name": "Phil Rudd",
+                        "order": 4,
+                        "role": "Himself - Drums"
+                    }
+                ],
+                "country": [],
+                "customproperties": {
+                    "available_releases": "Theatrical",
+                    "budget": "$0",
+                    "cast": "Brian Johnson / Angus Young / Malcolm Young / Cliff Williams / Phil Rudd",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=35058&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=35058)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=35058)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=35058)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=35058)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=35058)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt0368557",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "35058",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "rjchignell",
+                    "param.widget": "True",
+                    "popularity": "2.76",
+                    "revenue": "$0",
+                    "slug_id": "ac-dc-stiff-upper-lip-live-2001",
+                    "theatrical_release": "2001-12-04",
+                    "tmdb_id": "35058",
+                    "tmdb_rating": "7.1",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "13",
+                    "trakt_id": "22353",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Nick Morris"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2ffaqwJeCJD39mj74Jmu8lTn4jHWT.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=35058",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique"
+                ],
+                "imdbnumber": "tt0368557",
+                "label": "AC/DC - Stiff Upper Lip Live",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "Rated U",
+                "originaltitle": "AC/DC: Stiff Upper Lip Live",
+                "playcount": 0,
+                "plot": "Stiff Upper Lip Live est un DVD du groupe de hard rock AC/DC enregistr\u00e9 pendant la tourn\u00e9e mondiale suivant l'album Stiff Upper Lip. Il a \u00e9t\u00e9 enregistr\u00e9 le 14 juin 2001 au Stade olympique de Munich. La version DVD contient 10 minutes d'interview du groupe en bonus.",
+                "plotoutline": "",
+                "premiered": "2001-12-04",
+                "productioncode": "",
+                "rating": 7.099999904632568,
+                "resume": {
+                    "position": 0.0,
+                    "total": 8400.0
+                },
+                "runtime": 8400,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "AC/DC - Stiff Upper Lip Live",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt0368557",
+                    "slug": "ac-dc-stiff-upper-lip-live-2001",
+                    "tmdb": "35058",
+                    "trakt": "22353",
+                    "unknown": "tt0368557"
+                },
+                "votes": "13",
+                "writer": [],
+                "year": 2001
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fvHyZRY1FtsLZ24aJRxIsrSmOaCR.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fjnB9HHpKYarH327FclijSNq0nxk.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fjnB9HHpKYarH327FclijSNq0nxk.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Lionel Richie",
+                        "order": 0,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Marc Anthony",
+                        "order": 1,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Jason Aldean",
+                        "order": 2,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Kenny Chesney",
+                        "order": 3,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Sara Evans",
+                        "order": 4,
+                        "role": "Herself"
+                    },
+                    {
+                        "name": "Tim McGraw",
+                        "order": 5,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Kenny Rogers",
+                        "order": 6,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Nicole Richie",
+                        "order": 7,
+                        "role": "Herself"
+                    },
+                    {
+                        "name": "Hillary Scott",
+                        "order": 8,
+                        "role": ""
+                    },
+                    {
+                        "name": "Charles Kelley",
+                        "order": 9,
+                        "role": ""
+                    },
+                    {
+                        "name": "David Haywood",
+                        "order": 10,
+                        "role": ""
+                    }
+                ],
+                "country": [
+                    "United States of America"
+                ],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Lionel Richie / Marc Anthony / Jason Aldean / Kenny Chesney / Sara Evans / Tim McGraw / Kenny Rogers / Nicole Richie / Hillary Scott / Charles Kelley / David Haywood",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=103951&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=103951)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=103951)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=103951)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=103951)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=103951)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt2170872",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "103951",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "rjchignell",
+                    "param.widget": "True",
+                    "popularity": "1.412",
+                    "revenue": "$0",
+                    "slug_id": "acm-presents-lionel-richie-and-friends-in-concert-2012",
+                    "studio": "Dick Clark Productions",
+                    "tmdb_id": "103951",
+                    "tmdb_rating": "6.5",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "3",
+                    "trakt_id": "74146",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fvHyZRY1FtsLZ24aJRxIsrSmOaCR.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=103951",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique"
+                ],
+                "imdbnumber": "tt2170872",
+                "label": "ACM Presents Lionel Richie and Friends in Concert",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "ACM Presents Lionel Richie and Friends in Concert",
+                "playcount": 0,
+                "plot": "",
+                "plotoutline": "",
+                "premiered": "2012-04-13",
+                "productioncode": "",
+                "rating": 6.5,
+                "resume": {
+                    "position": 0.0,
+                    "total": 5820.0
+                },
+                "runtime": 5820,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Dick Clark Productions"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "ACM Presents Lionel Richie and Friends in Concert",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt2170872",
+                    "slug": "acm-presents-lionel-richie-and-friends-in-concert-2012",
+                    "tmdb": "103951",
+                    "trakt": "74146",
+                    "unknown": "tt2170872"
+                },
+                "votes": "3",
+                "writer": [],
+                "year": 2012
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fkTFbgcQYj96He1eC6Tyl74A3Xje.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fxHVQ9D7fsRjx4ltchFQcdaNZCi4.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fxHVQ9D7fsRjx4ltchFQcdaNZCi4.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Paavo Siljam\u00e4ki",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Jono Grant",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Tony McGuinness",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Justine Suissa",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Zo\u00eb Johnston",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Natalie Holmes",
+                        "order": 5,
+                        "role": ""
+                    }
+                ],
+                "country": [
+                    "United Kingdom",
+                    "United States of America"
+                ],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Paavo Siljam\u00e4ki / Jono Grant / Tony McGuinness / Justine Suissa / Zo\u00eb Johnston / Natalie Holmes",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=502609&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=502609)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=502609)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=502609)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=502609)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=502609)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt7816596",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "502609",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "rjchignell",
+                    "param.widget": "True",
+                    "popularity": "1.077",
+                    "revenue": "$0",
+                    "slug_id": "above-beyond-giving-up-the-day-job-2018",
+                    "studio": "Archer's Mark",
+                    "tmdb_id": "502609",
+                    "tmdb_rating": "8.5",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "2",
+                    "trakt_id": "349585",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Paul Dugdale",
+                    "Myles Desenberg"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fkTFbgcQYj96He1eC6Tyl74A3Xje.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=502609",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Documentaire",
+                    "Musique"
+                ],
+                "imdbnumber": "tt7816596",
+                "label": "Above & Beyond: Giving Up the Day Job",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Above & Beyond: Giving Up the Day Job",
+                "playcount": 0,
+                "plot": "",
+                "plotoutline": "",
+                "premiered": "2018-02-02",
+                "productioncode": "",
+                "rating": 8.5,
+                "resume": {
+                    "position": 0.0,
+                    "total": 5880.0
+                },
+                "runtime": 5880,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Archer's Mark",
+                    "Scheme Engine"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Above & Beyond: Giving Up the Day Job",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=8-WgYkod1EE",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt7816596",
+                    "slug": "above-beyond-giving-up-the-day-job-2018",
+                    "tmdb": "502609",
+                    "trakt": "349585",
+                    "unknown": "tt7816596"
+                },
+                "votes": "2",
+                "writer": [],
+                "year": 2018
+            },
+            {
+                "album": "",
+                "art": {
+                    "clearart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f79931%2fhdmovieclearart%2fadele-live-at-the-royal-albert-hall-5297ccf2e70d0.png/",
+                    "clearlogo": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f79931%2fhdmovielogo%2fadele-live-at-the-royal-albert-hall-508daf229356e.png/",
+                    "discart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f79931%2fmoviedisc%2fadele-live-at-the-royal-albert-hall-511382cf726de.png/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fnourcgjOGs59YxNwDuLWxOjo3ME.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2frKHVEjAJ9DG7dNN5VEahTdExzgv.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2frKHVEjAJ9DG7dNN5VEahTdExzgv.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Adele",
+                        "order": 0,
+                        "role": "Lead Vocal"
+                    },
+                    {
+                        "name": "Ben Thomas",
+                        "order": 1,
+                        "role": "Guitar"
+                    },
+                    {
+                        "name": "Tim Van Der Kuil",
+                        "order": 2,
+                        "role": "Guitar"
+                    },
+                    {
+                        "name": "Miles Robertson",
+                        "order": 3,
+                        "role": "Keyboards"
+                    },
+                    {
+                        "name": "Sam Dixon",
+                        "order": 4,
+                        "role": "Bass"
+                    },
+                    {
+                        "name": "Derrick Wright",
+                        "order": 5,
+                        "role": "Drums"
+                    },
+                    {
+                        "name": "Jo Allen",
+                        "order": 6,
+                        "role": "Wired Strings - Violin"
+                    },
+                    {
+                        "name": "Stephanie Cavey",
+                        "order": 7,
+                        "role": "Wired Strings - Violin"
+                    },
+                    {
+                        "name": "Rosie Danvers",
+                        "order": 8,
+                        "role": "Wired Strings - Cello"
+                    },
+                    {
+                        "name": "Sarah Chapman",
+                        "order": 9,
+                        "role": "Wired Strings - Viola"
+                    },
+                    {
+                        "name": "Kelli-Leigh Henry-Davila",
+                        "order": 10,
+                        "role": "Backing Vocals"
+                    },
+                    {
+                        "name": "Sally Jackson",
+                        "order": 11,
+                        "role": "Wired Strings - Violin"
+                    },
+                    {
+                        "name": "Bryony James",
+                        "order": 12,
+                        "role": "Wired Strings - Cello"
+                    },
+                    {
+                        "name": "Sharleen Linton",
+                        "order": 13,
+                        "role": "Backing Vocals"
+                    }
+                ],
+                "country": [
+                    "United Kingdom"
+                ],
+                "customproperties": {
+                    "available_releases": "Theatrical",
+                    "budget": "$0",
+                    "cast": "Adele / Ben Thomas / Tim Van Der Kuil / Miles Robertson / Sam Dixon / Derrick Wright / Jo Allen / Stephanie Cavey / Rosie Danvers / Sarah Chapman / Kelli-Leigh Henry-Davila / Sally Jackson / Bryony James / Sharleen Linton",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=79931&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=79931)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=79931)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=79931)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=79931)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=79931)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt2122272",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "79931",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "rjchignell",
+                    "param.widget": "True",
+                    "popularity": "10.221",
+                    "revenue": "$0",
+                    "slug_id": "adele-live-at-the-royal-albert-hall-2011",
+                    "studio": "Sony Music Entertainment",
+                    "theatrical_release": "2011-12-05",
+                    "tmdb_id": "79931",
+                    "tmdb_rating": "7.9",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "79",
+                    "trakt_id": "59441",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Paul Dugdale"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fnourcgjOGs59YxNwDuLWxOjo3ME.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=79931",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique",
+                    "Documentaire"
+                ],
+                "imdbnumber": "tt2122272",
+                "label": "Adele - Live at the Royal Albert Hall",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Adele - Live at the Royal Albert Hall",
+                "playcount": 0,
+                "plot": "Le 22 Septembre 2011, Ad\u00e8le a fait ses d\u00e9buts Royal Albert Hall dans le cadre de sa tourn\u00e9e Ad\u00e8le Live, une performance qui a laiss\u00e9 les fans bouche b\u00e9\u00e9 face \u00e0 son au professionnalisme et son talent.",
+                "plotoutline": "",
+                "premiered": "2011-11-27",
+                "productioncode": "",
+                "rating": 7.900000095367432,
+                "resume": {
+                    "position": 0.0,
+                    "total": 5400.0
+                },
+                "runtime": 5400,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Sony Music Entertainment",
+                    "Columbia Records",
+                    "XL Recordings"
+                ],
+                "tag": [],
+                "tagline": "Cette soir\u00e9e incroyable a \u00e9t\u00e9 immortalis\u00e9e sur le DVD Live at the Royal Albert Hall.",
+                "thumbnail": "",
+                "title": "Adele - Live at the Royal Albert Hall",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=5Oio8V3e3WU",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt2122272",
+                    "slug": "adele-live-at-the-royal-albert-hall-2011",
+                    "tmdb": "79931",
+                    "trakt": "59441",
+                    "unknown": "tt2122272"
+                },
+                "votes": "79",
+                "writer": [],
+                "year": 2011
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fswKfZN64nRPYhODFZmCwgMNytmf.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fofZXWrAV9FoDt64BnkDTCm4npMW.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fofZXWrAV9FoDt64BnkDTCm4npMW.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Adele",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Graham Norton",
+                        "order": 1,
+                        "role": ""
+                    }
+                ],
+                "country": [
+                    "United Kingdom"
+                ],
+                "customproperties": {
+                    "available_releases": "TV",
+                    "budget": "$0",
+                    "cast": "Adele / Graham Norton",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=369533&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=369533)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=369533)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=369533)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=369533)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=369533)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt5224376",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "369533",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "rjchignell",
+                    "param.widget": "True",
+                    "popularity": "2.128",
+                    "revenue": "$0",
+                    "slug_id": "adele-at-the-bbc-2015",
+                    "studio": "BBC One",
+                    "tmdb_id": "369533",
+                    "tmdb_rating": "6.9",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "14",
+                    "trakt_id": "224056",
+                    "tv_release": "2015-12-02",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fswKfZN64nRPYhODFZmCwgMNytmf.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=369533",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique"
+                ],
+                "imdbnumber": "tt5224376",
+                "label": "Adele : Live in London",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "Rated 10",
+                "originaltitle": "Adele at the BBC",
+                "playcount": 0,
+                "plot": "Le temps d'une soir\u00e9e exceptionnelle, Alcaline laisse la place \u00e0 Adele pour qu'elle fasse... son show. Un show qui va vous filer les poils, mais aussi vous faire rire, vous faire pleurer. Bref : une palette d'\u00e9motions musicales pour une soir\u00e9e in\u00e9dite. C'est promis, vous allez d\u00e9couvrir Adele comme vous ne l'avez jamais vue !",
+                "plotoutline": "",
+                "premiered": "2015-11-20",
+                "productioncode": "",
+                "rating": 6.900000095367432,
+                "resume": {
+                    "position": 0.0,
+                    "total": 3900.0
+                },
+                "runtime": 3900,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "BBC One"
+                ],
+                "tag": [],
+                "tagline": "Adele interpr\u00e8te en exclusivit\u00e9 les titres de son 3e album, \u00ab25\u00bb",
+                "thumbnail": "",
+                "title": "Adele : Live in London",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=Rf6epv4STtI",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt5224376",
+                    "slug": "adele-at-the-bbc-2015",
+                    "tmdb": "369533",
+                    "trakt": "224056",
+                    "unknown": "tt5224376"
+                },
+                "votes": "14",
+                "writer": [],
+                "year": 2015
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fn4bfsPVaK1cXUxowqHw5XZlp6gG.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fbjXzln3rACuqfwrzwqPmE0RYODj.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fbjXzln3rACuqfwrzwqPmE0RYODj.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Adele",
+                        "order": 0,
+                        "role": "Herself"
+                    }
+                ],
+                "country": [
+                    "United States of America"
+                ],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Adele",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=371627&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=371627)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=371627)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=371627)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=371627)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=371627)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt5164686",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "371627",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "rjchignell",
+                    "param.widget": "True",
+                    "popularity": "3.288",
+                    "revenue": "$0",
+                    "slug_id": "adele-live-in-new-york-city-2015",
+                    "studio": "NBC",
+                    "tmdb_id": "371627",
+                    "tmdb_rating": "8.3",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "17",
+                    "trakt_id": "224374",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Beth McCarthy-Miller"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fn4bfsPVaK1cXUxowqHw5XZlp6gG.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=371627",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique",
+                    "T\u00e9l\u00e9film"
+                ],
+                "imdbnumber": "tt5164686",
+                "label": "Adele Live in New York City",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Adele: Live in New York City",
+                "playcount": 0,
+                "plot": "Cinq millions, c'est le chiffre record qu'Adele a vendu de son nouvel album 25 en trois semaines aux Etats-Unis. Depuis qu'elle a fait son grand retour durant le dernier trimestre de 2015, la chanteuse britannique d\u00e9vaste tout sur son passage et \u00e9videmment elle se retrouve en t\u00eate des charts du monde entier. Alors qu'elle s'appr\u00eate \u00e0 battre son propre record au Billboard Hot 100 avec son single Hello, Adele \u00e9tait r\u00e9cemment de passage \u00e0 New York afin de livrer un concert sp\u00e9cial pour la cha\u00eene NBC. Durant presque une heure, les centaines de fans chanceux ont pu d\u00e9couvrir quelques nouveaux titres de 25 mais ils ont \u00e9galement pu reprendre en choeur tous les tubes de la diva.",
+                "plotoutline": "",
+                "premiered": "2015-12-14",
+                "productioncode": "",
+                "rating": 8.300000190734863,
+                "resume": {
+                    "position": 0.0,
+                    "total": 2580.0
+                },
+                "runtime": 2580,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "NBC"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Adele Live in New York City",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt5164686",
+                    "slug": "adele-live-in-new-york-city-2015",
+                    "tmdb": "371627",
+                    "trakt": "224374",
+                    "unknown": "tt5164686"
+                },
+                "votes": "17",
+                "writer": [],
+                "year": 2015
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fqh6gzAkhFPTUoqkp2pbcUGw7QlP.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2frRBp2aUHtxTMV9vGhDWSTeVCeBX.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2frRBp2aUHtxTMV9vGhDWSTeVCeBX.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Steven Tyler",
+                        "order": 0,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Joe Perry",
+                        "order": 1,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Tom Hamilton",
+                        "order": 2,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Brad Whitford",
+                        "order": 3,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Joey Kramer",
+                        "order": 4,
+                        "role": "Himself"
+                    }
+                ],
+                "country": [
+                    "United States of America"
+                ],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Steven Tyler / Joe Perry / Tom Hamilton / Brad Whitford / Joey Kramer",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=263073&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=263073)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=263073)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=263073)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=263073)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=263073)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt0737260",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "263073",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "rjchignell",
+                    "param.widget": "True",
+                    "popularity": "1.4",
+                    "revenue": "$0",
+                    "slug_id": "aerosmith-mtv-unplugged-1990",
+                    "studio": "MTV",
+                    "tmdb_id": "263073",
+                    "tmdb_rating": "9.0",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "1",
+                    "trakt_id": "161937",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fqh6gzAkhFPTUoqkp2pbcUGw7QlP.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=263073",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique"
+                ],
+                "imdbnumber": "tt0737260",
+                "label": "Aerosmith: MTV Unplugged",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Aerosmith: MTV Unplugged",
+                "playcount": 0,
+                "plot": "",
+                "plotoutline": "",
+                "premiered": "1990-09-20",
+                "productioncode": "",
+                "rating": 9.0,
+                "resume": {
+                    "position": 0.0,
+                    "total": 4800.0
+                },
+                "runtime": 4800,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "MTV"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Aerosmith: MTV Unplugged",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt0737260",
+                    "slug": "aerosmith-mtv-unplugged-1990",
+                    "tmdb": "263073",
+                    "trakt": "161937",
+                    "unknown": "tt0737260"
+                },
+                "votes": "1",
+                "writer": [],
+                "year": 1990
+            },
+            {
+                "album": "",
+                "art": {
+                    "banner": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f188506%2fmoviebanner%2falanis-morissette-live-at-montreux-2012-5fb2906b7de93.jpg/",
+                    "clearart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f188506%2fhdmovieclearart%2falanis-morissette-live-at-montreux-2012-5fb28e6080a32.png/",
+                    "clearlogo": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f188506%2fhdmovielogo%2falanis-morissette-live-at-montreux-2012-55c733912108b.png/",
+                    "discart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f188506%2fmoviedisc%2falanis-morissette-live-at-montreux-2012-5fb297ab3b832.png/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fh2dm0rpRe3QwIH8YEECZJPadBpc.jpg/",
+                    "fanart1": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f188506%2fmoviebackground%2falanis-morissette-live-at-montreux-2012-5fb28eff4884b.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fkdJBdGbDnDV5hfJMDCtxU3kMivz.jpg/",
+                    "landscape": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f188506%2fmoviethumb%2falanis-morissette-live-at-montreux-2012-5fb290ac272fc.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fkdJBdGbDnDV5hfJMDCtxU3kMivz.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Alanis Morissette",
+                        "order": 0,
+                        "role": "Herself"
+                    }
+                ],
+                "country": [],
+                "customproperties": {
+                    "available_releases": "Theatrical",
+                    "budget": "$0",
+                    "cast": "Alanis Morissette",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=188506&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=188506)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=188506)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=188506)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=188506)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=188506)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt5343512",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "188506",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "rjchignell",
+                    "param.widget": "True",
+                    "popularity": "1.688",
+                    "provider.link": "https://www.themoviedb.org/movie/188506-alanis-morissette-live-at-montreux-2012/watch?locale=FR",
+                    "providers": "Amazon Prime Video / Apple iTunes",
+                    "revenue": "$0",
+                    "slug_id": "alanis-morissette-live-at-montreux-2012-2013",
+                    "theatrical_release": "2013-04-21",
+                    "tmdb_id": "188506",
+                    "tmdb_rating": "8.8",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "3",
+                    "trakt_id": "117966",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fh2dm0rpRe3QwIH8YEECZJPadBpc.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=188506",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique"
+                ],
+                "imdbnumber": "tt5343512",
+                "label": "Alanis Morissette: Live at Montreux",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Alanis Morissette: Live at Montreux 2012",
+                "playcount": 0,
+                "plot": "",
+                "plotoutline": "",
+                "premiered": "2013-04-18",
+                "productioncode": "",
+                "rating": 8.800000190734863,
+                "resume": {
+                    "position": 0.0,
+                    "total": 5880.0
+                },
+                "runtime": 5880,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Alanis Morissette: Live at Montreux",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=jnAnUv81_l0",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt5343512",
+                    "slug": "alanis-morissette-live-at-montreux-2012-2013",
+                    "tmdb": "188506",
+                    "trakt": "117966",
+                    "unknown": "tt5343512"
+                },
+                "votes": "3",
+                "writer": [],
+                "year": 2013
+            },
+            {
+                "album": "",
+                "art": {
+                    "icon": "image://C%3a%5cKodiTest%5cKodi%20matrix%20pour%20zip%20complet%202%20full%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage.png/",
+                    "landscape": "image://C%3a%5cKodiTest%5cKodi%20matrix%20pour%20zip%20complet%202%20full%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage_wide.png/"
+                },
+                "artist": [],
+                "cast": [],
+                "country": [],
+                "customproperties": {
+                    "item.info": "trakt_userlist",
+                    "item.list_name": "Concerts",
+                    "item.list_slug": "concerts",
+                    "item.owner": "true",
+                    "item.page": "2",
+                    "item.plugin_category": "Concerts",
+                    "item.user_slug": "rjchignell",
+                    "item.widget": "True",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "rjchignell",
+                    "param.widget": "True",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Concerts&list_slug=concerts&owner=true&plugin_category=Concerts&user_slug=rjchignell&page=2&widget=true&reload=$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]",
+                "filetype": "directory",
+                "firstaired": "",
+                "genre": [],
+                "imdbnumber": "",
+                "label": "Page suivante",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "x-directory/normal",
+                "mpaa": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "",
+                "plotoutline": "",
+                "premiered": "",
+                "productioncode": "",
+                "rating": 0.0,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 0,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "unknown",
+                "votes": "0",
+                "writer": [],
+                "year": 0
+            }
+        ],
+        "limits": {
+            "end": 20,
+            "start": 0,
+            "total": 20
+        }
+    }
+}

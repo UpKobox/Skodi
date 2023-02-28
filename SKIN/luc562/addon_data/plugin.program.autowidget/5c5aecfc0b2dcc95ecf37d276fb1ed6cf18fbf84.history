@@ -1,0 +1,57 @@
+{
+    "history": [
+        [
+            1662545303.9821033,
+            "7852e1ea3702366582cd3bd6a38f0a82d83eddfd"
+        ],
+        [
+            1664347397.3560395,
+            "f98ea32969cef43db1cc45b40887a2746adc3865"
+        ],
+        [
+            1664347409.5834763,
+            "f98ea32969cef43db1cc45b40887a2746adc3865"
+        ],
+        [
+            1664348000.1109867,
+            "f98ea32969cef43db1cc45b40887a2746adc3865"
+        ],
+        [
+            1664348343.2418604,
+            "f98ea32969cef43db1cc45b40887a2746adc3865"
+        ],
+        [
+            1664348706.9263508,
+            "f98ea32969cef43db1cc45b40887a2746adc3865"
+        ],
+        [
+            1664349380.1827462,
+            "fdbbed0f392e6abab9217194b91a465517d4364d"
+        ],
+        [
+            1664350035.7000182,
+            "f98ea32969cef43db1cc45b40887a2746adc3865"
+        ],
+        [
+            1664351942.6667428,
+            "6c47a0af77dae0ae2949b64c89a394765c6f03c7"
+        ],
+        [
+            1664354966.803643,
+            "6c47a0af77dae0ae2949b64c89a394765c6f03c7"
+        ],
+        [
+            1664356141.7151005,
+            "6c47a0af77dae0ae2949b64c89a394765c6f03c7"
+        ],
+        [
+            1664358219.4671633,
+            "6c47a0af77dae0ae2949b64c89a394765c6f03c7"
+        ]
+    ],
+    "widgets": [
+        "d70f506e-16a6-4f04-bd9c-45ed4680c8ae",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Concerts&list_slug=concerts&owner=true&plugin_category=Concerts&user_slug=rjchignell&widget=True"
+}

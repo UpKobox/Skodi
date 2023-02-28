@@ -1,0 +1,3450 @@
+{
+    "id": 1,
+    "jsonrpc": "2.0",
+    "result": {
+        "files": [
+            {
+                "album": "",
+                "art": {
+                    "clearart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f79931%2fhdmovieclearart%2fadele-live-at-the-royal-albert-hall-5297ccf2e70d0.png/",
+                    "clearlogo": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f79931%2fhdmovielogo%2fadele-live-at-the-royal-albert-hall-508daf229356e.png/",
+                    "discart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f79931%2fmoviedisc%2fadele-live-at-the-royal-albert-hall-511382cf726de.png/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fnourcgjOGs59YxNwDuLWxOjo3ME.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2frKHVEjAJ9DG7dNN5VEahTdExzgv.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2frKHVEjAJ9DG7dNN5VEahTdExzgv.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Adele",
+                        "order": 0,
+                        "role": "Lead Vocal"
+                    },
+                    {
+                        "name": "Ben Thomas",
+                        "order": 1,
+                        "role": "Guitar"
+                    },
+                    {
+                        "name": "Tim Van Der Kuil",
+                        "order": 2,
+                        "role": "Guitar"
+                    },
+                    {
+                        "name": "Miles Robertson",
+                        "order": 3,
+                        "role": "Keyboards"
+                    },
+                    {
+                        "name": "Sam Dixon",
+                        "order": 4,
+                        "role": "Bass"
+                    },
+                    {
+                        "name": "Derrick Wright",
+                        "order": 5,
+                        "role": "Drums"
+                    },
+                    {
+                        "name": "Jo Allen",
+                        "order": 6,
+                        "role": "Wired Strings - Violin"
+                    },
+                    {
+                        "name": "Stephanie Cavey",
+                        "order": 7,
+                        "role": "Wired Strings - Violin"
+                    },
+                    {
+                        "name": "Rosie Danvers",
+                        "order": 8,
+                        "role": "Wired Strings - Cello"
+                    },
+                    {
+                        "name": "Sarah Chapman",
+                        "order": 9,
+                        "role": "Wired Strings - Viola"
+                    },
+                    {
+                        "name": "Kelli-Leigh Henry-Davila",
+                        "order": 10,
+                        "role": "Backing Vocals"
+                    },
+                    {
+                        "name": "Sally Jackson",
+                        "order": 11,
+                        "role": "Wired Strings - Violin"
+                    },
+                    {
+                        "name": "Bryony James",
+                        "order": 12,
+                        "role": "Wired Strings - Cello"
+                    },
+                    {
+                        "name": "Sharleen Linton",
+                        "order": 13,
+                        "role": "Backing Vocals"
+                    }
+                ],
+                "country": [
+                    "United Kingdom"
+                ],
+                "customproperties": {
+                    "available_releases": "Theatrical",
+                    "budget": "$0",
+                    "cast": "Adele / Ben Thomas / Tim Van Der Kuil / Miles Robertson / Sam Dixon / Derrick Wright / Jo Allen / Stephanie Cavey / Rosie Danvers / Sarah Chapman / Kelli-Leigh Henry-Davila / Sally Jackson / Bryony James / Sharleen Linton",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=79931&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=79931)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=79931)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=79931)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=79931)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=79931)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt2122272",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "79931",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "grayathletica",
+                    "param.widget": "True",
+                    "popularity": "10.221",
+                    "revenue": "$0",
+                    "slug_id": "adele-live-at-the-royal-albert-hall-2011",
+                    "studio": "Sony Music Entertainment",
+                    "theatrical_release": "2011-12-05",
+                    "tmdb_id": "79931",
+                    "tmdb_rating": "7.9",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "79",
+                    "trakt_id": "59441",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Paul Dugdale"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fnourcgjOGs59YxNwDuLWxOjo3ME.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=79931",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique",
+                    "Documentaire"
+                ],
+                "imdbnumber": "tt2122272",
+                "label": "Adele - Live at the Royal Albert Hall",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Adele - Live at the Royal Albert Hall",
+                "playcount": 0,
+                "plot": "Le 22 Septembre 2011, Ad\u00e8le a fait ses d\u00e9buts Royal Albert Hall dans le cadre de sa tourn\u00e9e Ad\u00e8le Live, une performance qui a laiss\u00e9 les fans bouche b\u00e9\u00e9 face \u00e0 son au professionnalisme et son talent.",
+                "plotoutline": "",
+                "premiered": "2011-11-27",
+                "productioncode": "",
+                "rating": 7.900000095367432,
+                "resume": {
+                    "position": 0.0,
+                    "total": 5400.0
+                },
+                "runtime": 5400,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Sony Music Entertainment",
+                    "Columbia Records",
+                    "XL Recordings"
+                ],
+                "tag": [],
+                "tagline": "Cette soir\u00e9e incroyable a \u00e9t\u00e9 immortalis\u00e9e sur le DVD Live at the Royal Albert Hall.",
+                "thumbnail": "",
+                "title": "Adele - Live at the Royal Albert Hall",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=5Oio8V3e3WU",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt2122272",
+                    "slug": "adele-live-at-the-royal-albert-hall-2011",
+                    "tmdb": "79931",
+                    "trakt": "59441",
+                    "unknown": "tt2122272"
+                },
+                "votes": "79",
+                "writer": [],
+                "year": 2011
+            },
+            {
+                "album": "",
+                "art": {
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f6Q6c9YGU68oZWhU6ROJcQKfw7B7.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f6Q6c9YGU68oZWhU6ROJcQKfw7B7.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Simon Le Bon",
+                        "order": 0,
+                        "role": "Vocals"
+                    },
+                    {
+                        "name": "John Taylor",
+                        "order": 1,
+                        "role": "Bass"
+                    },
+                    {
+                        "name": "Nick Rhodes",
+                        "order": 2,
+                        "role": "Keyboards"
+                    },
+                    {
+                        "name": "Roger Taylor",
+                        "order": 3,
+                        "role": "Drums"
+                    },
+                    {
+                        "name": "Andy Taylor",
+                        "order": 4,
+                        "role": "Guitar"
+                    }
+                ],
+                "country": [
+                    "United Kingdom"
+                ],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Simon Le Bon / John Taylor / Nick Rhodes / Roger Taylor / Andy Taylor",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=187109&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=187109)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=187109)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=187109)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=187109)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=187109)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt0477166",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "187109",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "grayathletica",
+                    "param.widget": "True",
+                    "popularity": "2.766",
+                    "revenue": "$0",
+                    "slug_id": "duran-duran-greatest-videos-2003",
+                    "studio": "EMI",
+                    "tmdb_id": "187109",
+                    "tmdb_rating": "7.2",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "14",
+                    "trakt_id": "117180",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=187109",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique"
+                ],
+                "imdbnumber": "tt0477166",
+                "label": "Duran Duran: Greatest Videos",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Duran Duran: Greatest Videos",
+                "playcount": 0,
+                "plot": "",
+                "plotoutline": "",
+                "premiered": "2003-10-13",
+                "productioncode": "",
+                "rating": 7.199999809265137,
+                "resume": {
+                    "position": 0.0,
+                    "total": 11700.0
+                },
+                "runtime": 11700,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "EMI"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Duran Duran: Greatest Videos",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt0477166",
+                    "slug": "duran-duran-greatest-videos-2003",
+                    "tmdb": "187109",
+                    "trakt": "117180",
+                    "unknown": "tt0477166"
+                },
+                "votes": "14",
+                "writer": [],
+                "year": 2003
+            },
+            {
+                "album": "",
+                "art": {
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2faTwa4WS33DTsEb8TR9atJdgwUut.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2faTwa4WS33DTsEb8TR9atJdgwUut.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Adam Levine",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Jesse Carmichael",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Mickey Madden",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Ryan Dusick",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "James Valentine",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Matt Flynn",
+                        "order": 5,
+                        "role": ""
+                    }
+                ],
+                "country": [],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Adam Levine / Jesse Carmichael / Mickey Madden / Ryan Dusick / James Valentine / Matt Flynn",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=82733&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=82733)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=82733)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=82733)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=82733)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=82733)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt0814206",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "82733",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "grayathletica",
+                    "param.widget": "True",
+                    "popularity": "2.129",
+                    "revenue": "$0",
+                    "slug_id": "maroon-5-live-friday-the-13th-2005",
+                    "tmdb_id": "82733",
+                    "tmdb_rating": "8.0",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "1",
+                    "trakt_id": "61901",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Russell Thomas",
+                    "Zack Stoff"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=82733",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [],
+                "imdbnumber": "tt0814206",
+                "label": "Maroon 5: Live - Friday the 13th",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Maroon 5: Live - Friday the 13th",
+                "playcount": 0,
+                "plot": "",
+                "plotoutline": "",
+                "premiered": "2005-07-13",
+                "productioncode": "",
+                "rating": 8.0,
+                "resume": {
+                    "position": 0.0,
+                    "total": 7200.0
+                },
+                "runtime": 7200,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Maroon 5: Live - Friday the 13th",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt0814206",
+                    "slug": "maroon-5-live-friday-the-13th-2005",
+                    "tmdb": "82733",
+                    "trakt": "61901",
+                    "unknown": "tt0814206"
+                },
+                "votes": "1",
+                "writer": [],
+                "year": 2005
+            },
+            {
+                "album": "",
+                "art": {
+                    "clearlogo": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f23357%2fhdmovielogo%2fmegadeth-that-one-night-5910275f38a0a.png/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fvrbHLn2xxZtFWY9tdU9kfq8EOX5.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fnUxZCtgKgONKQ85PYZNFgoiHisH.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fnUxZCtgKgONKQ85PYZNFgoiHisH.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Dave Mustaine",
+                        "order": 0,
+                        "role": "self"
+                    },
+                    {
+                        "name": "Glen Drover",
+                        "order": 1,
+                        "role": "self"
+                    },
+                    {
+                        "name": "Shawn Drover",
+                        "order": 2,
+                        "role": "self"
+                    },
+                    {
+                        "name": "James MacDonough",
+                        "order": 3,
+                        "role": "self"
+                    }
+                ],
+                "country": [],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Dave Mustaine / Glen Drover / Shawn Drover / James MacDonough",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=23357&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=23357)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=23357)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=23357)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=23357)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=23357)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt1179780",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "23357",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "grayathletica",
+                    "param.widget": "True",
+                    "popularity": "0.6",
+                    "revenue": "$0",
+                    "slug_id": "megadeth-that-one-night-live-in-buenos-aires-2007",
+                    "tmdb_id": "23357",
+                    "tmdb_rating": "7.5",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "2",
+                    "trakt_id": "14107",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fvrbHLn2xxZtFWY9tdU9kfq8EOX5.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=23357",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique"
+                ],
+                "imdbnumber": "tt1179780",
+                "label": "Megadeth: That One Night - Live in Buenos Aires",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Megadeth: That One Night - Live in Buenos Aires",
+                "playcount": 0,
+                "plot": "",
+                "plotoutline": "",
+                "premiered": "2007-03-06",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0.0,
+                    "total": 5700.0
+                },
+                "runtime": 5700,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Megadeth: That One Night - Live in Buenos Aires",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt1179780",
+                    "slug": "megadeth-that-one-night-live-in-buenos-aires-2007",
+                    "tmdb": "23357",
+                    "trakt": "14107",
+                    "unknown": "tt1179780"
+                },
+                "votes": "2",
+                "writer": [],
+                "year": 2007
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fu5tGEWiZBsbtKaSkGx8Pk8D0mFH.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f6fYibHjSuIF4sBLRtAYR9Gp5cp9.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f6fYibHjSuIF4sBLRtAYR9Gp5cp9.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Dave Mustaine",
+                        "order": 0,
+                        "role": "Vocals, Guitars"
+                    },
+                    {
+                        "name": "David Ellefson",
+                        "order": 1,
+                        "role": "Bass"
+                    },
+                    {
+                        "name": "Jimmy DeGrasso",
+                        "order": 2,
+                        "role": "Drums"
+                    },
+                    {
+                        "name": "Al Pitrelli",
+                        "order": 3,
+                        "role": "Guitars"
+                    }
+                ],
+                "country": [
+                    "United States of America"
+                ],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Dave Mustaine / David Ellefson / Jimmy DeGrasso / Al Pitrelli",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=45557&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=45557)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=45557)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=45557)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=45557)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=45557)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt0310085",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "45557",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "grayathletica",
+                    "param.widget": "True",
+                    "popularity": "0.954",
+                    "revenue": "$0",
+                    "slug_id": "megadeth-rude-awakening-2002",
+                    "tmdb_id": "45557",
+                    "tmdb_rating": "6.8",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "2",
+                    "trakt_id": "31106",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Christoffer Salzgeber"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fu5tGEWiZBsbtKaSkGx8Pk8D0mFH.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=45557",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique",
+                    "Documentaire"
+                ],
+                "imdbnumber": "tt0310085",
+                "label": "Megadeth: Rude Awakening",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Megadeth: Rude Awakening",
+                "playcount": 0,
+                "plot": "Enregistr\u00e9 lors de la derni\u00e8re date de la tourn\u00e9e am\u00e9ricaine de The World Needs a Hero, il s'agit du dernier concert donn\u00e9 avant la dissolution du groupe. On peut donc y voir la derni\u00e8re apparition de David Ellefson, avant son retour en 2010, au c\u0153ur du groupe qu'il a cofond\u00e9 avec Dave Mustaine dix-huit ans plus t\u00f4t.  A l'origine l'enregistrement de cet album \u00e9tait pr\u00e9vu lors de deux concerts en Argentine mais suite aux attentats du 11 septembre 2001, le groupe annula tous ses concerts hors des USA.\r 1. Dread And The Fugitive Mind\r 2. Kill The King\r 3. Wake Up Dead\r 4. In My Darkest Hour\r 5. Angry Again\r 6. She Wolf\r 7. Reckoning Day\r 8. Devil's Island\r 9. Train Of Consequences\r 10. A Tout Le Mond\r 11. Burning Bridges\r 12. Hangar 18\r 13. Return To Hangar\r 14. Hook In Mouth\r 15. Almost Honest\r 16. 1000 Times Goodbye\r 17. Mechanix\r 18. Tornado Of Souls\r 19. Ashes In Your Mouth\r 20. Sweating Bullets\r 21. Trust\r 22. Symphony of Destruction\r 23. Peace Sells\r 24. Holy Wars",
+                "plotoutline": "",
+                "premiered": "2002-04-09",
+                "productioncode": "",
+                "rating": 6.800000190734863,
+                "resume": {
+                    "position": 0.0,
+                    "total": 8400.0
+                },
+                "runtime": 8400,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Megadeth: Rude Awakening",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt0310085",
+                    "slug": "megadeth-rude-awakening-2002",
+                    "tmdb": "45557",
+                    "trakt": "31106",
+                    "unknown": "tt0310085"
+                },
+                "votes": "2",
+                "writer": [],
+                "year": 2002
+            },
+            {
+                "album": "",
+                "art": {
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fvpInn3FDyktdJC3ZmA3Ayx5GiPJ.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fvpInn3FDyktdJC3ZmA3Ayx5GiPJ.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Ian Gillan",
+                        "order": 0,
+                        "role": "Lead Vocal"
+                    },
+                    {
+                        "name": "Steve Morse",
+                        "order": 1,
+                        "role": "Guitars"
+                    },
+                    {
+                        "name": "Roger Glover",
+                        "order": 2,
+                        "role": "Bass"
+                    },
+                    {
+                        "name": "Ian Paice",
+                        "order": 3,
+                        "role": "Drums"
+                    },
+                    {
+                        "name": "Jon Lord",
+                        "order": 4,
+                        "role": "Keyboards"
+                    }
+                ],
+                "country": [],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Ian Gillan / Steve Morse / Roger Glover / Ian Paice / Jon Lord",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=61889&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=61889)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=61889)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=61889)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=61889)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=61889)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt0267684",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "61889",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "grayathletica",
+                    "param.widget": "True",
+                    "popularity": "1.123",
+                    "revenue": "$0",
+                    "slug_id": "deep-purple-live-at-montreux-1996-1996",
+                    "tmdb_id": "61889",
+                    "tmdb_rating": "7.3",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "7",
+                    "trakt_id": "44423",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=61889",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique"
+                ],
+                "imdbnumber": "tt0267684",
+                "label": "Deep Purple: Live at Montreux 1996",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Deep Purple: Live at Montreux 1996",
+                "playcount": 0,
+                "plot": "",
+                "plotoutline": "",
+                "premiered": "1996-01-01",
+                "productioncode": "",
+                "rating": 7.300000190734863,
+                "resume": {
+                    "position": 0.0,
+                    "total": 6180.0
+                },
+                "runtime": 6180,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Deep Purple: Live at Montreux 1996",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt0267684",
+                    "slug": "deep-purple-live-at-montreux-1996-1996",
+                    "tmdb": "61889",
+                    "trakt": "44423",
+                    "unknown": "tt0267684"
+                },
+                "votes": "7",
+                "writer": [],
+                "year": 1996
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f1MmSgAgyD6XvqO6FBBoPJFOY4U.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2falDylCVfCXTQRLqcf0qMnHCARWq.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2falDylCVfCXTQRLqcf0qMnHCARWq.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "James Hetfield",
+                        "order": 0,
+                        "role": "Self - Guitar, Vocals"
+                    },
+                    {
+                        "name": "Lars Ulrich",
+                        "order": 1,
+                        "role": "Self - Drums"
+                    },
+                    {
+                        "name": "Kirk Hammett",
+                        "order": 2,
+                        "role": "Self - Guitar"
+                    },
+                    {
+                        "name": "Jason Newsted",
+                        "order": 3,
+                        "role": "Self - Bass Guitar"
+                    }
+                ],
+                "country": [],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "James Hetfield / Lars Ulrich / Kirk Hammett / Jason Newsted",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=40541&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=40541)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=40541)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=40541)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=40541)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=40541)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt0202456",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "40541",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "grayathletica",
+                    "param.widget": "True",
+                    "popularity": "1.614",
+                    "provider.link": "https://www.themoviedb.org/movie/40541-metallica-live-shit-binge-purge-san-diego-1992/watch?locale=FR",
+                    "providers": "Apple iTunes",
+                    "revenue": "$0",
+                    "slug_id": "metallica-live-shit-binge-purge-san-diego-1992-1993-11-23",
+                    "tmdb_id": "40541",
+                    "tmdb_rating": "8.0",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "9",
+                    "trakt_id": "26651",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Wayne Isham"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f1MmSgAgyD6XvqO6FBBoPJFOY4U.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=40541",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique",
+                    "Documentaire"
+                ],
+                "imdbnumber": "tt0202456",
+                "label": "Metallica: Live Shit - Binge & Purge, San Diego 1992",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Metallica: Live Shit - Binge & Purge, San Diego 1992",
+                "playcount": 0,
+                "plot": "",
+                "plotoutline": "",
+                "premiered": "1993-11-23",
+                "productioncode": "",
+                "rating": 8.0,
+                "resume": {
+                    "position": 0.0,
+                    "total": 11820.0
+                },
+                "runtime": 11820,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Metallica: Live Shit - Binge & Purge, San Diego 1992",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt0202456",
+                    "slug": "metallica-live-shit-binge-purge-san-diego-1992-1993-11-23",
+                    "tmdb": "40541",
+                    "trakt": "26651",
+                    "unknown": "tt0202456"
+                },
+                "votes": "9",
+                "writer": [],
+                "year": 1993
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f2YDc9kQhdyd8xX1RUEN001jexRE.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f10vcCJ7zC85MqkcQaZYX8ZvkVmo.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f10vcCJ7zC85MqkcQaZYX8ZvkVmo.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Dominic Howard",
+                        "order": 0,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Chris Wolstenholme",
+                        "order": 1,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Morgan Nicholls",
+                        "order": 2,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Matthew Bellamy",
+                        "order": 3,
+                        "role": "Himself"
+                    }
+                ],
+                "country": [
+                    "Italy"
+                ],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Dominic Howard / Chris Wolstenholme / Morgan Nicholls / Matthew Bellamy",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=240237&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=240237)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=240237)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=240237)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=240237)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=240237)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt3411614",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "240237",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "grayathletica",
+                    "param.widget": "True",
+                    "popularity": "2.764",
+                    "provider.link": "https://www.themoviedb.org/movie/240237-muse-live-at-rome-olympic-stadium/watch?locale=FR",
+                    "providers": "Apple iTunes",
+                    "revenue": "$0",
+                    "slug_id": "muse-live-at-rome-olympic-stadium-2013",
+                    "studio": "Warner Music Group",
+                    "tmdb_id": "240237",
+                    "tmdb_rating": "8.7",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "26",
+                    "trakt_id": "146512",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Matt Askem"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f2YDc9kQhdyd8xX1RUEN001jexRE.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=240237",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique",
+                    "Documentaire"
+                ],
+                "imdbnumber": "tt3411614",
+                "label": "Muse: Live At Rome Olympic Stadium",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Muse: Live At Rome Olympic Stadium",
+                "playcount": 0,
+                "plot": "Le concert de MUSE film\u00e9 \u00e0 Olympic Stadium de Rome le 6 Juillet 2013 devant une salle comble de plus de 60 000 fans, une soir\u00e9e m\u00e9morable dans la capitale italienne qui met en valeur un spectacle des plus extravagants dans un stade impressionant. Les trois amis de l'\u00e9cole de Devon entra\u00eenent le public dans un voyage fascinant en utilisant pyrotechnie, \u00e9crans num\u00e9riques expansive et une troupe de danseurs pour accompagner leur \u00ab playlist \u00bb de 20 morceaux.",
+                "plotoutline": "",
+                "premiered": "2013-11-11",
+                "productioncode": "",
+                "rating": 8.699999809265137,
+                "resume": {
+                    "position": 0.0,
+                    "total": 5700.0
+                },
+                "runtime": 5700,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Warner Music Group"
+                ],
+                "tag": [],
+                "tagline": "Muse comme vous ne l'avez jamais vu",
+                "thumbnail": "",
+                "title": "Muse: Live At Rome Olympic Stadium",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=R6f_7G71p_w",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt3411614",
+                    "slug": "muse-live-at-rome-olympic-stadium-2013",
+                    "tmdb": "240237",
+                    "trakt": "146512",
+                    "unknown": "tt3411614"
+                },
+                "votes": "26",
+                "writer": [],
+                "year": 2013
+            },
+            {
+                "album": "",
+                "art": {
+                    "clearlogo": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fwyv5frtXYkQQwLTaGbpPcdgLlmt.png/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f5QWrKLTEyKMOZI6pOqQw1dxrmQJ.jpg/",
+                    "fanart1": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f372478%2fmoviebackground%2ftaylor-swift-speak-now-5d0ba7eaef303.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fp9HBkoMy3Q5ZT7Ar3xp3Ltj1PT1.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fp9HBkoMy3Q5ZT7Ar3xp3Ltj1PT1.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Taylor Swift",
+                        "order": 0,
+                        "role": "Self"
+                    }
+                ],
+                "country": [
+                    "United States of America"
+                ],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Taylor Swift",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=372478&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=372478)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=372478)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=372478)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=372478)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=372478)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt1781914",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "372478",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "grayathletica",
+                    "param.widget": "True",
+                    "popularity": "2.772",
+                    "revenue": "$0",
+                    "slug_id": "taylor-swift-speak-now-2010",
+                    "studio": "Todd Cassetty Welding Service",
+                    "tmdb_id": "372478",
+                    "tmdb_rating": "8.1",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "13",
+                    "trakt_id": "224352",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Ryan Polito"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f5QWrKLTEyKMOZI6pOqQw1dxrmQJ.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=372478",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique",
+                    "Documentaire"
+                ],
+                "imdbnumber": "tt1781914",
+                "label": "Taylor Swift: Speak Now",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Taylor Swift: Speak Now",
+                "playcount": 0,
+                "plot": "Le 24 Novembre 2010, NBC a diffus\u00e9 un programme d\u00e9di\u00e9 \u00e0 Taylor Swift et son nouvel album.  Le programme inclut non seulement les performances de Taylor avec les nouvelles chansons, mais aussi des images de l'archive consacr\u00e9e \u00e0 l'enregistrement de l'album.  Comprend neuf chansons de Swift \"Mine\", \"Sparks Fly\", \"Story of Us\", \"Long Live\", \"Haunted\", \"Mean\" \u00abBack To December\u00bb, \u00abEnchanted\u00bb et la chanson titre de son nouvel album Speak Now.",
+                "plotoutline": "",
+                "premiered": "2010-11-25",
+                "productioncode": "",
+                "rating": 8.100000381469727,
+                "resume": {
+                    "position": 0.0,
+                    "total": 3600.0
+                },
+                "runtime": 3600,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Todd Cassetty Welding Service"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Taylor Swift: Speak Now",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt1781914",
+                    "slug": "taylor-swift-speak-now-2010",
+                    "tmdb": "372478",
+                    "trakt": "224352",
+                    "unknown": "tt1781914"
+                },
+                "votes": "13",
+                "writer": [],
+                "year": 2010
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fw1nHot6GMCecd6uYNiDWMMbbykR.jpg/",
+                    "fanart1": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f301658%2fmoviebackground%2ftaylor-swift-vh1-storytellers-5d0ba9100a4c5.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fsOVnOaWcPPviap7y1kaZ2xUliRi.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fsOVnOaWcPPviap7y1kaZ2xUliRi.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Taylor Swift",
+                        "order": 0,
+                        "role": "Self"
+                    }
+                ],
+                "country": [
+                    "United States of America"
+                ],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Taylor Swift",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=301658&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=301658)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=301658)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=301658)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=301658)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=301658)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt2485756",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "301658",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "grayathletica",
+                    "param.widget": "True",
+                    "popularity": "2.419",
+                    "revenue": "$0",
+                    "slug_id": "taylor-swift-vh1-storytellers-2012",
+                    "studio": "VH1 Productions",
+                    "tmdb_id": "301658",
+                    "tmdb_rating": "10.0",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "3",
+                    "trakt_id": "215661",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Alex Coletti"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fw1nHot6GMCecd6uYNiDWMMbbykR.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=301658",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Documentaire",
+                    "Musique"
+                ],
+                "imdbnumber": "tt2485756",
+                "label": "Taylor Swift: VH1 Storytellers",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Taylor Swift: VH1 Storytellers",
+                "playcount": 0,
+                "plot": "",
+                "plotoutline": "",
+                "premiered": "2012-11-11",
+                "productioncode": "",
+                "rating": 10.0,
+                "resume": {
+                    "position": 0.0,
+                    "total": 3900.0
+                },
+                "runtime": 3900,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "VH1 Productions"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Taylor Swift: VH1 Storytellers",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=OZJdxFEdjSU",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt2485756",
+                    "slug": "taylor-swift-vh1-storytellers-2012",
+                    "tmdb": "301658",
+                    "trakt": "215661",
+                    "unknown": "tt2485756"
+                },
+                "votes": "3",
+                "writer": [],
+                "year": 2012
+            },
+            {
+                "album": "",
+                "art": {
+                    "clearlogo": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f373558%2fhdmovielogo%2ftaylor-swift-the-1989-world-tour---live-5fa13a259450f.png/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fuFdgL6AIUQwV0xObeWulHvTU7Ae.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fkzXe8kscKo83BwGvIofWg6SCR7n.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fkzXe8kscKo83BwGvIofWg6SCR7n.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Taylor Swift",
+                        "order": 0,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Mick Jagger",
+                        "order": 1,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Wiz Khalifa",
+                        "order": 2,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Ally Brooke",
+                        "order": 3,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Camila Cabello",
+                        "order": 4,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Dinah Jane",
+                        "order": 5,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Lauren Jauregui",
+                        "order": 6,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Normani",
+                        "order": 7,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Justin Timberlake",
+                        "order": 8,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Mary J. Blige",
+                        "order": 9,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Jade Thirlwall",
+                        "order": 10,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Jesy Nelson",
+                        "order": 11,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Leigh-Anne Pinnock",
+                        "order": 12,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Perrie Edwards",
+                        "order": 13,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Ellie Goulding",
+                        "order": 14,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Ryan Tedder",
+                        "order": 15,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Idina Menzel",
+                        "order": 16,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Nick Jonas",
+                        "order": 17,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Fetty Wap",
+                        "order": 18,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Selena Gomez",
+                        "order": 19,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Lorde",
+                        "order": 20,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "The Weeknd",
+                        "order": 21,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "John Legend",
+                        "order": 22,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Steven Tyler",
+                        "order": 23,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Uzo Aduba",
+                        "order": 24,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Alison Krauss",
+                        "order": 25,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Kelsea Ballerini",
+                        "order": 26,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Dierks Bentley",
+                        "order": 27,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Ricky Martin",
+                        "order": 28,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Graham Sierota",
+                        "order": 29,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Jamie Sierota",
+                        "order": 30,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Noah Sierota",
+                        "order": 31,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Sydney Sierota",
+                        "order": 32,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Pitbull",
+                        "order": 33,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Alessia Cara",
+                        "order": 34,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Malcolm David Kelley",
+                        "order": 35,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Tony Oller",
+                        "order": 36,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Nicolay Sereba",
+                        "order": 37,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Vincent Dery",
+                        "order": 38,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Lisa Kudrow",
+                        "order": 39,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Miranda Lambert",
+                        "order": 40,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Rachel Platten",
+                        "order": 41,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Sam Hunt",
+                        "order": 42,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Beck",
+                        "order": 43,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "St. Vincent",
+                        "order": 44,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Andy Grammer",
+                        "order": 45,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Serayah",
+                        "order": 46,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Leona Lewis",
+                        "order": 47,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Tove Lo",
+                        "order": 48,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Eli Maiman",
+                        "order": 49,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Kevin Ray",
+                        "order": 50,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Nicholas Petricca",
+                        "order": 51,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Sean Waugaman",
+                        "order": 52,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Keith Urban",
+                        "order": 53,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Alanis Morissette",
+                        "order": 54,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Karen Fairchild",
+                        "order": 55,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Kimberly Schlapman",
+                        "order": 56,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Phillip Sweet",
+                        "order": 57,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Jimi Westbrook",
+                        "order": 58,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Natalie Maines",
+                        "order": 59,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Dan Reynolds",
+                        "order": 60,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Wayne Sermon",
+                        "order": 61,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Ben McKee",
+                        "order": 62,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Daniel Platzman",
+                        "order": 63,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Jason Derulo",
+                        "order": 64,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Kimberly Perry",
+                        "order": 65,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Neil Perry",
+                        "order": 66,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Reid Perry",
+                        "order": 67,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Charli XCX",
+                        "order": 68,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Avril Lavigne",
+                        "order": 69,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Omi",
+                        "order": 70,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Nelly",
+                        "order": 71,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Ed Sheeran",
+                        "order": 72,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Gigi Hadid",
+                        "order": 73,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Martha Hunt",
+                        "order": 74,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Mariska Hargitay",
+                        "order": 75,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Kendall Jenner",
+                        "order": 76,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Serena Williams",
+                        "order": 77,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Karlie Kloss",
+                        "order": 78,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Cara Delevingne",
+                        "order": 79,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Heidi Klum",
+                        "order": 80,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Hailee Steinfeld",
+                        "order": 81,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Lily Aldridge",
+                        "order": 82,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Lena Dunham",
+                        "order": 83,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Candice Swanepoel",
+                        "order": 84,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Behati Prinsloo",
+                        "order": 85,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Andreja Peji\u0107",
+                        "order": 86,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Lily Donaldson",
+                        "order": 87,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Russell Wilson",
+                        "order": 88,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Ciara",
+                        "order": 89,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Joan Baez",
+                        "order": 90,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Julia Roberts",
+                        "order": 91,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Kobe Bryant",
+                        "order": 92,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Dwyane Wade",
+                        "order": 93,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Matt LeBlanc",
+                        "order": 94,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Chris Rock",
+                        "order": 95,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Sean O'Pry",
+                        "order": 96,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Ellen DeGeneres",
+                        "order": 97,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Jaime King",
+                        "order": 98,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Alana Haim",
+                        "order": 99,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Danielle Haim",
+                        "order": 100,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Este Haim",
+                        "order": 101,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Abigail Anderson",
+                        "order": 102,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "David Cook",
+                        "order": 103,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Matt Billingslea",
+                        "order": 104,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Amos Heller",
+                        "order": 105,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Eliotte Woodford",
+                        "order": 106,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Kamilah Marshall",
+                        "order": 107,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Michael Meadows",
+                        "order": 108,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Melanie Nyema",
+                        "order": 109,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Paul Sidoti",
+                        "order": 110,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Clare Turton Derrico",
+                        "order": 111,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Dane Laboyrie",
+                        "order": 112,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Brendan Champion",
+                        "order": 113,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "James MacKay",
+                        "order": 114,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Jimmy Garden",
+                        "order": 115,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Nolan Padilla",
+                        "order": 116,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Remi Bakkar",
+                        "order": 117,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Richard Cutler",
+                        "order": 118,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Kim Davidson",
+                        "order": 119,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Giuseppe Giofre",
+                        "order": 120,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Robert Green",
+                        "order": 121,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Christian Henderson",
+                        "order": 122,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Jake Kodish",
+                        "order": 123,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Christian Owens",
+                        "order": 124,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Maho Udo",
+                        "order": 125,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Austin Spacy",
+                        "order": 126,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Mark Villaver",
+                        "order": 127,
+                        "role": "Self"
+                    }
+                ],
+                "country": [
+                    "Australia",
+                    "United States of America"
+                ],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Taylor Swift / Mick Jagger / Wiz Khalifa / Ally Brooke / Camila Cabello / Dinah Jane / Lauren Jauregui / Normani / Justin Timberlake / Mary J. Blige / Jade Thirlwall / Jesy Nelson / Leigh-Anne Pinnock / Perrie Edwards / Ellie Goulding / Ryan Tedder / Idina Menzel / Nick Jonas / Fetty Wap / Selena Gomez / Lorde / The Weeknd / John Legend / Steven Tyler / Uzo Aduba / Alison Krauss / Kelsea Ballerini / Dierks Bentley / Ricky Martin / Graham Sierota / Jamie Sierota / Noah Sierota / Sydney Sierota / Pitbull / Alessia Cara / Malcolm David Kelley / Tony Oller / Nicolay Sereba / Vincent Dery / Lisa Kudrow / Miranda Lambert / Rachel Platten / Sam Hunt / Beck / St. Vincent / Andy Grammer / Serayah / Leona Lewis / Tove Lo / Eli Maiman / Kevin Ray / Nicholas Petricca / Sean Waugaman / Keith Urban / Alanis Morissette / Karen Fairchild / Kimberly Schlapman / Phillip Sweet / Jimi Westbrook / Natalie Maines / Dan Reynolds / Wayne Sermon / Ben McKee / Daniel Platzman / Jason Derulo / Kimberly Perry / Neil Perry / Reid Perry / Charli XCX / Avril Lavigne / Omi / Nelly / Ed Sheeran / Gigi Hadid / Martha Hunt / Mariska Hargitay / Kendall Jenner / Serena Williams / Karlie Kloss / Cara Delevingne / Heidi Klum / Hailee Steinfeld / Lily Aldridge / Lena Dunham / Candice Swanepoel / Behati Prinsloo / Andreja Peji\u0107 / Lily Donaldson / Russell Wilson / Ciara / Joan Baez / Julia Roberts / Kobe Bryant / Dwyane Wade / Matt LeBlanc / Chris Rock / Sean O'Pry / Ellen DeGeneres / Jaime King / Alana Haim / Danielle Haim / Este Haim / Abigail Anderson / David Cook / Matt Billingslea / Amos Heller / Eliotte Woodford / Kamilah Marshall / Michael Meadows / Melanie Nyema / Paul Sidoti / Clare Turton Derrico / Dane Laboyrie / Brendan Champion / James MacKay / Jimmy Garden / Nolan Padilla / Remi Bakkar / Richard Cutler / Kim Davidson / Giuseppe Giofre / Robert Green / Christian Henderson / Jake Kodish / Christian Owens / Maho Udo / Austin Spacy / Mark Villaver",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=373558&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=373558)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=373558)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=373558)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=373558)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=373558)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt5297750",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "373558",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "grayathletica",
+                    "param.widget": "True",
+                    "popularity": "11.498",
+                    "revenue": "$0",
+                    "slug_id": "taylor-swift-the-1989-world-tour-live-2015",
+                    "studio": "Apple",
+                    "tmdb_id": "373558",
+                    "tmdb_rating": "8.5",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "109",
+                    "trakt_id": "224461",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Jonas \u00c5kerlund"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fuFdgL6AIUQwV0xObeWulHvTU7Ae.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=373558",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique",
+                    "Documentaire"
+                ],
+                "imdbnumber": "tt5297750",
+                "label": "Taylor Swift: The 1989 World Tour - Live",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Taylor Swift: The 1989 World Tour - Live",
+                "playcount": 0,
+                "plot": "The 1989 World Tour est la quatri\u00e8me tourn\u00e9e de la chanteuse am\u00e9ricaine Taylor Swift, qui a d\u00e9but\u00e9 au Japon le 5 mai 2015 et s'ach\u00e8vera en Australie le 12 d\u00e9cembre 2015. Le 20 d\u00e9cembre The 1989 World Tour est publi\u00e9 en exclusivit\u00e9 sur le nouveau site de streaming Apple Music.",
+                "plotoutline": "",
+                "premiered": "2015-12-20",
+                "productioncode": "",
+                "rating": 8.5,
+                "resume": {
+                    "position": 0.0,
+                    "total": 7920.0
+                },
+                "runtime": 7920,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Apple"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Taylor Swift: The 1989 World Tour - Live",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=fhttBMZT5zw",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt5297750",
+                    "slug": "taylor-swift-the-1989-world-tour-live-2015",
+                    "tmdb": "373558",
+                    "trakt": "224461",
+                    "unknown": "tt5297750"
+                },
+                "votes": "109",
+                "writer": [],
+                "year": 2015
+            },
+            {
+                "album": "",
+                "art": {
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2feGkE9EaTVbNvZ3IuvKN4hj1GNDl.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2feGkE9EaTVbNvZ3IuvKN4hj1GNDl.jpg/"
+                },
+                "artist": [],
+                "cast": [],
+                "country": [],
+                "customproperties": {
+                    "budget": "$0",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=85471&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=85471)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=85471)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=85471)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=85471)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=85471)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "85471",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "grayathletica",
+                    "param.widget": "True",
+                    "popularity": "1.642",
+                    "revenue": "$0",
+                    "slug_id": "taylor-swift-just-for-you-2012",
+                    "tmdb_id": "85471",
+                    "tmdb_rating": "7.3",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "5",
+                    "trakt_id": "64193",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Maureen Goldthrope"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=85471",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique",
+                    "Documentaire"
+                ],
+                "imdbnumber": "",
+                "label": "Taylor Swift: Just for You",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Taylor Swift: Just for You",
+                "playcount": 0,
+                "plot": "",
+                "plotoutline": "",
+                "premiered": "2012-02-01",
+                "productioncode": "",
+                "rating": 7.300000190734863,
+                "resume": {
+                    "position": 0.0,
+                    "total": 3540.0
+                },
+                "runtime": 3540,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Taylor Swift: Just for You",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "slug": "taylor-swift-just-for-you-2012",
+                    "tmdb": "85471",
+                    "trakt": "64193"
+                },
+                "votes": "5",
+                "writer": [],
+                "year": 2012
+            },
+            {
+                "album": "",
+                "art": {
+                    "clearlogo": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fwyv5frtXYkQQwLTaGbpPcdgLlmt.png/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f68W3Qn9A53EC59FL8eV81a7klFU.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f34LmLEaeFDgyo004ucj6RwujDFO.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f34LmLEaeFDgyo004ucj6RwujDFO.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Taylor Swift",
+                        "order": 0,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Caitlin Evanson",
+                        "order": 1,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Jody Harris",
+                        "order": 2,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Amos Heller",
+                        "order": 3,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Liz Huett",
+                        "order": 4,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Michael Meadows",
+                        "order": 5,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Grant Mickelson",
+                        "order": 6,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Daniel Sadownick",
+                        "order": 7,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Paul Sidoti",
+                        "order": 8,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Al Wilson",
+                        "order": 9,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Charity Baroni",
+                        "order": 10,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Shannon Beach",
+                        "order": 11,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Justin Boulet",
+                        "order": 12,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Dom Kelley",
+                        "order": 13,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Fernando Miro",
+                        "order": 14,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Meredith Ostrowsky",
+                        "order": 15,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Marlyn Ortiz",
+                        "order": 16,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Kerry Wee",
+                        "order": 17,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Lauren Attanasio",
+                        "order": 18,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Bobby Savage",
+                        "order": 19,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Claire Callaway",
+                        "order": 20,
+                        "role": "Self"
+                    }
+                ],
+                "country": [
+                    "United States of America"
+                ],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Taylor Swift / Caitlin Evanson / Jody Harris / Amos Heller / Liz Huett / Michael Meadows / Grant Mickelson / Daniel Sadownick / Paul Sidoti / Al Wilson / Charity Baroni / Shannon Beach / Justin Boulet / Dom Kelley / Fernando Miro / Meredith Ostrowsky / Marlyn Ortiz / Kerry Wee / Lauren Attanasio / Bobby Savage / Claire Callaway",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=80009&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=80009)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=80009)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=80009)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=80009)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=80009)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt2103256",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "80009",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "grayathletica",
+                    "param.widget": "True",
+                    "popularity": "9.011",
+                    "revenue": "$0",
+                    "slug_id": "taylor-swift-speak-now-world-tour-live-2011",
+                    "studio": "Taylor Swift Productions",
+                    "tmdb_id": "80009",
+                    "tmdb_rating": "8.5",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "35",
+                    "trakt_id": "59508",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Ryan Polito"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f68W3Qn9A53EC59FL8eV81a7klFU.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=80009",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique",
+                    "Documentaire"
+                ],
+                "imdbnumber": "tt2103256",
+                "label": "Taylor Swift: Speak Now World Tour Live",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Taylor Swift: Speak Now World Tour Live",
+                "playcount": 0,
+                "plot": "",
+                "plotoutline": "",
+                "premiered": "2011-11-21",
+                "productioncode": "",
+                "rating": 8.5,
+                "resume": {
+                    "position": 0.0,
+                    "total": 7740.0
+                },
+                "runtime": 7740,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Taylor Swift Productions"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Taylor Swift: Speak Now World Tour Live",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=KFoOCZeKgzQ",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt2103256",
+                    "slug": "taylor-swift-speak-now-world-tour-live-2011",
+                    "tmdb": "80009",
+                    "trakt": "59508",
+                    "unknown": "tt2103256"
+                },
+                "votes": "35",
+                "writer": [],
+                "year": 2011
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2feD4s0ey8rjrkyszjXjjxG5eBwjK.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2flN6JKSObNhoCEf4Oht3hNIBV9K1.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2flN6JKSObNhoCEf4Oht3hNIBV9K1.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Gwen Stefani",
+                        "order": 0,
+                        "role": "Herself"
+                    },
+                    {
+                        "name": "Charlotte Bell",
+                        "order": 1,
+                        "role": "Herself"
+                    },
+                    {
+                        "name": "Jonathan 'Legacy' Perez",
+                        "order": 2,
+                        "role": ""
+                    }
+                ],
+                "country": [
+                    "United States of America"
+                ],
+                "customproperties": {
+                    "budget": "$312,000",
+                    "cast": "Gwen Stefani / Charlotte Bell / Jonathan 'Legacy' Perez",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=46530&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=46530)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=46530)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=46530)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=46530)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=46530)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt1188701",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "46530",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "grayathletica",
+                    "param.widget": "True",
+                    "popularity": "2.438",
+                    "revenue": "$0",
+                    "slug_id": "gwen-stefani-harajuku-lovers-live-2006",
+                    "studio": "Oil Factory",
+                    "tmdb_id": "46530",
+                    "tmdb_rating": "6.9",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "5",
+                    "trakt_id": "31931",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Sophie Muller"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2feD4s0ey8rjrkyszjXjjxG5eBwjK.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=46530",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique"
+                ],
+                "imdbnumber": "tt1188701",
+                "label": "Gwen Stefani: Harajuku Lovers Live",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Gwen Stefani: Harajuku Lovers Live",
+                "playcount": 0,
+                "plot": "1. Harajuku Girls2. What You Waiting For?3. The Real Thing4. Crash5. Luxurious6. Rich Girl7. Danger Zone8. Long Way To Go9. Wind It Up10. Orange County Girl11. Cool12. Serious13. Bubble Pop Electric14. Hollaback Girl",
+                "plotoutline": "",
+                "premiered": "2006-12-05",
+                "productioncode": "",
+                "rating": 6.900000095367432,
+                "resume": {
+                    "position": 0.0,
+                    "total": 5040.0
+                },
+                "runtime": 5040,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Oil Factory"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Gwen Stefani: Harajuku Lovers Live",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt1188701",
+                    "slug": "gwen-stefani-harajuku-lovers-live-2006",
+                    "tmdb": "46530",
+                    "trakt": "31931",
+                    "unknown": "tt1188701"
+                },
+                "votes": "5",
+                "writer": [],
+                "year": 2006
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fqU3M9OR0CNFp5s2TelQObiErKgH.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fg39Ecq01ka9nWAGXvmKX6LSfWRB.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fg39Ecq01ka9nWAGXvmKX6LSfWRB.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Britney Spears",
+                        "order": 0,
+                        "role": "Herself"
+                    },
+                    {
+                        "name": "Stevvi Alexander",
+                        "order": 1,
+                        "role": "Herself - Band / Background Vocalist"
+                    },
+                    {
+                        "name": "Gromyko Collins",
+                        "order": 2,
+                        "role": "Himself  Band / Background Vocalist"
+                    },
+                    {
+                        "name": "DeAnna Walters",
+                        "order": 3,
+                        "role": "Dancer"
+                    }
+                ],
+                "country": [
+                    "United States of America"
+                ],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Britney Spears / Stevvi Alexander / Gromyko Collins / DeAnna Walters",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=52820&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=52820)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=52820)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=52820)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=52820)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=52820)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt0420534",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "52820",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "grayathletica",
+                    "param.widget": "True",
+                    "popularity": "3.685",
+                    "revenue": "$0",
+                    "slug_id": "britney-spears-live-from-miami-2004",
+                    "studio": "Showtime Networks",
+                    "tmdb_id": "52820",
+                    "tmdb_rating": "7.3",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "14",
+                    "trakt_id": "37237",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Hamish Hamilton",
+                    "Kevin Tancharoen"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fqU3M9OR0CNFp5s2TelQObiErKgH.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=52820",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique",
+                    "Documentaire"
+                ],
+                "imdbnumber": "tt0420534",
+                "label": "Britney Spears: Live from Miami",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Britney Spears: Live from Miami",
+                "playcount": 0,
+                "plot": "La cha\u00eene Showtime vous offre une occasion exclusive de voir Britney Spears en concert, de Miami, le dimanche 28 mars 2004. Ce concert de 90 minutes promet de vous \u00e9tonner, de vous provoquer et de vous captiver !",
+                "plotoutline": "",
+                "premiered": "2004-03-28",
+                "productioncode": "",
+                "rating": 7.300000190734863,
+                "resume": {
+                    "position": 0.0,
+                    "total": 5520.0
+                },
+                "runtime": 5520,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Showtime Networks"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Britney Spears: Live from Miami",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=jFdNINAWy58",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt0420534",
+                    "slug": "britney-spears-live-from-miami-2004",
+                    "tmdb": "52820",
+                    "trakt": "37237",
+                    "unknown": "tt0420534"
+                },
+                "votes": "14",
+                "writer": [
+                    "Maurissa Tancharoen"
+                ],
+                "year": 2004
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fbVSmkYQkxoRvY5T6P8A2shr1fu7.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fOk6EA0YwvajMrguNAu4e2YACht.jpg/",
+                    "landscape": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fbVSmkYQkxoRvY5T6P8A2shr1fu7.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fOk6EA0YwvajMrguNAu4e2YACht.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Justin Timberlake",
+                        "order": 0,
+                        "role": "Himself"
+                    }
+                ],
+                "country": [
+                    "United States of America"
+                ],
+                "customproperties": {
+                    "available_releases": "Physical",
+                    "budget": "$0",
+                    "cast": "Justin Timberlake",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=20409&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=20409)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=20409)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=20409)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=20409)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=20409)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt1099972",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "20409",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "grayathletica",
+                    "param.widget": "True",
+                    "physical_release": "2008-04-01",
+                    "popularity": "2.574",
+                    "provider.link": "https://www.themoviedb.org/movie/20409-justin-timberlake-futuresex-loveshow-live-from-madison-square-garden/watch?locale=FR",
+                    "providers": "Apple iTunes",
+                    "revenue": "$0",
+                    "slug_id": "justin-timberlake-futuresex-loveshow-live-from-madison-square-garden-2007",
+                    "studio": "Sony BMG Music Entertainment",
+                    "tmdb_id": "20409",
+                    "tmdb_rating": "7.8",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "6",
+                    "trakt_id": "12529",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Marty Callner"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fbVSmkYQkxoRvY5T6P8A2shr1fu7.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=20409",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique",
+                    "Documentaire"
+                ],
+                "imdbnumber": "tt1099972",
+                "label": "Justin Timberlake: FutureSex/LoveShow - Live from Madison Square Garden",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Justin Timberlake: FutureSex/LoveShow - Live from Madison Square Garden",
+                "playcount": 0,
+                "plot": "La tourn\u00e9e 2007 de JUSTIN TIMBERLAKE a \u00e9t\u00e9 tr\u00e8s spectaculaire : sc\u00e8ne centrale ronde, plateformes atteignant les tribunes, rideaux transparents faisant office de m\u00e9ga-\u00e9crans, syst\u00e8me d'\u00e9clairage \u00e9tonnant, chor\u00e9graphie \u00e0 couper le souffle et ce n'\u00e9tait que le cadre d'un concert exceptionnel, avec de grands musiciens (dont l'extraordinaire participation de Timbaland), des choristes extr\u00eamement talentueux, des sons futuristes et la voix et les chansons de JUSTIN au centre de l'attention.",
+                "plotoutline": "",
+                "premiered": "2007-09-03",
+                "productioncode": "",
+                "rating": 7.800000190734863,
+                "resume": {
+                    "position": 0.0,
+                    "total": 8040.0
+                },
+                "runtime": 8040,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Sony BMG Music Entertainment"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Justin Timberlake: FutureSex/LoveShow - Live from Madison Square Garden",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt1099972",
+                    "slug": "justin-timberlake-futuresex-loveshow-live-from-madison-square-garden-2007",
+                    "tmdb": "20409",
+                    "trakt": "12529",
+                    "unknown": "tt1099972"
+                },
+                "votes": "6",
+                "writer": [],
+                "year": 2007
+            },
+            {
+                "album": "",
+                "art": {
+                    "banner": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f188506%2fmoviebanner%2falanis-morissette-live-at-montreux-2012-5fb2906b7de93.jpg/",
+                    "clearart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f188506%2fhdmovieclearart%2falanis-morissette-live-at-montreux-2012-5fb28e6080a32.png/",
+                    "clearlogo": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f188506%2fhdmovielogo%2falanis-morissette-live-at-montreux-2012-55c733912108b.png/",
+                    "discart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f188506%2fmoviedisc%2falanis-morissette-live-at-montreux-2012-5fb297ab3b832.png/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fh2dm0rpRe3QwIH8YEECZJPadBpc.jpg/",
+                    "fanart1": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f188506%2fmoviebackground%2falanis-morissette-live-at-montreux-2012-5fb28eff4884b.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fkdJBdGbDnDV5hfJMDCtxU3kMivz.jpg/",
+                    "landscape": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f188506%2fmoviethumb%2falanis-morissette-live-at-montreux-2012-5fb290ac272fc.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fkdJBdGbDnDV5hfJMDCtxU3kMivz.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Alanis Morissette",
+                        "order": 0,
+                        "role": "Herself"
+                    }
+                ],
+                "country": [],
+                "customproperties": {
+                    "available_releases": "Theatrical",
+                    "budget": "$0",
+                    "cast": "Alanis Morissette",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=188506&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=188506)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=188506)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=188506)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=188506)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=188506)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt5343512",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "188506",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "grayathletica",
+                    "param.widget": "True",
+                    "popularity": "1.688",
+                    "provider.link": "https://www.themoviedb.org/movie/188506-alanis-morissette-live-at-montreux-2012/watch?locale=FR",
+                    "providers": "Amazon Prime Video / Apple iTunes",
+                    "revenue": "$0",
+                    "slug_id": "alanis-morissette-live-at-montreux-2012-2013",
+                    "theatrical_release": "2013-04-21",
+                    "tmdb_id": "188506",
+                    "tmdb_rating": "8.8",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "3",
+                    "trakt_id": "117966",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fh2dm0rpRe3QwIH8YEECZJPadBpc.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=188506",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique"
+                ],
+                "imdbnumber": "tt5343512",
+                "label": "Alanis Morissette: Live at Montreux",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Alanis Morissette: Live at Montreux 2012",
+                "playcount": 0,
+                "plot": "",
+                "plotoutline": "",
+                "premiered": "2013-04-18",
+                "productioncode": "",
+                "rating": 8.800000190734863,
+                "resume": {
+                    "position": 0.0,
+                    "total": 5880.0
+                },
+                "runtime": 5880,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Alanis Morissette: Live at Montreux",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=jnAnUv81_l0",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt5343512",
+                    "slug": "alanis-morissette-live-at-montreux-2012-2013",
+                    "tmdb": "188506",
+                    "trakt": "117966",
+                    "unknown": "tt5343512"
+                },
+                "votes": "3",
+                "writer": [],
+                "year": 2013
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fswKfZN64nRPYhODFZmCwgMNytmf.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fofZXWrAV9FoDt64BnkDTCm4npMW.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fofZXWrAV9FoDt64BnkDTCm4npMW.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Adele",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Graham Norton",
+                        "order": 1,
+                        "role": ""
+                    }
+                ],
+                "country": [
+                    "United Kingdom"
+                ],
+                "customproperties": {
+                    "available_releases": "TV",
+                    "budget": "$0",
+                    "cast": "Adele / Graham Norton",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=369533&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=369533)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=369533)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=369533)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=369533)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=369533)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt5224376",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "369533",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "grayathletica",
+                    "param.widget": "True",
+                    "popularity": "2.128",
+                    "revenue": "$0",
+                    "slug_id": "adele-at-the-bbc-2015",
+                    "studio": "BBC One",
+                    "tmdb_id": "369533",
+                    "tmdb_rating": "6.9",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "14",
+                    "trakt_id": "224056",
+                    "tv_release": "2015-12-02",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fswKfZN64nRPYhODFZmCwgMNytmf.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=369533",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique"
+                ],
+                "imdbnumber": "tt5224376",
+                "label": "Adele : Live in London",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "Rated 10",
+                "originaltitle": "Adele at the BBC",
+                "playcount": 0,
+                "plot": "Le temps d'une soir\u00e9e exceptionnelle, Alcaline laisse la place \u00e0 Adele pour qu'elle fasse... son show. Un show qui va vous filer les poils, mais aussi vous faire rire, vous faire pleurer. Bref : une palette d'\u00e9motions musicales pour une soir\u00e9e in\u00e9dite. C'est promis, vous allez d\u00e9couvrir Adele comme vous ne l'avez jamais vue !",
+                "plotoutline": "",
+                "premiered": "2015-11-20",
+                "productioncode": "",
+                "rating": 6.900000095367432,
+                "resume": {
+                    "position": 0.0,
+                    "total": 3900.0
+                },
+                "runtime": 3900,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "BBC One"
+                ],
+                "tag": [],
+                "tagline": "Adele interpr\u00e8te en exclusivit\u00e9 les titres de son 3e album, \u00ab25\u00bb",
+                "thumbnail": "",
+                "title": "Adele : Live in London",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=Rf6epv4STtI",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt5224376",
+                    "slug": "adele-at-the-bbc-2015",
+                    "tmdb": "369533",
+                    "trakt": "224056",
+                    "unknown": "tt5224376"
+                },
+                "votes": "14",
+                "writer": [],
+                "year": 2015
+            },
+            {
+                "album": "",
+                "art": {
+                    "banner": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f27308%2fmoviebanner%2fpink---funhouse-tour-live-in-australia-5254619dbb8a3.jpg/",
+                    "clearlogo": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f27308%2fhdmovielogo%2fpink---funhouse-tour-live-in-australia-50c499f1a8f74.png/",
+                    "discart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f27308%2fmoviedisc%2fpink---funhouse-tour-live-in-australia-500da77c3b5bd.png/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fh0Ys8VX7bKRNa6AFuUZ7LJFo5c2.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fekMrcb6FpM4UvwAXodKuuXRX7q.jpg/",
+                    "landscape": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f27308%2fmoviethumb%2fpink---funhouse-tour-live-in-australia-62ae195dbb12a.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fekMrcb6FpM4UvwAXodKuuXRX7q.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Pink",
+                        "order": 0,
+                        "role": "P!NK"
+                    },
+                    {
+                        "name": "Alison Faulk",
+                        "order": 1,
+                        "role": "Choreographer / Dancer"
+                    }
+                ],
+                "country": [
+                    "Australia"
+                ],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Pink / Alison Faulk",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=27308&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=27308)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=27308)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=27308)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=27308)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=27308)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt1596280",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "27308",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "grayathletica",
+                    "param.widget": "True",
+                    "popularity": "1.801",
+                    "provider.link": "https://www.themoviedb.org/movie/27308-p-nk-funhouse-tour-live-in-australia/watch?locale=FR",
+                    "providers": "Apple iTunes",
+                    "revenue": "$0",
+                    "slug_id": "p-nk-funhouse-tour-live-in-australia-2009",
+                    "studio": "LaFace Records",
+                    "tmdb_id": "27308",
+                    "tmdb_rating": "8.4",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "14",
+                    "trakt_id": "16749",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Pink",
+                    "Baz Halpin",
+                    "Larn Poland"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fh0Ys8VX7bKRNa6AFuUZ7LJFo5c2.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=27308",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique"
+                ],
+                "imdbnumber": "tt1596280",
+                "label": "P!nk: Funhouse Tour - Live in Australia",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "P!nk: Funhouse Tour - Live in Australia",
+                "playcount": 0,
+                "plot": "Alors que Pink est encore en pleine tourn\u00e9e mondiale, elle nous livre d\u00e9j\u00e0 son Funhouse Tour en DVD ! Celle qu'on pr\u00e9sente comme la bad girl est aujourd'hui la plus grand performeuse de la pop ! Un live o\u00f9 s'encha\u00eenent acrobaties et prouesses techniques, une chanteuse qui prend des risques en live complet, et le tout avec un grain de folie qui la caract\u00e9rise bien !",
+                "plotoutline": "",
+                "premiered": "2009-12-08",
+                "productioncode": "",
+                "rating": 8.399999618530273,
+                "resume": {
+                    "position": 0.0,
+                    "total": 7200.0
+                },
+                "runtime": 7200,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "LaFace Records"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "P!nk: Funhouse Tour - Live in Australia",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=wNxBPL-_T2M",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt1596280",
+                    "slug": "p-nk-funhouse-tour-live-in-australia-2009",
+                    "tmdb": "27308",
+                    "trakt": "16749",
+                    "unknown": "tt1596280"
+                },
+                "votes": "14",
+                "writer": [
+                    "Pink"
+                ],
+                "year": 2009
+            },
+            {
+                "album": "",
+                "art": {
+                    "icon": "image://C%3a%5cKodiTest%5cKodi%20matrix%20pour%20zip%20complet%202%20full%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage.png/",
+                    "landscape": "image://C%3a%5cKodiTest%5cKodi%20matrix%20pour%20zip%20complet%202%20full%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage_wide.png/"
+                },
+                "artist": [],
+                "cast": [],
+                "country": [],
+                "customproperties": {
+                    "item.info": "trakt_userlist",
+                    "item.list_name": "Concerts",
+                    "item.list_slug": "concerts",
+                    "item.owner": "true",
+                    "item.page": "2",
+                    "item.plugin_category": "Concerts",
+                    "item.user_slug": "grayathletica",
+                    "item.widget": "True",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "grayathletica",
+                    "param.widget": "True",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Concerts&list_slug=concerts&owner=true&plugin_category=Concerts&user_slug=grayathletica&page=2&widget=true&reload=$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]",
+                "filetype": "directory",
+                "firstaired": "",
+                "genre": [],
+                "imdbnumber": "",
+                "label": "Page suivante",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "x-directory/normal",
+                "mpaa": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "",
+                "plotoutline": "",
+                "premiered": "",
+                "productioncode": "",
+                "rating": 0.0,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 0,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "unknown",
+                "votes": "0",
+                "writer": [],
+                "year": 0
+            }
+        ],
+        "limits": {
+            "end": 20,
+            "start": 0,
+            "total": 20
+        }
+    }
+}

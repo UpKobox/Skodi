@@ -1,0 +1,13 @@
+{
+    "history": [
+        [
+            1662545271.5934825,
+            "335f4e8addeef9e568d09ee479314bad4c018d64"
+        ]
+    ],
+    "widgets": [
+        "8da54429-48d3-4fc9-83d6-10f0261bccd6",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_recommendations&tmdb_type=movie&widget=True"
+}

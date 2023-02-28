@@ -1,0 +1,42 @@
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>Recherche Series</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/tv-search.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&amp;famille=Search&amp;offset=0&amp;limit=500",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Mon historique</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/recent.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&amp;famille=Mes+favoris+HK",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>super heros</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/rocket.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.program.autowidget/?mode=path&amp;action=merged&amp;group=super_heros_hk2-1656869076.514843&amp;id=1861c57f-b37a-4bde-90d9-ad49a2350ec9&amp;refresh=$INFO[Window(10000).Property(autowidget-1861c57f-b37a-4bde-90d9-ad49a2350ec9-refresh)]&amp;reload=",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Serie anime disney</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/mickey.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&amp;famille=groupes&amp;offset=0&amp;nom=disney+series",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Serie jeunes ados</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/dj.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&amp;famille=groupes&amp;offset=0&amp;nom=serie+jeunes+ados",return)</action>
+		</shortcut>
+	</shortcuts>

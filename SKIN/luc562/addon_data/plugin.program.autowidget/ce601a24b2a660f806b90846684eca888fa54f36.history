@@ -1,0 +1,57 @@
+{
+    "history": [
+        [
+            1662545303.9911044,
+            "6e013d145e6aaa57fba08b13c9c4e06615fb2563"
+        ],
+        [
+            1664347396.550002,
+            "cd6728516eb4d50eccd7bb8c328b4dcaed308922"
+        ],
+        [
+            1664347409.6924262,
+            "cd6728516eb4d50eccd7bb8c328b4dcaed308922"
+        ],
+        [
+            1664348001.47523,
+            "cd6728516eb4d50eccd7bb8c328b4dcaed308922"
+        ],
+        [
+            1664348343.8381326,
+            "cd6728516eb4d50eccd7bb8c328b4dcaed308922"
+        ],
+        [
+            1664348706.3458538,
+            "cd6728516eb4d50eccd7bb8c328b4dcaed308922"
+        ],
+        [
+            1664349379.4349697,
+            "3d66537290d739c6de7f6f18b094785fcb47fc55"
+        ],
+        [
+            1664350035.4514973,
+            "cd6728516eb4d50eccd7bb8c328b4dcaed308922"
+        ],
+        [
+            1664351942.6667428,
+            "2851340db343fa6a98664e145ceadf7b6eb45eac"
+        ],
+        [
+            1664354968.4393249,
+            "2851340db343fa6a98664e145ceadf7b6eb45eac"
+        ],
+        [
+            1664356141.1441164,
+            "2851340db343fa6a98664e145ceadf7b6eb45eac"
+        ],
+        [
+            1664358220.2374794,
+            "2851340db343fa6a98664e145ceadf7b6eb45eac"
+        ]
+    ],
+    "widgets": [
+        "d70f506e-16a6-4f04-bd9c-45ed4680c8ae",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Concerts&list_slug=concerts&owner=true&plugin_category=Concerts&user_slug=bassman22pu&widget=True"
+}

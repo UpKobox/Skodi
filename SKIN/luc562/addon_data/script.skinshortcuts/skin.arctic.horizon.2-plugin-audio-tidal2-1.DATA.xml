@@ -1,0 +1,58 @@
+<shortcuts>
+	<shortcut>
+		<defaultID>plugin.audio.tidal2/homepage_item/PLAYLIST_LIST/pages%2Fdata%2Ff002855a-c6d0-4e3e-b62e-cd1759e0c053</defaultID>
+		<label>Nouvelles playlists vidéo</label>
+		<label2>Extensions Musique</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2forg.xbmc.kodi%2ffiles%2f.kodi%2faddons%2fplugin.audio.tidal2%2ficon.png/</thumb>
+		<action>ActivateWindow(Music,"plugin://plugin.audio.tidal2/homepage_item/PLAYLIST_LIST/pages%2Fdata%2Ff002855a-c6d0-4e3e-b62e-cd1759e0c053",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>plugin.audio.tidal2/featured/NEWS</defaultID>
+		<label>Promotions</label>
+		<label2>Extensions Musique</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2forg.xbmc.kodi%2ffiles%2f.kodi%2faddons%2fplugin.audio.tidal2%2ficon.png/</thumb>
+		<action>ActivateWindow(Music,"plugin://plugin.audio.tidal2/featured/NEWS",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>plugin.audio.tidal2/homepage_item/MIX_LIST/pages%2Fdata%2F5b3860d2-0ffc-47b5-ae62-4147772e794e</defaultID>
+		<label>Mixes pour vous</label>
+		<label2>Extensions Musique</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2forg.xbmc.kodi%2ffiles%2f.kodi%2faddons%2fplugin.audio.tidal2%2ficon.png/</thumb>
+		<action>ActivateWindow(Music,"plugin://plugin.audio.tidal2/homepage_item/MIX_LIST/pages%2Fdata%2F5b3860d2-0ffc-47b5-ae62-4147772e794e",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>plugin.audio.tidal2/homepage_item/MIX_LIST/pages%2Fdata%2Fad239095-63cc-44ab-b2d2-5b3b58592e67</defaultID>
+		<label>Mixes pour vous (Videos)</label>
+		<label2>Extensions Musique</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2forg.xbmc.kodi%2ffiles%2f.kodi%2faddons%2fplugin.audio.tidal2%2ficon.png/</thumb>
+		<action>ActivateWindow(Music,"plugin://plugin.audio.tidal2/homepage_item/MIX_LIST/pages%2Fdata%2Fad239095-63cc-44ab-b2d2-5b3b58592e67",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>plugin.audio.tidal2/category/genres</defaultID>
+		<label>Genres</label>
+		<label2>Extensions Musique</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2forg.xbmc.kodi%2ffiles%2f.kodi%2faddons%2fplugin.audio.tidal2%2ficon.png/</thumb>
+		<action>ActivateWindow(Music,"plugin://plugin.audio.tidal2/category/genres",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>plugin.audio.tidal2/category/moods</defaultID>
+		<label>Moods</label>
+		<label2>Extensions Musique</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2forg.xbmc.kodi%2ffiles%2f.kodi%2faddons%2fplugin.audio.tidal2%2ficon.png/</thumb>
+		<action>ActivateWindow(Music,"plugin://plugin.audio.tidal2/category/moods",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>plugin.audio.tidal2</defaultID>
+		<label>TIDAL2</label>
+		<label2>Extensions Musique</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>thumb</thumb>
+		<action>ActivateWindow(Music,"plugin://plugin.audio.tidal2",return)</action>
+		</shortcut>
+	</shortcuts>

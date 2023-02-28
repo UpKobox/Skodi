@@ -1,0 +1,176 @@
+[
+    [
+        "::PROFILELIST::",
+        [
+            [
+                "C:\\Users\\Luc56\\Desktop\\les kodis d'envois\\ah2\\Kodi\\portable_data\\userdata\\",
+                "String.IsEqual(System.ProfileName,Master user)",
+                "Master user"
+            ]
+        ]
+    ],
+    [
+        "::SCRIPTVER::",
+        "2.0.1"
+    ],
+    [
+        "::XBMCVER::",
+        "19"
+    ],
+    [
+        "::HIDEPVR::",
+        "false"
+    ],
+    [
+        "::SHARED::",
+        "true"
+    ],
+    [
+        "::SKINDIR::",
+        "skin.arctic.horizon.2"
+    ],
+    [
+        "::FULLMENU::",
+        "True"
+    ],
+    [
+        "::SKINVER::",
+        "0.7.28"
+    ],
+    [
+        "C:\\Users\\Luc56\\Desktop\\les kodis d'envois\\ah2\\Kodi\\portable_data\\addons\\skin.arctic.horizon.2\\shortcuts\\searchmenu.DATA.xml",
+        "f3ce44af32a8b7ccef6d5dafae266cf1"
+    ],
+    [
+        "C:\\Users\\Luc56\\Desktop\\les kodis d'envois\\ah2\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-24001.DATA.xml",
+        "73d7488b8725fafdfc7b726a01015cd2"
+    ],
+    [
+        "C:\\Users\\Luc56\\Desktop\\les kodis d'envois\\ah2\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-accueil-1.DATA.xml",
+        "519027383cdf559d0428fad999e30763"
+    ],
+    [
+        "C:\\Users\\Luc56\\Desktop\\les kodis d'envois\\ah2\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-trakt.DATA.xml",
+        "379c0cb0f0c8c3963235d19fe6e1308b"
+    ],
+    [
+        "C:\\Users\\Luc56\\Desktop\\les kodis d'envois\\ah2\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-tv-replay.DATA.xml",
+        "7a913c6c46d3828c0534ada2c6b41679"
+    ],
+    [
+        "C:\\Users\\Luc56\\Desktop\\les kodis d'envois\\ah2\\Kodi\\portable_data\\addons\\skin.arctic.horizon.2\\shortcuts\\mainmenu.DATA.xml",
+        "b191804fe49051325e5a6a380cc3a30d"
+    ],
+    [
+        "C:\\Users\\Luc56\\Desktop\\les kodis d'envois\\ah2\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2.properties",
+        "815f2bfa9f5fea34cae559386b9b1395"
+    ],
+    [
+        "C:\\Users\\Luc56\\Desktop\\les kodis d'envois\\ah2\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-searchmenu.DATA.xml",
+        "c77d5433689b39be002010ee2d2e02a9"
+    ],
+    [
+        "C:\\Users\\Luc56\\Desktop\\les kodis d'envois\\ah2\\Kodi\\portable_data\\addons\\script.skinshortcuts\\resources\\shortcuts\\mainmenu.DATA.xml",
+        "8523f5b50afc14f67af449ca99ee21f8"
+    ],
+    [
+        "C:\\Users\\Luc56\\Desktop\\les kodis d'envois\\ah2\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-mainmenu.DATA.xml",
+        "c7c08d62795239a3852eec778f10c43e"
+    ],
+    [
+        "C:\\Users\\Luc56\\Desktop\\les kodis d'envois\\ah2\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-powermenu.DATA.xml",
+        "3a95e6d34dd9681886f979d60a36ec7b"
+    ],
+    [
+        "C:\\Users\\Luc56\\Desktop\\les kodis d'envois\\ah2\\Kodi\\portable_data\\addons\\script.skinshortcuts\\resources\\shortcuts\\overrides.xml",
+        "5d367b4cf434ffcb86069273d402dc28"
+    ],
+    [
+        "C:\\Users\\Luc56\\Desktop\\les kodis d'envois\\ah2\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-famille-1.DATA.xml",
+        "a8fa33217a02c1504f0c16316f8d89ee"
+    ],
+    [
+        "C:\\Users\\Luc56\\Desktop\\les kodis d'envois\\ah2\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-series-1.DATA.xml",
+        "b50a9ad1455157209130da374f839ec0"
+    ],
+    [
+        "C:\\Users\\Luc56\\Desktop\\les kodis d'envois\\ah2\\Kodi\\portable_data\\addons\\skin.arctic.horizon.2\\1080i\\script-skinshortcuts-includes.xml",
+        "7eb92e8e6d0ba4b4abe53130f3b56d02"
+    ],
+    [
+        "C:\\Users\\Luc56\\Desktop\\les kodis d'envois\\ah2\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-divers-1.DATA.xml",
+        "bdaa8b678db0b568ae19bb72f51d2d76"
+    ],
+    [
+        "C:\\Users\\Luc56\\Desktop\\les kodis d'envois\\ah2\\Kodi\\portable_data\\addons\\skin.arctic.horizon.2\\shortcuts\\31085-1.DATA.xml",
+        "1c583541f8e53cc11913ee73674199b3"
+    ],
+    [
+        "C:\\Users\\Luc56\\Desktop\\les kodis d'envois\\ah2\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-trakt-1.DATA.xml",
+        "1dd301d5c5d938c20d8a691a155b49fd"
+    ],
+    [
+        "C:\\Users\\Luc56\\Desktop\\les kodis d'envois\\ah2\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-films-1.DATA.xml",
+        "419680f3218c083b93e57f10b6e4d947"
+    ],
+    [
+        "C:\\Users\\Luc56\\Desktop\\les kodis d'envois\\ah2\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-24001-1.DATA.xml",
+        "764e7c4aa418ee86e0c8806d71df09f7"
+    ],
+    [
+        "C:\\Users\\Luc56\\Desktop\\les kodis d'envois\\ah2\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-films.DATA.xml",
+        "4ea2a492c0e2351c1ef35d33983b5278"
+    ],
+    [
+        "C:\\Users\\Luc56\\Desktop\\les kodis d'envois\\ah2\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-31085-1.DATA.xml",
+        "e87e735cbdd3d0c564e22f7e4de1f861"
+    ],
+    [
+        "C:\\Users\\Luc56\\Desktop\\les kodis d'envois\\ah2\\Kodi\\portable_data\\addons\\skin.arctic.horizon.2\\shortcuts\\overrides.xml",
+        "1bd56c927eae0c910339ef686fe8f520"
+    ],
+    [
+        "C:\\Users\\Luc56\\Desktop\\les kodis d'envois\\ah2\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-divers.DATA.xml",
+        "631aaf031ac946a753b0467182cfd748"
+    ],
+    [
+        "C:\\Users\\Luc56\\Desktop\\les kodis d'envois\\ah2\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-manga-jap-1.DATA.xml",
+        "15da3b1e76dac64405a5389f0168af15"
+    ],
+    [
+        "C:\\Users\\Luc56\\Desktop\\les kodis d'envois\\ah2\\Kodi\\portable_data\\addons\\skin.arctic.horizon.2\\shortcuts\\template.xml",
+        "23c6d659731c3f7ec8667dd4da1035f6"
+    ],
+    [
+        "C:\\Users\\Luc56\\Desktop\\les kodis d'envois\\ah2\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-famille.DATA.xml",
+        "6347a23d633517112b93358a197051cf"
+    ],
+    [
+        "C:\\Users\\Luc56\\Desktop\\les kodis d'envois\\ah2\\Kodi\\portable_data\\addons\\script.skinshortcuts\\resources\\shortcuts\\livetv.DATA.xml",
+        "3d409a85845a37633a956e43636c0535"
+    ],
+    [
+        "C:\\Users\\Luc56\\Desktop\\les kodis d'envois\\ah2\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-series.DATA.xml",
+        "881a951197a94d0ce3da548390ecf314"
+    ],
+    [
+        "C:\\Users\\Luc56\\Desktop\\les kodis d'envois\\ah2\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-31085.DATA.xml",
+        "7c8c6152d0245c5c2f2a5b7109f1879f"
+    ],
+    [
+        "C:\\Users\\Luc56\\Desktop\\les kodis d'envois\\ah2\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-manga-jap.DATA.xml",
+        "4434292aad8dfd053a5068efc83c716f"
+    ],
+    [
+        "C:\\Users\\Luc56\\Desktop\\les kodis d'envois\\ah2\\Kodi\\portable_data\\addons\\skin.arctic.horizon.2\\shortcuts\\powermenu.DATA.xml",
+        "f620a1c731775d237771930147537f59"
+    ],
+    [
+        "C:\\Users\\Luc56\\Desktop\\les kodis d'envois\\ah2\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-accueil.DATA.xml",
+        "0343a85168d817770f2c29fb8e2cac8e"
+    ],
+    [
+        "C:\\Users\\Luc56\\Desktop\\les kodis d'envois\\ah2\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.arctic.horizon.2-tv-replay-1.DATA.xml",
+        "605cb450e033f36ff51b97f88ac804f4"
+    ]
+]

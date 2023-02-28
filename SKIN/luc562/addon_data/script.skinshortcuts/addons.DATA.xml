@@ -1,0 +1,58 @@
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>Telecharger (Permet de mettre a jour les addons de cette page)</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/download.png</thumb>
+		<action>RunScript(special://home/userdata/addon_data/Scripts/addon_maj.py)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Addon Skin</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/filebox.png</thumb>
+		<action>ActivateWindow(Programs,"plugin://plugin.program.skinrayflix",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>plugin.program.preniumuptobox</defaultID>
+		<label>Prenium Uptobox</label>
+		<label2>Programme</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/_uptobox1.png</thumb>
+		<action>ActivateWindow(Programs,"plugin://plugin.program.preniumuptobox",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>sauvegarde restauration</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/wizard.png</thumb>
+		<action>ActivateWindow(Programs,"plugin://plugin.program.saverayflix",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Activer MAj DataBase Auto u2play</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/repeat.png</thumb>
+		<action>RunScript(special://home/userdata/addon_data/Scripts/autoexec.py)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Mise a Jour Manuelle DataBase</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/download.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=bd",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Nettoyage (Vide Cache, Tmp, Packages et thumbnails) redemarrez ensuite</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/wand.png</thumb>
+		<action>RunScript(special://home/addons/plugin.program.saverayflix/resources/lib/vider_cache.py)</action>
+		</shortcut>
+	</shortcuts>

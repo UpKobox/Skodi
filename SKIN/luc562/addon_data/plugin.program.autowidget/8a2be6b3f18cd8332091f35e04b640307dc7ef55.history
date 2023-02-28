@@ -1,0 +1,53 @@
+{
+    "history": [
+        [
+            1662545305.7074432,
+            "932253f8cbecd7c822061e906d424116eeb9cd11"
+        ],
+        [
+            1664347348.3115435,
+            "4ac5c5829cb06a8598e644d8457b03852a713ad0"
+        ],
+        [
+            1664347972.7248795,
+            "4ac5c5829cb06a8598e644d8457b03852a713ad0"
+        ],
+        [
+            1664348309.6145787,
+            "4ac5c5829cb06a8598e644d8457b03852a713ad0"
+        ],
+        [
+            1664348678.0138862,
+            "4ac5c5829cb06a8598e644d8457b03852a713ad0"
+        ],
+        [
+            1664349349.691016,
+            "5acc546762cfdf50e8292d61eff69a37ccefd61e"
+        ],
+        [
+            1664349661.5468032,
+            "4ac5c5829cb06a8598e644d8457b03852a713ad0"
+        ],
+        [
+            1664350008.206374,
+            "4ac5c5829cb06a8598e644d8457b03852a713ad0"
+        ],
+        [
+            1664351912.2493563,
+            "62e8d7f67f09d81378091b02f929a0011113e2ca"
+        ],
+        [
+            1664354971.5427485,
+            "62e8d7f67f09d81378091b02f929a0011113e2ca"
+        ],
+        [
+            1664358225.037421,
+            "62e8d7f67f09d81378091b02f929a0011113e2ca"
+        ]
+    ],
+    "widgets": [
+        "4c32e37d-c7e2-4922-ba34-24a0615a4d1d",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Films+franc%CC%A7ais+%3E+70%25&list_slug=films-francais-70&plugin_category=Films+franc%CC%A7ais+%3E+70%25&user_slug=atipoul&page=2&widget=true&reload=$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]"
+}

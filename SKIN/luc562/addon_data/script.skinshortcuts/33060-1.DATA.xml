@@ -1,0 +1,10 @@
+<shortcuts>
+	<shortcut>
+		<defaultID>plugin.program.preniumuptobox</defaultID>
+		<label>Prenium Uptobox</label>
+		<label2>Programme</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>thumb</thumb>
+		<action>ActivateWindow(Programs,"plugin://plugin.program.preniumuptobox",return)</action>
+		</shortcut>
+	</shortcuts>

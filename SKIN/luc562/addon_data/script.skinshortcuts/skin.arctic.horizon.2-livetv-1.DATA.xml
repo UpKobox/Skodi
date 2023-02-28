@@ -1,0 +1,18 @@
+<shortcuts>
+	<shortcut>
+		<defaultID>19017</defaultID>
+		<label>19017</label>
+		<label2 />
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(PVR,pvr://recordings/tv/active?view=flat,return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>19173</defaultID>
+		<label>19173</label>
+		<label2 />
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(PVR,pvr://channels/tv,return)</action>
+		</shortcut>
+	</shortcuts>

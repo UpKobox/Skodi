@@ -1,0 +1,18 @@
+<shortcuts>
+	<shortcut>
+		<defaultID>1034</defaultID>
+		<label>1034</label>
+		<label2 />
+		<icon>special://skin/extras/icons/shortcut.png</icon>
+		<thumb />
+		<action>Submenu</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Manga-anime</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://special%3a%2f%2fhome%2faddons%2fplugin.video.sendtokodiU2P%2fresources%2fpng%2fliste.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&amp;famille=groupes&amp;offset=0&amp;nom=manga-anime",return)</action>
+		</shortcut>
+	</shortcuts>

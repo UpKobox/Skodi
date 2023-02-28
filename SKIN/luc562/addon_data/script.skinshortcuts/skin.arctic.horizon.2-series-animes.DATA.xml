@@ -1,0 +1,26 @@
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>Recherche</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://special%3a%2f%2fhome%2faddons%2fplugin.video.sendtokodiU2P%2fresources%2fpng%2fsearch.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&amp;famille=Recherche",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>562</defaultID>
+		<label>562</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultYear.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&amp;famille=Ann%C3%A9e%28s%29&amp;offset=0",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>135</defaultID>
+		<label>135</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultGenre.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=genresHK&amp;typM=tvshow",return)</action>
+		</shortcut>
+	</shortcuts>

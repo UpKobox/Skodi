@@ -1,0 +1,15 @@
+{
+    "history": [
+        [
+            1662728725.136463,
+            "0ab4cbb302494eef02a2a723564c97bb1896f63c"
+        ]
+    ],
+    "widgets": [
+        "c48419da-e001-4639-9f1c-4760e52dbf6d",
+        null,
+        "5e96a5af-a502-4440-a6b0-29b6c27a4c83",
+        "2302c775-4065-4296-b11c-5fe7fcc9eb8b"
+    ],
+    "path": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=groupes&nom=manga%20vostfr&offset=0"
+}

@@ -1,0 +1,23 @@
+<settings version="2">
+    <setting id="widgets.hide_watched" default="true">false</setting>
+    <setting id="widgets.show_next">1</setting>
+    <setting id="widgets.paged">true</setting>
+    <setting id="widgets.hide_duplicates">true</setting>
+    <setting id="widgets.prefer_episodes">true</setting>
+    <setting id="service.refresh_enabled" default="true">0</setting>
+    <setting id="service.refresh_duration">2</setting>
+    <setting id="service.refresh_notification">1</setting>
+    <setting id="service.refresh_sound" default="true">false</setting>
+    <setting id="context.warning" default="true">false</setting>
+    <setting id="ui.color" default="true">white</setting>
+    <setting id="icons.video_genre_icons" default="true">resource.images.moviegenreicons.transparent</setting>
+    <setting id="icons.video_genre_fanart" default="true">resource.images.moviegenrefanart.metrocity</setting>
+    <setting id="icons.music_genre_icons" default="true">resource.images.musicgenreicons.poster</setting>
+    <setting id="icons.music_genre_fanart" default="true">resource.images.musicgenrefanart.coloured</setting>
+    <setting id="icons.studios" default="true">resource.images.studios.white</setting>
+    <setting id="icons.countries" default="true">resource.images.moviecountryicons.maps</setting>
+    <setting id="context.autowidget">true</setting>
+    <setting id="context.advanced" default="true">false</setting>
+    <setting id="logging.debug" default="true">false</setting>
+    <setting id="backup.location" default="true">special://profile/plugin.program.autowidget/backups/</setting>
+</settings>

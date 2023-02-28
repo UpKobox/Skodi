@@ -1,0 +1,134 @@
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>Films HK2</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>plugin://plugin.video.sendtokodiU2P/?action=findf&amp;nom=recherche</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Séries HK2</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>plugin://plugin.video.sendtokodiU2P/?action=findss&amp;nom=recherche</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Acteurs HK2</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>plugin://plugin.video.sendtokodiU2P/?action=findc&amp;nom=recherche</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>movies</defaultID>
+		<label>342</label>
+		<label2>Prédéfini</label2>
+		<icon>special://skin/extras/icons/film.png</icon>
+		<thumb />
+		<action>DefaultSearch-Movies</action>
+		<disabled>True</disabled>
+		</shortcut>
+	<shortcut>
+		<defaultID>tvshows</defaultID>
+		<label>20343</label>
+		<label2>Prédéfini</label2>
+		<icon>special://skin/extras/icons/tv.png</icon>
+		<thumb />
+		<action>DefaultSearch-TvShows</action>
+		<disabled>True</disabled>
+		</shortcut>
+	<shortcut>
+		<defaultID>20360</defaultID>
+		<label>20360</label>
+		<label2>Prédéfini</label2>
+		<icon>special://skin/extras/icons/tv.png</icon>
+		<thumb />
+		<action>DefaultSearch-Episodes</action>
+		<disabled>True</disabled>
+		</shortcut>
+	<shortcut>
+		<defaultID>132</defaultID>
+		<label>132</label>
+		<label2>Prédéfini</label2>
+		<icon>special://skin/extras/icons/songs.png</icon>
+		<thumb />
+		<action>DefaultSearch-Albums</action>
+		<disabled>True</disabled>
+		</shortcut>
+	<shortcut>
+		<defaultID>133</defaultID>
+		<label>133</label>
+		<label2>Prédéfini</label2>
+		<icon>special://skin/extras/icons/songs.png</icon>
+		<thumb />
+		<action>DefaultSearch-Artists</action>
+		<disabled>True</disabled>
+		</shortcut>
+	<shortcut>
+		<defaultID>134</defaultID>
+		<label>134</label>
+		<label2>Prédéfini</label2>
+		<icon>special://skin/extras/icons/songs.png</icon>
+		<thumb />
+		<action>DefaultSearch-Songs</action>
+		<disabled>True</disabled>
+		</shortcut>
+	<shortcut>
+		<defaultID>musicvideos</defaultID>
+		<label>20389</label>
+		<label2>Prédéfini</label2>
+		<icon>special://skin/extras/icons/musicvideo.png</icon>
+		<thumb />
+		<action>DefaultSearch-MusicVideos</action>
+		<disabled>True</disabled>
+		</shortcut>
+	<shortcut>
+		<defaultID>musicvideos--0</defaultID>
+		<label>20389</label>
+		<label2>Prédéfini</label2>
+		<icon>special://skin/extras/icons/musicvideo.png</icon>
+		<thumb />
+		<action>DefaultSearch-MusicVideoArtists</action>
+		<disabled>True</disabled>
+		</shortcut>
+	<shortcut>
+		<defaultID>31168</defaultID>
+		<label>$SKIN[31168|skin.arctic.horizon.2|None]</label>
+		<label2>Prédéfini</label2>
+		<icon>special://skin/extras/icons/film.png</icon>
+		<thumb />
+		<action>DefaultSearch-TMDBMovies</action>
+		<disabled>True</disabled>
+		</shortcut>
+	<shortcut>
+		<defaultID>31169</defaultID>
+		<label>$SKIN[31169|skin.arctic.horizon.2|None]</label>
+		<label2>Prédéfini</label2>
+		<icon>special://skin/extras/icons/tv.png</icon>
+		<thumb />
+		<action>DefaultSearch-TMDBShows</action>
+		<disabled>True</disabled>
+		</shortcut>
+	<shortcut>
+		<defaultID>31170</defaultID>
+		<label>$SKIN[31170|skin.arctic.horizon.2|None]</label>
+		<label2>Prédéfini</label2>
+		<icon>special://skin/extras/icons/sets.png</icon>
+		<thumb />
+		<action>DefaultSearch-TMDBSets</action>
+		<disabled>True</disabled>
+		</shortcut>
+	<shortcut>
+		<defaultID>31171</defaultID>
+		<label>$SKIN[31171|skin.arctic.horizon.2|None]</label>
+		<label2>Prédéfini</label2>
+		<icon>special://skin/extras/icons/person.png</icon>
+		<thumb />
+		<action>DefaultSearch-TMDBPeople</action>
+		<disabled>True</disabled>
+		</shortcut>
+	</shortcuts>

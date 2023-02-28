@@ -1,0 +1,61 @@
+{
+    "history": [
+        [
+            1662545296.8901036,
+            "fc0f46b6ed7a0fa4d389fab565d10b932285dd16"
+        ],
+        [
+            1664347382.2851074,
+            "1ade19243ed43fb05c3b20674eb1ce2ca9e6262d"
+        ],
+        [
+            1664347405.2814198,
+            "1ade19243ed43fb05c3b20674eb1ce2ca9e6262d"
+        ],
+        [
+            1664347995.9806604,
+            "1ade19243ed43fb05c3b20674eb1ce2ca9e6262d"
+        ],
+        [
+            1664348338.7695632,
+            "1ade19243ed43fb05c3b20674eb1ce2ca9e6262d"
+        ],
+        [
+            1664348698.9784303,
+            "1ade19243ed43fb05c3b20674eb1ce2ca9e6262d"
+        ],
+        [
+            1664349368.5399325,
+            "09dd7046ef9ef28e644433e657a607264f751963"
+        ],
+        [
+            1664349686.9764752,
+            "1ade19243ed43fb05c3b20674eb1ce2ca9e6262d"
+        ],
+        [
+            1664350030.0616705,
+            "1ade19243ed43fb05c3b20674eb1ce2ca9e6262d"
+        ],
+        [
+            1664351936.3921926,
+            "c9372562af09264216339cb6e1318205cf524feb"
+        ],
+        [
+            1664354960.1452563,
+            "c9372562af09264216339cb6e1318205cf524feb"
+        ],
+        [
+            1664356136.5609484,
+            "c9372562af09264216339cb6e1318205cf524feb"
+        ],
+        [
+            1664358215.0142536,
+            "c9372562af09264216339cb6e1318205cf524feb"
+        ]
+    ],
+    "widgets": [
+        "d70f506e-16a6-4f04-bd9c-45ed4680c8ae",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Music%20%26%20Live%20Concerts&list_slug=music-live-concerts&owner=true&plugin_category=Music%20%26%20Live%20Concerts&user_slug=condemned&widget=True"
+}

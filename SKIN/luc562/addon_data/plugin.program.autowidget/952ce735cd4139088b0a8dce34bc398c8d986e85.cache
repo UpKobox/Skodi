@@ -1,0 +1,2165 @@
+{
+    "id": 1,
+    "jsonrpc": "2.0",
+    "result": {
+        "files": [
+            {
+                "album": "",
+                "art": {
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2faySkAsvhoZYeiWnTs5Eah9gwCv4.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2faySkAsvhoZYeiWnTs5Eah9gwCv4.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Klayton",
+                        "order": 0,
+                        "role": "Klayton"
+                    },
+                    {
+                        "name": "Brett Stahli",
+                        "order": 1,
+                        "role": "Blue Stahli"
+                    }
+                ],
+                "country": [],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Klayton / Brett Stahli",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=126566&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=126566)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=126566)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=126566)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=126566)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=126566)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "126566",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Music & Live Concerts",
+                    "param.list_slug": "music-live-concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Music & Live Concerts",
+                    "param.user_slug": "condemned",
+                    "param.widget": "True",
+                    "popularity": "0.6",
+                    "revenue": "$0",
+                    "slug_id": "celldweller-live-upon-a-blackstar-2012",
+                    "tmdb_id": "126566",
+                    "tmdb_rating": "0.0",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "0",
+                    "trakt_id": "86858",
+                    "widget": "Music & Live Concerts"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=126566",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [],
+                "imdbnumber": "",
+                "label": "Celldweller - Live Upon A Blackstar",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Celldweller - Live Upon A Blackstar",
+                "playcount": 0,
+                "plot": "",
+                "plotoutline": "",
+                "premiered": "2012-06-12",
+                "productioncode": "",
+                "rating": 0.0,
+                "resume": {
+                    "position": 0.0,
+                    "total": 3780.0
+                },
+                "runtime": 3780,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Celldweller - Live Upon A Blackstar",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "slug": "celldweller-live-upon-a-blackstar-2012",
+                    "tmdb": "126566",
+                    "trakt": "86858"
+                },
+                "votes": "0",
+                "writer": [],
+                "year": 2012
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2ffvJtw3dQ3Ufqz7C9EDHQxAbhNnW.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fbc2YtoZUi8IxztpVS1C0N3Jpzhk.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fbc2YtoZUi8IxztpVS1C0N3Jpzhk.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Alexi Laiho",
+                        "order": 0,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Henkka Blacksmith",
+                        "order": 1,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Roope Latvala",
+                        "order": 2,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Jaska Raatikainen",
+                        "order": 3,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Janne Warman",
+                        "order": 4,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Patric Ullaeus",
+                        "order": 5,
+                        "role": "Himself"
+                    }
+                ],
+                "country": [],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Alexi Laiho / Henkka Blacksmith / Roope Latvala / Jaska Raatikainen / Janne Warman / Patric Ullaeus",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=61249&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=61249)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=61249)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=61249)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=61249)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=61249)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "61249",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Music & Live Concerts",
+                    "param.list_slug": "music-live-concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Music & Live Concerts",
+                    "param.user_slug": "condemned",
+                    "param.widget": "True",
+                    "popularity": "1.125",
+                    "revenue": "$0",
+                    "slug_id": "children-of-bodom-chaos-ridden-years-2006",
+                    "tmdb_id": "61249",
+                    "tmdb_rating": "7.0",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "1",
+                    "trakt_id": "43936",
+                    "widget": "Music & Live Concerts"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2ffvJtw3dQ3Ufqz7C9EDHQxAbhNnW.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=61249",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique"
+                ],
+                "imdbnumber": "",
+                "label": "Children of Bodom - Chaos Ridden Years",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Children of Bodom - Chaos Ridden Years",
+                "playcount": 0,
+                "plot": "",
+                "plotoutline": "",
+                "premiered": "2006-12-05",
+                "productioncode": "",
+                "rating": 7.0,
+                "resume": {
+                    "position": 0.0,
+                    "total": 10980.0
+                },
+                "runtime": 10980,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Children of Bodom - Chaos Ridden Years",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "slug": "children-of-bodom-chaos-ridden-years-2006",
+                    "tmdb": "61249",
+                    "trakt": "43936"
+                },
+                "votes": "1",
+                "writer": [],
+                "year": 2006
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2ff5yFU0moxHlipGQ4PPcJqPiaEw1.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2flzLWoFfHo8fWEaeCH09TESDfQol.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2flzLWoFfHo8fWEaeCH09TESDfQol.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Devin Townsend",
+                        "order": 0,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Dave Young",
+                        "order": 1,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Brian Waddell",
+                        "order": 2,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Ryan Van Poederooyen",
+                        "order": 3,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Anneke van Giersbergen",
+                        "order": 4,
+                        "role": "Herself"
+                    },
+                    {
+                        "name": "Jed Simon",
+                        "order": 5,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Dom Lawson",
+                        "order": 6,
+                        "role": "Himself"
+                    }
+                ],
+                "country": [],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Devin Townsend / Dave Young / Brian Waddell / Ryan Van Poederooyen / Anneke van Giersbergen / Jed Simon / Dom Lawson",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=222151&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=222151)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=222151)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=222151)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=222151)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=222151)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt3319746",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "222151",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Music & Live Concerts",
+                    "param.list_slug": "music-live-concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Music & Live Concerts",
+                    "param.user_slug": "condemned",
+                    "param.widget": "True",
+                    "popularity": "0.684",
+                    "revenue": "$0",
+                    "slug_id": "devin-townsend-the-retinal-circus-2013",
+                    "tmdb_id": "222151",
+                    "tmdb_rating": "5.5",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "3",
+                    "trakt_id": "136492",
+                    "widget": "Music & Live Concerts"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2ff5yFU0moxHlipGQ4PPcJqPiaEw1.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=222151",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique"
+                ],
+                "imdbnumber": "tt3319746",
+                "label": "Devin Townsend - The Retinal Circus",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Devin Townsend - The Retinal Circus",
+                "playcount": 0,
+                "plot": "Le c\u00e9l\u00e8bre multi-instrumentiste, chanteur, auteur-compositeur, producteur et maintenant meneur Devin Townsend a donn\u00e9 un concert sp\u00e9cial le 27 octobre 2012 au Roundhouse \u00e0 Londres, en Angleterre, dans le cadre d'un \u00e9v\u00e9nement d'une nuit seulement, surnomm\u00e9 \"The Retinal Circus\".",
+                "plotoutline": "",
+                "premiered": "2013-09-30",
+                "productioncode": "",
+                "rating": 5.5,
+                "resume": {
+                    "position": 0.0,
+                    "total": 9600.0
+                },
+                "runtime": 9600,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Devin Townsend - The Retinal Circus",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt3319746",
+                    "slug": "devin-townsend-the-retinal-circus-2013",
+                    "tmdb": "222151",
+                    "trakt": "136492",
+                    "unknown": "tt3319746"
+                },
+                "votes": "3",
+                "writer": [],
+                "year": 2013
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fmg8OCqAE81EPGJegNt0lh5JJo2X.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fp2616zMUE6H7SgdGcQajvNF4v1b.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fp2616zMUE6H7SgdGcQajvNF4v1b.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Eminem",
+                        "order": 0,
+                        "role": "Eminem"
+                    }
+                ],
+                "country": [],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Eminem",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=24988&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=24988)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=24988)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=24988)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=24988)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=24988)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt0495688",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "24988",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Music & Live Concerts",
+                    "param.list_slug": "music-live-concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Music & Live Concerts",
+                    "param.user_slug": "condemned",
+                    "param.widget": "True",
+                    "popularity": "3.216",
+                    "revenue": "$0",
+                    "slug_id": "eminem-live-from-new-york-city-2005-2005",
+                    "tmdb_id": "24988",
+                    "tmdb_rating": "8.6",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "33",
+                    "trakt_id": "15083",
+                    "widget": "Music & Live Concerts"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fmg8OCqAE81EPGJegNt0lh5JJo2X.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=24988",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique"
+                ],
+                "imdbnumber": "tt0495688",
+                "label": "Eminem Live from New York City 2005",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Eminem Live from New York City 2005",
+                "playcount": 0,
+                "plot": "1) Backstage 12) Evil Deeds3) Mosh4) Rain Man5) Ass Like That6) Puke7) Kill You8) Like Toy Soldiers9) Git Up (Feat. D12)10) How Come (Feat. D12)11) Rock Star (Feat. Bizarre of D12)12) 40 Oz (Feat. D12)13) My Band (Feat. D12)14) Backstage 215) Stan16) The Way I Am17) Just Don't Give A Fuck18) Got Some Teeth (Feat. Obbie Trice)19) Stay 'Bout It (Aqua) (Feat. Stat Quo)20) The Set Up (Feat. Stat Quo)21) Like Dat (Feat. Stat Quo &amp; Obie Trice)22) Cleaning Out My Closet23) Mockingbird24) Just Lose It25) Backstage 326) Lose Yourself (Feat. D12)",
+                "plotoutline": "",
+                "premiered": "2005-01-01",
+                "productioncode": "",
+                "rating": 8.600000381469727,
+                "resume": {
+                    "position": 0.0,
+                    "total": 4680.0
+                },
+                "runtime": 4680,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Eminem Live from New York City 2005",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=ldWvm-ZqKaY",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt0495688",
+                    "slug": "eminem-live-from-new-york-city-2005-2005",
+                    "tmdb": "24988",
+                    "trakt": "15083",
+                    "unknown": "tt0495688"
+                },
+                "votes": "33",
+                "writer": [],
+                "year": 2005
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fpqGqmxeYRmnXe0DOdomZs4IaAuv.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fwLOpPOQy51x7mgl6L8sPReyCsZl.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fwLOpPOQy51x7mgl6L8sPReyCsZl.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Eminem",
+                        "order": 0,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "D12",
+                        "order": 1,
+                        "role": "Themselves"
+                    },
+                    {
+                        "name": "Dido",
+                        "order": 2,
+                        "role": "Herself"
+                    },
+                    {
+                        "name": "Dr. Dre",
+                        "order": 3,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Marilyn Manson",
+                        "order": 4,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Xzibit",
+                        "order": 5,
+                        "role": "Himself"
+                    }
+                ],
+                "country": [
+                    "United States of America"
+                ],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Eminem / D12 / Dido / Dr. Dre / Marilyn Manson / Xzibit",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=273181&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=273181)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=273181)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=273181)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=273181)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=273181)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt0463503",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "273181",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Music & Live Concerts",
+                    "param.list_slug": "music-live-concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Music & Live Concerts",
+                    "param.user_slug": "condemned",
+                    "param.widget": "True",
+                    "popularity": "2.697",
+                    "revenue": "$0",
+                    "slug_id": "eminem-all-access-europe-2002",
+                    "studio": "Interscope Records",
+                    "tmdb_id": "273181",
+                    "tmdb_rating": "7.6",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "11",
+                    "trakt_id": "171092",
+                    "widget": "Music & Live Concerts"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fpqGqmxeYRmnXe0DOdomZs4IaAuv.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=273181",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Documentaire",
+                    "Musique"
+                ],
+                "imdbnumber": "tt0463503",
+                "label": "Eminem: All Access Europe",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Eminem: All Access Europe",
+                "playcount": 0,
+                "plot": "All Access Europe est un album vid\u00e9o d'Eminem sorti le 18 juin 2002 en DVD. L'album contient des parties de diff\u00e9rents spectacles d'Eminem dans le cadre du Anger Management Tour, pour promouvoir l'album The Marshall Mathers LP. Des personnalit\u00e9s comme Dido, Marilyn Manson ou Xzibit apparaissent sur sc\u00e8ne aux c\u00f4t\u00e9s d'Eminem.",
+                "plotoutline": "",
+                "premiered": "2002-06-18",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0.0,
+                    "total": 5880.0
+                },
+                "runtime": 5880,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Interscope Records",
+                    "Shady Records",
+                    "Aftermath Entertainment",
+                    "Chrome Bumper Films"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Eminem: All Access Europe",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt0463503",
+                    "slug": "eminem-all-access-europe-2002",
+                    "tmdb": "273181",
+                    "trakt": "171092",
+                    "unknown": "tt0463503"
+                },
+                "votes": "11",
+                "writer": [],
+                "year": 2002
+            },
+            {
+                "album": "",
+                "art": {
+                    "icon": "image://C%3a%5cKodiTest%5cKodi%20matrix%20pour%20zip%20complet%202%20full%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fdefault.png/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Ivan L. Moody",
+                        "order": 0,
+                        "role": ""
+                    }
+                ],
+                "country": [],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Ivan L. Moody",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=325107&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=325107)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=325107)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=325107)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=325107)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=325107)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "325107",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Music & Live Concerts",
+                    "param.list_slug": "music-live-concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Music & Live Concerts",
+                    "param.user_slug": "condemned",
+                    "param.widget": "True",
+                    "popularity": "0.6",
+                    "revenue": "$0",
+                    "slug_id": "five-finger-death-punch-purgatory-tales-from-the-pit-2013",
+                    "tmdb_id": "325107",
+                    "tmdb_rating": "10.0",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "1",
+                    "trakt_id": "205646",
+                    "widget": "Music & Live Concerts"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=325107",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique"
+                ],
+                "imdbnumber": "",
+                "label": "Five Finger Death Punch Purgatory (Tales from the pit)",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Five Finger Death Punch Purgatory (Tales from the pit)",
+                "playcount": 0,
+                "plot": "",
+                "plotoutline": "",
+                "premiered": "2013-11-16",
+                "productioncode": "",
+                "rating": 10.0,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 0,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Five Finger Death Punch Purgatory (Tales from the pit)",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "slug": "five-finger-death-punch-purgatory-tales-from-the-pit-2013",
+                    "tmdb": "325107",
+                    "trakt": "205646"
+                },
+                "votes": "1",
+                "writer": [],
+                "year": 2013
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f1hgqmskgS0WO56pJqUbWvGX4dpr.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fdJi4q13MjJgdMPn9gyhqWT9bZz7.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fdJi4q13MjJgdMPn9gyhqWT9bZz7.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Dave Mustaine",
+                        "order": 0,
+                        "role": "Vocal, guitar"
+                    }
+                ],
+                "country": [],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Dave Mustaine",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=34387&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=34387)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=34387)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=34387)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=34387)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=34387)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "34387",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Music & Live Concerts",
+                    "param.list_slug": "music-live-concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Music & Live Concerts",
+                    "param.user_slug": "condemned",
+                    "param.widget": "True",
+                    "popularity": "1.4",
+                    "revenue": "$0",
+                    "slug_id": "megadeth-arsenal-of-megadeth-2006",
+                    "tmdb_id": "34387",
+                    "tmdb_rating": "6.5",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "2",
+                    "trakt_id": "21978",
+                    "widget": "Music & Live Concerts"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f1hgqmskgS0WO56pJqUbWvGX4dpr.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=34387",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique"
+                ],
+                "imdbnumber": "",
+                "label": "Megadeth: Arsenal Of Megadeth",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Megadeth: Arsenal Of Megadeth",
+                "playcount": 0,
+                "plot": "",
+                "plotoutline": "",
+                "premiered": "2006-03-21",
+                "productioncode": "",
+                "rating": 6.5,
+                "resume": {
+                    "position": 0.0,
+                    "total": 9000.0
+                },
+                "runtime": 9000,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Megadeth: Arsenal Of Megadeth",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "slug": "megadeth-arsenal-of-megadeth-2006",
+                    "tmdb": "34387",
+                    "trakt": "21978"
+                },
+                "votes": "2",
+                "writer": [],
+                "year": 2006
+            },
+            {
+                "album": "",
+                "art": {
+                    "clearlogo": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f45370%2fmovielogo%2fmegadeth---rust-in-peace-live-4f8a906fe59b8.png/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fcUtF5ddlCBVyloMNwXSrRPpPG2h.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2faFUFLpwjgAhSoHJ6O0cEfbYAaMv.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2faFUFLpwjgAhSoHJ6O0cEfbYAaMv.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "David Ellefson",
+                        "order": 0,
+                        "role": "bass"
+                    },
+                    {
+                        "name": "Dave Mustaine",
+                        "order": 1,
+                        "role": "guitar/vocals"
+                    },
+                    {
+                        "name": "Chris Broderick",
+                        "order": 2,
+                        "role": "guitar"
+                    },
+                    {
+                        "name": "Shawn Drover",
+                        "order": 3,
+                        "role": "drums"
+                    }
+                ],
+                "country": [
+                    "United States of America"
+                ],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "David Ellefson / Dave Mustaine / Chris Broderick / Shawn Drover",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=45370&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=45370)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=45370)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=45370)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=45370)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=45370)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt2007427",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "45370",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Music & Live Concerts",
+                    "param.list_slug": "music-live-concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Music & Live Concerts",
+                    "param.user_slug": "condemned",
+                    "param.widget": "True",
+                    "popularity": "2.44",
+                    "revenue": "$0",
+                    "slug_id": "megadeth-rust-in-peace-live-2010",
+                    "studio": "Shout! Factory",
+                    "tmdb_id": "45370",
+                    "tmdb_rating": "5.9",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "5",
+                    "trakt_id": "30944",
+                    "widget": "Music & Live Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Kerry Asmussen"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fcUtF5ddlCBVyloMNwXSrRPpPG2h.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=45370",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique"
+                ],
+                "imdbnumber": "tt2007427",
+                "label": "Megadeth: Rust in Peace Live",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Megadeth: Rust in Peace Live",
+                "playcount": 0,
+                "plot": "",
+                "plotoutline": "",
+                "premiered": "2010-09-07",
+                "productioncode": "",
+                "rating": 5.900000095367432,
+                "resume": {
+                    "position": 0.0,
+                    "total": 5400.0
+                },
+                "runtime": 5400,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Shout! Factory"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Megadeth: Rust in Peace Live",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=LF0ZM5UugNQ",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt2007427",
+                    "slug": "megadeth-rust-in-peace-live-2010",
+                    "tmdb": "45370",
+                    "trakt": "30944",
+                    "unknown": "tt2007427"
+                },
+                "votes": "5",
+                "writer": [],
+                "year": 2010
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fafSTPjSAQ5nTlpjGqW5bPLt7Kum.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fq2fmDFJ0rhkdKCB75ZzrMdSFtZT.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fq2fmDFJ0rhkdKCB75ZzrMdSFtZT.jpg/"
+                },
+                "artist": [],
+                "cast": [],
+                "country": [],
+                "customproperties": {
+                    "budget": "$0",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=298861&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=298861)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=298861)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=298861)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=298861)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=298861)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "298861",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Music & Live Concerts",
+                    "param.list_slug": "music-live-concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Music & Live Concerts",
+                    "param.user_slug": "condemned",
+                    "param.widget": "True",
+                    "popularity": "0.954",
+                    "revenue": "$0",
+                    "slug_id": "meshuggah-the-ophidian-trek-2014",
+                    "tmdb_id": "298861",
+                    "tmdb_rating": "5.3",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "3",
+                    "trakt_id": "197845",
+                    "widget": "Music & Live Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Anthony Dubois"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fafSTPjSAQ5nTlpjGqW5bPLt7Kum.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=298861",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique"
+                ],
+                "imdbnumber": "",
+                "label": "Meshuggah - The Ophidian Trek",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Meshuggah - The Ophidian Trek",
+                "playcount": 0,
+                "plot": "Enregistr\u00e9e le 03 mai 2013 lors de leur \u00e9mission en co-titre aux c\u00f4t\u00e9s de DEVIN TOWNSEND \u00e0 la Brixton Academy de Londres. Les treize titres de \"The Ophidian Trek\" repr\u00e9sentent une grande r\u00e9trospective de la carri\u00e8re fulminante de MESHUGGAH. Un v\u00e9ritable must-have pour tous les fans inconditionnels de MESHUGGAH et ceux qui ont encore besoin d'\u00eatre pleinement convaincus !",
+                "plotoutline": "",
+                "premiered": "2014-09-26",
+                "productioncode": "",
+                "rating": 5.300000190734863,
+                "resume": {
+                    "position": 0.0,
+                    "total": 5400.0
+                },
+                "runtime": 5400,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Meshuggah - The Ophidian Trek",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "slug": "meshuggah-the-ophidian-trek-2014",
+                    "tmdb": "298861",
+                    "trakt": "197845"
+                },
+                "votes": "3",
+                "writer": [],
+                "year": 2014
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fmSgEdTmn08FM0bUZsgXOb4TYcjv.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fA8oMovetpq8bVXlWPYaQBK4mFiS.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fA8oMovetpq8bVXlWPYaQBK4mFiS.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Jens Kidman",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Fredrik Thordendal",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "M\u00e5rten Hagstr\u00f6m",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Tomas Haake",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Dick L\u00f6vgren",
+                        "order": 4,
+                        "role": ""
+                    }
+                ],
+                "country": [],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Jens Kidman / Fredrik Thordendal / M\u00e5rten Hagstr\u00f6m / Tomas Haake / Dick L\u00f6vgren",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=42826&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=42826)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=42826)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=42826)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=42826)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=42826)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "42826",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Music & Live Concerts",
+                    "param.list_slug": "music-live-concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Music & Live Concerts",
+                    "param.user_slug": "condemned",
+                    "param.widget": "True",
+                    "popularity": "0.985",
+                    "revenue": "$0",
+                    "slug_id": "meshuggah-alive-2010",
+                    "tmdb_id": "42826",
+                    "tmdb_rating": "6.3",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "3",
+                    "trakt_id": "28686",
+                    "widget": "Music & Live Concerts"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fmSgEdTmn08FM0bUZsgXOb4TYcjv.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=42826",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique"
+                ],
+                "imdbnumber": "",
+                "label": "Meshuggah: Alive",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Meshuggah: Alive",
+                "playcount": 0,
+                "plot": "",
+                "plotoutline": "",
+                "premiered": "2010-02-05",
+                "productioncode": "",
+                "rating": 6.300000190734863,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 0,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Meshuggah: Alive",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "slug": "meshuggah-alive-2010",
+                    "tmdb": "42826",
+                    "trakt": "28686"
+                },
+                "votes": "3",
+                "writer": [],
+                "year": 2010
+            },
+            {
+                "album": "",
+                "art": {
+                    "banner": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f193613%2fmoviebanner%2fmetallica-through-the-never-53a9fded74b6d.jpg/",
+                    "clearlogo": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f193613%2fhdmovielogo%2fmetallica-through-the-never-51f224785cfda.png/",
+                    "discart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f193613%2fmoviedisc%2fmetallica-through-the-never-60e60aa1261a4.png/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fureMn9c20KTB8mZgQED2hv0JY8P.jpg/",
+                    "fanart1": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f193613%2fmoviebackground%2fmetallica-through-the-never-60e60ac623d35.jpg/",
+                    "fanart2": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f193613%2fmoviebackground%2fmetallica-through-the-never-60e60ac894c42.jpg/",
+                    "fanart3": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f193613%2fmoviebackground%2fmetallica-through-the-never-532df6a331ac1.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fwBdTTq4755yi4GtWS4ahKtBmIkv.jpg/",
+                    "landscape": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f193613%2fmoviethumb%2fmetallica-through-the-never-589cbdc9db0d4.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fwBdTTq4755yi4GtWS4ahKtBmIkv.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Dane DeHaan",
+                        "order": 0,
+                        "role": "Trip"
+                    },
+                    {
+                        "name": "Mackenzie Gray",
+                        "order": 1,
+                        "role": "Tall Man"
+                    },
+                    {
+                        "name": "James Hetfield",
+                        "order": 2,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Lars Ulrich",
+                        "order": 3,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Kirk Hammett",
+                        "order": 4,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Toby Hargrave",
+                        "order": 5,
+                        "role": "Big Man"
+                    },
+                    {
+                        "name": "Robert Trujillo",
+                        "order": 6,
+                        "role": "Himself"
+                    }
+                ],
+                "country": [
+                    "United States of America"
+                ],
+                "customproperties": {
+                    "available_releases": "Theatrical",
+                    "budget": "$18,000,000",
+                    "cast": "Dane DeHaan / Mackenzie Gray / James Hetfield / Lars Ulrich / Kirk Hammett / Toby Hargrave / Robert Trujillo",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=193613&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=193613)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=193613)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=193613)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=193613)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=193613)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt2172935",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "193613",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Music & Live Concerts",
+                    "param.list_slug": "music-live-concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Music & Live Concerts",
+                    "param.user_slug": "condemned",
+                    "param.widget": "True",
+                    "popularity": "13.59",
+                    "provider.link": "https://www.themoviedb.org/movie/193613-metallica-through-the-never/watch?locale=FR",
+                    "providers": "Apple iTunes / Google Play Movies / YouTube / Bbox VOD / Cinemas a la Demande / Microsoft Store",
+                    "revenue": "$7,972,967",
+                    "slug_id": "metallica-through-the-never-2013",
+                    "studio": "Exclusive Media",
+                    "theatrical_release": "2013-10-09",
+                    "tmdb_id": "193613",
+                    "tmdb_rating": "6.8",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "240",
+                    "trakt_id": "120869",
+                    "widget": "Music & Live Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Nimr\u00f3d Antal"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fureMn9c20KTB8mZgQED2hv0JY8P.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=193613",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique"
+                ],
+                "imdbnumber": "tt2172935",
+                "label": "Metallica : Through the Never",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Metallica: Through the Never",
+                "playcount": 0,
+                "plot": "Alors que Metallica joue plusieurs de ses tubes devant des milliers de fans, Trip est envoy\u00e9 r\u00e9cup\u00e9rer un objet myst\u00e9rieux qu'il doit absolument rapporter pour le spectacle. La t\u00e2che apparemment simple prend la tournure d'une aventure surr\u00e9aliste quand sa camionnette est violemment heurt\u00e9e par une voiture. Trip, sonn\u00e9, s'extrait du van pour se retrouver au milieu d'un imminent affrontement entre casseurs en col\u00e8re et escouades de police anti-\u00e9meute. Dans ce chaos, un chevalier masqu\u00e9, dot\u00e9 des pires intentions pose son regard meurtrier sur Trip. Seul et d\u00e9sarm\u00e9 dans un paysage urbain post-apocalyptique, Trip ne peut compter que sur lui-m\u00eame pour combattre le chevalier et prot\u00e9ger le pr\u00e9cieux sac de cuir qu'il doit remettre au groupe.",
+                "plotoutline": "",
+                "premiered": "2013-09-25",
+                "productioncode": "",
+                "rating": 6.800000190734863,
+                "resume": {
+                    "position": 0.0,
+                    "total": 5640.0
+                },
+                "runtime": 5640,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Exclusive Media",
+                    "Picturehouse Entertainment"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Metallica : Through the Never",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=Re9KSuxs2aY",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt2172935",
+                    "slug": "metallica-through-the-never-2013",
+                    "tmdb": "193613",
+                    "trakt": "120869",
+                    "unknown": "tt2172935"
+                },
+                "votes": "240",
+                "writer": [
+                    "Nimr\u00f3d Antal",
+                    "James Hetfield",
+                    "Lars Ulrich",
+                    "Kirk Hammett",
+                    "Robert Trujillo"
+                ],
+                "year": 2013
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f2xwxITMWkzKXDG52rY7GT5uAXTK.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f5QC1ooMAvb1ZkJkEyVusmRW8Etu.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f5QC1ooMAvb1ZkJkEyVusmRW8Etu.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Ginger Fish",
+                        "order": 0,
+                        "role": "Drums"
+                    },
+                    {
+                        "name": "Rob Zombie",
+                        "order": 1,
+                        "role": "Vocals"
+                    },
+                    {
+                        "name": "John 5",
+                        "order": 2,
+                        "role": "Guitars"
+                    },
+                    {
+                        "name": "Piggy D.",
+                        "order": 3,
+                        "role": "Bass"
+                    }
+                ],
+                "country": [],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Ginger Fish / Rob Zombie / John 5 / Piggy D.",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=285749&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=285749)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=285749)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=285749)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=285749)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=285749)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt4036514",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "285749",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Music & Live Concerts",
+                    "param.list_slug": "music-live-concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Music & Live Concerts",
+                    "param.user_slug": "condemned",
+                    "param.widget": "True",
+                    "popularity": "1.96",
+                    "provider.link": "https://www.themoviedb.org/movie/285749-rob-zombie-the-zombie-horror-picture-show/watch?locale=FR",
+                    "providers": "Apple iTunes",
+                    "revenue": "$0",
+                    "slug_id": "rob-zombie-the-zombie-horror-picture-show-2014",
+                    "tmdb_id": "285749",
+                    "tmdb_rating": "8.2",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "22",
+                    "trakt_id": "182938",
+                    "widget": "Music & Live Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Rob Zombie"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f2xwxITMWkzKXDG52rY7GT5uAXTK.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=285749",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique"
+                ],
+                "imdbnumber": "tt4036514",
+                "label": "Rob Zombie: The Zombie Horror Picture Show",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Rob Zombie: The Zombie Horror Picture Show",
+                "playcount": 0,
+                "plot": "The Zombie Horror Picture Show fut enregistr\u00e9 durant la tourn\u00e9e de Venomous Rat Regeneration Vendor au Rockstar Energy Drink Mayhem Festival \u00e0 Houston et Dallas le 3 et 4 ao\u00fbt 2013. Rob Zombie interpr\u00e8te 16 classiques (avec entre autres \"Dragula\", \"Dead city radio and the new gods of super town\", \"Living dead girl\" et \"More human than human\"). En plus, vous retrouverez une reprise d\u00e9tonnante de \"We're an american band\" de Grand Funk Railroad, pr\u00e9sent sur l'album qui est rentr\u00e9 au Top10 US.",
+                "plotoutline": "",
+                "premiered": "2014-05-16",
+                "productioncode": "",
+                "rating": 8.199999809265137,
+                "resume": {
+                    "position": 0.0,
+                    "total": 4860.0
+                },
+                "runtime": 4860,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Rob Zombie: The Zombie Horror Picture Show",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt4036514",
+                    "slug": "rob-zombie-the-zombie-horror-picture-show-2014",
+                    "tmdb": "285749",
+                    "trakt": "182938",
+                    "unknown": "tt4036514"
+                },
+                "votes": "22",
+                "writer": [],
+                "year": 2014
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fucduRoPpWLbnJocEEmY7q5Y1a1Z.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f3XnxSUPxjUUnH482l1o6aJrysKx.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f3XnxSUPxjUUnH482l1o6aJrysKx.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "James Hetfield",
+                        "order": 0,
+                        "role": "Guitars"
+                    },
+                    {
+                        "name": "Tom Araya",
+                        "order": 1,
+                        "role": "Vocals, bass"
+                    },
+                    {
+                        "name": "Dave Mustaine",
+                        "order": 2,
+                        "role": "Vocals, guitars"
+                    },
+                    {
+                        "name": "Joey Belladonna",
+                        "order": 3,
+                        "role": "Vocals"
+                    },
+                    {
+                        "name": "Lars Ulrich",
+                        "order": 4,
+                        "role": "Drums"
+                    },
+                    {
+                        "name": "Dave Lombardo",
+                        "order": 5,
+                        "role": "Drums"
+                    },
+                    {
+                        "name": "Charlie Benante",
+                        "order": 6,
+                        "role": "Drums"
+                    },
+                    {
+                        "name": "Shawn Drover",
+                        "order": 7,
+                        "role": "Drums"
+                    },
+                    {
+                        "name": "Kirk Hammett",
+                        "order": 8,
+                        "role": "Guitars"
+                    },
+                    {
+                        "name": "Chris Broderick",
+                        "order": 9,
+                        "role": "Guitars"
+                    },
+                    {
+                        "name": "Scott Ian",
+                        "order": 10,
+                        "role": "Guitars"
+                    },
+                    {
+                        "name": "Kerry King",
+                        "order": 11,
+                        "role": "Guitars"
+                    },
+                    {
+                        "name": "Robert Trujillo",
+                        "order": 12,
+                        "role": "Bass"
+                    },
+                    {
+                        "name": "David Ellefson",
+                        "order": 13,
+                        "role": "Bass"
+                    },
+                    {
+                        "name": "Frank Bello",
+                        "order": 14,
+                        "role": "Bass"
+                    },
+                    {
+                        "name": "Jeff Hanneman",
+                        "order": 15,
+                        "role": "Guitars"
+                    },
+                    {
+                        "name": "Rob Caggiano",
+                        "order": 16,
+                        "role": "Guitars"
+                    }
+                ],
+                "country": [
+                    "Bulgaria"
+                ],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "James Hetfield / Tom Araya / Dave Mustaine / Joey Belladonna / Lars Ulrich / Dave Lombardo / Charlie Benante / Shawn Drover / Kirk Hammett / Chris Broderick / Scott Ian / Kerry King / Robert Trujillo / David Ellefson / Frank Bello / Jeff Hanneman / Rob Caggiano",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=40601&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=40601)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=40601)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=40601)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=40601)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=40601)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt1792588",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "40601",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Music & Live Concerts",
+                    "param.list_slug": "music-live-concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Music & Live Concerts",
+                    "param.user_slug": "condemned",
+                    "param.widget": "True",
+                    "popularity": "3.488",
+                    "provider.link": "https://www.themoviedb.org/movie/40601-the-big-four-live-in-sofia/watch?locale=FR",
+                    "providers": "Apple iTunes",
+                    "revenue": "$0",
+                    "slug_id": "the-big-four-live-in-sofia-2010",
+                    "studio": "Splinter Films Ltd.",
+                    "tmdb_id": "40601",
+                    "tmdb_rating": "8.4",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "60",
+                    "trakt_id": "26706",
+                    "widget": "Music & Live Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Nick Wickham",
+                    "Nick Levitt"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fucduRoPpWLbnJocEEmY7q5Y1a1Z.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=40601",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique"
+                ],
+                "imdbnumber": "tt1792588",
+                "label": "The Big 4 - Live from Sofia",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "The Big Four: Live in Sofia",
+                "playcount": 0,
+                "plot": "Lorsque les \u00abBig Four\u00bb, Metallica, Slayer, Megadeth et Anthrax, ont partag\u00e9 une sc\u00e8ne ensemble le 22 juin 2010, \u00e0 Sofia, en Bulgarie, c'\u00e9tait le moment que leurs fans avaient attendu pendant des d\u00e9cennies. Ce spectacle monumental a \u00e9t\u00e9 retransmis en direct dans plus de 1000 cin\u00e9mas dans le monde par satellite.",
+                "plotoutline": "",
+                "premiered": "2010-06-22",
+                "productioncode": "",
+                "rating": 8.399999618530273,
+                "resume": {
+                    "position": 0.0,
+                    "total": 13920.0
+                },
+                "runtime": 13920,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Splinter Films Ltd.",
+                    "Universal/Music/DVD",
+                    "Vertigo",
+                    "Mercury Music Group",
+                    "Sonisphere Festival"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "The Big 4 - Live from Sofia",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=BibR2SKY2AI",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt1792588",
+                    "slug": "the-big-four-live-in-sofia-2010",
+                    "tmdb": "40601",
+                    "trakt": "26706",
+                    "unknown": "tt1792588"
+                },
+                "votes": "60",
+                "writer": [],
+                "year": 2010
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fvTM2VGFFdgsaP8PEgogmVPoIAlg.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2famYrP5cL5Q2uKJP5RM027ZUzFyQ.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2famYrP5cL5Q2uKJP5RM027ZUzFyQ.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Nick Cave",
+                        "order": 0,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Warren Ellis",
+                        "order": 1,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Marianne Faithfull",
+                        "order": 2,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Earl Cave",
+                        "order": 3,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Andrew Dominik",
+                        "order": 4,
+                        "role": "Self"
+                    }
+                ],
+                "country": [
+                    "United Kingdom"
+                ],
+                "customproperties": {
+                    "available_releases": "Theatrical",
+                    "budget": "$0",
+                    "cast": "Nick Cave / Warren Ellis / Marianne Faithfull / Earl Cave / Andrew Dominik",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=927025&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=927025)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=927025)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=927025)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=927025)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=927025)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt15721828",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "927025",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Music & Live Concerts",
+                    "param.list_slug": "music-live-concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Music & Live Concerts",
+                    "param.user_slug": "condemned",
+                    "param.widget": "True",
+                    "popularity": "2.786",
+                    "provider.link": "https://www.themoviedb.org/movie/927025-this-much-i-know-to-be-true/watch?locale=FR",
+                    "providers": "Mubi / Mubi Amazon Channel",
+                    "revenue": "$0",
+                    "slug_id": "this-much-i-know-to-be-true-2022",
+                    "studio": "Uncommon Creative Studio",
+                    "theatrical_release": "2022-05-12",
+                    "tmdb_id": "927025",
+                    "tmdb_rating": "7.4",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "15",
+                    "trakt_id": "743048",
+                    "widget": "Music & Live Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Andrew Dominik"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fvTM2VGFFdgsaP8PEgogmVPoIAlg.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=927025",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Documentaire",
+                    "Musique"
+                ],
+                "imdbnumber": "tt15721828",
+                "label": "This Much I Know to Be True",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "This Much I Know to Be True",
+                "playcount": 0,
+                "plot": "Tourn\u00e9 sur place \u00e0 Londres et Brighton, le nouveau long m\u00e9trage documentaire d'Andrew Dominik, THIS MUCH I KNOW TO BE TRUE,d\u00e9voile la relation cr\u00e9ative exceptionnelle entre Nick Cave et Warren Ellis alors qu'ils donnent vie aux chansons leurs deux oeuvres les plus r\u00e9centes : Ghosteen (Nick Cave & the Bad Seeds) et Carnage (Nick Cave & Warren Ellis).  On peut notamment y voir leurs toutes premi\u00e8res interpr\u00e9tations de ces albums, film\u00e9 au printemps 2021 avant leur tourn\u00e9e au Royaume-Uni. Le public voit les deux hommes, accompagn\u00e9s de chanteurs et d'un quatuor \u00e0 cordes, donner vie \u00e0 chaque chanson. Le documentaire comprend une apparition sp\u00e9ciale de Marianne Faithfull, amie proche et collaboratrice de longue date.",
+                "plotoutline": "",
+                "premiered": "2022-05-11",
+                "productioncode": "",
+                "rating": 7.400000095367432,
+                "resume": {
+                    "position": 0.0,
+                    "total": 6300.0
+                },
+                "runtime": 6300,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Uncommon Creative Studio"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "This Much I Know to Be True",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=o-f8HDIs6uM",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt15721828",
+                    "slug": "this-much-i-know-to-be-true-2022",
+                    "tmdb": "927025",
+                    "trakt": "743048",
+                    "unknown": "tt15721828"
+                },
+                "votes": "15",
+                "writer": [],
+                "year": 2022
+            },
+            {
+                "album": "",
+                "art": {
+                    "clearlogo": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f34759%2fhdmovielogo%2fziggy--stardust-and-the-spiders-from-mars-5675a499db968.png/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f1dOpnYhTK1PzszKuXUpaIIwNuKa.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fdz4erM8bFxDjMpZmKLWKS6ryHER.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fdz4erM8bFxDjMpZmKLWKS6ryHER.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "David Bowie",
+                        "order": 0,
+                        "role": "Self / Ziggy Stardust"
+                    },
+                    {
+                        "name": "Mick Ronson",
+                        "order": 1,
+                        "role": "Self - Musician"
+                    },
+                    {
+                        "name": "Trevor Bolder",
+                        "order": 2,
+                        "role": "Self - Musician"
+                    },
+                    {
+                        "name": "Mick 'Woody' Woodmansey",
+                        "order": 3,
+                        "role": "Self - Musician"
+                    },
+                    {
+                        "name": "Ken Fordham",
+                        "order": 4,
+                        "role": "Self - Musician"
+                    },
+                    {
+                        "name": "Brian Wilshaw",
+                        "order": 5,
+                        "role": "Self - Musician"
+                    },
+                    {
+                        "name": "Geoffrey MacCormack",
+                        "order": 6,
+                        "role": "Self - Musician"
+                    },
+                    {
+                        "name": "John 'Hutch' Hutchinson",
+                        "order": 7,
+                        "role": "Self - Musician"
+                    },
+                    {
+                        "name": "Mike Garson",
+                        "order": 8,
+                        "role": "Self - Musician"
+                    },
+                    {
+                        "name": "Angela Bowie",
+                        "order": 9,
+                        "role": "Self (uncredited)"
+                    }
+                ],
+                "country": [
+                    "United Kingdom"
+                ],
+                "customproperties": {
+                    "available_releases": "Theatrical",
+                    "budget": "$0",
+                    "cast": "David Bowie / Mick Ronson / Trevor Bolder / Mick 'Woody' Woodmansey / Ken Fordham / Brian Wilshaw / Geoffrey MacCormack / John 'Hutch' Hutchinson / Mike Garson / Angela Bowie",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=34759&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=34759)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=34759)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=34759)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=34759)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=34759)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt0086643",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "34759",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Music & Live Concerts",
+                    "param.list_slug": "music-live-concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Music & Live Concerts",
+                    "param.user_slug": "condemned",
+                    "param.widget": "True",
+                    "popularity": "3.158",
+                    "revenue": "$0",
+                    "slug_id": "ziggy-stardust-and-the-spiders-from-mars-1983",
+                    "studio": "Bewlay Bros.",
+                    "theatrical_release": "2003-03-23",
+                    "tmdb_id": "34759",
+                    "tmdb_rating": "7.4",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "40",
+                    "trakt_id": "22190",
+                    "widget": "Music & Live Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "D. A. Pennebaker"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f1dOpnYhTK1PzszKuXUpaIIwNuKa.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=34759",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Documentaire",
+                    "Musique"
+                ],
+                "imdbnumber": "tt0086643",
+                "label": "Ziggy Stardust and the Spiders from Mars",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "Rated U",
+                "originaltitle": "Ziggy Stardust and the Spiders from Mars",
+                "playcount": 0,
+                "plot": "Le 3 juillet 1973, au Hammersmith Odeon de Londres. Dans les loges, David Bowie se m\u00e9tamorphose une derni\u00e8re fois en Ziggy Stardust, ange sexy, androgyne futuriste, diva kitsch dont les jambes nues font grimper les jeunes filles (et les autres) au rideau. Sur sc\u00e8ne, la star la plus glam encha\u00eene ses standards.",
+                "plotoutline": "",
+                "premiered": "1983-12-23",
+                "productioncode": "",
+                "rating": 7.400000095367432,
+                "resume": {
+                    "position": 0.0,
+                    "total": 5400.0
+                },
+                "runtime": 5400,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Bewlay Bros.",
+                    "Pennebaker Productions",
+                    "MainMan"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Ziggy Stardust and the Spiders from Mars",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt0086643",
+                    "slug": "ziggy-stardust-and-the-spiders-from-mars-1983",
+                    "tmdb": "34759",
+                    "trakt": "22190",
+                    "unknown": "tt0086643"
+                },
+                "votes": "40",
+                "writer": [],
+                "year": 1983
+            }
+        ],
+        "limits": {
+            "end": 15,
+            "start": 0,
+            "total": 15
+        }
+    }
+}

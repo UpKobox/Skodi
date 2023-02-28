@@ -1,0 +1,3676 @@
+{
+    "id": 1,
+    "jsonrpc": "2.0",
+    "result": {
+        "files": [
+            {
+                "album": "",
+                "art": {
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fjtnBPhoUfyTXyGaTuH4xBMwTfuy.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fjtnBPhoUfyTXyGaTuH4xBMwTfuy.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Roger Waters",
+                        "order": 0,
+                        "role": ""
+                    }
+                ],
+                "country": [],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Roger Waters",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=518434&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=518434)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=518434)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=518434)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=518434)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=518434)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "518434",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "gpus",
+                    "param.widget": "True",
+                    "popularity": "0.6",
+                    "provider.link": "https://www.themoviedb.org/movie/518434-roger-waters-us-them/watch?locale=FR",
+                    "providers": "Apple iTunes / Google Play Movies / Amazon Video / YouTube",
+                    "revenue": "$0",
+                    "slug_id": "roger-waters-us-them-2019-10-03",
+                    "tmdb_id": "518434",
+                    "tmdb_rating": "0.0",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "0",
+                    "trakt_id": "366588",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=518434",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [],
+                "imdbnumber": "",
+                "label": "Roger Waters - Us + Them",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Roger Waters - Us + Them",
+                "playcount": 0,
+                "plot": "",
+                "plotoutline": "",
+                "premiered": "2019-10-03",
+                "productioncode": "",
+                "rating": 0.0,
+                "resume": {
+                    "position": 0.0,
+                    "total": 8760.0
+                },
+                "runtime": 8760,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Roger Waters - Us + Them",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "slug": "roger-waters-us-them-2019-10-03",
+                    "tmdb": "518434",
+                    "trakt": "366588"
+                },
+                "votes": "0",
+                "writer": [],
+                "year": 2019
+            },
+            {
+                "album": "",
+                "art": {
+                    "clearlogo": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f625561%2fhdmovielogo%2ftravis-scott---look-mom-i-can-fly-5e6eb79ca0e6a.png/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2ffqUPF6mPUNAmAsfUflka3UA2XGg.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2foNOXntnRY7dFrgu1x6bQQmWBVdu.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2foNOXntnRY7dFrgu1x6bQQmWBVdu.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Travis Scott",
+                        "order": 0,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Stormi Webster",
+                        "order": 1,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Sheck Wes",
+                        "order": 2,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Mike Dean",
+                        "order": 3,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Jimmy Fallon",
+                        "order": 4,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Kevin Parker",
+                        "order": 5,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "John Mayer",
+                        "order": 6,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "DJ Screw",
+                        "order": 7,
+                        "role": "Self (archive footage)"
+                    },
+                    {
+                        "name": "Jacques Webster",
+                        "order": 8,
+                        "role": "Self - Travis Scott's dad"
+                    },
+                    {
+                        "name": "Bizzy",
+                        "order": 9,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Paul Wall",
+                        "order": 10,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "David Stromberg",
+                        "order": 11,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Dr. Nate Alibi",
+                        "order": 12,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Kimberly Carroll",
+                        "order": 13,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Sarah Romero",
+                        "order": 14,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Wanda Webster",
+                        "order": 15,
+                        "role": "Self - Travis Scott's mom"
+                    },
+                    {
+                        "name": "Don Toliver",
+                        "order": 16,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Johno",
+                        "order": 17,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Sickamore",
+                        "order": 18,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Akon",
+                        "order": 19,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Kris Jenner",
+                        "order": 20,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Kanye West",
+                        "order": 21,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "James Blake",
+                        "order": 22,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Zane Lowe",
+                        "order": 23,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Sylvia Rhone",
+                        "order": 24,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Sylvester Turner",
+                        "order": 25,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Kylie Jenner",
+                        "order": 26,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Kendall Jenner",
+                        "order": 27,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Bella Hadid",
+                        "order": 28,
+                        "role": "Self"
+                    }
+                ],
+                "country": [
+                    "United States of America"
+                ],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Travis Scott / Stormi Webster / Sheck Wes / Mike Dean / Jimmy Fallon / Kevin Parker / John Mayer / DJ Screw / Jacques Webster / Bizzy / Paul Wall / David Stromberg / Dr. Nate Alibi / Kimberly Carroll / Sarah Romero / Wanda Webster / Don Toliver / Johno / Sickamore / Akon / Kris Jenner / Kanye West / James Blake / Zane Lowe / Sylvia Rhone / Sylvester Turner / Kylie Jenner / Kendall Jenner / Bella Hadid",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=625561&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=625561)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=625561)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=625561)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=625561)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=625561)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt10856726",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "625561",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "gpus",
+                    "param.widget": "True",
+                    "popularity": "15.38",
+                    "provider.link": "https://www.themoviedb.org/movie/625561-travis-scott-look-mom-i-can-fly/watch?locale=FR",
+                    "providers": "Netflix",
+                    "revenue": "$0",
+                    "slug_id": "travis-scott-look-mom-i-can-fly-2019",
+                    "tmdb_id": "625561",
+                    "tmdb_rating": "7.0",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "182",
+                    "trakt_id": "466932",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "White Trash Tyler",
+                    "Travis Scott"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2ffqUPF6mPUNAmAsfUflka3UA2XGg.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=625561",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Documentaire",
+                    "Musique"
+                ],
+                "imdbnumber": "tt10856726",
+                "label": "Travis Scott : Look Mom I Can Fly",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Travis Scott: Look Mom I Can Fly",
+                "playcount": 0,
+                "plot": "Ce documentaire nous fait d\u00e9couvrir un Travis Scott intime, conciliant controverse, paternit\u00e9 et r\u00e9ussite pendant la confection d'Astroworld, nomm\u00e9 aux Grammy Awards.",
+                "plotoutline": "",
+                "premiered": "2019-08-28",
+                "productioncode": "",
+                "rating": 7.0,
+                "resume": {
+                    "position": 0.0,
+                    "total": 5160.0
+                },
+                "runtime": 5160,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Travis Scott : Look Mom I Can Fly",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=McoX2mtikPE",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt10856726",
+                    "slug": "travis-scott-look-mom-i-can-fly-2019",
+                    "tmdb": "625561",
+                    "trakt": "466932",
+                    "unknown": "tt10856726"
+                },
+                "votes": "182",
+                "writer": [],
+                "year": 2019
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f4TEVkA0bKYuMD9cudssWFK6459d.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f6dHb8tkXMneXeTbAalisLPKdueJ.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f6dHb8tkXMneXeTbAalisLPKdueJ.jpg/"
+                },
+                "artist": [],
+                "cast": [],
+                "country": [
+                    "United States of America"
+                ],
+                "customproperties": {
+                    "budget": "$0",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=614793&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=614793)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=614793)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=614793)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=614793)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=614793)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt10559318",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "614793",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "gpus",
+                    "param.widget": "True",
+                    "popularity": "1.165",
+                    "revenue": "$0",
+                    "slug_id": "prime-day-concert-2019-2019",
+                    "tmdb_id": "614793",
+                    "tmdb_rating": "7.2",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "5",
+                    "trakt_id": "458321",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Glenn Weiss"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f4TEVkA0bKYuMD9cudssWFK6459d.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=614793",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique",
+                    "Documentaire"
+                ],
+                "imdbnumber": "tt10559318",
+                "label": "Prime Day Concert 2019",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Prime Day Concert 2019",
+                "playcount": 0,
+                "plot": "",
+                "plotoutline": "",
+                "premiered": "2019-07-10",
+                "productioncode": "",
+                "rating": 7.199999809265137,
+                "resume": {
+                    "position": 0.0,
+                    "total": 8160.0
+                },
+                "runtime": 8160,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Prime Day Concert 2019",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt10559318",
+                    "slug": "prime-day-concert-2019-2019",
+                    "tmdb": "614793",
+                    "trakt": "458321",
+                    "unknown": "tt10559318"
+                },
+                "votes": "5",
+                "writer": [],
+                "year": 2019
+            },
+            {
+                "album": "",
+                "art": {
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f4AIaBNcJIQqZ2WcJWGbB7fzxy9I.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f4AIaBNcJIQqZ2WcJWGbB7fzxy9I.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Alex Turner",
+                        "order": 0,
+                        "role": "Themselves"
+                    }
+                ],
+                "country": [
+                    "Mexico"
+                ],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Alex Turner",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=610119&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=610119)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=610119)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=610119)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=610119)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=610119)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "610119",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "gpus",
+                    "param.widget": "True",
+                    "popularity": "0.6",
+                    "revenue": "$0",
+                    "slug_id": "arctic-monkeys-live-in-mexico-2019",
+                    "tmdb_id": "610119",
+                    "tmdb_rating": "0.0",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "0",
+                    "trakt_id": "454470",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Ben Chappell"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=610119",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [],
+                "imdbnumber": "",
+                "label": "Arctic Monkeys - Live In Mexico",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Arctic Monkeys - Live In Mexico",
+                "playcount": 0,
+                "plot": "",
+                "plotoutline": "",
+                "premiered": "2019-06-20",
+                "productioncode": "",
+                "rating": 0.0,
+                "resume": {
+                    "position": 0.0,
+                    "total": 360.0
+                },
+                "runtime": 360,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Arctic Monkeys - Live In Mexico",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "slug": "arctic-monkeys-live-in-mexico-2019",
+                    "tmdb": "610119",
+                    "trakt": "454470"
+                },
+                "votes": "0",
+                "writer": [],
+                "year": 2019
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fofn61GimjUYY5nDsWosTXRKNXyW.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ffOKyvSK3zRPGmJEz0I0r3gMFMc7.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ffOKyvSK3zRPGmJEz0I0r3gMFMc7.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Robert Smith",
+                        "order": 0,
+                        "role": "Performer"
+                    },
+                    {
+                        "name": "Simon Gallup",
+                        "order": 1,
+                        "role": "Performer"
+                    },
+                    {
+                        "name": "Roger O'Donnell",
+                        "order": 2,
+                        "role": "Performer"
+                    },
+                    {
+                        "name": "Jason Cooper",
+                        "order": 3,
+                        "role": "Performer"
+                    },
+                    {
+                        "name": "Reeves Gabrels",
+                        "order": 4,
+                        "role": "Performer"
+                    }
+                ],
+                "country": [
+                    "Australia"
+                ],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Robert Smith / Simon Gallup / Roger O'Donnell / Jason Cooper / Reeves Gabrels",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=606107&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=606107)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=606107)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=606107)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=606107)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=606107)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "606107",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "gpus",
+                    "param.widget": "True",
+                    "popularity": "0.6",
+                    "revenue": "$0",
+                    "slug_id": "the-cure-disintegration-in-sydney-2019",
+                    "studio": "SOH Music",
+                    "tmdb_id": "606107",
+                    "tmdb_rating": "0.0",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "0",
+                    "trakt_id": "450603",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Nick Wickham"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fofn61GimjUYY5nDsWosTXRKNXyW.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=606107",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique"
+                ],
+                "imdbnumber": "",
+                "label": "The Cure: Disintegration in Sydney",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "The Cure: Disintegration in Sydney",
+                "playcount": 0,
+                "plot": "",
+                "plotoutline": "",
+                "premiered": "2019-05-30",
+                "productioncode": "",
+                "rating": 0.0,
+                "resume": {
+                    "position": 0.0,
+                    "total": 9000.0
+                },
+                "runtime": 9000,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "SOH Music"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "The Cure: Disintegration in Sydney",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "slug": "the-cure-disintegration-in-sydney-2019",
+                    "tmdb": "606107",
+                    "trakt": "450603"
+                },
+                "votes": "0",
+                "writer": [],
+                "year": 2019
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fw8FIciBY6ngft6eqlynTL64I5Y4.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fxvVlRxrgQeheHhkp8UB1S8CFuBe.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fxvVlRxrgQeheHhkp8UB1S8CFuBe.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Steve Lukather",
+                        "order": 0,
+                        "role": "Guitar, Vocals"
+                    },
+                    {
+                        "name": "David Paich",
+                        "order": 1,
+                        "role": "Keyboard"
+                    },
+                    {
+                        "name": "Steve Porcaro",
+                        "order": 2,
+                        "role": "Keyboard"
+                    },
+                    {
+                        "name": "Lenny Castro",
+                        "order": 3,
+                        "role": "Percussions"
+                    },
+                    {
+                        "name": "Shannon Forrest",
+                        "order": 4,
+                        "role": "Drums"
+                    },
+                    {
+                        "name": "Shem von Schroeck",
+                        "order": 5,
+                        "role": "Bass"
+                    },
+                    {
+                        "name": "Joseph Williams",
+                        "order": 6,
+                        "role": "Vocals"
+                    }
+                ],
+                "country": [],
+                "customproperties": {
+                    "available_releases": "Physical",
+                    "budget": "$0",
+                    "cast": "Steve Lukather / David Paich / Steve Porcaro / Lenny Castro / Shannon Forrest / Shem von Schroeck / Joseph Williams",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=580873&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=580873)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=580873)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=580873)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=580873)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=580873)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt9747352",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "580873",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "gpus",
+                    "param.widget": "True",
+                    "physical_release": "2019-03-22",
+                    "popularity": "1.4",
+                    "provider.link": "https://www.themoviedb.org/movie/580873-toto-40-tours-around-the-sun/watch?locale=FR",
+                    "providers": "Apple iTunes",
+                    "revenue": "$0",
+                    "slug_id": "toto-40-tours-around-the-sun-2019",
+                    "studio": "Eagle Rock Film Productions",
+                    "tmdb_id": "580873",
+                    "tmdb_rating": "8.5",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "4",
+                    "trakt_id": "431111",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fw8FIciBY6ngft6eqlynTL64I5Y4.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=580873",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique"
+                ],
+                "imdbnumber": "tt9747352",
+                "label": "Toto: 40 Tours Around The Sun",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Toto: 40 Tours Around The Sun",
+                "playcount": 0,
+                "plot": "Donn\u00e9 dans le cadre de la tourn\u00e9e des 40 ans du groupe en 2018, ce concert de Toto a \u00e9t\u00e9 capt\u00e9 au Ziggo Dome d\u2019Amsterdam et offre une s\u00e9lection de leurs plus grands classiques, de nouvelles chansons et de titres rarement jou\u00e9s. Le show d\u00e9bute avec leur tout nouveau titre \u2018Alone\u2019 avant d\u2019encha\u00eener directement au piano avec l\u2019intro si c\u00e9l\u00e8bre de 'Hold The Line', chanson issue de leur premier album en 1978, comme pour faire un pont sur ces 40 ans de carri\u00e8re.",
+                "plotoutline": "",
+                "premiered": "2019-02-07",
+                "productioncode": "",
+                "rating": 8.5,
+                "resume": {
+                    "position": 0.0,
+                    "total": 9840.0
+                },
+                "runtime": 9840,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Eagle Rock Film Productions"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Toto: 40 Tours Around The Sun",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=zw7DKwit6uo",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt9747352",
+                    "slug": "toto-40-tours-around-the-sun-2019",
+                    "tmdb": "580873",
+                    "trakt": "431111",
+                    "unknown": "tt9747352"
+                },
+                "votes": "4",
+                "writer": [],
+                "year": 2019
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fm4kecxxg1rPofOitLtmIrw6Zzy5.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f2OGLWeUUxx5kNDrJqGvURYvAKQo.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f2OGLWeUUxx5kNDrJqGvURYvAKQo.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Chris Martin",
+                        "order": 0,
+                        "role": "himself"
+                    },
+                    {
+                        "name": "Jonny Buckland",
+                        "order": 1,
+                        "role": "himself"
+                    },
+                    {
+                        "name": "Guy Berryman",
+                        "order": 2,
+                        "role": "himself"
+                    },
+                    {
+                        "name": "Will Champion",
+                        "order": 3,
+                        "role": "himself"
+                    },
+                    {
+                        "name": "Jon Hopkins",
+                        "order": 4,
+                        "role": "himself"
+                    }
+                ],
+                "country": [
+                    "Brazil",
+                    "United States of America",
+                    "France",
+                    "United Kingdom"
+                ],
+                "customproperties": {
+                    "available_releases": "Physical",
+                    "budget": "$0",
+                    "cast": "Chris Martin / Jonny Buckland / Guy Berryman / Will Champion / Jon Hopkins",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=563397&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=563397)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=563397)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=563397)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=563397)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=563397)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "563397",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "gpus",
+                    "param.widget": "True",
+                    "physical_release": "2018-12-07",
+                    "popularity": "1.925",
+                    "provider.link": "https://www.themoviedb.org/movie/563397-coldplay-live-in-sao-paulo/watch?locale=FR",
+                    "providers": "Apple iTunes",
+                    "revenue": "$0",
+                    "slug_id": "coldplay-live-in-sao-paulo-2018",
+                    "studio": "Warner Music Group",
+                    "tmdb_id": "563397",
+                    "tmdb_rating": "8.7",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "6",
+                    "trakt_id": "413588",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Mat Whitecross"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fm4kecxxg1rPofOitLtmIrw6Zzy5.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=563397",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique"
+                ],
+                "imdbnumber": "",
+                "label": "Coldplay - Live \u00e0 S\u00e3o Paulo",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Coldplay: Live in S\u00e3o Paulo",
+                "playcount": 0,
+                "plot": "Un live de 2 heures, film\u00e9 \u00e0 l'Allianz Parque de S\u00e3o Paulo au Br\u00e9sil les 7 et 8 novembre 2017 sur leur incroyable tourn\u00e9e \u00ab A Head Full Of Dreams World Tour \u00bb o\u00f9 le groupe a jou\u00e9 devant 5,4 millions de fans.",
+                "plotoutline": "",
+                "premiered": "2018-12-07",
+                "productioncode": "",
+                "rating": 8.699999809265137,
+                "resume": {
+                    "position": 0.0,
+                    "total": 7200.0
+                },
+                "runtime": 7200,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Warner Music Group",
+                    "Parlophone",
+                    "Mint Pictures",
+                    "My Accomplice",
+                    "The Firepit",
+                    "Dave Holmes Management",
+                    "CO3",
+                    "The Brewery",
+                    "Jumbuck Film & Television"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Coldplay - Live \u00e0 S\u00e3o Paulo",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "slug": "coldplay-live-in-sao-paulo-2018",
+                    "tmdb": "563397",
+                    "trakt": "413588"
+                },
+                "votes": "6",
+                "writer": [],
+                "year": 2018
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f9Rjs6wszvwuXzyNiMHablPcC8QP.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fakF10IEslLrHfHR7tsmCWZMq0c3.jpg/",
+                    "landscape": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fypZ3m8iSMOgzqjoQx2UqY7C1FYu.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fakF10IEslLrHfHR7tsmCWZMq0c3.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Amy Winehouse",
+                        "order": 0,
+                        "role": "Herself (archive footage)"
+                    },
+                    {
+                        "name": "Mark Ronson",
+                        "order": 1,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Salaam Remi",
+                        "order": 2,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Ronnie Spector",
+                        "order": 3,
+                        "role": "Herself"
+                    }
+                ],
+                "country": [
+                    "United Kingdom"
+                ],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Amy Winehouse / Mark Ronson / Salaam Remi / Ronnie Spector",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=555377&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=555377)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=555377)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=555377)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=555377)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=555377)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt9049130",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "555377",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "gpus",
+                    "param.widget": "True",
+                    "popularity": "2.236",
+                    "revenue": "$0",
+                    "slug_id": "amy-winehouse-back-to-black-the-real-story-behind-the-modern-classic-2018",
+                    "studio": "BBC",
+                    "tmdb_id": "555377",
+                    "tmdb_rating": "7.4",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "5",
+                    "trakt_id": "406289",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Jeremy Marre"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f9Rjs6wszvwuXzyNiMHablPcC8QP.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=555377",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Documentaire",
+                    "Musique"
+                ],
+                "imdbnumber": "tt9049130",
+                "label": "Amy Winehouse - Back to Black",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Amy Winehouse - Back To Black:The Real Story Behind The Modern Classic",
+                "playcount": 0,
+                "plot": "Plongeant dans la gen\u00e8se de l\u2019album \"Back to Black\", ce documentaire d\u00e9voile des facettes in\u00e9dites de la chanteuse Amy Winehouse, ic\u00f4ne de la soul dont on comm\u00e9more cette ann\u00e9e le dixi\u00e8me anniversaire de la mort.",
+                "plotoutline": "",
+                "premiered": "2018-09-14",
+                "productioncode": "",
+                "rating": 7.400000095367432,
+                "resume": {
+                    "position": 0.0,
+                    "total": 3540.0
+                },
+                "runtime": 3540,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "BBC",
+                    "Eagle Rock Entertainment",
+                    "BBC Music"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Amy Winehouse - Back to Black",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt9049130",
+                    "slug": "amy-winehouse-back-to-black-the-real-story-behind-the-modern-classic-2018",
+                    "tmdb": "555377",
+                    "trakt": "406289",
+                    "unknown": "tt9049130"
+                },
+                "votes": "5",
+                "writer": [],
+                "year": 2018
+            },
+            {
+                "album": "",
+                "art": {
+                    "discart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f546291%2fmoviedisc%2fsteven-wilson-home-invasion---live-at-the-royal-albert-hall-5bdb9af7336cb.png/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fuI35PVdn8XeN2LMWw7cVrwOjS6I.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fqHdyIvnYZ5LUEOF7UgegHla9xHb.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fqHdyIvnYZ5LUEOF7UgegHla9xHb.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Steven Wilson",
+                        "order": 0,
+                        "role": "Vocals, Guitar, Keyboards"
+                    },
+                    {
+                        "name": "Ninet Tayeb",
+                        "order": 1,
+                        "role": "Guest Vocals"
+                    },
+                    {
+                        "name": "Nick Beggs",
+                        "order": 2,
+                        "role": "Bass, Vocals"
+                    },
+                    {
+                        "name": "Adam Holzman",
+                        "order": 3,
+                        "role": "Keyboards"
+                    },
+                    {
+                        "name": "Craig Blundell",
+                        "order": 4,
+                        "role": "Drums"
+                    },
+                    {
+                        "name": "Alex Hutchings",
+                        "order": 5,
+                        "role": "Guitar, Vocals"
+                    }
+                ],
+                "country": [
+                    "United Kingdom"
+                ],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Steven Wilson / Ninet Tayeb / Nick Beggs / Adam Holzman / Craig Blundell / Alex Hutchings",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=546291&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=546291)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=546291)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=546291)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=546291)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=546291)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt9364478",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "546291",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "gpus",
+                    "param.widget": "True",
+                    "popularity": "0.878",
+                    "provider.link": "https://www.themoviedb.org/movie/546291-steven-wilson-home-invasion-in-concert-at-the-royal-albert-hall/watch?locale=FR",
+                    "providers": "Amazon Prime Video / Apple iTunes",
+                    "revenue": "$0",
+                    "slug_id": "steven-wilson-home-invasion-in-concert-at-the-royal-albert-hall-2018",
+                    "studio": "Eagle Rock Entertainment",
+                    "tmdb_id": "546291",
+                    "tmdb_rating": "8.6",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "5",
+                    "trakt_id": "396721",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "James Russell"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fuI35PVdn8XeN2LMWw7cVrwOjS6I.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=546291",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique",
+                    "Documentaire"
+                ],
+                "imdbnumber": "tt9364478",
+                "label": "Steven Wilson: Home Invasion - In Concert at the Royal Albert Hall",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Steven Wilson: Home Invasion - In Concert at the Royal Albert Hall",
+                "playcount": 0,
+                "plot": "Fin mars 2018, Steven Wilson jouait trois soirs de suite \u00e0 guichets-ferm\u00e9s dans l'un des lieux les plus embl\u00e9matiques du monde : le Royal Albert Hall de Londres. V\u00e9ritable exp\u00e9rience visuelle et sonore, des projections sophistiqu\u00e9es et un son immersif en 4D ont transform\u00e9 ce lieu traditionnel de la culture anglaise, en un spectacle hors-normes, en une communion plut\u00f4t qu'un concert. D\u00e8s lors, pas surprenant que le Sun ait d\u00e9crit ces prestations comme \"l'un des meilleurs spectacles de l'ann\u00e9e!",
+                "plotoutline": "",
+                "premiered": "2018-10-26",
+                "productioncode": "",
+                "rating": 8.600000381469727,
+                "resume": {
+                    "position": 0.0,
+                    "total": 7980.0
+                },
+                "runtime": 7980,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Eagle Rock Entertainment"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Steven Wilson: Home Invasion - In Concert at the Royal Albert Hall",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=diSSl9N6ZkU",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt9364478",
+                    "slug": "steven-wilson-home-invasion-in-concert-at-the-royal-albert-hall-2018",
+                    "tmdb": "546291",
+                    "trakt": "396721",
+                    "unknown": "tt9364478"
+                },
+                "votes": "5",
+                "writer": [],
+                "year": 2018
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fgV7AeMvM7YNuvcfP0Zifoj8R65M.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fgP0DvYxpVwHnyEYvtuV62hrbQc0.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fgP0DvYxpVwHnyEYvtuV62hrbQc0.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Myles Kennedy",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Mark Tremonti",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Scott Phillips",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Brian Marshall",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Simon Dobson",
+                        "order": 4,
+                        "role": ""
+                    }
+                ],
+                "country": [],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Myles Kennedy / Mark Tremonti / Scott Phillips / Brian Marshall / Simon Dobson",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=547007&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=547007)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=547007)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=547007)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=547007)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=547007)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "547007",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "gpus",
+                    "param.widget": "True",
+                    "popularity": "1.0",
+                    "revenue": "$0",
+                    "slug_id": "alter-bridge-live-at-the-royal-albert-hall-featuring-the-parallax-orchestra-2018",
+                    "tmdb_id": "547007",
+                    "tmdb_rating": "10.0",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "3",
+                    "trakt_id": "397235",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fgV7AeMvM7YNuvcfP0Zifoj8R65M.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=547007",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique"
+                ],
+                "imdbnumber": "",
+                "label": "Alter Bridge: Live at the Royal Albert Hall (featuring The Parallax Orchestra)",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Alter Bridge: Live at the Royal Albert Hall (featuring The Parallax Orchestra)",
+                "playcount": 0,
+                "plot": "",
+                "plotoutline": "",
+                "premiered": "2018-09-07",
+                "productioncode": "",
+                "rating": 10.0,
+                "resume": {
+                    "position": 0.0,
+                    "total": 9900.0
+                },
+                "runtime": 9900,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Alter Bridge: Live at the Royal Albert Hall (featuring The Parallax Orchestra)",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=6Xx7uoFt-Tk",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "slug": "alter-bridge-live-at-the-royal-albert-hall-featuring-the-parallax-orchestra-2018",
+                    "tmdb": "547007",
+                    "trakt": "397235"
+                },
+                "votes": "3",
+                "writer": [],
+                "year": 2018
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f1xS9gwaceazoFnOtytIoIjsIIXI.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2foyRXBZbUicu0zPQVgSOFL7pUCUk.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2foyRXBZbUicu0zPQVgSOFL7pUCUk.jpg/"
+                },
+                "artist": [],
+                "cast": [],
+                "country": [],
+                "customproperties": {
+                    "budget": "$0",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=613410&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=613410)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=613410)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=613410)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=613410)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=613410)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "613410",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "gpus",
+                    "param.widget": "True",
+                    "popularity": "0.851",
+                    "revenue": "$0",
+                    "slug_id": "dave-matthews-band-live-from-the-gorge-9-1-2018-2018",
+                    "tmdb_id": "613410",
+                    "tmdb_rating": "0.0",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "0",
+                    "trakt_id": "457017",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f1xS9gwaceazoFnOtytIoIjsIIXI.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=613410",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [],
+                "imdbnumber": "",
+                "label": "Dave Matthews Band - Live from The Gorge 9/1/2018",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Dave Matthews Band - Live from The Gorge 9/1/2018",
+                "playcount": 0,
+                "plot": "",
+                "plotoutline": "",
+                "premiered": "2018-09-01",
+                "productioncode": "",
+                "rating": 0.0,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 0,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Dave Matthews Band - Live from The Gorge 9/1/2018",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "slug": "dave-matthews-band-live-from-the-gorge-9-1-2018-2018",
+                    "tmdb": "613410",
+                    "trakt": "457017"
+                },
+                "votes": "0",
+                "writer": [],
+                "year": 2018
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f2US2hVkSxSKvXp40PrnaNKZojMF.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fpOp5Nkeoj9b1v8nqZVY3XWrxBib.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fpOp5Nkeoj9b1v8nqZVY3XWrxBib.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Beyonc\u00e9",
+                        "order": 0,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Kelly Rowland",
+                        "order": 1,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Michelle Williams",
+                        "order": 2,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Solange",
+                        "order": 3,
+                        "role": "Self"
+                    }
+                ],
+                "country": [
+                    "United States of America"
+                ],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Beyonc\u00e9 / Kelly Rowland / Michelle Williams / Solange",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=518280&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=518280)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=518280)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=518280)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=518280)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=518280)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "518280",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "gpus",
+                    "param.widget": "True",
+                    "popularity": "2.48",
+                    "revenue": "$0",
+                    "slug_id": "beyonce-live-at-coachella-2018",
+                    "tmdb_id": "518280",
+                    "tmdb_rating": "9.3",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "15",
+                    "trakt_id": "366556",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Beyonc\u00e9"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f2US2hVkSxSKvXp40PrnaNKZojMF.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=518280",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique"
+                ],
+                "imdbnumber": "",
+                "label": "Beyonc\u00e9 : Live at Coachella",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Beyonc\u00e9: Live at Coachella",
+                "playcount": 0,
+                "plot": "Retrouvez la pr\u00e9station de Beyonc\u00e9 lors du festival \"Coachella 2018: Valley Music and Arts Festival\".",
+                "plotoutline": "",
+                "premiered": "2018-04-15",
+                "productioncode": "",
+                "rating": 9.300000190734863,
+                "resume": {
+                    "position": 0.0,
+                    "total": 6360.0
+                },
+                "runtime": 6360,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Beyonc\u00e9 : Live at Coachella",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "slug": "beyonce-live-at-coachella-2018",
+                    "tmdb": "518280",
+                    "trakt": "366556"
+                },
+                "votes": "15",
+                "writer": [],
+                "year": 2018
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f8yK93PS9szsgG2Il5roILCev88s.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f14Q2qTbYkU1aSnt8bERzJxYUnR2.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f14Q2qTbYkU1aSnt8bERzJxYUnR2.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Jim Morrison",
+                        "order": 0,
+                        "role": "Himself (archive footage)"
+                    },
+                    {
+                        "name": "Ray Manzarek",
+                        "order": 1,
+                        "role": "Himself (archive footage)"
+                    },
+                    {
+                        "name": "John Densmore",
+                        "order": 2,
+                        "role": "Himself (archive footage)"
+                    },
+                    {
+                        "name": "Robby Krieger",
+                        "order": 3,
+                        "role": "Himself (archive footage)"
+                    }
+                ],
+                "country": [
+                    "United States of America"
+                ],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Jim Morrison / Ray Manzarek / John Densmore / Robby Krieger",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=501350&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=501350)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=501350)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=501350)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=501350)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=501350)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt7211346",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "501350",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "gpus",
+                    "param.widget": "True",
+                    "popularity": "3.291",
+                    "provider.link": "https://www.themoviedb.org/movie/501350-the-doors-live-at-the-isle-of-wight-festival-1970/watch?locale=FR",
+                    "providers": "Apple iTunes",
+                    "revenue": "$0",
+                    "slug_id": "the-doors-live-at-the-isle-of-wight-festival-1970-2018",
+                    "studio": "Eagle Rock Entertainment",
+                    "tmdb_id": "501350",
+                    "tmdb_rating": "8.2",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "4",
+                    "trakt_id": "348330",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Murray Lerner",
+                    "John Albarian"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f8yK93PS9szsgG2Il5roILCev88s.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=501350",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique"
+                ],
+                "imdbnumber": "tt7211346",
+                "label": "The Doors - Live at the Isle of Wight Festival 1970",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "The Doors - Live at the Isle of Wight Festival 1970",
+                "playcount": 0,
+                "plot": "Moins d\u2019un an avant la mort de Jim Morrison, le dernier concert film\u00e9 des Doors lors du mythique Festival de l\u2019\u00eele de Wight en 1970. Une apoth\u00e9ose de la pop, pour un live d\u2019anthologie avant le d\u00e9clin du mouvement hippie.",
+                "plotoutline": "",
+                "premiered": "2018-02-23",
+                "productioncode": "",
+                "rating": 8.199999809265137,
+                "resume": {
+                    "position": 0.0,
+                    "total": 3960.0
+                },
+                "runtime": 3960,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Eagle Rock Entertainment"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "The Doors - Live at the Isle of Wight Festival 1970",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=1nHhGUkq-gM",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt7211346",
+                    "slug": "the-doors-live-at-the-isle-of-wight-festival-1970-2018",
+                    "tmdb": "501350",
+                    "trakt": "348330",
+                    "unknown": "tt7211346"
+                },
+                "votes": "4",
+                "writer": [],
+                "year": 2018
+            },
+            {
+                "album": "",
+                "art": {
+                    "banner": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f13763%2fmoviebanner%2fpurple-rain-54ff4b1b16e2a.jpg/",
+                    "clearlogo": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f13763%2fhdmovielogo%2fpurple-rain-56641cc9aa199.png/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fv0DStOKIQ6qLtMZiOGmRfogd33p.jpg/",
+                    "fanart1": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f13763%2fmoviebackground%2fpurple-rain-5724848f69a89.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f9Sqomx8pfr6aAkyKZf1d5h7ghID.jpg/",
+                    "keyart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f13763%2fmovieposter%2fpurple-rain-5723cf1a7a8c0.jpg/",
+                    "landscape": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f13763%2fmoviethumb%2fpurple-rain-56641d13d40a4.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f9Sqomx8pfr6aAkyKZf1d5h7ghID.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Prince",
+                        "order": 0,
+                        "role": "The Kid"
+                    },
+                    {
+                        "name": "Apollonia Kotero",
+                        "order": 1,
+                        "role": "Apollonia"
+                    },
+                    {
+                        "name": "Morris Day",
+                        "order": 2,
+                        "role": "Morris"
+                    },
+                    {
+                        "name": "Jerome Benton",
+                        "order": 3,
+                        "role": "Jerome"
+                    },
+                    {
+                        "name": "Olga Karlatos",
+                        "order": 4,
+                        "role": "Mother"
+                    },
+                    {
+                        "name": "Clarence Williams III",
+                        "order": 5,
+                        "role": "Father"
+                    },
+                    {
+                        "name": "Billy Sparks",
+                        "order": 6,
+                        "role": "Billy"
+                    },
+                    {
+                        "name": "Wendy Melvoin",
+                        "order": 7,
+                        "role": "Wendy"
+                    },
+                    {
+                        "name": "Lisa Coleman",
+                        "order": 8,
+                        "role": "Lisa"
+                    },
+                    {
+                        "name": "Bobby Z",
+                        "order": 9,
+                        "role": "Bobby"
+                    },
+                    {
+                        "name": "Dr. Fink",
+                        "order": 10,
+                        "role": "Matt"
+                    },
+                    {
+                        "name": "Brown Mark",
+                        "order": 11,
+                        "role": "Mark"
+                    },
+                    {
+                        "name": "Jill Jones",
+                        "order": 12,
+                        "role": "Jill"
+                    },
+                    {
+                        "name": "Susan Moonsie",
+                        "order": 13,
+                        "role": "Susan"
+                    },
+                    {
+                        "name": "Brenda Bennett",
+                        "order": 14,
+                        "role": "Brenda"
+                    },
+                    {
+                        "name": "Joel Thingvall",
+                        "order": 15,
+                        "role": ""
+                    }
+                ],
+                "country": [
+                    "United States of America"
+                ],
+                "customproperties": {
+                    "budget": "$7,200,000",
+                    "cast": "Prince / Apollonia Kotero / Morris Day / Jerome Benton / Olga Karlatos / Clarence Williams III / Billy Sparks / Wendy Melvoin / Lisa Coleman / Bobby Z / Dr. Fink / Brown Mark / Jill Jones / Susan Moonsie / Brenda Bennett / Joel Thingvall",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=13763&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=13763)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=13763)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=13763)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=13763)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=13763)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt0087957",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "13763",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "gpus",
+                    "param.widget": "True",
+                    "popularity": "11.11",
+                    "provider.link": "https://www.themoviedb.org/movie/13763-purple-rain/watch?locale=FR",
+                    "providers": "Apple iTunes / Google Play Movies / Amazon Video / YouTube / Filmo TV / Bbox VOD / Microsoft Store",
+                    "revenue": "$68,392,977",
+                    "slug_id": "purple-rain-1984",
+                    "studio": "Warner Bros. Entertainment",
+                    "tmdb_id": "13763",
+                    "tmdb_rating": "6.7",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "290",
+                    "trakt_id": "8168",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Albert Magnoli"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fv0DStOKIQ6qLtMZiOGmRfogd33p.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=13763",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Drame",
+                    "Musique",
+                    "Romance"
+                ],
+                "imdbnumber": "tt0087957",
+                "label": "Purple Rain",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Purple Rain",
+                "playcount": 0,
+                "plot": "Intransigeant et m\u00e9galomane, le \"Kid\", musicien de g\u00e9nie, se clo\u00eetre dans un isolement protecteur. Le leader d'un groupe funk, Morris Day, lui dispute une notori\u00e9t\u00e9 grandissante et le c\u0153ur de la belle et myst\u00e9rieuse Apollonia. Les personnages de ce film interpr\u00e8tent pratiquement tous leur propre r\u00f4le, \u00e0 commencer par Prince, la star des ann\u00e9es 80.",
+                "plotoutline": "",
+                "premiered": "1984-07-27",
+                "productioncode": "",
+                "rating": 6.699999809265137,
+                "resume": {
+                    "position": 0.0,
+                    "total": 6660.0
+                },
+                "runtime": 6660,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Warner Bros. Entertainment",
+                    "Warner Bros. Pictures",
+                    "Water",
+                    "Purple Films"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Purple Rain",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=AuXK8ZbTmLk",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt0087957",
+                    "slug": "purple-rain-1984",
+                    "tmdb": "13763",
+                    "trakt": "8168",
+                    "unknown": "tt0087957"
+                },
+                "votes": "290",
+                "writer": [
+                    "William Blinn",
+                    "Albert Magnoli"
+                ],
+                "year": 1984
+            },
+            {
+                "album": "",
+                "art": {
+                    "banner": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f391698%2fmoviebanner%2fthe-beatles-eight-days-a-week---the-touring-years-594565eb91c1a.jpg/",
+                    "clearart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f391698%2fhdmovieclearart%2fthe-beatles-eight-days-a-week---the-touring-years-594564135b04c.png/",
+                    "clearlogo": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f391698%2fhdmovielogo%2fthe-beatles-eight-days-a-week---the-touring-years-587414c062519.png/",
+                    "discart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f391698%2fmoviedisc%2fthe-beatles-eight-days-a-week---the-touring-years-5943051295fe2.png/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fzSacPjqL4qrIFsI0R1QukGmyXUJ.jpg/",
+                    "fanart1": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f391698%2fmoviebackground%2fthe-beatles-eight-days-a-week---the-touring-years-594565d9165dd.jpg/",
+                    "fanart2": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f391698%2fmoviebackground%2fthe-beatles-eight-days-a-week---the-touring-years-5943d9cfc7796.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fA6q7Jy4vXgXXoCoHX4lpCaKvcMV.jpg/",
+                    "keyart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f391698%2fmovieposter%2fthe-beatles-eight-days-a-week---the-touring-years-58f1015118805.jpg/",
+                    "landscape": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f391698%2fmoviethumb%2fthe-beatles-eight-days-a-week---the-touring-years-594569e3836ab.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fA6q7Jy4vXgXXoCoHX4lpCaKvcMV.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Paul McCartney",
+                        "order": 0,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Ringo Starr",
+                        "order": 1,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "John Lennon",
+                        "order": 2,
+                        "role": "Self (archive footage)"
+                    },
+                    {
+                        "name": "George Harrison",
+                        "order": 3,
+                        "role": "Self (archive footage)"
+                    },
+                    {
+                        "name": "Larry Kane",
+                        "order": 4,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Whoopi Goldberg",
+                        "order": 5,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Elvis Costello",
+                        "order": 6,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Eddie Izzard",
+                        "order": 7,
+                        "role": "Herself"
+                    },
+                    {
+                        "name": "Sigourney Weaver",
+                        "order": 8,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Richard Lester",
+                        "order": 9,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Kitty Oliver",
+                        "order": 10,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Howard Goodall",
+                        "order": 11,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Jon Savage",
+                        "order": 12,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Debbie Gendler",
+                        "order": 13,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Richard Curtis",
+                        "order": 14,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Malcolm Gladwell",
+                        "order": 15,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "George Martin",
+                        "order": 16,
+                        "role": "Self (archive footage)"
+                    },
+                    {
+                        "name": "Neil Aspinall",
+                        "order": 17,
+                        "role": "Self (archive footage)"
+                    }
+                ],
+                "country": [
+                    "United Kingdom",
+                    "United States of America"
+                ],
+                "customproperties": {
+                    "available_releases": "Theatrical",
+                    "budget": "$0",
+                    "cast": "Paul McCartney / Ringo Starr / John Lennon / George Harrison / Larry Kane / Whoopi Goldberg / Elvis Costello / Eddie Izzard / Sigourney Weaver / Richard Lester / Kitty Oliver / Howard Goodall / Jon Savage / Debbie Gendler / Richard Curtis / Malcolm Gladwell / George Martin / Neil Aspinall",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=391698&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=391698)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=391698)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=391698)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=391698)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=391698)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt2531318",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "391698",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "gpus",
+                    "param.widget": "True",
+                    "popularity": "14.989",
+                    "provider.link": "https://www.themoviedb.org/movie/391698-the-beatles-eight-days-a-week-the-touring-years/watch?locale=FR",
+                    "providers": "Apple iTunes / Google Play Movies / Rakuten TV / Orange VOD / Amazon Video / YouTube / Filmo TV / Canal VOD / Bbox VOD / Microsoft Store",
+                    "revenue": "$12,283,800",
+                    "slug_id": "the-beatles-eight-days-a-week-the-touring-years-2016",
+                    "studio": "Imagine Entertainment",
+                    "theatrical_release": "2016-09-15",
+                    "tmdb_id": "391698",
+                    "tmdb_rating": "7.7",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "301",
+                    "trakt_id": "234024",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Ron Howard"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fzSacPjqL4qrIFsI0R1QukGmyXUJ.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=391698",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Documentaire"
+                ],
+                "imdbnumber": "tt2531318",
+                "label": "The Beatles: Eight Days a Week",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "Rated U",
+                "originaltitle": "The Beatles: Eight Days a Week - The Touring Years",
+                "playcount": 0,
+                "plot": "Avec des images rares et exclusives, The Beatles: Eight Days A Week - The Touring Years retrace les premi\u00e8res ann\u00e9es de la carri\u00e8re des Beatles de 1962 \u00e0 1966, marqu\u00e9es par les tourn\u00e9es incessantes \u00e0 travers le monde. Des centaines de dates, des milliers de fans, des heures de concerts ont permis aux Beatles d\u2019entrer dans la l\u00e9gende, mais aussi d\u2019apprendre \u00e0 se conna\u00eetre, \u00e0 se chercher, \u00e0 se renouveler et \u00e0 \u00e9crire ensemble toujours plus de chansons mythiques. Du Cavern Club de Liverpool \u00e0 leur dernier concert au Candlestick Park de San Francisco, d\u00e9couvrez les Beatles comme vous ne les avez jamais vus et jamais entendus, \u00e0 travers des enregistrements live et archives in\u00e9dites.",
+                "plotoutline": "",
+                "premiered": "2016-09-15",
+                "productioncode": "",
+                "rating": 7.699999809265137,
+                "resume": {
+                    "position": 0.0,
+                    "total": 7200.0
+                },
+                "runtime": 7200,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Imagine Entertainment",
+                    "Apple Corps"
+                ],
+                "tag": [],
+                "tagline": "Vous connaissez le groupe. Pas leur histoire.",
+                "thumbnail": "",
+                "title": "The Beatles: Eight Days a Week",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=XEL25o8W-4U",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt2531318",
+                    "slug": "the-beatles-eight-days-a-week-the-touring-years-2016",
+                    "tmdb": "391698",
+                    "trakt": "234024",
+                    "unknown": "tt2531318"
+                },
+                "votes": "301",
+                "writer": [
+                    "Mark Monroe",
+                    "P.G. Morgan",
+                    "P.G. Morgan"
+                ],
+                "year": 2016
+            },
+            {
+                "album": "",
+                "art": {
+                    "banner": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f704%2fmoviebanner%2fa-hard-days-night-51d20dbc0aaf2.jpg/",
+                    "clearlogo": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f704%2fhdmovielogo%2fa-hard-days-night-5e35833a082dd.png/",
+                    "discart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f704%2fmoviedisc%2fa-hard-days-night-5e358bfc4d6ed.png/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f9hWiNbvLR3nPDanTdEWOc4EeBGp.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f6Ulsccp2VkaVU5qbya3bxm9JG4x.jpg/",
+                    "landscape": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f704%2fmoviethumb%2fa-hard-days-night-542ac35f3a43c.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f6Ulsccp2VkaVU5qbya3bxm9JG4x.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "John Lennon",
+                        "order": 0,
+                        "role": "John"
+                    },
+                    {
+                        "name": "Paul McCartney",
+                        "order": 1,
+                        "role": "Paul"
+                    },
+                    {
+                        "name": "George Harrison",
+                        "order": 2,
+                        "role": "George"
+                    },
+                    {
+                        "name": "Ringo Starr",
+                        "order": 3,
+                        "role": "Ringo"
+                    },
+                    {
+                        "name": "Wilfrid Brambell",
+                        "order": 4,
+                        "role": "Grandfather"
+                    },
+                    {
+                        "name": "Norman Rossington",
+                        "order": 5,
+                        "role": "Norm"
+                    },
+                    {
+                        "name": "John Junkin",
+                        "order": 6,
+                        "role": "Shake"
+                    },
+                    {
+                        "name": "Victor Spinetti",
+                        "order": 7,
+                        "role": "TV Director"
+                    },
+                    {
+                        "name": "Anna Quayle",
+                        "order": 8,
+                        "role": "Millie"
+                    },
+                    {
+                        "name": "Deryck Guyler",
+                        "order": 9,
+                        "role": "Police Inspector"
+                    },
+                    {
+                        "name": "Richard Vernon",
+                        "order": 10,
+                        "role": "Man on Train"
+                    },
+                    {
+                        "name": "Edward Malin",
+                        "order": 11,
+                        "role": "Hotel Waiter"
+                    },
+                    {
+                        "name": "Lionel Blair",
+                        "order": 12,
+                        "role": "TV Choreographer"
+                    },
+                    {
+                        "name": "Robin Ray",
+                        "order": 13,
+                        "role": "TV Floor Manager"
+                    },
+                    {
+                        "name": "Alison Seebohm",
+                        "order": 14,
+                        "role": "Secretary"
+                    },
+                    {
+                        "name": "David Janson",
+                        "order": 15,
+                        "role": "Young Boy (as David Jaxon)"
+                    },
+                    {
+                        "name": "Bridget Armstrong",
+                        "order": 16,
+                        "role": "Lead Make-Up Girl"
+                    },
+                    {
+                        "name": "Roger Avon",
+                        "order": 17,
+                        "role": "Policeman"
+                    },
+                    {
+                        "name": "Bruce Beeby",
+                        "order": 18,
+                        "role": "Casino Man"
+                    },
+                    {
+                        "name": "Isla Blair",
+                        "order": 19,
+                        "role": "Actress"
+                    },
+                    {
+                        "name": "John Bluthal",
+                        "order": 20,
+                        "role": "Car Thief"
+                    },
+                    {
+                        "name": "Pattie Boyd",
+                        "order": 21,
+                        "role": "Jean - Schoolgirl on Train #1"
+                    },
+                    {
+                        "name": "Andre Charisse",
+                        "order": 22,
+                        "role": "Casino Champagne Waiter"
+                    },
+                    {
+                        "name": "Phil Collins",
+                        "order": 23,
+                        "role": "Necktie wearing fan"
+                    },
+                    {
+                        "name": "Sheila Fearn",
+                        "order": 24,
+                        "role": "Make-Up Girl"
+                    },
+                    {
+                        "name": "Rosemarie Frankland",
+                        "order": 25,
+                        "role": "Brunette Showgirl"
+                    },
+                    {
+                        "name": "Bob Godfrey",
+                        "order": 26,
+                        "role": "Man in Pub"
+                    },
+                    {
+                        "name": "Kenneth Haigh",
+                        "order": 27,
+                        "role": "Simon Marshall"
+                    },
+                    {
+                        "name": "Susan Hampshire",
+                        "order": 28,
+                        "role": "Dancer at Disco"
+                    },
+                    {
+                        "name": "Victor Harrington",
+                        "order": 29,
+                        "role": "Man at Casino"
+                    },
+                    {
+                        "name": "Julian Holloway",
+                        "order": 30,
+                        "role": "Adrian"
+                    },
+                    {
+                        "name": "Clare Kelly",
+                        "order": 31,
+                        "role": "Barmaid"
+                    },
+                    {
+                        "name": "David Langton",
+                        "order": 32,
+                        "role": "Actor"
+                    },
+                    {
+                        "name": "Al Lewis",
+                        "order": 33,
+                        "role": "Gambler"
+                    },
+                    {
+                        "name": "Jeremy Lloyd",
+                        "order": 34,
+                        "role": "Tall Man at Disco"
+                    },
+                    {
+                        "name": "Derek Nimmo",
+                        "order": 35,
+                        "role": "Leslie Jackson"
+                    },
+                    {
+                        "name": "Margaret Nolan",
+                        "order": 36,
+                        "role": "Grandfather's Girl at Casino"
+                    },
+                    {
+                        "name": "Jim O'Brady",
+                        "order": 37,
+                        "role": "Man in Pub"
+                    },
+                    {
+                        "name": "Charlotte Rampling",
+                        "order": 38,
+                        "role": "Girl at Disco"
+                    },
+                    {
+                        "name": "Gordon Rollings",
+                        "order": 39,
+                        "role": "Man with Sandwich in Pub"
+                    },
+                    {
+                        "name": "Edina Ronay",
+                        "order": 40,
+                        "role": "Girl at Disco"
+                    },
+                    {
+                        "name": "Marianne Stone",
+                        "order": 41,
+                        "role": "Society Journalist"
+                    },
+                    {
+                        "name": "Noel Trevarthen",
+                        "order": 42,
+                        "role": "Journalist"
+                    },
+                    {
+                        "name": "Michael Trubshawe",
+                        "order": 43,
+                        "role": "Casino Manager"
+                    },
+                    {
+                        "name": "Carol White",
+                        "order": 44,
+                        "role": "Minor Role"
+                    },
+                    {
+                        "name": "Neil Wilson",
+                        "order": 45,
+                        "role": "Doorman"
+                    }
+                ],
+                "country": [
+                    "United Kingdom"
+                ],
+                "customproperties": {
+                    "budget": "$560,000",
+                    "cast": "John Lennon / Paul McCartney / George Harrison / Ringo Starr / Wilfrid Brambell / Norman Rossington / John Junkin / Victor Spinetti / Anna Quayle / Deryck Guyler / Richard Vernon / Edward Malin / Lionel Blair / Robin Ray / Alison Seebohm / David Janson / Bridget Armstrong / Roger Avon / Bruce Beeby / Isla Blair / John Bluthal / Pattie Boyd / Andre Charisse / Phil Collins / Sheila Fearn / Rosemarie Frankland / Bob Godfrey / Kenneth Haigh / Susan Hampshire / Victor Harrington / Julian Holloway / Clare Kelly / David Langton / Al Lewis / Jeremy Lloyd / Derek Nimmo / Margaret Nolan / Jim O'Brady / Charlotte Rampling / Gordon Rollings / Edina Ronay / Marianne Stone / Noel Trevarthen / Michael Trubshawe / Carol White / Neil Wilson",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=704&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=704)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=704)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=704)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=704)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=704)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt0058182",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "704",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "gpus",
+                    "param.widget": "True",
+                    "popularity": "14.403",
+                    "provider.link": "https://www.themoviedb.org/movie/704-a-hard-day-s-night/watch?locale=FR",
+                    "providers": "Apple iTunes / Canal VOD / Bbox VOD",
+                    "revenue": "$2,360,561",
+                    "slug_id": "a-hard-day-s-night-1964",
+                    "studio": "United Artists",
+                    "tmdb_id": "704",
+                    "tmdb_rating": "7.4",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "525",
+                    "trakt_id": "576",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Richard Lester"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f9hWiNbvLR3nPDanTdEWOc4EeBGp.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=704",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique",
+                    "Com\u00e9die"
+                ],
+                "imdbnumber": "tt0058182",
+                "label": "Quatre gar\u00e7ons dans le vent",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "A Hard Day's Night",
+                "playcount": 0,
+                "plot": "En 1964, les Beatles prennent le train pour donner un concert. Le grand-p\u00e8re de l'un d'eux, qui les accompagne et dont la devise est de semer le d\u00e9sordre et l'anarchie partout o\u00f9 il passe, dispara\u00eet soudain avec son petit-fils. Commence alors une course folle pour les retrouver avant que le concert ne commence.",
+                "plotoutline": "",
+                "premiered": "1964-07-07",
+                "productioncode": "",
+                "rating": 7.400000095367432,
+                "resume": {
+                    "position": 0.0,
+                    "total": 5220.0
+                },
+                "runtime": 5220,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "United Artists",
+                    "Proscenium Films",
+                    "Walter Shenson Films",
+                    "Maljack Productions"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Quatre gar\u00e7ons dans le vent",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=PeWS5HtCpU4",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt0058182",
+                    "slug": "a-hard-day-s-night-1964",
+                    "tmdb": "704",
+                    "trakt": "576",
+                    "unknown": "tt0058182"
+                },
+                "votes": "525",
+                "writer": [
+                    "Alun Owen"
+                ],
+                "year": 1964
+            },
+            {
+                "album": "",
+                "art": {
+                    "clearlogo": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f12105%2fhdmovielogo%2fyellow-submarine-523782e0b4e28.png/",
+                    "discart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f12105%2fmoviedisc%2fyellow-submarine-5ed3a32cdc605.png/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2feKZiD3VZo0cXvsjRMuFDIeK2TzZ.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fcjrGM2QYlwzV6vXz2yF7y6fdTRu.jpg/",
+                    "keyart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f12105%2fmovieposter%2fyellow-submarine-5235ea36d6a3b.jpg/",
+                    "landscape": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f12105%2fmoviethumb%2fyellow-submarine-523bff97246e8.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fcjrGM2QYlwzV6vXz2yF7y6fdTRu.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Paul Angelis",
+                        "order": 0,
+                        "role": "Ringo Starr / Chief Blue Meanie / George / Narrator (voice)"
+                    },
+                    {
+                        "name": "John Clive",
+                        "order": 1,
+                        "role": "John Lennon (voice)"
+                    },
+                    {
+                        "name": "Dick Emery",
+                        "order": 2,
+                        "role": "Jeremy Hillary Boob, Ph.D. - Nowhere Man / Lord Mayor / Max (voice)"
+                    },
+                    {
+                        "name": "Geoffrey Hughes",
+                        "order": 3,
+                        "role": "Paul McCartney (voice) (as Geoff Hughes)"
+                    },
+                    {
+                        "name": "Lance Percival",
+                        "order": 4,
+                        "role": "Old Fred (voice)"
+                    },
+                    {
+                        "name": "Peter Batten",
+                        "order": 5,
+                        "role": "George (voice) (uncredited)"
+                    },
+                    {
+                        "name": "George Harrison",
+                        "order": 6,
+                        "role": "George (uncredited)"
+                    },
+                    {
+                        "name": "John Lennon",
+                        "order": 7,
+                        "role": "John (uncredited)"
+                    },
+                    {
+                        "name": "Paul McCartney",
+                        "order": 8,
+                        "role": "Paul (uncredited)"
+                    },
+                    {
+                        "name": "Ringo Starr",
+                        "order": 9,
+                        "role": "Ringo (uncredited)"
+                    }
+                ],
+                "country": [
+                    "United Kingdom",
+                    "United States of America"
+                ],
+                "customproperties": {
+                    "budget": "$250,000",
+                    "cast": "Paul Angelis / John Clive / Dick Emery / Geoffrey Hughes / Lance Percival / Peter Batten / George Harrison / John Lennon / Paul McCartney / Ringo Starr",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=12105&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=12105)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=12105)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=12105)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=12105)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=12105)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt0063823",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "12105",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "gpus",
+                    "param.widget": "True",
+                    "popularity": "13.994",
+                    "provider.link": "https://www.themoviedb.org/movie/12105-yellow-submarine/watch?locale=FR",
+                    "providers": "Apple iTunes",
+                    "revenue": "$1,273,261",
+                    "slug_id": "yellow-submarine-1968",
+                    "studio": "United Artists",
+                    "tmdb_id": "12105",
+                    "tmdb_rating": "7.1",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "400",
+                    "trakt_id": "7023",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "George Dunning"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2feKZiD3VZo0cXvsjRMuFDIeK2TzZ.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=12105",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique",
+                    "Animation",
+                    "Aventure",
+                    "Com\u00e9die",
+                    "Fantastique"
+                ],
+                "imdbnumber": "tt0063823",
+                "label": "Yellow Submarine",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Yellow Submarine",
+                "playcount": 0,
+                "plot": "Dans ce dessin anim\u00e9 r\u00e9volutionnaire, les Beatles, tels Zorro, volent au secours des habitants du royaume de Pepperland, attaqu\u00e9s par les forces du mal qui veulent supprimer la joie et la musique.",
+                "plotoutline": "",
+                "premiered": "1968-07-17",
+                "productioncode": "",
+                "rating": 7.099999904632568,
+                "resume": {
+                    "position": 0.0,
+                    "total": 5340.0
+                },
+                "runtime": 5340,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "United Artists",
+                    "Apple Corps",
+                    "TVC London",
+                    "King Features Production"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Yellow Submarine",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=uOlwwoZLoKE",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt0063823",
+                    "slug": "yellow-submarine-1968",
+                    "tmdb": "12105",
+                    "trakt": "7023",
+                    "unknown": "tt0063823"
+                },
+                "votes": "400",
+                "writer": [
+                    "Erich Segal",
+                    "Al Brodax",
+                    "Jack Mendelsohn",
+                    "Lee Minoff"
+                ],
+                "year": 1968
+            },
+            {
+                "album": "",
+                "art": {
+                    "banner": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f568332%2fmoviebanner%2ftaylor-swift-reputation-stadium-tour-60f9912b8f40e.jpg/",
+                    "clearart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f568332%2fhdmovieclearart%2ftaylor-swift-reputation-stadium-tour-60f96d05c44ea.png/",
+                    "clearlogo": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f568332%2fhdmovielogo%2ftaylor-swift-reputation-stadium-tour-5fa13b68b85fa.png/",
+                    "discart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f568332%2fmoviedisc%2ftaylor-swift-reputation-stadium-tour-60f980cf72e52.png/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f4uMrZS7XEHRNKwHr5wSOxROanPF.jpg/",
+                    "fanart1": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f568332%2fmoviebackground%2ftaylor-swift-reputation-stadium-tour-5cbdaf044d675.jpg/",
+                    "fanart10": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f568332%2fmoviebackground%2ftaylor-swift-reputation-stadium-tour-5cbdaeb06cebd.jpg/",
+                    "fanart2": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f568332%2fmoviebackground%2ftaylor-swift-reputation-stadium-tour-5cbdae3cb16b8.jpg/",
+                    "fanart3": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f568332%2fmoviebackground%2ftaylor-swift-reputation-stadium-tour-5cc1a9fe9c64e.jpg/",
+                    "fanart4": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f568332%2fmoviebackground%2ftaylor-swift-reputation-stadium-tour-5cbdb1c617beb.jpg/",
+                    "fanart5": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f568332%2fmoviebackground%2ftaylor-swift-reputation-stadium-tour-5cbdb135c1fcd.jpg/",
+                    "fanart6": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f568332%2fmoviebackground%2ftaylor-swift-reputation-stadium-tour-5cbdb0f5bcf81.jpg/",
+                    "fanart7": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f568332%2fmoviebackground%2ftaylor-swift-reputation-stadium-tour-5cbdb038175ab.jpg/",
+                    "fanart8": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f568332%2fmoviebackground%2ftaylor-swift-reputation-stadium-tour-5cbdaf9101c8b.jpg/",
+                    "fanart9": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f568332%2fmoviebackground%2ftaylor-swift-reputation-stadium-tour-5cbdaf5251af6.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fu6oXUTtOuJRPdUgUuPAVVJPSKCo.jpg/",
+                    "landscape": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f568332%2fmoviethumb%2ftaylor-swift-reputation-stadium-tour-60f9c0c08891c.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fu6oXUTtOuJRPdUgUuPAVVJPSKCo.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Taylor Swift",
+                        "order": 0,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Charli XCX",
+                        "order": 1,
+                        "role": "Herself"
+                    },
+                    {
+                        "name": "Camila Cabello",
+                        "order": 2,
+                        "role": "Herself"
+                    },
+                    {
+                        "name": "David Cook",
+                        "order": 3,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Amos Heller",
+                        "order": 4,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Eliotte Woodford",
+                        "order": 5,
+                        "role": "Herself"
+                    },
+                    {
+                        "name": "Jeslyn Gorman",
+                        "order": 6,
+                        "role": "Herself"
+                    },
+                    {
+                        "name": "Kamilah Marshall",
+                        "order": 7,
+                        "role": "Herself"
+                    },
+                    {
+                        "name": "Matt Billingslea",
+                        "order": 8,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Max Bernstein",
+                        "order": 9,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Melanie Nyema",
+                        "order": 10,
+                        "role": "Herself"
+                    },
+                    {
+                        "name": "Mike Meadows",
+                        "order": 11,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Paul Sidoti",
+                        "order": 12,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Tiffany Haddish",
+                        "order": 13,
+                        "role": "Herself"
+                    },
+                    {
+                        "name": "Christian Henderson",
+                        "order": 14,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Christian Owens",
+                        "order": 15,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Giuseppe Giofre",
+                        "order": 16,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Gracie Stewart",
+                        "order": 17,
+                        "role": "Herself"
+                    },
+                    {
+                        "name": "Grant Gilmore",
+                        "order": 18,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Jake Kodish",
+                        "order": 19,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Jake Landgrebe",
+                        "order": 20,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Jazz Smith",
+                        "order": 21,
+                        "role": "Herself"
+                    },
+                    {
+                        "name": "Maho Udo",
+                        "order": 22,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Maria Wada",
+                        "order": 23,
+                        "role": "Herself"
+                    },
+                    {
+                        "name": "Mark Villaver",
+                        "order": 24,
+                        "role": "Herself"
+                    },
+                    {
+                        "name": "Nadine Olmo",
+                        "order": 25,
+                        "role": "Herself"
+                    },
+                    {
+                        "name": "Robert Green",
+                        "order": 26,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Stephanie Mincone",
+                        "order": 27,
+                        "role": "Herself"
+                    },
+                    {
+                        "name": "Yoe Apolinario Renovales",
+                        "order": 28,
+                        "role": "Herself"
+                    },
+                    {
+                        "name": "Kim Davidson",
+                        "order": 29,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Stephen Thomas Hatez",
+                        "order": 30,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Julia Railey Mendes",
+                        "order": 31,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Cain Nevarez",
+                        "order": 32,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Audrey Peterman",
+                        "order": 33,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Maya Schomaker",
+                        "order": 34,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Noah Levy",
+                        "order": 35,
+                        "role": "Self"
+                    }
+                ],
+                "country": [
+                    "United States of America"
+                ],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Taylor Swift / Charli XCX / Camila Cabello / David Cook / Amos Heller / Eliotte Woodford / Jeslyn Gorman / Kamilah Marshall / Matt Billingslea / Max Bernstein / Melanie Nyema / Mike Meadows / Paul Sidoti / Tiffany Haddish / Christian Henderson / Christian Owens / Giuseppe Giofre / Gracie Stewart / Grant Gilmore / Jake Kodish / Jake Landgrebe / Jazz Smith / Maho Udo / Maria Wada / Mark Villaver / Nadine Olmo / Robert Green / Stephanie Mincone / Yoe Apolinario Renovales / Kim Davidson / Stephen Thomas Hatez / Julia Railey Mendes / Cain Nevarez / Audrey Peterman / Maya Schomaker / Noah Levy",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=568332&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=568332)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=568332)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=568332)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=568332)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=568332)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt9426852",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "568332",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "gpus",
+                    "param.widget": "True",
+                    "popularity": "10.324",
+                    "provider.link": "https://www.themoviedb.org/movie/568332-taylor-swift-reputation-stadium-tour/watch?locale=FR",
+                    "providers": "Netflix",
+                    "revenue": "$0",
+                    "slug_id": "taylor-swift-reputation-stadium-tour-2018",
+                    "studio": "Taylor Swift Productions",
+                    "tmdb_id": "568332",
+                    "tmdb_rating": "8.3",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "247",
+                    "trakt_id": "419622",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Paul Dugdale"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f4uMrZS7XEHRNKwHr5wSOxROanPF.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=568332",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique",
+                    "Documentaire"
+                ],
+                "imdbnumber": "tt9426852",
+                "label": "Taylor Swift: Reputation Stadium Tour",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Taylor Swift: Reputation Stadium Tour",
+                "playcount": 0,
+                "plot": "Taylor Swift offre au monde entier une place au premier rang pour le dernier concert de sa tourn\u00e9e am\u00e9ricaine, Taylor Swift reputation Stadium Tour, la tourn\u00e9e la plus vendue de l'histoire des \u00c9tats-Unis.",
+                "plotoutline": "",
+                "premiered": "2018-12-31",
+                "productioncode": "",
+                "rating": 8.300000190734863,
+                "resume": {
+                    "position": 0.0,
+                    "total": 7500.0
+                },
+                "runtime": 7500,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Taylor Swift Productions",
+                    "Den of Thieves"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Taylor Swift: Reputation Stadium Tour",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=ASAs0-F1AxI",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt9426852",
+                    "slug": "taylor-swift-reputation-stadium-tour-2018",
+                    "tmdb": "568332",
+                    "trakt": "419622",
+                    "unknown": "tt9426852"
+                },
+                "votes": "247",
+                "writer": [
+                    "Baz Halpin"
+                ],
+                "year": 2018
+            },
+            {
+                "album": "",
+                "art": {
+                    "clearart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f11401%2fhdmovieclearart%2fmetallica-some-kind-of-monster-56c73ec084304.png/",
+                    "clearlogo": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f11401%2fhdmovielogo%2fmetallica-some-kind-of-monster-56c5fe1add830.png/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f1tSI5LDIyxthU5VBrnHtV2JKjVn.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fpYms4cvrqlM4I8cjNrQCbSnPxkr.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fpYms4cvrqlM4I8cjNrQCbSnPxkr.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "James Hetfield",
+                        "order": 0,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Lars Ulrich",
+                        "order": 1,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Kirk Hammett",
+                        "order": 2,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Robert Trujillo",
+                        "order": 3,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Jason Newsted",
+                        "order": 4,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Dave Mustaine",
+                        "order": 5,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Bob Rock",
+                        "order": 6,
+                        "role": "Self"
+                    },
+                    {
+                        "name": "Phil Towle",
+                        "order": 7,
+                        "role": "Self"
+                    }
+                ],
+                "country": [
+                    "United States of America"
+                ],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "James Hetfield / Lars Ulrich / Kirk Hammett / Robert Trujillo / Jason Newsted / Dave Mustaine / Bob Rock / Phil Towle",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=11401&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=11401)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=11401)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=11401)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=11401)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=11401)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt0387412",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "11401",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "gpus",
+                    "param.widget": "True",
+                    "popularity": "7.029",
+                    "revenue": "$0",
+                    "slug_id": "metallica-some-kind-of-monster-2004",
+                    "studio": "Electra Entertainment",
+                    "tmdb_id": "11401",
+                    "tmdb_rating": "7.0",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "178",
+                    "trakt_id": "6497",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Joe Berlinger",
+                    "Bruce Sinofsky"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f1tSI5LDIyxthU5VBrnHtV2JKjVn.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=11401",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Documentaire",
+                    "Musique"
+                ],
+                "imdbnumber": "tt0387412",
+                "label": "Metallica : Some Kind of Monster",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Metallica: Some Kind of Monster",
+                "playcount": 0,
+                "plot": "Metallica : some kind of monster nous offre un portrait fascinant et profond de l'un des groupes de heavy metal les plus successful de tous les temps lors de l'enregistrement de leur album St. Anger.",
+                "plotoutline": "",
+                "premiered": "2004-07-09",
+                "productioncode": "",
+                "rating": 7.0,
+                "resume": {
+                    "position": 0.0,
+                    "total": 8400.0
+                },
+                "runtime": 8400,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Electra Entertainment",
+                    "Vertigo"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Metallica : Some Kind of Monster",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=LFX6IA_4hH8",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt0387412",
+                    "slug": "metallica-some-kind-of-monster-2004",
+                    "tmdb": "11401",
+                    "trakt": "6497",
+                    "unknown": "tt0387412"
+                },
+                "votes": "178",
+                "writer": [],
+                "year": 2004
+            },
+            {
+                "album": "",
+                "art": {
+                    "clearart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f79931%2fhdmovieclearart%2fadele-live-at-the-royal-albert-hall-5297ccf2e70d0.png/",
+                    "clearlogo": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f79931%2fhdmovielogo%2fadele-live-at-the-royal-albert-hall-508daf229356e.png/",
+                    "discart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f79931%2fmoviedisc%2fadele-live-at-the-royal-albert-hall-511382cf726de.png/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fnourcgjOGs59YxNwDuLWxOjo3ME.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2frKHVEjAJ9DG7dNN5VEahTdExzgv.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2frKHVEjAJ9DG7dNN5VEahTdExzgv.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Adele",
+                        "order": 0,
+                        "role": "Lead Vocal"
+                    },
+                    {
+                        "name": "Ben Thomas",
+                        "order": 1,
+                        "role": "Guitar"
+                    },
+                    {
+                        "name": "Tim Van Der Kuil",
+                        "order": 2,
+                        "role": "Guitar"
+                    },
+                    {
+                        "name": "Miles Robertson",
+                        "order": 3,
+                        "role": "Keyboards"
+                    },
+                    {
+                        "name": "Sam Dixon",
+                        "order": 4,
+                        "role": "Bass"
+                    },
+                    {
+                        "name": "Derrick Wright",
+                        "order": 5,
+                        "role": "Drums"
+                    },
+                    {
+                        "name": "Jo Allen",
+                        "order": 6,
+                        "role": "Wired Strings - Violin"
+                    },
+                    {
+                        "name": "Stephanie Cavey",
+                        "order": 7,
+                        "role": "Wired Strings - Violin"
+                    },
+                    {
+                        "name": "Rosie Danvers",
+                        "order": 8,
+                        "role": "Wired Strings - Cello"
+                    },
+                    {
+                        "name": "Sarah Chapman",
+                        "order": 9,
+                        "role": "Wired Strings - Viola"
+                    },
+                    {
+                        "name": "Kelli-Leigh Henry-Davila",
+                        "order": 10,
+                        "role": "Backing Vocals"
+                    },
+                    {
+                        "name": "Sally Jackson",
+                        "order": 11,
+                        "role": "Wired Strings - Violin"
+                    },
+                    {
+                        "name": "Bryony James",
+                        "order": 12,
+                        "role": "Wired Strings - Cello"
+                    },
+                    {
+                        "name": "Sharleen Linton",
+                        "order": 13,
+                        "role": "Backing Vocals"
+                    }
+                ],
+                "country": [
+                    "United Kingdom"
+                ],
+                "customproperties": {
+                    "available_releases": "Theatrical",
+                    "budget": "$0",
+                    "cast": "Adele / Ben Thomas / Tim Van Der Kuil / Miles Robertson / Sam Dixon / Derrick Wright / Jo Allen / Stephanie Cavey / Rosie Danvers / Sarah Chapman / Kelli-Leigh Henry-Davila / Sally Jackson / Bryony James / Sharleen Linton",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=79931&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=79931)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=79931)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=79931)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=79931)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=79931)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt2122272",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "79931",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "gpus",
+                    "param.widget": "True",
+                    "popularity": "10.221",
+                    "revenue": "$0",
+                    "slug_id": "adele-live-at-the-royal-albert-hall-2011",
+                    "studio": "Sony Music Entertainment",
+                    "theatrical_release": "2011-12-05",
+                    "tmdb_id": "79931",
+                    "tmdb_rating": "7.9",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "79",
+                    "trakt_id": "59441",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Paul Dugdale"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fnourcgjOGs59YxNwDuLWxOjo3ME.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=79931",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique",
+                    "Documentaire"
+                ],
+                "imdbnumber": "tt2122272",
+                "label": "Adele - Live at the Royal Albert Hall",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Adele - Live at the Royal Albert Hall",
+                "playcount": 0,
+                "plot": "Le 22 Septembre 2011, Ad\u00e8le a fait ses d\u00e9buts Royal Albert Hall dans le cadre de sa tourn\u00e9e Ad\u00e8le Live, une performance qui a laiss\u00e9 les fans bouche b\u00e9\u00e9 face \u00e0 son au professionnalisme et son talent.",
+                "plotoutline": "",
+                "premiered": "2011-11-27",
+                "productioncode": "",
+                "rating": 7.900000095367432,
+                "resume": {
+                    "position": 0.0,
+                    "total": 5400.0
+                },
+                "runtime": 5400,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Sony Music Entertainment",
+                    "Columbia Records",
+                    "XL Recordings"
+                ],
+                "tag": [],
+                "tagline": "Cette soir\u00e9e incroyable a \u00e9t\u00e9 immortalis\u00e9e sur le DVD Live at the Royal Albert Hall.",
+                "thumbnail": "",
+                "title": "Adele - Live at the Royal Albert Hall",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=5Oio8V3e3WU",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt2122272",
+                    "slug": "adele-live-at-the-royal-albert-hall-2011",
+                    "tmdb": "79931",
+                    "trakt": "59441",
+                    "unknown": "tt2122272"
+                },
+                "votes": "79",
+                "writer": [],
+                "year": 2011
+            },
+            {
+                "album": "",
+                "art": {
+                    "icon": "image://C%3a%5cKodiTest%5cKodi%20matrix%20pour%20zip%20complet%202%20full%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage.png/",
+                    "landscape": "image://C%3a%5cKodiTest%5cKodi%20matrix%20pour%20zip%20complet%202%20full%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage_wide.png/"
+                },
+                "artist": [],
+                "cast": [],
+                "country": [],
+                "customproperties": {
+                    "item.info": "trakt_userlist",
+                    "item.list_name": "Concerts",
+                    "item.list_slug": "concerts",
+                    "item.owner": "true",
+                    "item.page": "2",
+                    "item.plugin_category": "Concerts",
+                    "item.user_slug": "gpus",
+                    "item.widget": "True",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "gpus",
+                    "param.widget": "True",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Concerts&list_slug=concerts&owner=true&plugin_category=Concerts&user_slug=gpus&page=2&widget=true&reload=$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]",
+                "filetype": "directory",
+                "firstaired": "",
+                "genre": [],
+                "imdbnumber": "",
+                "label": "Page suivante",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "x-directory/normal",
+                "mpaa": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "",
+                "plotoutline": "",
+                "premiered": "",
+                "productioncode": "",
+                "rating": 0.0,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 0,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "unknown",
+                "votes": "0",
+                "writer": [],
+                "year": 0
+            }
+        ],
+        "limits": {
+            "end": 21,
+            "start": 0,
+            "total": 21
+        }
+    }
+}

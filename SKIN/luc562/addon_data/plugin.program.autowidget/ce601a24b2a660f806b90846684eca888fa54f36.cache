@@ -1,0 +1,2812 @@
+{
+    "id": 1,
+    "jsonrpc": "2.0",
+    "result": {
+        "files": [
+            {
+                "album": "",
+                "art": {
+                    "banner": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f332777%2fmoviebanner%2fjoe-bonamassa---muddy-wolf-at-red-rocks-55171487b5308.jpg/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fnoyeWpNAqkOUyW3So7Tl2Bk8GMF.jpg/",
+                    "fanart1": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f332777%2fmoviebackground%2fjoe-bonamassa---muddy-wolf-at-red-rocks-5517168c28049.jpg/",
+                    "fanart2": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f332777%2fmoviebackground%2fjoe-bonamassa---muddy-wolf-at-red-rocks-5517173ed27ec.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fc9LZ3iwsUGAkBqcBPyBxgJjr3gY.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fc9LZ3iwsUGAkBqcBPyBxgJjr3gY.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Joe Bonamassa",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Anton Fig",
+                        "order": 1,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Reese Wynans",
+                        "order": 2,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Michael Rhodes",
+                        "order": 3,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Lee Thornburg",
+                        "order": 4,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Ron Dziubla",
+                        "order": 5,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Nick Lane",
+                        "order": 6,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Mike Henderson",
+                        "order": 7,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Kirk Fletcher",
+                        "order": 8,
+                        "role": "Himself"
+                    }
+                ],
+                "country": [
+                    "United States of America"
+                ],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Joe Bonamassa / Anton Fig / Reese Wynans / Michael Rhodes / Lee Thornburg / Ron Dziubla / Nick Lane / Mike Henderson / Kirk Fletcher",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=332777&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=332777)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=332777)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=332777)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=332777)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=332777)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "332777",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "bassman22pu",
+                    "param.widget": "True",
+                    "popularity": "1.293",
+                    "revenue": "$0",
+                    "slug_id": "joe-bonamassa-muddy-wolf-at-red-rocks-2015",
+                    "tmdb_id": "332777",
+                    "tmdb_rating": "9.0",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "2",
+                    "trakt_id": "213697",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Philippe Klose"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fnoyeWpNAqkOUyW3So7Tl2Bk8GMF.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=332777",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique"
+                ],
+                "imdbnumber": "",
+                "label": "Joe Bonamassa - Muddy Wolf at Red Rocks",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Joe Bonamassa - Muddy Wolf at Red Rocks",
+                "playcount": 0,
+                "plot": "Le concert exclusif de Joe Bonamass en hommage \u00e0 Muddy Waters et Howlin' Wolf s'est d\u00e9roul\u00e9 le 31 ao\u00fbt 2014 dans le merveilleux d\u00e9cor naturel du Red Rocks Amphitheatre. Face \u00e0 9 000 fans, le plus gros show de la carri\u00e8re de Bonamassa, Joe y joue de nombreux morceaux des deux l\u00e9gendes du blues ainsi que quelques d\u00e9sormais classiques de son propre r\u00e9pertoire.",
+                "plotoutline": "",
+                "premiered": "2015-03-23",
+                "productioncode": "",
+                "rating": 9.0,
+                "resume": {
+                    "position": 0.0,
+                    "total": 7860.0
+                },
+                "runtime": 7860,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Joe Bonamassa - Muddy Wolf at Red Rocks",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "slug": "joe-bonamassa-muddy-wolf-at-red-rocks-2015",
+                    "tmdb": "332777",
+                    "trakt": "213697"
+                },
+                "votes": "2",
+                "writer": [],
+                "year": 2015
+            },
+            {
+                "album": "",
+                "art": {
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f8uuupE9BDGPv2UzWC3qsshzctp8.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f8uuupE9BDGPv2UzWC3qsshzctp8.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Joe Bonamassa",
+                        "order": 0,
+                        "role": "Lead Guitar, Vocals"
+                    },
+                    {
+                        "name": "Eric Clapton",
+                        "order": 1,
+                        "role": "Guest Guitarist"
+                    },
+                    {
+                        "name": "Paul Jones",
+                        "order": 2,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Rick Melick",
+                        "order": 3,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Carmine Rojas",
+                        "order": 4,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Bogie Bowles",
+                        "order": 5,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Anton Fig",
+                        "order": 6,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Lee Thornburg",
+                        "order": 7,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Sean Freeman",
+                        "order": 8,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Michael Feltham",
+                        "order": 9,
+                        "role": "Himself"
+                    }
+                ],
+                "country": [],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Joe Bonamassa / Eric Clapton / Paul Jones / Rick Melick / Carmine Rojas / Bogie Bowles / Anton Fig / Lee Thornburg / Sean Freeman / Michael Feltham",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=36973&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=36973)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=36973)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=36973)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=36973)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=36973)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt2120781",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "36973",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "bassman22pu",
+                    "param.widget": "True",
+                    "popularity": "1.535",
+                    "provider.link": "https://www.themoviedb.org/movie/36973-joe-bonamassa-live-from-the-royal-albert-hall/watch?locale=FR",
+                    "providers": "Apple iTunes",
+                    "revenue": "$0",
+                    "slug_id": "joe-bonamassa-live-from-the-royal-albert-hall-2009",
+                    "tmdb_id": "36973",
+                    "tmdb_rating": "3.2",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "3",
+                    "trakt_id": "23577",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Sam Dunn",
+                    "Scot McFadyen"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=36973",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique"
+                ],
+                "imdbnumber": "tt2120781",
+                "label": "Joe Bonamassa: Live from the Royal Albert Hall",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Joe Bonamassa: Live from the Royal Albert Hall",
+                "playcount": 0,
+                "plot": "",
+                "plotoutline": "",
+                "premiered": "2009-10-06",
+                "productioncode": "",
+                "rating": 3.200000047683716,
+                "resume": {
+                    "position": 0.0,
+                    "total": 13800.0
+                },
+                "runtime": 13800,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Joe Bonamassa: Live from the Royal Albert Hall",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt2120781",
+                    "slug": "joe-bonamassa-live-from-the-royal-albert-hall-2009",
+                    "tmdb": "36973",
+                    "trakt": "23577",
+                    "unknown": "tt2120781"
+                },
+                "votes": "3",
+                "writer": [],
+                "year": 2009
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2feawj8eDuyAmqmpgFcvXLeX9oZ1F.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fvkQms3WQ5iUMhOJYwtxO92TKogP.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fvkQms3WQ5iUMhOJYwtxO92TKogP.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Eric Clapton",
+                        "order": 0,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Derek Trucks",
+                        "order": 1,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Doyle Bramhall II",
+                        "order": 2,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Chris Stainton",
+                        "order": 3,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "J.J. Cale",
+                        "order": 4,
+                        "role": "Himself"
+                    }
+                ],
+                "country": [
+                    "United States of America"
+                ],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Eric Clapton / Derek Trucks / Doyle Bramhall II / Chris Stainton / J.J. Cale",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=446863&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=446863)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=446863)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=446863)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=446863)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=446863)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "446863",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "bassman22pu",
+                    "param.widget": "True",
+                    "popularity": "1.302",
+                    "provider.link": "https://www.themoviedb.org/movie/446863-eric-clapton-live-in-san-diego-with-special-guest-jj-cale/watch?locale=FR",
+                    "providers": "Apple iTunes",
+                    "revenue": "$0",
+                    "slug_id": "eric-clapton-live-in-san-diego-with-special-guest-jj-cale-2017",
+                    "studio": "Reprise Records",
+                    "tmdb_id": "446863",
+                    "tmdb_rating": "5.8",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "4",
+                    "trakt_id": "293524",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2feawj8eDuyAmqmpgFcvXLeX9oZ1F.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=446863",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique"
+                ],
+                "imdbnumber": "",
+                "label": "Eric Clapton: Live In San Diego (with Special Guest JJ Cale)",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Eric Clapton: Live In San Diego (with Special Guest JJ Cale)",
+                "playcount": 0,
+                "plot": "Synopsis  Enregistr\u00e9 le 15 mars 2007, ce Live In San Diego fait partie d'une tourn\u00e9e mondiale particuli\u00e8rement appr\u00e9ci\u00e9e des fans d'Eric Clapton. Ce concert propose une superbe setlist retra\u00e7ant sa carri\u00e8re, en compagnie de musiciens stellaires tels les guitaristes Derek Trucks (du groupe Tedeschi Trucks) et Doyle Bramhall II. Inclus deux heures de performances remarquables avec la pr\u00e9sence exceptionnelle de JJ Cale sur 5 titres (dont \"After Midnight\" et \"Cocaine\") et celle de Robert Cray sur \"Crossroads\" et en bonus les r\u00e9p\u00e9titions d'Anyway.",
+                "plotoutline": "",
+                "premiered": "2017-03-10",
+                "productioncode": "",
+                "rating": 5.800000190734863,
+                "resume": {
+                    "position": 0.0,
+                    "total": 6300.0
+                },
+                "runtime": 6300,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Reprise Records"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Eric Clapton: Live In San Diego (with Special Guest JJ Cale)",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "slug": "eric-clapton-live-in-san-diego-with-special-guest-jj-cale-2017",
+                    "tmdb": "446863",
+                    "trakt": "293524"
+                },
+                "votes": "4",
+                "writer": [],
+                "year": 2017
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fzTTMDyWaCpMIx0vdA7Iz2FOGdKg.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fni82QQaOBijnA8yZWMFe9Sm8QYp.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fni82QQaOBijnA8yZWMFe9Sm8QYp.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Joe Bonamassa",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Anton Fig",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Kirk Fletcher",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Michael Rhodes",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Reese Wynans",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Lee Thornburg",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Paulie Cerra",
+                        "order": 6,
+                        "role": ""
+                    },
+                    {
+                        "name": "Nick Lane",
+                        "order": 7,
+                        "role": ""
+                    },
+                    {
+                        "name": "Mahalia Barnes",
+                        "order": 8,
+                        "role": ""
+                    },
+                    {
+                        "name": "Jade MacRae",
+                        "order": 9,
+                        "role": ""
+                    },
+                    {
+                        "name": "Juanita Tippins",
+                        "order": 10,
+                        "role": ""
+                    }
+                ],
+                "country": [
+                    "Germany"
+                ],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Joe Bonamassa / Anton Fig / Kirk Fletcher / Michael Rhodes / Reese Wynans / Lee Thornburg / Paulie Cerra / Nick Lane / Mahalia Barnes / Jade MacRae / Juanita Tippins",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=417955&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=417955)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=417955)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=417955)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=417955)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=417955)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "417955",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "bassman22pu",
+                    "param.widget": "True",
+                    "popularity": "0.673",
+                    "revenue": "$0",
+                    "slug_id": "joe-bonamassa-live-at-the-greek-theatre-2016",
+                    "studio": "Provogue Records",
+                    "tmdb_id": "417955",
+                    "tmdb_rating": "7.0",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "2",
+                    "trakt_id": "261918",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Philippe Klose"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fzTTMDyWaCpMIx0vdA7Iz2FOGdKg.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=417955",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique"
+                ],
+                "imdbnumber": "",
+                "label": "Joe Bonamassa: Live at the Greek Theatre",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Joe Bonamassa: Live at the Greek Theatre",
+                "playcount": 0,
+                "plot": "La star du Blues made in 21th century, Joe Bonamassa, rend un \u00e9norme hommage aux trois rois du Blues du 20\u00e8me si\u00e8cle, Albert King, B.B. King et Freddie King en double CD, double DVD, Blu-ray, triple vinyle ! Ce qui nous offre 22 titres et plus de 2 heures de musique.  Enregistr\u00e9 en 2015 au Greek Theatre de Los Angeles, ce live reprend les meilleurs morceaux des Kings du blues : \"The Thrill Is Gone\" de B.B. King, mentor et ami de Bonamassa, \"Born Under A Bad Sign\",\"Lonesome Whistle Blues\", \"Hummingbird\"...  C'est aussi un hommage aux guitares de l\u00e9gende, Bonamassa utilise avec brio quatre Gibson ES, une Gibson Les Paul, une Gibson Flying V, deux nouvelles Gibson Custom Shop, deux Fender Strats et une Dan Erlewine custom Flying V nomm\u00e9e \u00ab Lucy, \u00bb datant de 1972 et qui appartient \u00e0 Steven Seagal .",
+                "plotoutline": "",
+                "premiered": "2016-09-23",
+                "productioncode": "",
+                "rating": 7.0,
+                "resume": {
+                    "position": 0.0,
+                    "total": 8220.0
+                },
+                "runtime": 8220,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Provogue Records"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Joe Bonamassa: Live at the Greek Theatre",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "slug": "joe-bonamassa-live-at-the-greek-theatre-2016",
+                    "tmdb": "417955",
+                    "trakt": "261918"
+                },
+                "votes": "2",
+                "writer": [],
+                "year": 2016
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fp9l5sVjHzgvZu3Iytu3ZLaFK4Fm.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ft6OwkjCQ272Re1p6C7n6ti8SLCL.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ft6OwkjCQ272Re1p6C7n6ti8SLCL.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Eric Clapton",
+                        "order": 0,
+                        "role": "Himself"
+                    }
+                ],
+                "country": [
+                    "United States of America"
+                ],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Eric Clapton",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=238470&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=238470)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=238470)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=238470)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=238470)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=238470)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt3108322",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "238470",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "bassman22pu",
+                    "param.widget": "True",
+                    "popularity": "1.142",
+                    "revenue": "$0",
+                    "slug_id": "eric-clapton-s-crossroads-guitar-festival-2013-2013",
+                    "studio": "Parallel 28 Equipe",
+                    "tmdb_id": "238470",
+                    "tmdb_rating": "5.9",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "6",
+                    "trakt_id": "145565",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Martyn Atkins"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fp9l5sVjHzgvZu3Iytu3ZLaFK4Fm.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=238470",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique"
+                ],
+                "imdbnumber": "tt3108322",
+                "label": "Eric Clapton's Crossroads Guitar Festival 2013",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Eric Clapton's Crossroads Guitar Festival 2013",
+                "playcount": 0,
+                "plot": "Documentaire sur l'\u00e9dition 2013 du Crossroads Guitar Festival de Eric Clapton.",
+                "plotoutline": "",
+                "premiered": "2013-11-19",
+                "productioncode": "",
+                "rating": 5.900000095367432,
+                "resume": {
+                    "position": 0.0,
+                    "total": 17340.0
+                },
+                "runtime": 17340,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Parallel 28 Equipe"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Eric Clapton's Crossroads Guitar Festival 2013",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt3108322",
+                    "slug": "eric-clapton-s-crossroads-guitar-festival-2013-2013",
+                    "tmdb": "238470",
+                    "trakt": "145565",
+                    "unknown": "tt3108322"
+                },
+                "votes": "6",
+                "writer": [],
+                "year": 2013
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fihQFIibeEVFHykWmHQc0jxzgtfy.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fdnfgMShA4autoQp5dZO8H2g9Pq1.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fdnfgMShA4autoQp5dZO8H2g9Pq1.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Ian Gillan",
+                        "order": 0,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Roger Glover",
+                        "order": 1,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Ian Paice",
+                        "order": 2,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Don Airey",
+                        "order": 3,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Steve Morse",
+                        "order": 4,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Bob Ezrin",
+                        "order": 5,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Joe Satriani",
+                        "order": 6,
+                        "role": "Himself"
+                    }
+                ],
+                "country": [],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Ian Gillan / Roger Glover / Ian Paice / Don Airey / Steve Morse / Bob Ezrin / Joe Satriani",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=451711&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=451711)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=451711)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=451711)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=451711)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=451711)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt6545506",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "451711",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "bassman22pu",
+                    "param.widget": "True",
+                    "popularity": "1.484",
+                    "provider.link": "https://www.themoviedb.org/movie/451711-deep-purple-from-here-to-infinite/watch?locale=FR",
+                    "providers": "Apple iTunes",
+                    "revenue": "$0",
+                    "slug_id": "deep-purple-from-here-to-infinite-2017",
+                    "tmdb_id": "451711",
+                    "tmdb_rating": "7.8",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "8",
+                    "trakt_id": "298333",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fihQFIibeEVFHykWmHQc0jxzgtfy.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=451711",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Documentaire",
+                    "Musique"
+                ],
+                "imdbnumber": "tt6545506",
+                "label": "Deep Purple: From Here To Infinite",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Deep Purple: From Here To Infinite",
+                "playcount": 0,
+                "plot": "",
+                "plotoutline": "",
+                "premiered": "2017-03-11",
+                "productioncode": "",
+                "rating": 7.800000190734863,
+                "resume": {
+                    "position": 0.0,
+                    "total": 5820.0
+                },
+                "runtime": 5820,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Deep Purple: From Here To Infinite",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt6545506",
+                    "slug": "deep-purple-from-here-to-infinite-2017",
+                    "tmdb": "451711",
+                    "trakt": "298333",
+                    "unknown": "tt6545506"
+                },
+                "votes": "8",
+                "writer": [],
+                "year": 2017
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fbIdDlz9kODX4SaST3q5CLKMYNCl.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fAusuWk6y0dn9FW17kSLlLBD4sUe.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fAusuWk6y0dn9FW17kSLlLBD4sUe.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Beth Hart",
+                        "order": 0,
+                        "role": "Lead Vocals"
+                    },
+                    {
+                        "name": "Joe Bonamassa",
+                        "order": 1,
+                        "role": "Guitars"
+                    },
+                    {
+                        "name": "Carmine Rojas",
+                        "order": 2,
+                        "role": "Bass"
+                    },
+                    {
+                        "name": "Anton Fig",
+                        "order": 3,
+                        "role": "Drums"
+                    },
+                    {
+                        "name": "Blondie Chaplin",
+                        "order": 4,
+                        "role": "Rhythm Guitar"
+                    },
+                    {
+                        "name": "Arlan Schierbaum",
+                        "order": 5,
+                        "role": "Keyboards"
+                    }
+                ],
+                "country": [],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Beth Hart / Joe Bonamassa / Carmine Rojas / Anton Fig / Blondie Chaplin / Arlan Schierbaum",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=260694&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=260694)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=260694)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=260694)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=260694)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=260694)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "260694",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "bassman22pu",
+                    "param.widget": "True",
+                    "popularity": "1.422",
+                    "revenue": "$0",
+                    "slug_id": "beth-hart-joe-bonamassa-live-in-amsterdam-2014",
+                    "tmdb_id": "260694",
+                    "tmdb_rating": "5.8",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "6",
+                    "trakt_id": "159779",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fbIdDlz9kODX4SaST3q5CLKMYNCl.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=260694",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique"
+                ],
+                "imdbnumber": "",
+                "label": "Beth Hart & Joe Bonamassa - Live in Amsterdam",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Beth Hart & Joe Bonamassa - Live in Amsterdam",
+                "playcount": 0,
+                "plot": "Dans le cadre \u00e9poustouflant du Koninklijk Theatre Carr\u00e9 d'Amsterdam, la chanteuse de blues-rock Beth Hart et le guitar hero de renomm\u00e9e mondiale Bonamassa sont sous une forme \u00e9poustouflante, tournant dans un ensemble impressionnant de reprises de soul br\u00fblantes tir\u00e9es de leur premier album de 2011 \u00abDon ' t Explain \u00bbet le suivi de 2013\u00ab Seesaw \u00bb, nomin\u00e9 aux Grammy Awards dans la cat\u00e9gorie\u00ab Meilleur album de blues \u00bb.",
+                "plotoutline": "",
+                "premiered": "2014-03-23",
+                "productioncode": "",
+                "rating": 5.800000190734863,
+                "resume": {
+                    "position": 0.0,
+                    "total": 6840.0
+                },
+                "runtime": 6840,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Beth Hart & Joe Bonamassa - Live in Amsterdam",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=0FTlZCDBJbk",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "slug": "beth-hart-joe-bonamassa-live-in-amsterdam-2014",
+                    "tmdb": "260694",
+                    "trakt": "159779"
+                },
+                "votes": "6",
+                "writer": [],
+                "year": 2014
+            },
+            {
+                "album": "",
+                "art": {
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fg0PYn9DMTHZOaDsOrAF2i79lIWZ.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fg0PYn9DMTHZOaDsOrAF2i79lIWZ.jpg/"
+                },
+                "artist": [],
+                "cast": [],
+                "country": [
+                    "Germany"
+                ],
+                "customproperties": {
+                    "budget": "$0",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=339915&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=339915)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=339915)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=339915)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=339915)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=339915)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "339915",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "bassman22pu",
+                    "param.widget": "True",
+                    "popularity": "0.6",
+                    "revenue": "$0",
+                    "slug_id": "deep-purple-live-in-paris-1985-1985",
+                    "studio": "Rockpalast",
+                    "tmdb_id": "339915",
+                    "tmdb_rating": "0.0",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "0",
+                    "trakt_id": "220373",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=339915",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique"
+                ],
+                "imdbnumber": "",
+                "label": "Deep Purple: Live In Paris 1985",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Deep Purple: Live In Paris 1985",
+                "playcount": 0,
+                "plot": "",
+                "plotoutline": "",
+                "premiered": "1985-07-09",
+                "productioncode": "",
+                "rating": 0.0,
+                "resume": {
+                    "position": 0.0,
+                    "total": 6060.0
+                },
+                "runtime": 6060,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Rockpalast"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Deep Purple: Live In Paris 1985",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "slug": "deep-purple-live-in-paris-1985-1985",
+                    "tmdb": "339915",
+                    "trakt": "220373"
+                },
+                "votes": "0",
+                "writer": [],
+                "year": 1985
+            },
+            {
+                "album": "",
+                "art": {
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f1CEklNTZeqkfbWK0wGmZnblOTZW.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f1CEklNTZeqkfbWK0wGmZnblOTZW.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Joe Bonamassa",
+                        "order": 0,
+                        "role": "Himself"
+                    }
+                ],
+                "country": [],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Joe Bonamassa",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=258411&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=258411)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=258411)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=258411)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=258411)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=258411)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "258411",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "bassman22pu",
+                    "param.widget": "True",
+                    "popularity": "1.163",
+                    "revenue": "$0",
+                    "slug_id": "rock-candy-funk-party-takes-new-york-live-at-the-iridium-2014",
+                    "tmdb_id": "258411",
+                    "tmdb_rating": "4.2",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "2",
+                    "trakt_id": "157943",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=258411",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique"
+                ],
+                "imdbnumber": "",
+                "label": "Rock Candy Funk Party Takes New York: Live at the Iridium",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Rock Candy Funk Party Takes New York: Live at the Iridium",
+                "playcount": 0,
+                "plot": "",
+                "plotoutline": "",
+                "premiered": "2014-02-25",
+                "productioncode": "",
+                "rating": 4.199999809265137,
+                "resume": {
+                    "position": 0.0,
+                    "total": 6000.0
+                },
+                "runtime": 6000,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Rock Candy Funk Party Takes New York: Live at the Iridium",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "slug": "rock-candy-funk-party-takes-new-york-live-at-the-iridium-2014",
+                    "tmdb": "258411",
+                    "trakt": "157943"
+                },
+                "votes": "2",
+                "writer": [],
+                "year": 2014
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f2OsOxh8xrYKfQcTCDVdtiGwqCKQ.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fmJYXcVIiEc6RrFTiFR7Diezi1SQ.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fmJYXcVIiEc6RrFTiFR7Diezi1SQ.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Jimi Hendrix",
+                        "order": 0,
+                        "role": "Himself (archive footage)"
+                    },
+                    {
+                        "name": "Billy Cox",
+                        "order": 1,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Mitch Mitchell",
+                        "order": 2,
+                        "role": "Himself"
+                    }
+                ],
+                "country": [],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Jimi Hendrix / Billy Cox / Mitch Mitchell",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=356167&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=356167)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=356167)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=356167)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=356167)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=356167)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt5217608",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "356167",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "bassman22pu",
+                    "param.widget": "True",
+                    "popularity": "1.417",
+                    "provider.link": "https://www.themoviedb.org/movie/356167-jimi-hendrix-electric-church/watch?locale=FR",
+                    "providers": "Apple iTunes",
+                    "revenue": "$0",
+                    "slug_id": "jimi-hendrix-electric-church-2015",
+                    "tmdb_id": "356167",
+                    "tmdb_rating": "7.5",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "7",
+                    "trakt_id": "222667",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "John McDermott"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f2OsOxh8xrYKfQcTCDVdtiGwqCKQ.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=356167",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Documentaire",
+                    "Musique"
+                ],
+                "imdbnumber": "tt5217608",
+                "label": "Jimi Hendrix : Electric Church",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Jimi Hendrix: Electric Church",
+                "playcount": 0,
+                "plot": "Jimi Hendrix Electric Church (titre provenant d'une expression de Hendrix pour d\u00e9signer la musique qui parle directement \u00e0 l'\u00e2me). Deux mois avant sa mort \u00e0 Londres en 1970, le 4 juillet Jimi Hendrix enflammait la sc\u00e8ne de l'Atlanta Pop Festival, une manifestation plus grande que Woodstock. Ce jour-l\u00e0, le guitariste se produisait devant plus de 300 000 spectateurs, faisant de ce concert son plus important en terme d\u2019audience sur le territoire am\u00e9ricain. Un festival d'images in\u00e9dites \u00e0 d\u00e9couvrir.",
+                "plotoutline": "",
+                "premiered": "2015-09-04",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0.0,
+                    "total": 5340.0
+                },
+                "runtime": 5340,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Jimi Hendrix : Electric Church",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt5217608",
+                    "slug": "jimi-hendrix-electric-church-2015",
+                    "tmdb": "356167",
+                    "trakt": "222667",
+                    "unknown": "tt5217608"
+                },
+                "votes": "7",
+                "writer": [],
+                "year": 2015
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fm9gUqBG10Vr8BXtYTxbXPQFSfft.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fw13w6ahraTtKwsVlvyF3W4hBicg.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fw13w6ahraTtKwsVlvyF3W4hBicg.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Eric Clapton",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Robert Cray",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Joe Walsh",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Larry Carlton",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Steve Vai",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Jonny Lang",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Carlos Santana",
+                        "order": 6,
+                        "role": ""
+                    },
+                    {
+                        "name": "J.J. Cale",
+                        "order": 7,
+                        "role": ""
+                    },
+                    {
+                        "name": "James Taylor",
+                        "order": 8,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Buddy Guy",
+                        "order": 9,
+                        "role": ""
+                    },
+                    {
+                        "name": "Jimmie Vaughan",
+                        "order": 10,
+                        "role": ""
+                    },
+                    {
+                        "name": "B. B. King",
+                        "order": 11,
+                        "role": ""
+                    },
+                    {
+                        "name": "Eric Johnson",
+                        "order": 12,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Billy Gibbons",
+                        "order": 13,
+                        "role": ""
+                    },
+                    {
+                        "name": "Vince Gill",
+                        "order": 14,
+                        "role": ""
+                    }
+                ],
+                "country": [
+                    "United States of America"
+                ],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Eric Clapton / Robert Cray / Joe Walsh / Larry Carlton / Steve Vai / Jonny Lang / Carlos Santana / J.J. Cale / James Taylor / Buddy Guy / Jimmie Vaughan / B. B. King / Eric Johnson / Billy Gibbons / Vince Gill",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=247378&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=247378)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=247378)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=247378)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=247378)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=247378)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "247378",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "bassman22pu",
+                    "param.widget": "True",
+                    "popularity": "2.074",
+                    "revenue": "$0",
+                    "slug_id": "eric-clapton-s-crossroads-guitar-festival-2004-2004",
+                    "studio": "Crossroads Films",
+                    "tmdb_id": "247378",
+                    "tmdb_rating": "6.0",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "2",
+                    "trakt_id": "150353",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Martyn Atkins"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fm9gUqBG10Vr8BXtYTxbXPQFSfft.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=247378",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique"
+                ],
+                "imdbnumber": "",
+                "label": "Eric Clapton : Crossroads Guitar Festival 2004",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Eric Clapton's Crossroads Guitar Festival 2004",
+                "playcount": 0,
+                "plot": "Edition 2004 du festival organis\u00e9 par Eric Clapton pour son association Crossroads. Ce DVD a \u00e9t\u00e9 enregistr\u00e9 pendant les 3 jours de festival en juin 2004 au Cotton Bowl de Dallas.",
+                "plotoutline": "",
+                "premiered": "2004-06-03",
+                "productioncode": "",
+                "rating": 6.0,
+                "resume": {
+                    "position": 0.0,
+                    "total": 12600.0
+                },
+                "runtime": 12600,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Crossroads Films"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Eric Clapton : Crossroads Guitar Festival 2004",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "slug": "eric-clapton-s-crossroads-guitar-festival-2004-2004",
+                    "tmdb": "247378",
+                    "trakt": "150353"
+                },
+                "votes": "2",
+                "writer": [],
+                "year": 2004
+            },
+            {
+                "album": "",
+                "art": {
+                    "banner": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f137366%2fmoviebanner%2fled-zeppelin-celebration-day-53ddcf4654474.jpg/",
+                    "clearart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f137366%2fhdmovieclearart%2fled-zeppelin-celebration-day-5209632545a85.png/",
+                    "clearlogo": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f137366%2fhdmovielogo%2fled-zeppelin-celebration-day-51ddeae81df46.png/",
+                    "discart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f137366%2fmoviedisc%2fled-zeppelin-celebration-day-53c62c45e6761.png/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f4vfMIeUw0yLpXcpZMUG6PH55GIn.jpg/",
+                    "fanart1": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f137366%2fmoviebackground%2fled-zeppelin-celebration-day-50cb5b0b621a9.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f2xVMTx1aqSgFBTFf6vuRNlmv9xR.jpg/",
+                    "landscape": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f137366%2fmoviethumb%2fled-zeppelin-celebration-day-584b156166318.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f2xVMTx1aqSgFBTFf6vuRNlmv9xR.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Jimmy Page",
+                        "order": 0,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Jason Bonham",
+                        "order": 1,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "John Paul Jones",
+                        "order": 2,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Robert Plant",
+                        "order": 3,
+                        "role": "Himself"
+                    }
+                ],
+                "country": [
+                    "United Kingdom"
+                ],
+                "customproperties": {
+                    "available_releases": "Theatrical",
+                    "budget": "$1,000,000",
+                    "cast": "Jimmy Page / Jason Bonham / John Paul Jones / Robert Plant",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=137366&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=137366)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=137366)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=137366)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=137366)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=137366)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt2414166",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "137366",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "bassman22pu",
+                    "param.widget": "True",
+                    "popularity": "7.2",
+                    "provider.link": "https://www.themoviedb.org/movie/137366-led-zeppelin-celebration-day/watch?locale=FR",
+                    "providers": "Apple iTunes",
+                    "revenue": "$10,000,000",
+                    "slug_id": "led-zeppelin-celebration-day-2012",
+                    "studio": "Three P Films Limited",
+                    "theatrical_release": "2012-10-18",
+                    "tmdb_id": "137366",
+                    "tmdb_rating": "8.0",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "41",
+                    "trakt_id": "92380",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Dick Carruthers"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f4vfMIeUw0yLpXcpZMUG6PH55GIn.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=137366",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique"
+                ],
+                "imdbnumber": "tt2414166",
+                "label": "Led Zeppelin : Celebration Day",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Led Zeppelin: Celebration Day",
+                "playcount": 0,
+                "plot": "Le 10 d\u00e9cembre 2007 reste grav\u00e9 dans la m\u00e9moire de tous les fans de Led Zeppelin. 27 ans apr\u00e8s sa dissolution, les trois membres fondateurs du groupe, Jimmy Page, Robert Plant et John Paul Jones se retrouvaient sur sc\u00e8ne, avec Jason Bonham \u00e0 la batterie, pour un concert donn\u00e9 en hommage au co-fondateur d\u2019Atlantic Records, Ahmet Ertegun, d\u00e9c\u00e9d\u00e9 un an auparavant.",
+                "plotoutline": "",
+                "premiered": "2012-10-17",
+                "productioncode": "",
+                "rating": 8.0,
+                "resume": {
+                    "position": 0.0,
+                    "total": 7440.0
+                },
+                "runtime": 7440,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Three P Films Limited"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Led Zeppelin : Celebration Day",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=VbusDxLekPQ",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt2414166",
+                    "slug": "led-zeppelin-celebration-day-2012",
+                    "tmdb": "137366",
+                    "trakt": "92380",
+                    "unknown": "tt2414166"
+                },
+                "votes": "41",
+                "writer": [],
+                "year": 2012
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2ft9TIeXc55MZswCyVprsv47iSwYV.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fkMjZvMtrTd33qai2nZcw1NDTwtS.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fkMjZvMtrTd33qai2nZcw1NDTwtS.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Ritchie Blackmore",
+                        "order": 0,
+                        "role": "Guitar"
+                    },
+                    {
+                        "name": "Ronnie Romero",
+                        "order": 1,
+                        "role": "Vocals"
+                    },
+                    {
+                        "name": "Bob Nouveau",
+                        "order": 2,
+                        "role": "Bass"
+                    },
+                    {
+                        "name": "Jens Johansson",
+                        "order": 3,
+                        "role": "Keyboards"
+                    },
+                    {
+                        "name": "David Keith",
+                        "order": 4,
+                        "role": "Drums"
+                    }
+                ],
+                "country": [
+                    "United Kingdom"
+                ],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Ritchie Blackmore / Ronnie Romero / Bob Nouveau / Jens Johansson / David Keith",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=426762&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=426762)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=426762)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=426762)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=426762)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=426762)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt6171428",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "426762",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "bassman22pu",
+                    "param.widget": "True",
+                    "popularity": "1.117",
+                    "provider.link": "https://www.themoviedb.org/movie/426762-rainbow-memories-in-rock/watch?locale=FR",
+                    "providers": "Apple iTunes",
+                    "revenue": "$0",
+                    "slug_id": "rainbow-memories-in-rock-2016",
+                    "tmdb_id": "426762",
+                    "tmdb_rating": "8.8",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "4",
+                    "trakt_id": "272203",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Jim Parsons"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2ft9TIeXc55MZswCyVprsv47iSwYV.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=426762",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique"
+                ],
+                "imdbnumber": "tt6171428",
+                "label": "Rainbow - Memories in Rock",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Rainbow: Memories in Rock",
+                "playcount": 0,
+                "plot": "En Juin 2016, le l\u00e9gendaire guitariste Ritchie Blackmore  a jou\u00e9 trois concerts en Europe, deux en Allemagne et un en Angleterre. Les deux concerts allemands \u00e0 Loreley et Bietigheim ont \u00e9t\u00e9 film\u00e9s  pour produire \"Memories In Rock - Live In Germany.\"",
+                "plotoutline": "",
+                "premiered": "2016-11-18",
+                "productioncode": "",
+                "rating": 8.800000190734863,
+                "resume": {
+                    "position": 0.0,
+                    "total": 8340.0
+                },
+                "runtime": 8340,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Rainbow - Memories in Rock",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt6171428",
+                    "slug": "rainbow-memories-in-rock-2016",
+                    "tmdb": "426762",
+                    "trakt": "272203",
+                    "unknown": "tt6171428"
+                },
+                "votes": "4",
+                "writer": [],
+                "year": 2016
+            },
+            {
+                "album": "",
+                "art": {
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fzH2LDkY9u87D79F3gmuIet5bfNr.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fzH2LDkY9u87D79F3gmuIet5bfNr.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Lee Ritenour",
+                        "order": 0,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Dave Grusin",
+                        "order": 1,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Ivan Lins",
+                        "order": 2,
+                        "role": "Himself"
+                    }
+                ],
+                "country": [],
+                "customproperties": {
+                    "available_releases": "Theatrical",
+                    "budget": "$0",
+                    "cast": "Lee Ritenour / Dave Grusin / Ivan Lins",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=114437&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=114437)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=114437)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=114437)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=114437)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=114437)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "114437",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "bassman22pu",
+                    "param.widget": "True",
+                    "popularity": "0.981",
+                    "revenue": "$0",
+                    "slug_id": "lee-ritenour-overtime-2005",
+                    "studio": "Eagle Rock Entertainment",
+                    "theatrical_release": "2005-01-28",
+                    "tmdb_id": "114437",
+                    "tmdb_rating": "5.5",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "3",
+                    "trakt_id": "80073",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=114437",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique"
+                ],
+                "imdbnumber": "",
+                "label": "Lee Ritenour : Overtime",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Lee Ritenour : Overtime",
+                "playcount": 0,
+                "plot": "Cet album m\u00e9lange les plus grands succ\u00e8s de Lee avec quelques cr\u00e9ations nouvelles. Mais cet album n'est pas un best of de plus. Dans cet enregistrement original, Lee s'entoure d'une bande d'amis musiciens de vieille date. Il y a 20 ans d\u00e9j\u00e0, parfois 30, il jouait avec Dave Grusin, Ivan Lins, harvey Mason, Ernie Watts ou Abraham Laboriel.  Depuis chacun a suivi sa propre carri\u00e8re. Dans Overtime, il a r\u00e9uni tout ce beau monde pour  interpr\u00e9ter son r\u00e9pertoire.  L'album retrace 4 grands moments de la carri\u00e8re de Lee, ou 4 grandes sources d'inspiration :  - La p\u00e9riode jazz acoustic  (\u201cBlue in Green\u201d) et l'influence de la musique br\u00e9silienne avec le vocaliste Ivan Lins (\u201cShe Walks the Earth\u201d)  - La p\u00e9riode fusion (\u201cCaptain Fingers,\u201d \u201cNight Rhythms\u201d) avec une tonalit\u00e9 tr\u00e8s californienne.  - L'influence du guitariste noir  Wes Montgomery (\u201cBoss City,\u201d \u201cLil\u2019 Bumpin\u2019\u201d)  - L'hommage au son \" Motown\u201d (la reprise de \u201cPapa Was a Rolling Stone,\u201d avec Chris Botti \u00e0 la trompette).",
+                "plotoutline": "",
+                "premiered": "2005-01-28",
+                "productioncode": "",
+                "rating": 5.5,
+                "resume": {
+                    "position": 0.0,
+                    "total": 9060.0
+                },
+                "runtime": 9060,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Eagle Rock Entertainment"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Lee Ritenour : Overtime",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "slug": "lee-ritenour-overtime-2005",
+                    "tmdb": "114437",
+                    "trakt": "80073"
+                },
+                "votes": "3",
+                "writer": [],
+                "year": 2005
+            },
+            {
+                "album": "",
+                "art": {
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fbIdqD0rIaXZ9dpkMvH6aD4wwesd.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fbIdqD0rIaXZ9dpkMvH6aD4wwesd.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Lee Ritenour",
+                        "order": 0,
+                        "role": "Guitar"
+                    },
+                    {
+                        "name": "Mike Stern",
+                        "order": 1,
+                        "role": "Guitar"
+                    },
+                    {
+                        "name": "Simon Phillips",
+                        "order": 2,
+                        "role": "Drums"
+                    },
+                    {
+                        "name": "John Beasley",
+                        "order": 3,
+                        "role": "Keyboard, Synthesizer"
+                    },
+                    {
+                        "name": "Melvin Davis",
+                        "order": 4,
+                        "role": "Bass"
+                    }
+                ],
+                "country": [
+                    "Japan"
+                ],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Lee Ritenour / Mike Stern / Simon Phillips / John Beasley / Melvin Davis",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=326575&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=326575)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=326575)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=326575)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=326575)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=326575)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "326575",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "bassman22pu",
+                    "param.widget": "True",
+                    "popularity": "0.917",
+                    "revenue": "$0",
+                    "slug_id": "lee-ritenour-mike-stern-live-at-blue-note-tokyo-2012",
+                    "studio": "As Is Productions",
+                    "tmdb_id": "326575",
+                    "tmdb_rating": "6.0",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "1",
+                    "trakt_id": "207488",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=326575",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique"
+                ],
+                "imdbnumber": "",
+                "label": "Lee Ritenour & Mike Stern: Live at Blue Note Tokyo",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Lee Ritenour & Mike Stern: Live at Blue Note Tokyo",
+                "playcount": 0,
+                "plot": "",
+                "plotoutline": "",
+                "premiered": "2012-04-18",
+                "productioncode": "",
+                "rating": 6.0,
+                "resume": {
+                    "position": 0.0,
+                    "total": 5340.0
+                },
+                "runtime": 5340,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "As Is Productions"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Lee Ritenour & Mike Stern: Live at Blue Note Tokyo",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "slug": "lee-ritenour-mike-stern-live-at-blue-note-tokyo-2012",
+                    "tmdb": "326575",
+                    "trakt": "207488"
+                },
+                "votes": "1",
+                "writer": [],
+                "year": 2012
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fjYFxUuT4bMHejgCvGPlajMNGQW2.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fmRQChjZSng2M5srafkfNUjx0ocB.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fmRQChjZSng2M5srafkfNUjx0ocB.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Uli Jon Roth",
+                        "order": 0,
+                        "role": "Guitar"
+                    },
+                    {
+                        "name": "Nathan James",
+                        "order": 1,
+                        "role": "Vocals"
+                    },
+                    {
+                        "name": "Niklas Turmann",
+                        "order": 2,
+                        "role": "Guitar & Vocals"
+                    },
+                    {
+                        "name": "David Klosinski",
+                        "order": 3,
+                        "role": "Guitar"
+                    },
+                    {
+                        "name": "Jamie Little",
+                        "order": 4,
+                        "role": "Drums"
+                    },
+                    {
+                        "name": "Ule W. Ritgen",
+                        "order": 5,
+                        "role": "Bass"
+                    },
+                    {
+                        "name": "Corvin Bahn",
+                        "order": 6,
+                        "role": "Keyboards"
+                    }
+                ],
+                "country": [
+                    "Germany"
+                ],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Uli Jon Roth / Nathan James / Niklas Turmann / David Klosinski / Jamie Little / Ule W. Ritgen / Corvin Bahn",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=439561&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=439561)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=439561)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=439561)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=439561)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=439561)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "439561",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "bassman22pu",
+                    "param.widget": "True",
+                    "popularity": "0.6",
+                    "revenue": "$0",
+                    "slug_id": "uli-jon-roth-tokyo-tapes-revisited-2016",
+                    "studio": "UDR Music",
+                    "tmdb_id": "439561",
+                    "tmdb_rating": "8.0",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "1",
+                    "trakt_id": "286741",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fjYFxUuT4bMHejgCvGPlajMNGQW2.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=439561",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique"
+                ],
+                "imdbnumber": "",
+                "label": "Uli Jon Roth - Tokyo Tapes Revisited",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Uli Jon Roth - Tokyo Tapes Revisited",
+                "playcount": 0,
+                "plot": "Uli Jon Roth (Ulrich roth) est connu pour \u00eatre le guitariste du groupe de Heavy Metal (Hard Rock) Scorpions de 1974 \u00e0 1978 et le fondateur du groupe Electric Sun. Il est tr\u00e8s certainement l'un des meilleurs guitaristes que Scorpions ait connu.",
+                "plotoutline": "",
+                "premiered": "2016-12-16",
+                "productioncode": "",
+                "rating": 8.0,
+                "resume": {
+                    "position": 0.0,
+                    "total": 9420.0
+                },
+                "runtime": 9420,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "UDR Music"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Uli Jon Roth - Tokyo Tapes Revisited",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "slug": "uli-jon-roth-tokyo-tapes-revisited-2016",
+                    "tmdb": "439561",
+                    "trakt": "286741"
+                },
+                "votes": "1",
+                "writer": [],
+                "year": 2016
+            },
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fhTmRw80mVWpfS7W9qIDrj9B3don.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f7uH7EFdhkaDUI30CwZUxAZXNrO6.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f7uH7EFdhkaDUI30CwZUxAZXNrO6.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "John Mayall",
+                        "order": 0,
+                        "role": "Himself"
+                    },
+                    {
+                        "name": "Eric Clapton",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Chris Barber",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Mick Taylor",
+                        "order": 3,
+                        "role": ""
+                    }
+                ],
+                "country": [],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "John Mayall / Eric Clapton / Chris Barber / Mick Taylor",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=86585&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=86585)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=86585)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=86585)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=86585)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=86585)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt1585986",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "86585",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "bassman22pu",
+                    "param.widget": "True",
+                    "popularity": "1.456",
+                    "revenue": "$0",
+                    "slug_id": "john-mayall-the-bluesbreakers-and-friends-70th-birthday-concert-2003",
+                    "tmdb_id": "86585",
+                    "tmdb_rating": "7.0",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "1",
+                    "trakt_id": "65109",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fhTmRw80mVWpfS7W9qIDrj9B3don.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=86585",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique"
+                ],
+                "imdbnumber": "tt1585986",
+                "label": "John Mayall & The Bluesbreakers And Friends: 70th Birthday Concert",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "John Mayall & The Bluesbreakers And Friends: 70th Birthday Concert",
+                "playcount": 0,
+                "plot": "",
+                "plotoutline": "",
+                "premiered": "2003-12-09",
+                "productioncode": "",
+                "rating": 7.0,
+                "resume": {
+                    "position": 0.0,
+                    "total": 9540.0
+                },
+                "runtime": 9540,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "John Mayall & The Bluesbreakers And Friends: 70th Birthday Concert",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt1585986",
+                    "slug": "john-mayall-the-bluesbreakers-and-friends-70th-birthday-concert-2003",
+                    "tmdb": "86585",
+                    "trakt": "65109",
+                    "unknown": "tt1585986"
+                },
+                "votes": "1",
+                "writer": [],
+                "year": 2003
+            },
+            {
+                "album": "",
+                "art": {
+                    "clearlogo": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fiPJA6sgHaFAqEmGA84r2F0h1R4G.png/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fpts3WSvG25wUlT1uSSqBJDJ2tNC.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fwRYwZiEomzxadISvnOGPrhw7Yex.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fwRYwZiEomzxadISvnOGPrhw7Yex.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "George Thorogood",
+                        "order": 0,
+                        "role": "vocals, guitar"
+                    }
+                ],
+                "country": [
+                    "United States of America"
+                ],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "George Thorogood",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=238586&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=238586)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=238586)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=238586)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=238586)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=238586)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "238586",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "bassman22pu",
+                    "param.widget": "True",
+                    "popularity": "1.317",
+                    "provider.link": "https://www.themoviedb.org/movie/238586-george-thorogood-the-destroyers-live-at-montreux-2013/watch?locale=FR",
+                    "providers": "Apple iTunes / INA  madelen Amazon Channel",
+                    "revenue": "$0",
+                    "slug_id": "george-thorogood-the-destroyers-live-at-montreux-2013-2013",
+                    "studio": "Eagle Rock Entertainment",
+                    "tmdb_id": "238586",
+                    "tmdb_rating": "6.4",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "4",
+                    "trakt_id": "145632",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fpts3WSvG25wUlT1uSSqBJDJ2tNC.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=238586",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique"
+                ],
+                "imdbnumber": "",
+                "label": "George Thorogood & The Destroyers - Live At Montreux",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "George Thorogood & The Destroyers - Live At Montreux 2013",
+                "playcount": 0,
+                "plot": "George Thorogood & The Destroyers livrent un set d'une douzaine de chansons au festival de Montreux 2013 qui comprend ses chansons embl\u00e9matiques \"One Bourbon, One Scotch, One Beer\", \"Cocaine Blues\" et \"Bad to the Bone\".",
+                "plotoutline": "",
+                "premiered": "2013-11-19",
+                "productioncode": "",
+                "rating": 6.400000095367432,
+                "resume": {
+                    "position": 0.0,
+                    "total": 4800.0
+                },
+                "runtime": 4800,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Eagle Rock Entertainment"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "George Thorogood & The Destroyers - Live At Montreux",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "slug": "george-thorogood-the-destroyers-live-at-montreux-2013-2013",
+                    "tmdb": "238586",
+                    "trakt": "145632"
+                },
+                "votes": "4",
+                "writer": [],
+                "year": 2013
+            },
+            {
+                "album": "",
+                "art": {
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fcUfwY5K3WDrRk3DPwRrQJDeLyjo.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fcUfwY5K3WDrRk3DPwRrQJDeLyjo.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Ruby Turner",
+                        "order": 0,
+                        "role": "Narrator"
+                    }
+                ],
+                "country": [],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Ruby Turner",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=85212&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=85212)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=85212)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=85212)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=85212)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=85212)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt2193846",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "85212",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "bassman22pu",
+                    "param.widget": "True",
+                    "popularity": "0.876",
+                    "revenue": "$0",
+                    "slug_id": "reggae-britannia-2011",
+                    "tmdb_id": "85212",
+                    "tmdb_rating": "6.5",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "1",
+                    "trakt_id": "63959",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [
+                    "Jeremy Marre"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=85212",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Documentaire",
+                    "Musique"
+                ],
+                "imdbnumber": "tt2193846",
+                "label": "Reggae Britannia",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Reggae Britannia",
+                "playcount": 0,
+                "plot": "",
+                "plotoutline": "",
+                "premiered": "2011-02-11",
+                "productioncode": "",
+                "rating": 6.5,
+                "resume": {
+                    "position": 0.0,
+                    "total": 5340.0
+                },
+                "runtime": 5340,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Reggae Britannia",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=qIMqdI0_E2Q",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt2193846",
+                    "slug": "reggae-britannia-2011",
+                    "tmdb": "85212",
+                    "trakt": "63959",
+                    "unknown": "tt2193846"
+                },
+                "votes": "1",
+                "writer": [],
+                "year": 2011
+            },
+            {
+                "album": "",
+                "art": {
+                    "icon": "image://C%3a%5cKodiTest%5cKodi%20matrix%20pour%20zip%20complet%202%20full%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage.png/",
+                    "landscape": "image://C%3a%5cKodiTest%5cKodi%20matrix%20pour%20zip%20complet%202%20full%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage_wide.png/"
+                },
+                "artist": [],
+                "cast": [],
+                "country": [],
+                "customproperties": {
+                    "item.info": "trakt_userlist",
+                    "item.list_name": "Concerts",
+                    "item.list_slug": "concerts",
+                    "item.owner": "true",
+                    "item.page": "2",
+                    "item.plugin_category": "Concerts",
+                    "item.user_slug": "bassman22pu",
+                    "item.widget": "True",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "bassman22pu",
+                    "param.widget": "True",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Concerts&list_slug=concerts&owner=true&plugin_category=Concerts&user_slug=bassman22pu&page=2&widget=true&reload=$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]",
+                "filetype": "directory",
+                "firstaired": "",
+                "genre": [],
+                "imdbnumber": "",
+                "label": "Page suivante",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "x-directory/normal",
+                "mpaa": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "",
+                "plotoutline": "",
+                "premiered": "",
+                "productioncode": "",
+                "rating": 0.0,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 0,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "",
+                "top250": 0,
+                "track": -1,
+                "trailer": "",
+                "tvshowid": -1,
+                "type": "unknown",
+                "votes": "0",
+                "writer": [],
+                "year": 0
+            }
+        ],
+        "limits": {
+            "end": 20,
+            "start": 0,
+            "total": 20
+        }
+    }
+}
