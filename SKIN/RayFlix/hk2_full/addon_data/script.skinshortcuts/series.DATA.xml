@@ -28,8 +28,16 @@
 		<label>Derniers Ajouts</label>
 		<label2>Elément personnalisé</label2>
 		<icon>DefaultShortcut.png</icon>
-		<thumb>special://skin/extras/icons/shuffle.png</thumb>
+		<thumb>special://skin/extras/icons/_series1.png</thumb>
 		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&amp;famille=seriesall",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Populaires</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/_ hartbreak films.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&amp;famille=specialWid&amp;nomListe=Les+plus+populaires&amp;typM=tvshow",return)</action>
 		</shortcut>
 	<shortcut>
 		<defaultID />
@@ -41,18 +49,26 @@
 		</shortcut>
 	<shortcut>
 		<defaultID />
-		<label>Par Diffuseur</label>
-		<label2>Elément personnalisé</label2>
+		<label>Avant 2000</label>
+		<label2>Extensions Vidéo</label2>
 		<icon>DefaultShortcut.png</icon>
-		<thumb>special://skin/extras/icons/_ netflix.png</thumb>
-		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&amp;network=1",return)</action>
+		<thumb>special://skin/extras/icons/tv.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&amp;famille=groupes&amp;offset=0&amp;nom=serie+avant+2000",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Séries 4k</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/_4k2.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&amp;famille=groupes&amp;offset=0&amp;nom=serie+4k",return)</action>
 		</shortcut>
 	<shortcut>
 		<defaultID />
 		<label>Animés Adultes</label>
 		<label2>Elément personnalisé</label2>
 		<icon>DefaultShortcut.png</icon>
-		<thumb>special://skin/extras/icons/man.png</thumb>
+		<thumb>special://skin/extras/icons/_18adult.png</thumb>
 		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&amp;famille=groupes&amp;offset=0&amp;nom=serie+anime+adulte",return)</action>
 		</shortcut>
 	<shortcut>

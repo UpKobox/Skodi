@@ -25,6 +25,22 @@
 		</shortcut>
 	<shortcut>
 		<defaultID />
+		<label>Autres</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/_ dreamworks animation.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&amp;famille=groupes&amp;offset=0&amp;nom=da+autres",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Populaires</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/_ hartbreak films.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&amp;famille=specialWid&amp;nomListe=Films+d%27animation+populaires&amp;typM=movie",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
 		<label>Super Héros</label>
 		<label2>Elément personnalisé</label2>
 		<icon>DefaultShortcut.png</icon>

@@ -17,11 +17,11 @@
 		</shortcut>
 	<shortcut>
 		<defaultID />
-		<label>Mangas OAV</label>
-		<label2>Elément personnalisé</label2>
+		<label>Nouveautés</label>
+		<label2>Extensions Vidéo</label2>
 		<icon>DefaultShortcut.png</icon>
-		<thumb>special://skin/extras/icons/skull.png</thumb>
-		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&amp;famille=groupes&amp;offset=0&amp;nom=manga+films",return)</action>
+		<thumb>special://skin/extras/icons/_ mtv2.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&amp;famille=specialWid&amp;nomListe=Animes+r%C3%A9cents&amp;typM=tvshow",return)</action>
 		</shortcut>
 	<shortcut>
 		<defaultID />
@@ -30,5 +30,29 @@
 		<icon>DefaultShortcut.png</icon>
 		<thumb>special://skin/extras/icons/_ this is that productions.png</thumb>
 		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&amp;famille=specialWid&amp;nomListe=Animes+populaires&amp;typM=tvshow",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Mangas en vrac</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/_ star tv.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&amp;famille=groupes&amp;offset=0&amp;nom=manga",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Mangas OAV</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/skull.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&amp;famille=groupes&amp;offset=0&amp;nom=manga+films",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Mangas films</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/_FANKAI.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&amp;famille=groupes&amp;offset=0&amp;nom=manga+films",return)</action>
 		</shortcut>
 	</shortcuts>

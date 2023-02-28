@@ -33,6 +33,14 @@
 		</shortcut>
 	<shortcut>
 		<defaultID />
+		<label>Tendances</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/_ hartbreak films.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&amp;famille=specialWid&amp;nomListe=Tendances+de+la+semaine&amp;typM=movie",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
 		<label>Super Héros</label>
 		<label2>Elément personnalisé</label2>
 		<icon>DefaultShortcut.png</icon>
@@ -44,8 +52,16 @@
 		<label>4K HD Remux</label>
 		<label2>Elément personnalisé</label2>
 		<icon>DefaultShortcut.png</icon>
-		<thumb>special://skin/extras/icons/_4K.png</thumb>
+		<thumb>special://skin/extras/icons/_4k.png</thumb>
 		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&amp;famille=groupes&amp;offset=0&amp;nom=films+4k",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Films avant 70</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/_ paramount-film.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&amp;famille=groupes&amp;offset=0&amp;nom=films+avant+70",return)</action>
 		</shortcut>
 	<shortcut>
 		<defaultID />

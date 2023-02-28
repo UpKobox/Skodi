@@ -1,0 +1,98 @@
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>Tous</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/_all2.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&amp;network=1",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Amazon</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/_ amazon.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&amp;famille=specialWid&amp;diffus=Prime+Video&amp;typM=tvshow",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Disney+</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/_ disney+.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&amp;famille=specialWid&amp;diffus=Disney%2B&amp;typM=tvshow",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Netflix</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/_ netflix.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&amp;famille=specialWid&amp;diffus=Netflix&amp;typM=tvshow",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Apple TV+</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/_ apple +.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&amp;famille=specialWid&amp;diffus=Apple+TV%2B&amp;typM=tvshow",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Canal+</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/_ canal plus.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&amp;famille=specialWid&amp;diffus=CANAL%2B&amp;typM=tvshow",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Salto</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/_salto2.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&amp;famille=specialWid&amp;diffus=SALTO&amp;typM=tvshow",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>HBO</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/_ hbo.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&amp;famille=specialWid&amp;diffus=HBO+Max&amp;typM=tvshow",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Arté</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/_ arte france cin╟╕ma.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&amp;famille=specialWid&amp;diffus=ARTE&amp;typM=tvshow",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>FOX</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/_fox2.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&amp;network=1&amp;namenetwork=19&amp;page=1",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>TF1</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/_ tf1.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&amp;network=1&amp;namenetwork=290&amp;page=1",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>M6</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/_ m6.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&amp;network=1&amp;namenetwork=712&amp;page=1",return)</action>
+		</shortcut>
+	</shortcuts>

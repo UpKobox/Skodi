@@ -9,6 +9,14 @@
 		</shortcut>
 	<shortcut>
 		<defaultID />
+		<label>Minuterie</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/timer.png</thumb>
+		<action>ALARMCLOCK(SLEEP TIMER,POWERDOWN)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
 		<label>Profils</label>
 		<label2>Elément personnalisé</label2>
 		<icon>DefaultShortcut.png</icon>

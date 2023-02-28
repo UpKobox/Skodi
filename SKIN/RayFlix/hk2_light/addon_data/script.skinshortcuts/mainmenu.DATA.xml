@@ -25,6 +25,14 @@
 		</shortcut>
 	<shortcut>
 		<defaultID />
+		<label>Diffuseurs</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>noop</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
 		<label>TV Replay</label>
 		<label2>Elément personnalisé</label2>
 		<icon>DefaultShortcut.png</icon>
@@ -66,14 +74,6 @@
 	<shortcut>
 		<defaultID />
 		<label>Mangas</label>
-		<label2>Elément personnalisé</label2>
-		<icon>DefaultShortcut.png</icon>
-		<thumb />
-		<action>noop</action>
-		</shortcut>
-	<shortcut>
-		<defaultID />
-		<label>Addons</label>
 		<label2>Elément personnalisé</label2>
 		<icon>DefaultShortcut.png</icon>
 		<thumb />
