@@ -1,0 +1,102 @@
+{
+    "label": "Menu TV/Replay",
+    "type": "shortcut",
+    "paths": [
+        {
+            "label": "Diffuseurs (widget)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.program.autowidget/?group=diffuseurs_(widget)-1658912870.58709&mode=group&refresh&reload",
+                "filetype": "directory",
+                "art": {
+                    "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+                    "fanart": "",
+                    "icon": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png",
+                    "poster": "special://masterprofile/addon_data/icones/tvseries3pird.png",
+                    "thumb": ""
+                },
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "programs",
+            "target": "shortcut",
+            "id": "diffuseurs_(widget)-1666542563.2496228",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Diffuseurs",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&network=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/thenuit.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/groupe.png",
+                    "thumb": "special://masterprofile/addon_data/icones/tvseries3pird.png"
+                },
+                "title": "Diffuseurs",
+                "plot": "Diffuseur",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "diffuseurs-1666542846.2681403",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Series Diffuseurs",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.program.autowidget/?group=series_diffuseurs-1660554934.188611&mode=group&refresh&reload",
+                "filetype": "directory",
+                "art": {
+                    "banner": "special://home/addons/plugin.program.autowidget/resources/media/banner/folder-shortcut.png",
+                    "fanart": "special://home/addons/plugin.program.autowidget/resources/media/fanart/folder-shortcut.png",
+                    "icon": "",
+                    "poster": "special://masterprofile/addon_data/icones/tvseries3pird.png",
+                    "thumb": "special://home/addons/plugin.program.autowidget/resources/media/icon/folder-shortcut.png"
+                },
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "programs",
+            "target": "shortcut",
+            "id": "series_diffuseurs-1673429930.518492",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Films Diffuseurs",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.program.autowidget/?group=films_diffuseurs-1660553879.6137402&mode=group&refresh&reload",
+                "filetype": "directory",
+                "art": {
+                    "banner": "special://home/addons/plugin.program.autowidget/resources/media/banner/folder-shortcut.png",
+                    "fanart": "special://home/addons/plugin.program.autowidget/resources/media/fanart/folder-shortcut.png",
+                    "icon": "special://home/addons/plugin.program.autowidget/resources/media/icon/folder-shortcut.png",
+                    "poster": "special://masterprofile/addon_data/icones/film3.png",
+                    "thumb": "special://home/addons/plugin.program.autowidget/resources/media/icon/folder-shortcut.png"
+                },
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "programs",
+            "target": "shortcut",
+            "id": "films_diffuseurs-1673429954.584874",
+            "version": "3.7.0"
+        }
+    ],
+    "id": "menu_tvreplay-1666542518.9663377",
+    "art": {
+        "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+        "fanart": "special://home/addons\\plugin.program.autowidget\\resources\\media\\fanart\\folder-shortcut.png",
+        "icon": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png",
+        "poster": "special://home/addons\\plugin.program.autowidget\\resources\\media\\poster\\folder-shortcut.png",
+        "thumb": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png"
+    },
+    "version": "3.7.0",
+    "content": "",
+    "sort_order": "41"
+}

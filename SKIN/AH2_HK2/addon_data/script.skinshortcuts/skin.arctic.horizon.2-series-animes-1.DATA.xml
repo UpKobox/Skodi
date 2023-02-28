@@ -6,7 +6,7 @@
 		<icon>DefaultShortcut.png</icon>
 		<thumb>image://special%3a%2f%2fhome%2faddons%2fplugin.program.autowidget%2fresources%2fmedia%2ficon%2fshuffle.png/</thumb>
 		<action>ActivateWindow(Videos,"plugin://plugin.program.autowidget/?mode=path&amp;action=cycling&amp;group=series_autowidget-1661598940.8711307&amp;id=a55d1795-6478-492c-ae63-94d472544a9b&amp;refresh=$INFO[Window(10000).Property(autowidget-a55d1795-6478-492c-ae63-94d472544a9b-refresh)]&amp;reload=",return)</action>
-		</shortcut>
+	</shortcut>
 	<shortcut>
 		<defaultID />
 		<label>Animes (auto)</label>
@@ -14,5 +14,6 @@
 		<icon>DefaultShortcut.png</icon>
 		<thumb>image://special%3a%2f%2fhome%2faddons%2fplugin.program.autowidget%2fresources%2fmedia%2ficon%2fshuffle.png/</thumb>
 		<action>ActivateWindow(Videos,"plugin://plugin.program.autowidget/?mode=path&amp;action=cycling&amp;group=animes_autowidget-1661599000.3136003&amp;id=0eb1d4a4-ac55-4f18-bf5e-0885493c547d&amp;refresh=$INFO[Window(10000).Property(autowidget-0eb1d4a4-ac55-4f18-bf5e-0885493c547d-refresh)]&amp;reload=",return)</action>
-		</shortcut>
-	</shortcuts>
+		<disabled>True</disabled>
+	</shortcut>
+</shortcuts>

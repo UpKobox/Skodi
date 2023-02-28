@@ -1,0 +1,53 @@
+{
+    "history": [
+        [
+            1676908449.894203,
+            "780d9d6c9838453439b619ab44eeebef983fe294"
+        ],
+        [
+            1676908920.8847597,
+            "780d9d6c9838453439b619ab44eeebef983fe294"
+        ],
+        [
+            1676910199.31829,
+            "780d9d6c9838453439b619ab44eeebef983fe294"
+        ],
+        [
+            1676911388.2870007,
+            "780d9d6c9838453439b619ab44eeebef983fe294"
+        ],
+        [
+            1676913961.0318294,
+            "780d9d6c9838453439b619ab44eeebef983fe294"
+        ],
+        [
+            1676926591.1573915,
+            "780d9d6c9838453439b619ab44eeebef983fe294"
+        ],
+        [
+            1676952463.4446454,
+            "780d9d6c9838453439b619ab44eeebef983fe294"
+        ],
+        [
+            1676989996.1409647,
+            "780d9d6c9838453439b619ab44eeebef983fe294"
+        ],
+        [
+            1677038695.5383673,
+            "780d9d6c9838453439b619ab44eeebef983fe294"
+        ],
+        [
+            1677104189.0099716,
+            "780d9d6c9838453439b619ab44eeebef983fe294"
+        ],
+        [
+            1677355506.326489,
+            "780d9d6c9838453439b619ab44eeebef983fe294"
+        ]
+    ],
+    "widgets": [
+        "874dd984-32fe-43cd-8c66-d904375cea65",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Disney+%28Kids+Se%CC%81ries+TV%29&list_slug=disney-kids-series-tv-f4a1d7fb-4901-4bfd-a13b-16e73a67fa67&owner=true&plugin_category=Disney+%28Kids+Se%CC%81ries+TV%29&user_slug=jukebox8786&page=2&widget=true&reload=$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]"
+}

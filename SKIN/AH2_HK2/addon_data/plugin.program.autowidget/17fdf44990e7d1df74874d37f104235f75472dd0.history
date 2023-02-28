@@ -1,0 +1,46 @@
+{
+    "history": [
+        [
+            1675344852.2577183,
+            "bd4f49767d653426e2c45e511f9dcb2bc25f2537"
+        ],
+        [
+            1675345163.1671586,
+            "bd4f49767d653426e2c45e511f9dcb2bc25f2537"
+        ],
+        [
+            1675345906.236484,
+            "48c69c4438046444c2ca79181bf3f712b4e2a893"
+        ],
+        [
+            1675346309.937648,
+            "bd4f49767d653426e2c45e511f9dcb2bc25f2537"
+        ],
+        [
+            1675346642.9225688,
+            "bd4f49767d653426e2c45e511f9dcb2bc25f2537"
+        ],
+        [
+            1675346953.7914252,
+            "bd4f49767d653426e2c45e511f9dcb2bc25f2537"
+        ],
+        [
+            1675347318.404292,
+            "bd4f49767d653426e2c45e511f9dcb2bc25f2537"
+        ],
+        [
+            1675347687.4679778,
+            "bd4f49767d653426e2c45e511f9dcb2bc25f2537"
+        ],
+        [
+            1677581155.542689,
+            "88f54f4d472bfeb07d3cc834c1169f7a4aef89cb"
+        ]
+    ],
+    "widgets": [
+        "987123e7-7049-4734-8990-7997012a3c98",
+        null,
+        "1264b2ed-1582-4245-8ab7-57b1830283f2"
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Music+Concerts%2C+Artists+%26+Bands+%282+of4%29&list_slug=music-concerts-artists-bands-2-of4&plugin_category=Music+Concerts%2C+Artists+%26+Bands+%282+of4%29&user_slug=krissykk&page=2&widget=true&reload=$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]"
+}

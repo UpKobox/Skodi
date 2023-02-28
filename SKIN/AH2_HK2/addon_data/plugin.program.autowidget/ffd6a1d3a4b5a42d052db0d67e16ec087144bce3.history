@@ -1,0 +1,13 @@
+{
+    "history": [
+        [
+            1673477016.0216386,
+            "a5347d8b36b7b4ad88313c9467dae3c7e8c52abb"
+        ]
+    ],
+    "widgets": [
+        "42643716-6273-46a7-ad5f-1112912b60c0",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Concerts&list_slug=concerts&owner=true&plugin_category=Concerts&user_slug=vazoon&page=2&widget=true&reload=$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]"
+}

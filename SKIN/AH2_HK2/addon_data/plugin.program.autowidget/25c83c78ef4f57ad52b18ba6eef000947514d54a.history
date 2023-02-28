@@ -1,0 +1,41 @@
+{
+    "history": [
+        [
+            1677193508.684827,
+            "c361d222b69ff2f2bf1d015d7d9a8b159fc30ca4"
+        ],
+        [
+            1677193932.4154675,
+            "c361d222b69ff2f2bf1d015d7d9a8b159fc30ca4"
+        ],
+        [
+            1677211484.368042,
+            "c361d222b69ff2f2bf1d015d7d9a8b159fc30ca4"
+        ],
+        [
+            1677249319.4009306,
+            "c361d222b69ff2f2bf1d015d7d9a8b159fc30ca4"
+        ],
+        [
+            1677284336.578514,
+            "048d05c6daa5036abea8b5d243675f5c0f565221"
+        ],
+        [
+            1677317316.1444852,
+            "048d05c6daa5036abea8b5d243675f5c0f565221"
+        ],
+        [
+            1677352571.4107487,
+            "048d05c6daa5036abea8b5d243675f5c0f565221"
+        ],
+        [
+            1677363587.0774636,
+            "048d05c6daa5036abea8b5d243675f5c0f565221"
+        ]
+    ],
+    "widgets": [
+        "99d25e05-09a3-4e6b-8f20-f90fe4f02833",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Les%20plus%20populaires%20de%20la%20semaine%20(Films)&list_slug=les-plus-populaires-de-la-semaine-films&owner=true&plugin_category=Les%20plus%20populaires%20de%20la%20semaine%20(Films)&user_slug=jukebox8786&widget=True"
+}

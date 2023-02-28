@@ -1,0 +1,10 @@
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>Karaoké</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://special%3a%2f%2fmasterprofile%2faddon_data%2ficones%2fkaraok%c3%a9%20(2).png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.program.autowidget/?mode=group&amp;group=karaoke_0-9a-z-1666902433.9163108&amp;refresh=&amp;reload=",return)</action>
+		</shortcut>
+	</shortcuts>

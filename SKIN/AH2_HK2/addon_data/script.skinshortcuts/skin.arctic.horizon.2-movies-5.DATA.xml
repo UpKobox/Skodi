@@ -7,12 +7,4 @@
 		<thumb>image://special%3a%2f%2fhome%2faddons%2fplugin.program.autowidget%2fresources%2fmedia%2ficon%2ffolder-shortcut.png/</thumb>
 		<action>ActivateWindow(Videos,"plugin://plugin.program.autowidget/?mode=group&amp;group=films_diffuseurs-1660553879.6137402&amp;refresh=&amp;reload=",return)</action>
 		</shortcut>
-	<shortcut>
-		<defaultID />
-		<label>Fournisseurs</label>
-		<label2>Extensions Vidéo</label2>
-		<icon>DefaultShortcut.png</icon>
-		<thumb>thumb</thumb>
-		<action>ActivateWindow(Videos,"plugin://plugin.video.themoviedb.helper/?info=watch_providers&amp;tmdb_type=movie&amp;widget=true&amp;reload=$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]",return)</action>
-		</shortcut>
 	</shortcuts>

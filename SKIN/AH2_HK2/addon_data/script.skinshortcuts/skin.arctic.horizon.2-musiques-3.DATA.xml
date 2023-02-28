@@ -1,0 +1,34 @@
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>concerts live (Statique)</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://special%3a%2f%2fhome%2faddons%5cplugin.program.autowidget%5cresources%5cmedia%5cicon%5cfolder.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.program.autowidget/?mode=path&amp;action=static&amp;group=concerts_live-1675340768.9877484&amp;id=987123e7-7049-4734-8990-7997012a3c98&amp;refresh=$INFO[Window(10000).Property(autowidget-987123e7-7049-4734-8990-7997012a3c98-refresh)]&amp;reload=",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>concerts live (Statique)</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://special%3a%2f%2fhome%2faddons%5cplugin.program.autowidget%5cresources%5cmedia%5cicon%5cfolder.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.program.autowidget/?mode=path&amp;action=static&amp;group=concerts_live-1675340768.9877484&amp;id=de8bb568-5d71-45c8-9576-e3906f101459&amp;refresh=$INFO[Window(10000).Property(autowidget-de8bb568-5d71-45c8-9576-e3906f101459-refresh)]&amp;reload=",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>concerts live (Cyclisme)</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://special%3a%2f%2fhome%2faddons%5cplugin.program.autowidget%5cresources%5cmedia%5cicon%5cshuffle.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.program.autowidget/?mode=path&amp;action=cycling&amp;group=concerts_live-1675340768.9877484&amp;id=22264318-8b3c-46e9-9729-d5ced8365f66&amp;refresh=$INFO[Window(10000).Property(autowidget-22264318-8b3c-46e9-9729-d5ced8365f66-refresh)]&amp;reload=",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Concerts (Cyclisme)</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://special%3a%2f%2fhome%2faddons%5cplugin.program.autowidget%5cresources%5cmedia%5cicon%5cshuffle.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.program.autowidget/?mode=path&amp;action=cycling&amp;group=concerts-1662286265.1350222&amp;id=be825c8b-6e97-4d37-8227-3d357747f75d&amp;refresh=$INFO[Window(10000).Property(autowidget-be825c8b-6e97-4d37-8227-3d357747f75d-refresh)]&amp;reload=",return)</action>
+		</shortcut>
+	</shortcuts>

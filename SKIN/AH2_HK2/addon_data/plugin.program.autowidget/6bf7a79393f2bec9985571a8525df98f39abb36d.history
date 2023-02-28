@@ -1,0 +1,21 @@
+{
+    "history": [
+        [
+            1675344874.1560261,
+            "c2b0f2cd04a61c46185de63c3c0e649d4ad8788f"
+        ],
+        [
+            1675345184.0078218,
+            "c2b0f2cd04a61c46185de63c3c0e649d4ad8788f"
+        ],
+        [
+            1675346169.2023926,
+            "c2b0f2cd04a61c46185de63c3c0e649d4ad8788f"
+        ]
+    ],
+    "widgets": [
+        "22264318-8b3c-46e9-9729-d5ced8365f66",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Live+concerts&list_slug=live-concerts&plugin_category=Live+concerts&user_slug=hazeyboy&page=2&widget=true&reload=$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]"
+}

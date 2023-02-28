@@ -1,0 +1,61 @@
+{
+    "history": [
+        [
+            1676908422.0010793,
+            "b10f0dd112c9870c89b6f0cd942962f8e7514111"
+        ],
+        [
+            1676910151.250256,
+            "b10f0dd112c9870c89b6f0cd942962f8e7514111"
+        ],
+        [
+            1676910877.078699,
+            "b10f0dd112c9870c89b6f0cd942962f8e7514111"
+        ],
+        [
+            1676913912.9298067,
+            "b10f0dd112c9870c89b6f0cd942962f8e7514111"
+        ],
+        [
+            1676924003.8869114,
+            "b10f0dd112c9870c89b6f0cd942962f8e7514111"
+        ],
+        [
+            1676932959.5441034,
+            "b10f0dd112c9870c89b6f0cd942962f8e7514111"
+        ],
+        [
+            1676952405.4925702,
+            "b10f0dd112c9870c89b6f0cd942962f8e7514111"
+        ],
+        [
+            1676989953.171194,
+            "b10f0dd112c9870c89b6f0cd942962f8e7514111"
+        ],
+        [
+            1677038657.3648286,
+            "b10f0dd112c9870c89b6f0cd942962f8e7514111"
+        ],
+        [
+            1677104160.8070114,
+            "60ad3fca937cb1dd8073b0c7ce0c6dc1cd6e4f7d"
+        ],
+        [
+            1677125118.741834,
+            "60ad3fca937cb1dd8073b0c7ce0c6dc1cd6e4f7d"
+        ],
+        [
+            1677193612.3220427,
+            "c8e957429b5cd7c484511bba557c83310fade173"
+        ],
+        [
+            1677355396.943499,
+            "c8e957429b5cd7c484511bba557c83310fade173"
+        ]
+    ],
+    "widgets": [
+        "250df5e6-46c0-4558-9960-9c2b274943b5",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Action+%26+Aventure+%28Films+re%CC%81cents%29&list_slug=action-aventure-films-recents&owner=true&plugin_category=Action+%26+Aventure+%28Films+re%CC%81cents%29&user_slug=jukebox8786&page=2&widget=true&reload=$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]"
+}

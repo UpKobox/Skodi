@@ -1,0 +1,21 @@
+{
+    "history": [
+        [
+            1675345255.153013,
+            "c60163fb0cd646d27d19cf92e34c9ed9c89a7607"
+        ],
+        [
+            1675345255.6151793,
+            "c60163fb0cd646d27d19cf92e34c9ed9c89a7607"
+        ],
+        [
+            1675346167.3760607,
+            "c60163fb0cd646d27d19cf92e34c9ed9c89a7607"
+        ]
+    ],
+    "widgets": [
+        "de8bb568-5d71-45c8-9576-e3906f101459",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Live+Concerts+%26+Music&list_slug=live-concerts-music&plugin_category=Live+Concerts+%26+Music&user_slug=dwarnes1970&page=3&widget=true&reload=$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]"
+}

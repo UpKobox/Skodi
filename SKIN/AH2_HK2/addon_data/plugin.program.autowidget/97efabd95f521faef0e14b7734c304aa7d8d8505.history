@@ -71,11 +71,17 @@
         [
             1672865820.1249719,
             "b0e57b8ec8566d75f236d1dcbb68fec4bf09bc35"
+        ],
+        [
+            1675339577.952185,
+            "9c6bf242ff5303ebac519cc5f795acc01cafc08e"
         ]
     ],
     "widgets": [
         "d70f506e-16a6-4f04-bd9c-45ed4680c8ae",
-        null
+        null,
+        "2305ba4f-770e-45a0-b531-3286cd2c0bc9",
+        "fd3a5c0b-3617-42f2-82ce-3154fdc0d03f"
     ],
     "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Concerts&list_slug=concerts&owner=true&plugin_category=Concerts&user_slug=gpus&widget=True"
 }

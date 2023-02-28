@@ -1,0 +1,13 @@
+{
+    "history": [
+        [
+            1673340034.0182753,
+            "355733f6adf052f551606dddd42bdb612bfbe473"
+        ]
+    ],
+    "widgets": [
+        "8da54429-48d3-4fc9-83d6-10f0261bccd6",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=popular&tmdb_type=movie&widget=True"
+}

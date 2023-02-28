@@ -1,0 +1,53 @@
+{
+    "history": [
+        [
+            1676908409.1273367,
+            "ecf1f7237c5bc6ed955087834457b517b95238cc"
+        ],
+        [
+            1676910173.2691095,
+            "ecf1f7237c5bc6ed955087834457b517b95238cc"
+        ],
+        [
+            1676910887.5892463,
+            "ecf1f7237c5bc6ed955087834457b517b95238cc"
+        ],
+        [
+            1676913931.6797793,
+            "ecf1f7237c5bc6ed955087834457b517b95238cc"
+        ],
+        [
+            1676923810.888026,
+            "ecf1f7237c5bc6ed955087834457b517b95238cc"
+        ],
+        [
+            1676932970.4867222,
+            "ecf1f7237c5bc6ed955087834457b517b95238cc"
+        ],
+        [
+            1676952469.9894001,
+            "ecf1f7237c5bc6ed955087834457b517b95238cc"
+        ],
+        [
+            1676989970.161721,
+            "ecf1f7237c5bc6ed955087834457b517b95238cc"
+        ],
+        [
+            1677038669.067875,
+            "ecf1f7237c5bc6ed955087834457b517b95238cc"
+        ],
+        [
+            1677104174.2363625,
+            "ecf1f7237c5bc6ed955087834457b517b95238cc"
+        ],
+        [
+            1677355428.677445,
+            "ecf1f7237c5bc6ed955087834457b517b95238cc"
+        ]
+    ],
+    "widgets": [
+        "53213776-d92b-4fb6-b3f0-857747fba265",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Drame+%26+Romance+%28Se%CC%81ries+TV%29&list_slug=drame-romance-series-tv&owner=true&plugin_category=Drame+%26+Romance+%28Se%CC%81ries+TV%29&user_slug=jukebox8786&page=2&widget=true&reload=$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]"
+}

@@ -1,0 +1,57 @@
+{
+    "history": [
+        [
+            1676908452.0115747,
+            "3df25973eb19f273dd51662c2dc4b4ba6ed65736"
+        ],
+        [
+            1676908923.1037338,
+            "3df25973eb19f273dd51662c2dc4b4ba6ed65736"
+        ],
+        [
+            1676910200.3347194,
+            "3df25973eb19f273dd51662c2dc4b4ba6ed65736"
+        ],
+        [
+            1676911390.5871043,
+            "3df25973eb19f273dd51662c2dc4b4ba6ed65736"
+        ],
+        [
+            1676913950.9169211,
+            "3df25973eb19f273dd51662c2dc4b4ba6ed65736"
+        ],
+        [
+            1676926595.8008187,
+            "3df25973eb19f273dd51662c2dc4b4ba6ed65736"
+        ],
+        [
+            1676952466.314834,
+            "3df25973eb19f273dd51662c2dc4b4ba6ed65736"
+        ],
+        [
+            1676989996.3239639,
+            "3df25973eb19f273dd51662c2dc4b4ba6ed65736"
+        ],
+        [
+            1677038696.070369,
+            "3df25973eb19f273dd51662c2dc4b4ba6ed65736"
+        ],
+        [
+            1677104190.4422562,
+            "333a1b2fe276c644f3f0c80ecce48b5dc48c2c05"
+        ],
+        [
+            1677125154.9056437,
+            "333a1b2fe276c644f3f0c80ecce48b5dc48c2c05"
+        ],
+        [
+            1677355512.328634,
+            "c0eb2d1bf481cb869183647e29d23cb23246a230"
+        ]
+    ],
+    "widgets": [
+        "49398bb4-d693-44bd-bc7c-dd62d8e5bb20",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Les+nouveaute%CC%81s+%28Anime%29&list_slug=les-nouveautes-anime&owner=true&plugin_category=Les+nouveaute%CC%81s+%28Anime%29&user_slug=jukebox8786&page=2&widget=true&reload=$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]"
+}

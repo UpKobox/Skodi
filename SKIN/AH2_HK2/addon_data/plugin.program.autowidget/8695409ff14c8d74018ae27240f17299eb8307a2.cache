@@ -113,7 +113,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "vazoon",
                     "param.widget": "True",
-                    "popularity": "2.975",
+                    "popularity": "2.543",
                     "provider.link": "https://www.themoviedb.org/movie/38178-prince-sign-o-the-times/watch?locale=FR",
                     "providers": "Canal+",
                     "revenue": "$0",
@@ -137,8 +137,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Musique",
-                    "Documentaire"
+                    "Musique"
                 ],
                 "imdbnumber": "tt0093970",
                 "label": "Prince : Sign o' the Times",
@@ -268,7 +267,7 @@
                         "name": "Joe Chrest",
                         "order": 9,
                         "role": "David Bass",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fox45oYzfnI9mxDYNeP01ZTRWGXC.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f7mcsJGnqRoVPTtxAUZEKt2dZnlw.jpg/"
                     },
                     {
                         "name": "Courtney Dietz",
@@ -417,7 +416,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "vazoon",
                     "param.widget": "True",
-                    "popularity": "15.526",
+                    "popularity": "15.207",
                     "provider.link": "https://www.themoviedb.org/movie/327331-the-dirt/watch?locale=FR",
                     "providers": "Netflix / Netflix basic with Ads",
                     "revenue": "$0",
@@ -426,7 +425,7 @@
                     "tmdb_id": "327331",
                     "tmdb_rating": "7.5",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "1,028",
+                    "tmdb_votes": "1,038",
                     "trakt_id": "208240",
                     "widget": "Concerts"
                 },
@@ -458,7 +457,7 @@
                 "plotoutline": "",
                 "premiered": "2019-03-22",
                 "productioncode": "",
-                "rating": 7.519000053405762,
+                "rating": 7.513999938964844,
                 "resume": {
                     "position": 0.0,
                     "total": 6420.0
@@ -499,7 +498,7 @@
                     "unknown": "tt0800325"
                 },
                 "userrating": 0,
-                "votes": "1028",
+                "votes": "1038",
                 "writer": [
                     "Rich Wilkes",
                     "Tommy Lee",
@@ -540,7 +539,7 @@
                         "name": "Taylor Swift",
                         "order": 0,
                         "role": "Self",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f896fxTO6ScX7l3ZeXLQmGcIRcyG.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fxpTNiyJ5PAogtmdjySMZ1sNlvh1.jpg/"
                     },
                     {
                         "name": "Charli XCX",
@@ -763,7 +762,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "vazoon",
                     "param.widget": "True",
-                    "popularity": "11.23",
+                    "popularity": "16.552",
                     "provider.link": "https://www.themoviedb.org/movie/568332-taylor-swift-reputation-stadium-tour/watch?locale=FR",
                     "providers": "Netflix / Netflix basic with Ads",
                     "revenue": "$0",
@@ -772,7 +771,7 @@
                     "tmdb_id": "568332",
                     "tmdb_rating": "8.3",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "253",
+                    "tmdb_votes": "259",
                     "trakt_id": "419622",
                     "widget": "Concerts"
                 },
@@ -787,8 +786,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Musique",
-                    "Documentaire"
+                    "Musique"
                 ],
                 "imdbnumber": "tt9426852",
                 "label": "Taylor Swift: Reputation Stadium Tour",
@@ -802,7 +800,7 @@
                 "plotoutline": "",
                 "premiered": "2018-12-31",
                 "productioncode": "",
-                "rating": 8.267000198364258,
+                "rating": 8.298999786376953,
                 "resume": {
                     "position": 0.0,
                     "total": 7500.0
@@ -843,7 +841,7 @@
                     "unknown": "tt9426852"
                 },
                 "userrating": 0,
-                "votes": "253",
+                "votes": "259",
                 "writer": [
                     "Baz Halpin"
                 ],
@@ -904,7 +902,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "vazoon",
                     "param.widget": "True",
-                    "popularity": "2.712",
+                    "popularity": "4.558",
                     "provider.link": "https://www.themoviedb.org/movie/563708-springsteen-on-broadway/watch?locale=FR",
                     "providers": "Netflix / Netflix basic with Ads",
                     "revenue": "$0",
@@ -912,7 +910,7 @@
                     "tmdb_id": "563708",
                     "tmdb_rating": "8.0",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "39",
+                    "tmdb_votes": "40",
                     "trakt_id": "413763",
                     "widget": "Concerts"
                 },
@@ -980,7 +978,7 @@
                     "unknown": "tt8716334"
                 },
                 "userrating": 0,
-                "votes": "39",
+                "votes": "40",
                 "writer": [
                     "Bruce Springsteen"
                 ],
@@ -1097,7 +1095,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "vazoon",
                     "param.widget": "True",
-                    "popularity": "6.687",
+                    "popularity": "7.597",
                     "provider.link": "https://www.themoviedb.org/movie/554152-coldplay-a-head-full-of-dreams/watch?locale=FR",
                     "providers": "Amazon Prime Video",
                     "revenue": "$0",
@@ -1107,7 +1105,7 @@
                     "tmdb_id": "554152",
                     "tmdb_rating": "8.0",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "123",
+                    "tmdb_votes": "124",
                     "trakt_id": "405291",
                     "widget": "Concerts"
                 },
@@ -1137,7 +1135,7 @@
                 "plotoutline": "",
                 "premiered": "2018-11-14",
                 "productioncode": "",
-                "rating": 7.9720001220703125,
+                "rating": 8.0,
                 "resume": {
                     "position": 0.0,
                     "total": 6900.0
@@ -1177,7 +1175,7 @@
                     "unknown": "tt9095324"
                 },
                 "userrating": 0,
-                "votes": "123",
+                "votes": "124",
                 "writer": [],
                 "year": 2018
             },
@@ -1206,8 +1204,7 @@
                     {
                         "name": "Salaam Remi",
                         "order": 2,
-                        "role": "Self",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f6pAtNLKTQQZjAg2DzvTamddtn8m.jpg/"
+                        "role": "Self"
                     },
                     {
                         "name": "Ronnie Spector",
@@ -1250,7 +1247,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "vazoon",
                     "param.widget": "True",
-                    "popularity": "2.016",
+                    "popularity": "1.205",
                     "revenue": "$0",
                     "slug_id": "amy-winehouse-back-to-black-the-real-story-behind-the-modern-classic-2018",
                     "studio": "BBC",
@@ -1619,7 +1616,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "vazoon",
                     "param.widget": "True",
-                    "popularity": "4.321",
+                    "popularity": "6.203",
                     "revenue": "$0",
                     "slug_id": "jesus-christ-superstar-live-in-concert-2018",
                     "studio": "Marc Platt Productions",
@@ -1657,7 +1654,7 @@
                 "plotoutline": "",
                 "premiered": "2018-04-01",
                 "productioncode": "",
-                "rating": 6.818999767303467,
+                "rating": 6.800000190734863,
                 "resume": {
                     "position": 0.0,
                     "total": 5940.0
@@ -1790,7 +1787,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "vazoon",
                     "param.widget": "True",
-                    "popularity": "1.168",
+                    "popularity": "1.689",
                     "revenue": "$0",
                     "slug_id": "above-beyond-giving-up-the-day-job-2018",
                     "studio": "Archer's Mark",
@@ -1950,7 +1947,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "vazoon",
                     "param.widget": "True",
-                    "popularity": "0.956",
+                    "popularity": "2.839",
                     "revenue": "$0",
                     "slug_id": "whitesnake-the-purple-tour-2018",
                     "studio": "Rhino Entertainment",
@@ -2080,7 +2077,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "vazoon",
                     "param.widget": "True",
-                    "popularity": "1.667",
+                    "popularity": "1.913",
                     "revenue": "$0",
                     "slug_id": "bruno-mars-24k-magic-live-at-the-apollo-2017",
                     "studio": "CBS Films",
@@ -2382,7 +2379,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "vazoon",
                     "param.widget": "True",
-                    "popularity": "1.4",
+                    "popularity": "2.66",
                     "provider.link": "https://www.themoviedb.org/movie/487784-jeff-lynne-s-elo-wembley-or-bust/watch?locale=FR",
                     "providers": "Apple iTunes",
                     "revenue": "$0",
@@ -2658,7 +2655,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "vazoon",
                     "param.widget": "True",
-                    "popularity": "5.131",
+                    "popularity": "3.577",
                     "revenue": "$0",
                     "slug_id": "george-michael-freedom-2017",
                     "studio": "Sony Music Entertainment (UK) Ltd",
@@ -2695,7 +2692,7 @@
                 "plotoutline": "",
                 "premiered": "2017-10-16",
                 "productioncode": "",
-                "rating": 7.8460001945495605,
+                "rating": 7.800000190734863,
                 "resume": {
                     "position": 0.0,
                     "total": 5160.0
@@ -2753,63 +2750,63 @@
                     {
                         "name": "Mick Jagger",
                         "order": 0,
-                        "role": "Himself",
+                        "role": "Self",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fr1uFIYnBCDhIlqNbiTS4nDrjHrl.jpg/"
                     },
                     {
                         "name": "Keith Richards",
                         "order": 1,
-                        "role": "Himself",
+                        "role": "Self",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ft1oa5UsJMmrhNqCIks4jQnAYSQT.jpg/"
                     },
                     {
                         "name": "Charlie Watts",
                         "order": 2,
-                        "role": "Himself",
+                        "role": "Self",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fyZUiyOV9ImKLwAczuLd7TsImC1k.jpg/"
                     },
                     {
                         "name": "Ronnie Wood",
                         "order": 3,
-                        "role": "himself",
+                        "role": "Self",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fx9cPzzqEOLIuvwsqfqoDTdXeeny.jpg/"
                     },
                     {
                         "name": "Darryl Jones",
                         "order": 4,
-                        "role": "Himself - Bass Guitar, Backing Vocals",
+                        "role": "Self - Bass Guitar, Backing Vocals",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fD5OSz9L8NsaY4DK6eIaLVXjjtU.jpg/"
                     },
                     {
                         "name": "Chuck Leavell",
                         "order": 5,
-                        "role": "Himself - Keyboards, Musical Director",
+                        "role": "Self - Keyboards, Musical Director",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fiWDM2v4Bx8wVJWQS2uja8Kk2V02.jpg/"
                     },
                     {
                         "name": "Karl Denson",
                         "order": 6,
-                        "role": "Himself - Saxophone"
+                        "role": "Self - Saxophone"
                     },
                     {
                         "name": "Tim Ries",
                         "order": 7,
-                        "role": "Himself - Saxophone, Keyboards"
+                        "role": "Self - Saxophone, Keyboards"
                     },
                     {
                         "name": "Matt Clifford",
                         "order": 8,
-                        "role": "Himself - Musical Integrator"
+                        "role": "Self - Musical Integrator"
                     },
                     {
                         "name": "Bernard Fowler",
                         "order": 9,
-                        "role": "Himself - Vocals"
+                        "role": "Self - Vocals"
                     },
                     {
                         "name": "Lisa Fisher",
                         "order": 10,
-                        "role": "Himself - Vocals"
+                        "role": "Self - Vocals"
                     }
                 ],
                 "country": [],
@@ -2844,7 +2841,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "vazoon",
                     "param.widget": "True",
-                    "popularity": "2.043",
+                    "popularity": "0.968",
                     "provider.link": "https://www.themoviedb.org/movie/476161-the-rolling-stones-from-the-vault-sticky-fingers-live-at-the-fonda-theatre-2015/watch?locale=FR",
                     "providers": "Amazon Prime Video / Apple iTunes",
                     "revenue": "$0",
@@ -3005,14 +3002,14 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "vazoon",
                     "param.widget": "True",
-                    "popularity": "1.939",
+                    "popularity": "2.8",
                     "revenue": "$0",
                     "slug_id": "black-sabbath-the-end-of-the-end-2017",
                     "studio": "Eagle Rock Film Productions",
                     "tmdb_id": "465594",
-                    "tmdb_rating": "7.9",
+                    "tmdb_rating": "7.7",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "16",
+                    "tmdb_votes": "18",
                     "trakt_id": "312710",
                     "tv_release": "2017-09-10",
                     "widget": "Concerts"
@@ -3042,7 +3039,7 @@
                 "plotoutline": "",
                 "premiered": "2017-09-20",
                 "productioncode": "",
-                "rating": 7.900000095367432,
+                "rating": 7.699999809265137,
                 "resume": {
                     "position": 0.0,
                     "total": 5820.0
@@ -3082,7 +3079,7 @@
                     "unknown": "tt7133352"
                 },
                 "userrating": 0,
-                "votes": "16",
+                "votes": "18",
                 "writer": [
                     "Ozzy Osbourne",
                     "Tony Iommi",
@@ -3173,7 +3170,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "vazoon",
                     "param.widget": "True",
-                    "popularity": "2.359",
+                    "popularity": "1.176",
                     "revenue": "$0",
                     "slug_id": "guns-n-roses-rock-in-rio-2017-2017",
                     "tmdb_id": "495542",
@@ -3261,12 +3258,13 @@
                         "name": "Jon Bon Jovi",
                         "order": 0,
                         "role": "Vocals",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f6oC9PKCMcj6fPxyw9IAd6CnUAFZ.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fbqZdwRljds92cSvqQcoueBzLyat.jpg/"
                     },
                     {
                         "name": "Tico Torres",
                         "order": 1,
-                        "role": "Drums"
+                        "role": "Drums",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fv82YrMszkYdHFgtpaCUSr2OMjWg.jpg/"
                     },
                     {
                         "name": "Phil X",
@@ -3464,7 +3462,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "vazoon",
                     "param.widget": "True",
-                    "popularity": "0.6",
+                    "popularity": "0.848",
                     "revenue": "$0",
                     "slug_id": "dream-theater-live-at-budokan-2017-2017",
                     "tmdb_id": "573630",
@@ -3584,7 +3582,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "vazoon",
                     "param.widget": "True",
-                    "popularity": "0.658",
+                    "popularity": "1.778",
                     "revenue": "$0",
                     "slug_id": "tom-jones-live-on-soundstage-2017",
                     "studio": "BMG Music",
@@ -3774,8 +3772,8 @@
             {
                 "album": "",
                 "art": {
-                    "icon": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage.png/",
-                    "landscape": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage_wide.png/"
+                    "icon": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p(1)%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage.png/",
+                    "landscape": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p(1)%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage_wide.png/"
                 },
                 "artist": [],
                 "cast": [],

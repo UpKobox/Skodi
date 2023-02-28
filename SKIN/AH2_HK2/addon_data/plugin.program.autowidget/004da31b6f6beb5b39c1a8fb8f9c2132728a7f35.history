@@ -1,0 +1,33 @@
+{
+    "history": [
+        [
+            1677193549.9774685,
+            "aca2641d9dca846159c515bc0af2e39400420edf"
+        ],
+        [
+            1677193940.4837573,
+            "aca2641d9dca846159c515bc0af2e39400420edf"
+        ],
+        [
+            1677211490.8551502,
+            "aca2641d9dca846159c515bc0af2e39400420edf"
+        ],
+        [
+            1677249327.6409807,
+            "aca2641d9dca846159c515bc0af2e39400420edf"
+        ],
+        [
+            1677284346.7092648,
+            "aca2641d9dca846159c515bc0af2e39400420edf"
+        ],
+        [
+            1677352580.0120153,
+            "aca2641d9dca846159c515bc0af2e39400420edf"
+        ]
+    ],
+    "widgets": [
+        "7c25162e-6eab-40ae-a2f7-bf9071757cec",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Les+plus+tendances+%28Kids+Films%29&list_slug=les-plus-tendances-kids-films&owner=true&plugin_category=Les+plus+tendances+%28Kids+Films%29&user_slug=jukebox8786&page=2&widget=true&reload=$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]"
+}

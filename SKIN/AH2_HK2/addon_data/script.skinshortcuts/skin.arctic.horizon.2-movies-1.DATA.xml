@@ -6,7 +6,7 @@
 		<icon>DefaultShortcut.png</icon>
 		<thumb>image://special%3a%2f%2fhome%2faddons%2fplugin.program.autowidget%2fresources%2fmedia%2ficon%2fshuffle.png/</thumb>
 		<action>ActivateWindow(Videos,"plugin://plugin.program.autowidget/?mode=path&amp;action=cycling&amp;group=films_autowidget-1661598449.2327583&amp;id=8da54429-48d3-4fc9-83d6-10f0261bccd6&amp;refresh=$INFO[Window(10000).Property(autowidget-8da54429-48d3-4fc9-83d6-10f0261bccd6-refresh)]&amp;reload=",return)</action>
-		</shortcut>
+	</shortcut>
 	<shortcut>
 		<defaultID />
 		<label>Films Francais (auto)</label>
@@ -14,5 +14,6 @@
 		<icon>DefaultShortcut.png</icon>
 		<thumb>image://special%3a%2f%2fhome%2faddons%2fplugin.program.autowidget%2fresources%2fmedia%2ficon%2fshuffle.png/</thumb>
 		<action>ActivateWindow(Videos,"plugin://plugin.program.autowidget/?mode=path&amp;action=cycling&amp;group=films_francais_autowidget-1661599398.3946514&amp;id=4c32e37d-c7e2-4922-ba34-24a0615a4d1d&amp;refresh=$INFO[Window(10000).Property(autowidget-4c32e37d-c7e2-4922-ba34-24a0615a4d1d-refresh)]&amp;reload=",return)</action>
-		</shortcut>
-	</shortcuts>
+		<disabled>True</disabled>
+	</shortcut>
+</shortcuts>

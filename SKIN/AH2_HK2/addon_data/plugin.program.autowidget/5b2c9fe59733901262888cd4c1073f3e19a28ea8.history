@@ -1,0 +1,21 @@
+{
+    "history": [
+        [
+            1677193517.169035,
+            "229cf346b0deab15b5f4f983fa7c7afd2ca2892a"
+        ],
+        [
+            1677193939.0274537,
+            "229cf346b0deab15b5f4f983fa7c7afd2ca2892a"
+        ],
+        [
+            1677211491.342992,
+            "229cf346b0deab15b5f4f983fa7c7afd2ca2892a"
+        ]
+    ],
+    "widgets": [
+        "3d3d0b5e-fcad-4801-9c95-33ea150b287e",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Les%20nouveaut%c3%a9s%20(Kids%20S%c3%a9ries%20TV)&list_slug=les-nouveautes-kids-series-tv&owner=true&plugin_category=Les%20nouveaut%c3%a9s%20(Kids%20S%c3%a9ries%20TV)&user_slug=jukebox8786&widget=True"
+}

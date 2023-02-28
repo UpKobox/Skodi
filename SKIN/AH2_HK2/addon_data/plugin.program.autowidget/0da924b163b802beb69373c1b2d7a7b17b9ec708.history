@@ -1,0 +1,21 @@
+{
+    "history": [
+        [
+            1675344769.2736037,
+            "a43780439fb06f3bff4c4bbdd6cedb0c1548cee3"
+        ],
+        [
+            1675345174.096733,
+            "b4a2f3f445b2728d9041aa7852ae87013e456f07"
+        ],
+        [
+            1675346171.1045673,
+            "b4a2f3f445b2728d9041aa7852ae87013e456f07"
+        ]
+    ],
+    "widgets": [
+        "be825c8b-6e97-4d37-8227-3d357747f75d",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Concerts&list_slug=concerts&owner=true&plugin_category=Concerts&user_slug=pretendah&page=2&widget=true&reload=$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]"
+}

@@ -75,11 +75,17 @@
         [
             1672865828.3073046,
             "dee92b9d39a5ee098a7a435b82bdd58391d98e05"
+        ],
+        [
+            1675339584.2834866,
+            "a1f59e4d5d68189d513a9a43b1e3d2086c7f1ca6"
         ]
     ],
     "widgets": [
         "d70f506e-16a6-4f04-bd9c-45ed4680c8ae",
-        null
+        null,
+        "2305ba4f-770e-45a0-b531-3286cd2c0bc9",
+        "fd3a5c0b-3617-42f2-82ce-3154fdc0d03f"
     ],
     "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Live%20Concerts%20%26%20Music&list_slug=live-concerts-music&owner=true&plugin_category=Live%20Concerts%20%26%20Music&user_slug=dwarnes1970&widget=True"
 }

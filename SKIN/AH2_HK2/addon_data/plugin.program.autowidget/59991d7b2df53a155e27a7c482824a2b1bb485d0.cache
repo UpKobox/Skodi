@@ -7,7 +7,7 @@
                 "album": "",
                 "art": {
                     "clearart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f79931%2fhdmovieclearart%2fadele-live-at-the-royal-albert-hall-5297ccf2e70d0.png/",
-                    "clearlogo": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f79931%2fhdmovielogo%2fadele-live-at-the-royal-albert-hall-508daf229356e.png/",
+                    "clearlogo": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f4q2t4EWvuSDWUloV9GYMB1HOGHC.png/",
                     "discart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f79931%2fmoviedisc%2fadele-live-at-the-royal-albert-hall-511382cf726de.png/",
                     "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fnourcgjOGs59YxNwDuLWxOjo3ME.jpg/",
                     "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2frKHVEjAJ9DG7dNN5VEahTdExzgv.jpg/",
@@ -122,7 +122,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "grayathletica",
                     "param.widget": "True",
-                    "popularity": "7.434",
+                    "popularity": "5.716",
                     "revenue": "$0",
                     "slug_id": "adele-live-at-the-royal-albert-hall-2011",
                     "studio": "Sony Music Entertainment",
@@ -279,7 +279,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "grayathletica",
                     "param.widget": "True",
-                    "popularity": "1.166",
+                    "popularity": "2.075",
                     "revenue": "$0",
                     "slug_id": "duran-duran-greatest-videos-2003",
                     "studio": "EMI",
@@ -574,7 +574,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "grayathletica",
                     "param.widget": "True",
-                    "popularity": "1.197",
+                    "popularity": "1.018",
                     "revenue": "$0",
                     "slug_id": "megadeth-that-one-night-live-in-buenos-aires-2007",
                     "tmdb_id": "23357",
@@ -717,7 +717,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "grayathletica",
                     "param.widget": "True",
-                    "popularity": "0.911",
+                    "popularity": "1.012",
                     "revenue": "$0",
                     "slug_id": "megadeth-rude-awakening-2002",
                     "tmdb_id": "45557",
@@ -818,7 +818,8 @@
                     {
                         "name": "Roger Glover",
                         "order": 2,
-                        "role": "Bass"
+                        "role": "Bass",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fjxJu9RZ1PwqlkwQiABwT3keoOKK.jpg/"
                     },
                     {
                         "name": "Ian Paice",
@@ -865,7 +866,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "grayathletica",
                     "param.widget": "True",
-                    "popularity": "0.6",
+                    "popularity": "0.837",
                     "revenue": "$0",
                     "slug_id": "deep-purple-live-at-montreux-1996-1996",
                     "tmdb_id": "61889",
@@ -898,7 +899,7 @@
                 "plotoutline": "",
                 "premiered": "1996-01-01",
                 "productioncode": "",
-                "rating": 7.285999774932861,
+                "rating": 7.300000190734863,
                 "resume": {
                     "position": 0.0,
                     "total": 6180.0
@@ -1006,7 +1007,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "grayathletica",
                     "param.widget": "True",
-                    "popularity": "1.314",
+                    "popularity": "1.244",
                     "provider.link": "https://www.themoviedb.org/movie/40541-metallica-live-shit-binge-purge-san-diego-1992/watch?locale=FR",
                     "providers": "Apple iTunes",
                     "revenue": "$0",
@@ -1154,7 +1155,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "grayathletica",
                     "param.widget": "True",
-                    "popularity": "3.051",
+                    "popularity": "2.562",
                     "provider.link": "https://www.themoviedb.org/movie/240237-muse-live-at-rome-olympic-stadium/watch?locale=FR",
                     "providers": "Apple iTunes",
                     "revenue": "$0",
@@ -1193,7 +1194,7 @@
                 "plotoutline": "",
                 "premiered": "2013-11-11",
                 "productioncode": "",
-                "rating": 8.64799976348877,
+                "rating": 8.600000381469727,
                 "resume": {
                     "position": 0.0,
                     "total": 5700.0
@@ -1252,7 +1253,7 @@
                         "name": "Taylor Swift",
                         "order": 0,
                         "role": "Self",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f896fxTO6ScX7l3ZeXLQmGcIRcyG.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fxpTNiyJ5PAogtmdjySMZ1sNlvh1.jpg/"
                     }
                 ],
                 "country": [
@@ -1289,7 +1290,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "grayathletica",
                     "param.widget": "True",
-                    "popularity": "2.532",
+                    "popularity": "2.551",
                     "revenue": "$0",
                     "slug_id": "taylor-swift-speak-now-2010",
                     "studio": "Todd Cassetty Welding Service",
@@ -1376,8 +1377,8 @@
                     "clearlogo": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f9ySYEHVYFCpfaoNGgBRWUAAfst8.png/",
                     "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fw1nHot6GMCecd6uYNiDWMMbbykR.jpg/",
                     "fanart1": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f301658%2fmoviebackground%2ftaylor-swift-vh1-storytellers-5d0ba9100a4c5.jpg/",
-                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fdyZeVWTVLZes6vLHKZr0RODNrjv.jpg/",
-                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fdyZeVWTVLZes6vLHKZr0RODNrjv.jpg/"
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fsOVnOaWcPPviap7y1kaZ2xUliRi.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fsOVnOaWcPPviap7y1kaZ2xUliRi.jpg/"
                 },
                 "artist": [],
                 "cast": [
@@ -1385,7 +1386,7 @@
                         "name": "Taylor Swift",
                         "order": 0,
                         "role": "Self",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f896fxTO6ScX7l3ZeXLQmGcIRcyG.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fxpTNiyJ5PAogtmdjySMZ1sNlvh1.jpg/"
                     },
                     {
                         "name": "David Cook",
@@ -1480,7 +1481,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "grayathletica",
                     "param.widget": "True",
-                    "popularity": "2.082",
+                    "popularity": "1.741",
                     "revenue": "$0",
                     "slug_id": "taylor-swift-vh1-storytellers-2012",
                     "studio": "VH1 Productions",
@@ -1575,7 +1576,7 @@
                         "name": "Taylor Swift",
                         "order": 0,
                         "role": "Self",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f896fxTO6ScX7l3ZeXLQmGcIRcyG.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fxpTNiyJ5PAogtmdjySMZ1sNlvh1.jpg/"
                     },
                     {
                         "name": "Mick Jagger",
@@ -1617,7 +1618,7 @@
                         "name": "Normani",
                         "order": 7,
                         "role": "Self",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2focDfSYJz69hwmL4P2Bs7rZq7H5q.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fiVnAMfP45So3OOjy51XNtyVStu.jpg/"
                     },
                     {
                         "name": "Justin Timberlake",
@@ -1635,7 +1636,7 @@
                         "name": "Jade Thirlwall",
                         "order": 10,
                         "role": "Self",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fn17qf9OF5RntqsjIaQOCvOol5h9.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fhqgrmWbJUHMdTudQ7nWn5wXbLgx.jpg/"
                     },
                     {
                         "name": "Jesy Nelson",
@@ -1647,7 +1648,7 @@
                         "name": "Leigh-Anne Pinnock",
                         "order": 12,
                         "role": "Self",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f2NPjvQefq8PmirRC9oh1gcuXIyD.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fcr1syA4nh0tP38VqVJV6LvRfmUV.jpg/"
                     },
                     {
                         "name": "Perrie Edwards",
@@ -1689,7 +1690,7 @@
                         "name": "Selena Gomez",
                         "order": 19,
                         "role": "Self",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fs2K4OlRSyLCArQGFVHYaATf7Ez8.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fvp4NRiwGTtpgFkqi0nCMuVVUW82.jpg/"
                     },
                     {
                         "name": "Lorde",
@@ -1725,7 +1726,7 @@
                         "name": "Alison Krauss",
                         "order": 25,
                         "role": "Self",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f5LTI8PjjJcDShylcA2OYEGQxNTf.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f59wUTJ5BjjRIztFq5xRwnevRha4.jpg/"
                     },
                     {
                         "name": "Kelsea Ballerini",
@@ -1889,7 +1890,7 @@
                         "name": "Alanis Morissette",
                         "order": 54,
                         "role": "Self",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fjN1EmBR9X6YczdbjYMIxl6srNJj.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fqUYL0dHbERwqtvIYxIghnv1EzpA.jpg/"
                     },
                     {
                         "name": "Karen Fairchild",
@@ -2120,7 +2121,7 @@
                         "name": "Matt LeBlanc",
                         "order": 94,
                         "role": "Self",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fa7Fl1sLUq1UDJ4pHsnwpBdEiDEZ.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fllINftOQFR6B9v1f4XFCJiRMi2P.jpg/"
                     },
                     {
                         "name": "Chris Rock",
@@ -2337,14 +2338,14 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "grayathletica",
                     "param.widget": "True",
-                    "popularity": "12.54",
+                    "popularity": "9.34",
                     "revenue": "$0",
                     "slug_id": "taylor-swift-the-1989-world-tour-live-2015",
                     "studio": "Apple",
                     "tmdb_id": "373558",
                     "tmdb_rating": "8.6",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "111",
+                    "tmdb_votes": "113",
                     "trakt_id": "224461",
                     "widget": "Concerts"
                 },
@@ -2374,7 +2375,7 @@
                 "plotoutline": "",
                 "premiered": "2015-12-20",
                 "productioncode": "",
-                "rating": 8.600000381469727,
+                "rating": 8.593000411987305,
                 "resume": {
                     "position": 0.0,
                     "total": 7920.0
@@ -2414,7 +2415,7 @@
                     "unknown": "tt5297750"
                 },
                 "userrating": 0,
-                "votes": "111",
+                "votes": "113",
                 "writer": [],
                 "year": 2015
             },
@@ -2456,7 +2457,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "grayathletica",
                     "param.widget": "True",
-                    "popularity": "0.863",
+                    "popularity": "1.595",
                     "revenue": "$0",
                     "slug_id": "taylor-swift-just-for-you-2012",
                     "tmdb_id": "85471",
@@ -2546,7 +2547,7 @@
                         "name": "Taylor Swift",
                         "order": 0,
                         "role": "Self",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f896fxTO6ScX7l3ZeXLQmGcIRcyG.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fxpTNiyJ5PAogtmdjySMZ1sNlvh1.jpg/"
                     },
                     {
                         "name": "Caitlin Evanson",
@@ -2686,7 +2687,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "grayathletica",
                     "param.widget": "True",
-                    "popularity": "8.607",
+                    "popularity": "7.752",
                     "revenue": "$0",
                     "slug_id": "taylor-swift-speak-now-world-tour-live-2011",
                     "studio": "Taylor Swift Productions",
@@ -2827,7 +2828,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "grayathletica",
                     "param.widget": "True",
-                    "popularity": "1.4",
+                    "popularity": "2.005",
                     "revenue": "$0",
                     "slug_id": "gwen-stefani-harajuku-lovers-live-2006",
                     "studio": "Oil Factory",
@@ -2920,7 +2921,7 @@
                         "name": "Britney Spears",
                         "order": 0,
                         "role": "Herself",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fcvXg6lnffpeJYp8nTqOqunP5ZTA.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fd4BMX3aBQBYzPKrvfgL91ZgaKfA.jpg/"
                     },
                     {
                         "name": "Stevvi Alexander",
@@ -2973,7 +2974,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "grayathletica",
                     "param.widget": "True",
-                    "popularity": "3.078",
+                    "popularity": "3.352",
                     "revenue": "$0",
                     "slug_id": "britney-spears-live-from-miami-2004",
                     "studio": "Showtime Networks",
@@ -3069,8 +3070,14 @@
                     {
                         "name": "Justin Timberlake",
                         "order": 0,
-                        "role": "",
+                        "role": "Himself",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f6Yk5t9RwkdkAT8Qv45934Eez2CA.jpg/"
+                    },
+                    {
+                        "name": "Timbaland",
+                        "order": 1,
+                        "role": "Himself",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f5BdSJzxnajEWsME9onM9KScgqGY.jpg/"
                     }
                 ],
                 "country": [
@@ -3079,14 +3086,14 @@
                 "customproperties": {
                     "available_releases": "Physical",
                     "budget": "$0",
-                    "cast": "Justin Timberlake",
+                    "cast": "Justin Timberlake / Timbaland",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=20409&ignore_default=true)",
                     "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=20409)",
                     "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=20409)",
                     "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=20409)",
                     "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=20409)",
                     "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=20409)",
-                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Justin Timberlake: FutureSex/LoveShow - Live from Madison Square Garden,tmdb_type=movie,tmdb_id=20409)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Justin Timberlake: FutureSex/LoveShow,tmdb_type=movie,tmdb_id=20409)",
                     "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
                     "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
                     "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
@@ -3109,11 +3116,11 @@
                     "param.user_slug": "grayathletica",
                     "param.widget": "True",
                     "physical_release": "2008-04-01",
-                    "popularity": "3.244",
-                    "provider.link": "https://www.themoviedb.org/movie/20409-justin-timberlake-futuresex-loveshow-live-from-madison-square-garden/watch?locale=FR",
+                    "popularity": "2.106",
+                    "provider.link": "https://www.themoviedb.org/movie/20409-justin-timberlake-futuresex-loveshow/watch?locale=FR",
                     "providers": "Apple iTunes",
                     "revenue": "$0",
-                    "slug_id": "justin-timberlake-futuresex-loveshow-live-from-madison-square-garden-2007",
+                    "slug_id": "justin-timberlake-futuresex-loveshow-2007",
                     "studio": "Sony BMG Music Entertainment",
                     "tmdb_id": "20409",
                     "tmdb_rating": "6.9",
@@ -3137,12 +3144,12 @@
                     "Documentaire"
                 ],
                 "imdbnumber": "tt1099972",
-                "label": "Justin Timberlake: FutureSex/LoveShow - Live from Madison Square Garden",
+                "label": "Justin Timberlake: FutureSex/LoveShow",
                 "lastmodified": "",
                 "lastplayed": "",
                 "mimetype": "application/octet-stream",
                 "mpaa": "",
-                "originaltitle": "Justin Timberlake: FutureSex/LoveShow - Live from Madison Square Garden",
+                "originaltitle": "Justin Timberlake: FutureSex/LoveShow",
                 "playcount": 0,
                 "plot": "La tourn\u00e9e 2007 de JUSTIN TIMBERLAKE a \u00e9t\u00e9 tr\u00e8s spectaculaire : sc\u00e8ne centrale ronde, plateformes atteignant les tribunes, rideaux transparents faisant office de m\u00e9ga-\u00e9crans, syst\u00e8me d'\u00e9clairage \u00e9tonnant, chor\u00e9graphie \u00e0 couper le souffle et ce n'\u00e9tait que le cadre d'un concert exceptionnel, avec de grands musiciens (dont l'extraordinaire participation de Timbaland), des choristes extr\u00eamement talentueux, des sons futuristes et la voix et les chansons de JUSTIN au centre de l'attention.",
                 "plotoutline": "",
@@ -3175,7 +3182,7 @@
                 "tag": [],
                 "tagline": "",
                 "thumbnail": "",
-                "title": "Justin Timberlake: FutureSex/LoveShow - Live from Madison Square Garden",
+                "title": "Justin Timberlake: FutureSex/LoveShow",
                 "top250": 0,
                 "track": -1,
                 "trailer": "",
@@ -3183,7 +3190,7 @@
                 "type": "movie",
                 "uniqueid": {
                     "imdb": "tt1099972",
-                    "slug": "justin-timberlake-futuresex-loveshow-live-from-madison-square-garden-2007",
+                    "slug": "justin-timberlake-futuresex-loveshow-2007",
                     "tmdb": "20409",
                     "trakt": "12529",
                     "unknown": "tt1099972"
@@ -3211,8 +3218,8 @@
                     {
                         "name": "Alanis Morissette",
                         "order": 0,
-                        "role": "Cantora",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fjN1EmBR9X6YczdbjYMIxl6srNJj.jpg/"
+                        "role": "Self",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fqUYL0dHbERwqtvIYxIghnv1EzpA.jpg/"
                     }
                 ],
                 "country": [
@@ -3250,7 +3257,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "grayathletica",
                     "param.widget": "True",
-                    "popularity": "0.684",
+                    "popularity": "1.545",
                     "provider.link": "https://www.themoviedb.org/movie/188506-alanis-morissette-live-at-montreux-2012/watch?locale=FR",
                     "providers": "Amazon Prime Video / Apple iTunes",
                     "revenue": "$0",
@@ -3388,7 +3395,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "grayathletica",
                     "param.widget": "True",
-                    "popularity": "2.225",
+                    "popularity": "2.858",
                     "revenue": "$0",
                     "slug_id": "adele-at-the-bbc-2015",
                     "studio": "BBC One",
@@ -3526,7 +3533,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "grayathletica",
                     "param.widget": "True",
-                    "popularity": "3.681",
+                    "popularity": "4.56",
                     "provider.link": "https://www.themoviedb.org/movie/27308-p-nk-funhouse-tour-live-in-australia/watch?locale=FR",
                     "providers": "Apple iTunes",
                     "revenue": "$0",
@@ -3615,8 +3622,8 @@
             {
                 "album": "",
                 "art": {
-                    "icon": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage.png/",
-                    "landscape": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage_wide.png/"
+                    "icon": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p(1)%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage.png/",
+                    "landscape": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p(1)%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage_wide.png/"
                 },
                 "artist": [],
                 "cast": [],

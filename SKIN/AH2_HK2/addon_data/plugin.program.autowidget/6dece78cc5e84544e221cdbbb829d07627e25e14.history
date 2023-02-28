@@ -1,0 +1,33 @@
+{
+    "history": [
+        [
+            1677193510.3940396,
+            "7181a137e05d827585df80130d650dca1d27e6db"
+        ],
+        [
+            1677193932.7214656,
+            "7181a137e05d827585df80130d650dca1d27e6db"
+        ],
+        [
+            1677211484.5280433,
+            "7181a137e05d827585df80130d650dca1d27e6db"
+        ],
+        [
+            1677249318.936358,
+            "7181a137e05d827585df80130d650dca1d27e6db"
+        ],
+        [
+            1677284334.9925833,
+            "7181a137e05d827585df80130d650dca1d27e6db"
+        ],
+        [
+            1677352571.8989172,
+            "7181a137e05d827585df80130d650dca1d27e6db"
+        ]
+    ],
+    "widgets": [
+        "4f0beeb7-c3cd-42b0-a28f-da9d5ce1a887",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Les%20plus%20populaires%20de%20la%20semaine%20(S%c3%a9ries%20TV)&list_slug=les-plus-populaires-de-la-semaine-series-tv&owner=true&plugin_category=Les%20plus%20populaires%20de%20la%20semaine%20(S%c3%a9ries%20TV)&user_slug=jukebox8786&widget=True"
+}

@@ -52,9 +52,9 @@
                     "param.reload": "$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]",
                     "param.user_slug": "ukpommy",
                     "param.widget": "true",
-                    "popularity": "0.955",
+                    "popularity": "0.684",
                     "provider.link": "https://www.themoviedb.org/movie/228098-meat-loaf-guilty-pleasure-tour-live-from-sydney/watch?locale=FR",
-                    "providers": "Apple iTunes",
+                    "providers": "Apple TV",
                     "revenue": "$0",
                     "slug_id": "meat-loaf-guilty-pleasure-tour-live-from-sydney-2012",
                     "tmdb_id": "228098",
@@ -92,7 +92,7 @@
                 "rating": 8.699999809265137,
                 "resume": {
                     "position": 0.0,
-                    "total": 7440.0
+                    "total": 0.0
                 },
                 "runtime": 7440,
                 "season": -1,
@@ -225,7 +225,7 @@
                     "param.reload": "$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]",
                     "param.user_slug": "ukpommy",
                     "param.widget": "true",
-                    "popularity": "1.4",
+                    "popularity": "1.582",
                     "revenue": "$0",
                     "slug_id": "meat-loaf-live-with-the-melbourne-symphony-orchestra-2004",
                     "tmdb_id": "64247",
@@ -263,7 +263,7 @@
                 "rating": 6.599999904632568,
                 "resume": {
                     "position": 0.0,
-                    "total": 8700.0
+                    "total": 0.0
                 },
                 "runtime": 8700,
                 "season": -1,
@@ -372,7 +372,7 @@
                     "param.reload": "$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]",
                     "param.user_slug": "ukpommy",
                     "param.widget": "true",
-                    "popularity": "1.024",
+                    "popularity": "1.753",
                     "revenue": "$0",
                     "slug_id": "westlife-the-farewell-tour-live-at-croke-park-2012",
                     "studio": "Nineteen Fifteen Productions",
@@ -411,7 +411,7 @@
                 "rating": 9.5,
                 "resume": {
                     "position": 0.0,
-                    "total": 7620.0
+                    "total": 0.0
                 },
                 "runtime": 7620,
                 "season": -1,
@@ -531,9 +531,9 @@
                     "param.reload": "$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]",
                     "param.user_slug": "ukpommy",
                     "param.widget": "true",
-                    "popularity": "7.19",
+                    "popularity": "9.253",
                     "provider.link": "https://www.themoviedb.org/movie/283559-one-direction-where-we-are-the-concert-film/watch?locale=FR",
-                    "providers": "Apple iTunes",
+                    "providers": "Apple TV",
                     "revenue": "$15",
                     "slug_id": "one-direction-where-we-are-the-concert-film-2014",
                     "studio": "Sony Music Entertainment",
@@ -571,10 +571,10 @@
                 "plotoutline": "",
                 "premiered": "2014-10-08",
                 "productioncode": "",
-                "rating": 8.529000282287598,
+                "rating": 8.5,
                 "resume": {
                     "position": 0.0,
-                    "total": 5400.0
+                    "total": 0.0
                 },
                 "runtime": 5400,
                 "season": -1,
@@ -721,9 +721,9 @@
                     "param.reload": "$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]",
                     "param.user_slug": "ukpommy",
                     "param.widget": "true",
-                    "popularity": "5.472",
+                    "popularity": "6.001",
                     "provider.link": "https://www.themoviedb.org/movie/111349-one-direction-up-all-night-the-live-tour/watch?locale=FR",
-                    "providers": "Apple iTunes",
+                    "providers": "Apple TV",
                     "revenue": "$0",
                     "slug_id": "one-direction-up-all-night-the-live-tour-2012",
                     "tmdb_id": "111349",
@@ -762,7 +762,7 @@
                 "rating": 8.199999809265137,
                 "resume": {
                     "position": 0.0,
-                    "total": 4380.0
+                    "total": 0.0
                 },
                 "runtime": 4380,
                 "season": -1,
@@ -870,7 +870,7 @@
                     "param.reload": "$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]",
                     "param.user_slug": "ukpommy",
                     "param.widget": "true",
-                    "popularity": "1.021",
+                    "popularity": "0.743",
                     "revenue": "$0",
                     "slug_id": "lionel-richie-symphonica-in-rosso-2008",
                     "studio": "Universal Music Group",
@@ -908,7 +908,7 @@
                 "rating": 6.900000095367432,
                 "resume": {
                     "position": 0.0,
-                    "total": 3000.0
+                    "total": 0.0
                 },
                 "runtime": 3000,
                 "season": -1,
@@ -1064,9 +1064,9 @@
                     "param.reload": "$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]",
                     "param.user_slug": "ukpommy",
                     "param.widget": "true",
-                    "popularity": "3.57",
+                    "popularity": "2.752",
                     "provider.link": "https://www.themoviedb.org/movie/280390-elton-john-the-million-dollar-piano/watch?locale=FR",
-                    "providers": "Apple iTunes",
+                    "providers": "Apple TV",
                     "revenue": "$0",
                     "slug_id": "elton-john-the-million-dollar-piano-2014",
                     "studio": "Eagle Rock Entertainment",
@@ -1105,7 +1105,7 @@
                 "rating": 5.900000095367432,
                 "resume": {
                     "position": 0.0,
-                    "total": 6660.0
+                    "total": 0.0
                 },
                 "runtime": 6660,
                 "season": -1,
@@ -1203,7 +1203,7 @@
                     "param.reload": "$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]",
                     "param.user_slug": "ukpommy",
                     "param.widget": "true",
-                    "popularity": "1.83",
+                    "popularity": "0.6",
                     "revenue": "$0",
                     "slug_id": "elton-john-the-red-piano-2005",
                     "tmdb_id": "27247",
@@ -1239,7 +1239,7 @@
                 "rating": 7.400000095367432,
                 "resume": {
                     "position": 0.0,
-                    "total": 5940.0
+                    "total": 0.0
                 },
                 "runtime": 5940,
                 "season": -1,
@@ -1364,7 +1364,7 @@
                     "param.reload": "$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]",
                     "param.user_slug": "ukpommy",
                     "param.widget": "true",
-                    "popularity": "2.047",
+                    "popularity": "0.844",
                     "revenue": "$0",
                     "slug_id": "elton-john-one-night-only-the-greatest-hits-2000",
                     "tmdb_id": "27184",
@@ -1400,7 +1400,7 @@
                 "rating": 8.0,
                 "resume": {
                     "position": 0.0,
-                    "total": 9000.0
+                    "total": 0.0
                 },
                 "runtime": 9000,
                 "season": -1,
@@ -1452,7 +1452,7 @@
                         "name": "Justin Bieber",
                         "order": 0,
                         "role": "Himself",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fl7KUfhIpJBzVlWWlgMFRNcBIaoT.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fmMbpZKhwXGXw87W450kky6z1A26.jpg/"
                     },
                     {
                         "name": "Ryan Good",
@@ -1810,7 +1810,7 @@
                     "param.reload": "$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]",
                     "param.user_slug": "ukpommy",
                     "param.widget": "true",
-                    "popularity": "8.904",
+                    "popularity": "9.922",
                     "revenue": "$0",
                     "slug_id": "justin-bieber-s-believe-2013",
                     "studio": "Scooter Braun Films",
@@ -1851,7 +1851,7 @@
                 "rating": 7.300000190734863,
                 "resume": {
                     "position": 0.0,
-                    "total": 5460.0
+                    "total": 0.0
                 },
                 "runtime": 5460,
                 "season": -1,
@@ -1974,7 +1974,7 @@
                     "param.reload": "$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]",
                     "param.user_slug": "ukpommy",
                     "param.widget": "true",
-                    "popularity": "1.68",
+                    "popularity": "2.103",
                     "revenue": "$0",
                     "slug_id": "take-that-progress-live-2011",
                     "studio": "Universal Home Entertainment",
@@ -2011,7 +2011,7 @@
                 "rating": 7.099999904632568,
                 "resume": {
                     "position": 0.0,
-                    "total": 8220.0
+                    "total": 0.0
                 },
                 "runtime": 8220,
                 "season": -1,
@@ -2120,9 +2120,9 @@
                     "param.reload": "$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]",
                     "param.user_slug": "ukpommy",
                     "param.widget": "true",
-                    "popularity": "1.15",
+                    "popularity": "0.666",
                     "provider.link": "https://www.themoviedb.org/movie/28014-take-that-the-circus-live/watch?locale=FR",
-                    "providers": "Apple iTunes",
+                    "providers": "Apple TV",
                     "revenue": "$0",
                     "slug_id": "take-that-the-circus-live-2010",
                     "tmdb_id": "28014",
@@ -2160,7 +2160,7 @@
                 "rating": 7.099999904632568,
                 "resume": {
                     "position": 0.0,
-                    "total": 10620.0
+                    "total": 0.0
                 },
                 "runtime": 10620,
                 "season": -1,

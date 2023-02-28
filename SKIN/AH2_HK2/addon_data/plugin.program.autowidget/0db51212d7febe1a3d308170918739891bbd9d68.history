@@ -1,0 +1,53 @@
+{
+    "history": [
+        [
+            1676908421.7581222,
+            "3e647badd67b801a93e2596ed1b857b43d946a35"
+        ],
+        [
+            1676910153.7512517,
+            "3e647badd67b801a93e2596ed1b857b43d946a35"
+        ],
+        [
+            1676910878.55641,
+            "3e647badd67b801a93e2596ed1b857b43d946a35"
+        ],
+        [
+            1676913913.082805,
+            "3e647badd67b801a93e2596ed1b857b43d946a35"
+        ],
+        [
+            1676924004.8400419,
+            "3e647badd67b801a93e2596ed1b857b43d946a35"
+        ],
+        [
+            1676932960.7494583,
+            "3e647badd67b801a93e2596ed1b857b43d946a35"
+        ],
+        [
+            1676952406.9295757,
+            "3e647badd67b801a93e2596ed1b857b43d946a35"
+        ],
+        [
+            1676989952.9791954,
+            "3e647badd67b801a93e2596ed1b857b43d946a35"
+        ],
+        [
+            1677038657.5038264,
+            "3e647badd67b801a93e2596ed1b857b43d946a35"
+        ],
+        [
+            1677104161.7308533,
+            "3e647badd67b801a93e2596ed1b857b43d946a35"
+        ],
+        [
+            1677355402.5950575,
+            "2ce36a93dfd2da22e1c414fa46c2bd4b7556e50a"
+        ]
+    ],
+    "widgets": [
+        "1ae2c024-7a12-4c3a-9db1-8a7198dc5a3d",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Come%CC%81die+%28Films+re%CC%81cents%29&list_slug=comedie-films-recents&owner=true&plugin_category=Come%CC%81die+%28Films+re%CC%81cents%29&user_slug=jukebox8786&page=2&widget=true&reload=$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]"
+}

@@ -1,0 +1,42 @@
+<shortcuts>
+	<shortcut>
+		<defaultID>35232</defaultID>
+		<label>35232</label>
+		<label2 />
+		<icon>special://skin/extras/icons/shortcut.png</icon>
+		<thumb />
+		<action>Fullscreen</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR=red]Les plus tendances[/COLOR]</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.program.autowidget/?mode=path&amp;action=static&amp;group=kids_series_tv-1676818395.4119966&amp;id=7cb28716-eb8b-444b-8a67-ae23ebfef3a4&amp;refresh=$INFO[Window(10000).Property(autowidget-7cb28716-eb8b-444b-8a67-ae23ebfef3a4-refresh)]&amp;reload=",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR=red]Nouveautés &amp; Recommandations[/COLOR]</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.program.autowidget/?mode=group&amp;group=kids_series_tv_%28skinlight%29-1677184687.207458&amp;refresh=&amp;reload=",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR=red]Plus de contenu[/COLOR]</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.program.autowidget/?mode=group&amp;group=kids_series_tv_2_%28skinlight%29-1677184737.1711254&amp;refresh=&amp;reload=",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR=red]SVOD[/COLOR]</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.program.autowidget/?mode=group&amp;group=svod_%28kids_series_tv%29-1676818458.192287&amp;refresh=&amp;reload=",return)</action>
+		</shortcut>
+	</shortcuts>

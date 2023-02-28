@@ -1,0 +1,57 @@
+{
+    "history": [
+        [
+            1676908425.3564131,
+            "d17f9c6da145cd5b07240b3d6601da5aabb38a31"
+        ],
+        [
+            1676910160.4862475,
+            "d17f9c6da145cd5b07240b3d6601da5aabb38a31"
+        ],
+        [
+            1676910882.439088,
+            "d17f9c6da145cd5b07240b3d6601da5aabb38a31"
+        ],
+        [
+            1676913920.7575014,
+            "d17f9c6da145cd5b07240b3d6601da5aabb38a31"
+        ],
+        [
+            1676924010.6855452,
+            "d17f9c6da145cd5b07240b3d6601da5aabb38a31"
+        ],
+        [
+            1676932964.5684617,
+            "d17f9c6da145cd5b07240b3d6601da5aabb38a31"
+        ],
+        [
+            1676952419.699478,
+            "d17f9c6da145cd5b07240b3d6601da5aabb38a31"
+        ],
+        [
+            1676989961.8718994,
+            "d17f9c6da145cd5b07240b3d6601da5aabb38a31"
+        ],
+        [
+            1677038664.4302692,
+            "d17f9c6da145cd5b07240b3d6601da5aabb38a31"
+        ],
+        [
+            1677104168.9285052,
+            "93bb53fceb1f9a58b192b7be0013b27bfc09f468"
+        ],
+        [
+            1677125121.9670258,
+            "93bb53fceb1f9a58b192b7be0013b27bfc09f468"
+        ],
+        [
+            1677355403.6860611,
+            "eed1867a680b4fbcd667ea694f50e220caefec0e"
+        ]
+    ],
+    "widgets": [
+        "02eafde6-3f66-4140-9282-da0508aa1583",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Fantastique+%26+Science-Fiction+%28Films+re%CC%81cents%29&list_slug=fantastique-science-fiction-films-recents&owner=true&plugin_category=Fantastique+%26+Science-Fiction+%28Films+re%CC%81cents%29&user_slug=jukebox8786&page=2&widget=true&reload=$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]"
+}

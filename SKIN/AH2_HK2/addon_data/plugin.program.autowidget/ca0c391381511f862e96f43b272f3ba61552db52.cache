@@ -1,0 +1,1036 @@
+{
+    "id": 1,
+    "jsonrpc": "2.0",
+    "result": {
+        "files": [
+            {
+                "album": "",
+                "art": {
+                    "banner": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f16859%2fmoviebanner%2fkikis-delivery-service-54c90be288a66.jpg/",
+                    "clearart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f16859%2fhdmovieclearart%2fkikis-delivery-service-54c68fbbe327c.png/",
+                    "clearlogo": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f16859%2fhdmovielogo%2fkikis-delivery-service-51e26b2adf779.png/",
+                    "discart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f16859%2fmoviedisc%2fkikis-delivery-service-54c7dfd5a4e73.png/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2faC4oNwvmdFaB1MX60Ww0Vc79cgd.jpg/",
+                    "fanart1": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f16859%2fmoviebackground%2fkikis-delivery-service-510353d0e522c.jpg/",
+                    "fanart2": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f16859%2fmoviebackground%2fkikis-delivery-service-54c7e028070fc.jpg/",
+                    "fanart3": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f16859%2fmoviebackground%2fkikis-delivery-service-54c7e028076d0.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ftdOJxx6PCzjPYViSnk0OPQ80X2d.jpg/",
+                    "keyart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f16859%2fmovieposter%2fkikis-delivery-service-54c90babdd564.jpg/",
+                    "landscape": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f1s4fKc980vO31RVZRx1bqXdrCAI.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ftdOJxx6PCzjPYViSnk0OPQ80X2d.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Minami Takayama",
+                        "order": 0,
+                        "role": "Kiki / Ursula (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fk4SkjFoXtHMPh1PvhaJkSaatJdq.jpg/"
+                    },
+                    {
+                        "name": "Rei Sakuma",
+                        "order": 1,
+                        "role": "Jiji (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f6imR1sDeylS2EoF7LHdp1ALeNTm.jpg/"
+                    },
+                    {
+                        "name": "Kappei Yamaguchi",
+                        "order": 2,
+                        "role": "Tombo (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fsbeWiK7FuUvPqF4yG6XR5CkPAqF.jpg/"
+                    },
+                    {
+                        "name": "Keiko Toda",
+                        "order": 3,
+                        "role": "Osono (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fjRJIfQLmMyHaNnvlBnnNp3kPx6I.jpg/"
+                    },
+                    {
+                        "name": "Mieko Nobusawa",
+                        "order": 4,
+                        "role": "Kokiri (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f4Fj2jUZcLS9xbpHq0RMaoqdZUln.jpg/"
+                    },
+                    {
+                        "name": "K\u00f4ichi Miura",
+                        "order": 5,
+                        "role": "Okino (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2frXDt2qTe02td6oz8DvUJRlyJRTd.jpg/"
+                    },
+                    {
+                        "name": "Haruko Kat\u00f4",
+                        "order": 6,
+                        "role": "Old Lady (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fWyeP5PbPEDeQI83Mq1NYwB87mk.jpg/"
+                    },
+                    {
+                        "name": "Hiroko Seki",
+                        "order": 7,
+                        "role": "Barsa (voice)"
+                    },
+                    {
+                        "name": "Yuriko Fuchizaki",
+                        "order": 8,
+                        "role": "Ketto (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fwjcSG4sHnWVfQOPBUkvD1T5uzmU.jpg/"
+                    },
+                    {
+                        "name": "Koichi Yamadera",
+                        "order": 9,
+                        "role": "Bakery Worker / Policeman (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fbiov5jENp2XYfehkcdnRvi796Wi.jpg/"
+                    },
+                    {
+                        "name": "Kikuko Inoue",
+                        "order": 10,
+                        "role": "Maki (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fpPxGWy53FgYSC79zmxblmHe0gI3.jpg/"
+                    },
+                    {
+                        "name": "Yuuko Kobayashi",
+                        "order": 11,
+                        "role": "Young Sempai Witch (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f3Dq7JUi9x1kVwCf6l056Ji26nPN.jpg/"
+                    },
+                    {
+                        "name": "Mika Doi",
+                        "order": 12,
+                        "role": "Ketto's Mother (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f3bAVJYSPnKZFdF5DrlvT6iOJgHH.jpg/"
+                    },
+                    {
+                        "name": "Takaya Hashi",
+                        "order": 13,
+                        "role": "Ketto's Father (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fqHt0Q7755oez1yvtShBalcXDv2h.jpg/"
+                    },
+                    {
+                        "name": "Chika Sakamoto",
+                        "order": 14,
+                        "role": "Baby (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fvuJylEz0fYajNdyiPop3TVbEVcD.jpg/"
+                    },
+                    {
+                        "name": "Toshiko Asai",
+                        "order": 15,
+                        "role": "Ketto's Grandmother (voice)"
+                    },
+                    {
+                        "name": "Hiroko Maruyama",
+                        "order": 16,
+                        "role": "Juvenile (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2flg65oTDDKSnPjLfBufmjlrJ8cgG.jpg/"
+                    },
+                    {
+                        "name": "Shinpachi Tsuji",
+                        "order": 17,
+                        "role": "Hotel Receptionist (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2faf5ILJbixauO84bsuLOr8XSU9yd.jpg/"
+                    },
+                    {
+                        "name": "Y\u00fbko Maruyama",
+                        "order": 18,
+                        "role": "Juvenile (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fmTcOyu9wdPVQ1OBbYzC1lEZjI36.jpg/"
+                    },
+                    {
+                        "name": "Masa Sait\u014d",
+                        "order": 19,
+                        "role": "Dora (voice)"
+                    },
+                    {
+                        "name": "Y\u00fbko Tsuga",
+                        "order": 20,
+                        "role": "Delivery Pies Girl (voice)"
+                    },
+                    {
+                        "name": "Tomomichi Nishimura",
+                        "order": 21,
+                        "role": "Clock Tower Keeper (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fnDy0ANhUPUGkpSprwuiCbq4Hrwn.jpg/"
+                    },
+                    {
+                        "name": "Akio Otsuka",
+                        "order": 22,
+                        "role": "Captain of the Airship (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ffBgebh93VAJC9lIVdB8JmFtdixL.jpg/"
+                    },
+                    {
+                        "name": "Yoshiko Kamei",
+                        "order": 23,
+                        "role": "Delivery Pies Girl (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fpu6kYlvDZw9aCoHQiemH1yLDxd1.jpg/"
+                    },
+                    {
+                        "name": "Keiko Kagimoto",
+                        "order": 24,
+                        "role": "Old Lady's Granddaughter (voice)"
+                    },
+                    {
+                        "name": "Takashi Taguchi",
+                        "order": 25,
+                        "role": "Cleaning Man (voice)"
+                    },
+                    {
+                        "name": "Michihiro Ikemizu",
+                        "order": 26,
+                        "role": "Truck Driver (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2feito9ezPOg0PDi579XJIrAqUkY5.jpg/"
+                    }
+                ],
+                "country": [
+                    "Japan"
+                ],
+                "customproperties": {
+                    "available_releases": "Theatrical",
+                    "budget": "$6,900,000",
+                    "cast": "Minami Takayama / Rei Sakuma / Kappei Yamaguchi / Keiko Toda / Mieko Nobusawa / K\u00f4ichi Miura / Haruko Kat\u00f4 / Hiroko Seki / Yuriko Fuchizaki / Koichi Yamadera / Kikuko Inoue / Yuuko Kobayashi / Mika Doi / Takaya Hashi / Chika Sakamoto / Toshiko Asai / Hiroko Maruyama / Shinpachi Tsuji / Y\u00fbko Maruyama / Masa Sait\u014d / Y\u00fbko Tsuga / Tomomichi Nishimura / Akio Otsuka / Yoshiko Kamei / Keiko Kagimoto / Takashi Taguchi / Michihiro Ikemizu",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=16859&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=16859)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=16859)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=16859)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=16859)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=16859)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Kiki la petite sorci\u00e8re,tmdb_type=movie,tmdb_id=16859)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt0097814",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "16859",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Studio Ghibli (Anime)",
+                    "param.list_slug": "studio-ghibli-anime",
+                    "param.owner": "true",
+                    "param.page": "2",
+                    "param.plugin_category": "Studio Ghibli (Anime)",
+                    "param.reload": "$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]",
+                    "param.user_slug": "jukebox8786",
+                    "param.widget": "true",
+                    "popularity": "40.815",
+                    "provider.link": "https://www.themoviedb.org/movie/16859/watch?locale=FR",
+                    "providers": "Netflix / Apple TV / Orange VOD / Filmo TV / Canal VOD / Rakuten TV / Universcine / Amazon Video / Netflix basic with Ads",
+                    "revenue": "$4,493,017",
+                    "slug_id": "kiki-s-delivery-service-1989",
+                    "studio": "Tokuma Shoten",
+                    "theatrical_release": "2004-03-31",
+                    "tmdb_id": "16859",
+                    "tmdb_rating": "7.9",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "3,300",
+                    "trakt_id": "10314",
+                    "widget": "Studio Ghibli (Anime)"
+                },
+                "dateadded": "",
+                "director": [
+                    "Hayao Miyazaki"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2faC4oNwvmdFaB1MX60Ww0Vc79cgd.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=16859",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Animation",
+                    "Familial",
+                    "Fantastique",
+                    "Aventure"
+                ],
+                "imdbnumber": "tt0097814",
+                "label": "Kiki la petite sorci\u00e8re",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "Rated U",
+                "originaltitle": "\u9b54\u5973\u306e\u5b85\u6025\u4fbf",
+                "playcount": 0,
+                "plot": "\u00c0 l'\u00e2ge de 13 ans, une future sorci\u00e8re doit partir faire son apprentissage dans une ville inconnue durant un an. Une exp\u00e9rience que va vivre la jeune et espi\u00e8gle Kiki aux c\u00f4t\u00e9s de Osono, une gentille boulang\u00e8re qui lui propose un emploi de livreuse.",
+                "plotoutline": "",
+                "premiered": "1989-07-29",
+                "productioncode": "",
+                "rating": 7.900000095367432,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 6120,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Tokuma Shoten",
+                    "Nippon Television Network Corporation",
+                    "Studio Ghibli",
+                    "Nibariki",
+                    "Studio Fuga"
+                ],
+                "tag": [],
+                "tagline": "J'avais le blues, mais \u00e7a va mieux maintenant.",
+                "thumbnail": "",
+                "title": "Kiki la petite sorci\u00e8re",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=iRvcJObwhyg",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt0097814",
+                    "slug": "kiki-s-delivery-service-1989",
+                    "tmdb": "16859",
+                    "trakt": "10314",
+                    "unknown": "tt0097814"
+                },
+                "userrating": 0,
+                "votes": "3300",
+                "writer": [
+                    "Hayao Miyazaki",
+                    "Eiko Kadono"
+                ],
+                "year": 1989
+            },
+            {
+                "album": "",
+                "art": {
+                    "banner": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f12477%2fmoviebanner%2fgrave-of-the-fireflies-5e0a7362df188.jpg/",
+                    "clearart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f12477%2fhdmovieclearart%2fgrave-of-the-fireflies-5e0a7349129bb.png/",
+                    "clearlogo": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fgpWvGjU5Ju5ZaxMLoPiTpSBAQhh.png/",
+                    "discart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f12477%2fmoviedisc%2fgrave-of-the-fireflies-53c3ca429565b.png/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fdlC0ed9Ugh3FzydnkBtV5lRXUu4.jpg/",
+                    "fanart1": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f12477%2fmoviebackground%2fgrave-of-the-fireflies-520f2a24159bc.jpg/",
+                    "fanart2": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f12477%2fmoviebackground%2fgrave-of-the-fireflies-54c2099422881.jpg/",
+                    "fanart3": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f12477%2fmoviebackground%2fgrave-of-the-fireflies-54c209942101d.jpg/",
+                    "fanart4": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f12477%2fmoviebackground%2fgrave-of-the-fireflies-54c2099422190.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fr9a6jyW4CBsQ5QyF12eJC84YdAd.jpg/",
+                    "keyart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f12477%2fmovieposter%2fgrave-of-the-fireflies-5d08e4353dbee.jpg/",
+                    "landscape": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f12477%2fmoviethumb%2fgrave-of-the-fireflies-520f2b0c20beb.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fr9a6jyW4CBsQ5QyF12eJC84YdAd.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Tsutomu Tatsumi",
+                        "order": 0,
+                        "role": "Seita (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fpmOjSeSAnkdFB9T5ns0gNMf3F0C.jpg/"
+                    },
+                    {
+                        "name": "Ayano Shiraishi",
+                        "order": 1,
+                        "role": "Setsuko (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fyq981A4jzvSx5z1xfMoDadcDOhn.jpg/"
+                    },
+                    {
+                        "name": "Yoshiko Shinohara",
+                        "order": 2,
+                        "role": "Mother (voice)"
+                    },
+                    {
+                        "name": "Kozo Hashida",
+                        "order": 3,
+                        "role": "Obayashi Chairman (voice)"
+                    },
+                    {
+                        "name": "Masayo Sakai",
+                        "order": 4,
+                        "role": "Woman who takes care of Setsuko (voice) / Cousin (voice)"
+                    },
+                    {
+                        "name": "Yoshio Matsuoka",
+                        "order": 6,
+                        "role": "Gosaku (voice)"
+                    },
+                    {
+                        "name": "Masahiro Kanetake",
+                        "order": 7,
+                        "role": "Aunt's House Guest (voice)"
+                    },
+                    {
+                        "name": "Kiyoshi Yanagawa",
+                        "order": 8,
+                        "role": "Patrolman (voice)"
+                    },
+                    {
+                        "name": "Hajime Maki",
+                        "order": 9,
+                        "role": "Man who arrests Seita (voice)"
+                    },
+                    {
+                        "name": "Atsuo Omotem",
+                        "order": 10,
+                        "role": "Person in Bank (voice)"
+                    },
+                    {
+                        "name": "Teruhisa Harita",
+                        "order": 11,
+                        "role": "Station Worker (voice)"
+                    },
+                    {
+                        "name": "Hiroshi Tanaka",
+                        "order": 12,
+                        "role": "Person in Bank (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fsyy1wzPDojswjSMznKNwGLV2x91.jpg/"
+                    },
+                    {
+                        "name": "Michio Denpo",
+                        "order": 13,
+                        "role": "Station Worker / Doctor (voice)"
+                    },
+                    {
+                        "name": "Shiro Tamaki",
+                        "order": 14,
+                        "role": "Person in Bank (voice)"
+                    },
+                    {
+                        "name": "Mika Sekita",
+                        "order": 15,
+                        "role": "Nurse (voice)"
+                    },
+                    {
+                        "name": "Akemi Yamaguchi",
+                        "order": 16,
+                        "role": "Auntie (voice)"
+                    }
+                ],
+                "country": [
+                    "Japan"
+                ],
+                "customproperties": {
+                    "available_releases": "Theatrical / Digital / Physical / Physical",
+                    "budget": "$3,700,000",
+                    "cast": "Tsutomu Tatsumi / Ayano Shiraishi / Yoshiko Shinohara / Kozo Hashida / Masayo Sakai / Yoshio Matsuoka / Masahiro Kanetake / Kiyoshi Yanagawa / Hajime Maki / Atsuo Omotem / Teruhisa Harita / Hiroshi Tanaka / Michio Denpo / Shiro Tamaki / Mika Sekita / Akemi Yamaguchi",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=12477&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=12477)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=12477)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=12477)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=12477)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=12477)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Le Tombeau des Lucioles,tmdb_type=movie,tmdb_id=12477)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "dbtype": "movie",
+                    "digital_release": "2019-12-01",
+                    "imdb_id": "tt0095327",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "12477",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Studio Ghibli (Anime)",
+                    "param.list_slug": "studio-ghibli-anime",
+                    "param.owner": "true",
+                    "param.page": "2",
+                    "param.plugin_category": "Studio Ghibli (Anime)",
+                    "param.reload": "$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]",
+                    "param.user_slug": "jukebox8786",
+                    "param.widget": "true",
+                    "physical_release": "2017-11-15",
+                    "popularity": "0.6",
+                    "provider.link": "https://www.themoviedb.org/movie/12477/watch?locale=FR",
+                    "providers": "LaCinetek",
+                    "revenue": "$516,962",
+                    "slug_id": "grave-of-the-fireflies-1988",
+                    "studio": "Studio Ghibli",
+                    "theatrical_release": "1996-06-19",
+                    "tmdb_id": "12477",
+                    "tmdb_rating": "8.4",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "4,513",
+                    "trakt_id": "7251",
+                    "widget": "Studio Ghibli (Anime)"
+                },
+                "dateadded": "",
+                "director": [
+                    "Isao Takahata"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fdlC0ed9Ugh3FzydnkBtV5lRXUu4.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=12477",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Animation",
+                    "Drame",
+                    "Guerre"
+                ],
+                "imdbnumber": "tt0095327",
+                "label": "Le Tombeau des Lucioles",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "Rated U",
+                "originaltitle": "\u706b\u5782\u308b\u306e\u5893",
+                "playcount": 0,
+                "plot": "Japon, \u00e9t\u00e9 1945. Apr\u00e8s le bombardement de Kob\u00e9, Seita, un adolescent de quatorze ans et sa petite s\u0153ur de quatre ans, Setsuko, orphelins, vont s\u2019installer chez leur tante \u00e0 quelques dizaines de kilom\u00e8tres de chez eux. Celle\u2010ci leur fait comprendre qu\u2019ils sont une g\u00eane pour la famille et doivent m\u00e9riter leur riz quotidien. Seita d\u00e9cide de partir avec sa petite s\u0153ur. Ils se r\u00e9fugient dans un bunker d\u00e9saffect\u00e9 en pleine campagne et vivent des jours heureux illumin\u00e9s par la pr\u00e9sence de milliers de lucioles. Mais bient\u00f4t la nourriture commence cruellement \u00e0 manquer.",
+                "plotoutline": "",
+                "premiered": "1988-04-16",
+                "productioncode": "",
+                "rating": 8.449000358581543,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 5280,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Studio Ghibli"
+                ],
+                "tag": [],
+                "tagline": "\u00c0 quatre et quatorze ans, ils ont d\u00e9cid\u00e9 de vivre.",
+                "thumbnail": "",
+                "title": "Le Tombeau des Lucioles",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=uLJo785YJsM",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt0095327",
+                    "slug": "grave-of-the-fireflies-1988",
+                    "tmdb": "12477",
+                    "trakt": "7251",
+                    "unknown": "tt0095327"
+                },
+                "userrating": 0,
+                "votes": "4513",
+                "writer": [
+                    "Isao Takahata",
+                    "Akiyuki Nosaka"
+                ],
+                "year": 1988
+            },
+            {
+                "album": "",
+                "art": {
+                    "banner": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f8392%2fmoviebanner%2fmy-neighbor-totoro-54cc78572ec08.jpg/",
+                    "clearart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f8392%2fhdmovieclearart%2fmy-neighbor-totoro-54cc77541ac86.png/",
+                    "clearlogo": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f5YSk95xmve2PxPwnyVaCF3k6ywG.png/",
+                    "discart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f8392%2fmoviedisc%2fmy-neighbor-totoro-54cc779976dda.png/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f6O1mOoTXuc1WqjKd2R7MFQHZ7Eb.jpg/",
+                    "fanart1": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f8392%2fmoviebackground%2fmy-neighbor-totoro-57a79586c28b5.jpg/",
+                    "fanart10": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f8392%2fmoviebackground%2fmy-neighbor-totoro-5133f1461008e.jpg/",
+                    "fanart2": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f8392%2fmoviebackground%2fmy-neighbor-totoro-54cc7839074b8.jpg/",
+                    "fanart3": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f8392%2fmoviebackground%2fmy-neighbor-totoro-54cc783906fb4.jpg/",
+                    "fanart4": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f8392%2fmoviebackground%2fmy-neighbor-totoro-54cc783906a71.jpg/",
+                    "fanart5": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f8392%2fmoviebackground%2fmy-neighbor-totoro-54cc783906445.jpg/",
+                    "fanart6": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f8392%2fmoviebackground%2fmy-neighbor-totoro-59b2a821d7da2.jpg/",
+                    "fanart7": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f8392%2fmoviebackground%2fmy-neighbor-totoro-50f07c5daf946.jpg/",
+                    "fanart8": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f8392%2fmoviebackground%2fmy-neighbor-totoro-5133f0170d36b.jpg/",
+                    "fanart9": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f8392%2fmoviebackground%2fmy-neighbor-totoro-5133f146116de.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2feEpy8IiR8N0S6mgkdAjDCMlMYQO.jpg/",
+                    "keyart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f8392%2fmovieposter%2fmy-neighbor-totoro-5682fc8b36b1f.jpg/",
+                    "landscape": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f8392%2fmoviethumb%2fmy-neighbor-totoro-54cc7885e3d74.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2feEpy8IiR8N0S6mgkdAjDCMlMYQO.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Noriko Hidaka",
+                        "order": 0,
+                        "role": "Satsuki (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fw757PVYKSDvj2weQrPSCZL5mZh9.jpg/"
+                    },
+                    {
+                        "name": "Chika Sakamoto",
+                        "order": 1,
+                        "role": "Mei (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fvuJylEz0fYajNdyiPop3TVbEVcD.jpg/"
+                    },
+                    {
+                        "name": "Shigesato Itoi",
+                        "order": 2,
+                        "role": "Tatsuo Kusakabe (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f2VVkwc8Fk3sZERhImqYhcifVfIp.jpg/"
+                    },
+                    {
+                        "name": "Sumi Shimamoto",
+                        "order": 3,
+                        "role": "Yasuko Kusakabe (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fbBA5xY4wrOUIpGnY6QPPQ9vNJB1.jpg/"
+                    },
+                    {
+                        "name": "Tanie Kitabayashi",
+                        "order": 4,
+                        "role": "Granny (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fvGG6ErgXfrZuRsVfDP3Po3XReST.jpg/"
+                    },
+                    {
+                        "name": "Hitoshi Takagi",
+                        "order": 5,
+                        "role": "Totoro (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fkQab69jvurfdWZEaziUzhsPaSmd.jpg/"
+                    },
+                    {
+                        "name": "Masashi Hirose",
+                        "order": 6,
+                        "role": "Mr. Ogaki (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2flNG8ce8un1U7UIjArEFjzE76BxO.jpg/"
+                    },
+                    {
+                        "name": "Y\u00fbko Maruyama",
+                        "order": 7,
+                        "role": "Mrs. Ogaki (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fmTcOyu9wdPVQ1OBbYzC1lEZjI36.jpg/"
+                    },
+                    {
+                        "name": "Shigeru Chiba",
+                        "order": 8,
+                        "role": "Moving Man (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f9oajq1i3qzkA2MTDH3ciLOEenS9.jpg/"
+                    },
+                    {
+                        "name": "Toshiyuki Amagasa",
+                        "order": 9,
+                        "role": "Kanta (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f7DK21dlVcsltO92rcTq5BpZ2J7j.jpg/"
+                    }
+                ],
+                "country": [
+                    "Japan"
+                ],
+                "customproperties": {
+                    "available_releases": "Theatrical / Theatrical / Theatrical / Physical",
+                    "budget": "$3,700,000",
+                    "cast": "Noriko Hidaka / Chika Sakamoto / Shigesato Itoi / Sumi Shimamoto / Tanie Kitabayashi / Hitoshi Takagi / Masashi Hirose / Y\u00fbko Maruyama / Shigeru Chiba / Toshiyuki Amagasa",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=8392&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=8392)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=8392)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=8392)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=8392)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=8392)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Mon voisin Totoro,tmdb_type=movie,tmdb_id=8392)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt0096283",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "8392",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Studio Ghibli (Anime)",
+                    "param.list_slug": "studio-ghibli-anime",
+                    "param.owner": "true",
+                    "param.page": "2",
+                    "param.plugin_category": "Studio Ghibli (Anime)",
+                    "param.reload": "$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]",
+                    "param.user_slug": "jukebox8786",
+                    "param.widget": "true",
+                    "physical_release": "2006-07-26",
+                    "popularity": "49.472",
+                    "provider.link": "https://www.themoviedb.org/movie/8392/watch?locale=FR",
+                    "providers": "Netflix / Apple TV / Orange VOD / Filmo TV / Canal VOD / Rakuten TV / LaCinetek / Universcine / Amazon Video / Netflix basic with Ads",
+                    "revenue": "$45,000,000",
+                    "slug_id": "my-neighbor-totoro-1988",
+                    "studio": "Tokuma Shoten",
+                    "theatrical_release": "1999-12-08",
+                    "tmdb_id": "8392",
+                    "tmdb_rating": "8.1",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "6,669",
+                    "trakt_id": "4169",
+                    "widget": "Studio Ghibli (Anime)"
+                },
+                "dateadded": "",
+                "director": [
+                    "Hayao Miyazaki"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f6O1mOoTXuc1WqjKd2R7MFQHZ7Eb.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=8392",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Fantastique",
+                    "Animation",
+                    "Familial"
+                ],
+                "imdbnumber": "tt0096283",
+                "label": "Mon voisin Totoro",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "Rated U",
+                "originaltitle": "\u3068\u306a\u308a\u306e\u30c8\u30c8\u30ed",
+                "playcount": 0,
+                "plot": "Mei, 4 ans, et Satsuki, 10 ans, s\u2019installent \u00e0 la campagne avec leur p\u00e8re pour se rapprocher de l\u2019h\u00f4pital o\u00f9 s\u00e9journe leur m\u00e8re. Elles d\u00e9couvrent la nature tout autour de la maison et, surtout, l\u2019existence d\u2019animaux \u00e9tranges et merveilleux, les Totoros, avec qui elles deviennent tr\u00e8s amies. Un jour, alors que Satsuki et Mei attendent le retour de leur m\u00e8re, elles apprennent que sa sortie de l\u2019h\u00f4pital a \u00e9t\u00e9 repouss\u00e9e. Mei d\u00e9cide alors d\u2019aller lui rendre visite seule. Satsuki et les gens du village la recherchent en vain. D\u00e9sesp\u00e9r\u00e9e, Satsuki va finalement demander de l\u2019aide \u00e0 son voisin Totoro.",
+                "plotoutline": "",
+                "premiered": "1988-04-16",
+                "productioncode": "",
+                "rating": 8.074000358581543,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 5220,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Tokuma Shoten",
+                    "Studio Ghibli",
+                    "Nibariki"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Mon voisin Totoro",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=bQPeA_ekBpc",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt0096283",
+                    "slug": "my-neighbor-totoro-1988",
+                    "tmdb": "8392",
+                    "trakt": "4169",
+                    "unknown": "tt0096283"
+                },
+                "userrating": 0,
+                "votes": "6669",
+                "writer": [
+                    "Hayao Miyazaki"
+                ],
+                "year": 1988
+            },
+            {
+                "album": "",
+                "art": {
+                    "banner": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f10515%2fmoviebanner%2fcastle-in-the-sky-5407138f7407e.jpg/",
+                    "clearart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f10515%2fhdmovieclearart%2fcastle-in-the-sky-54c938478a55b.png/",
+                    "clearlogo": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fpS1jnjS69gDwvYssgseKbB1s6Wk.png/",
+                    "discart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f10515%2fmoviedisc%2fcastle-in-the-sky-54c9ae5d9a7a4.png/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f3cyjYtLWCBE1uvWINHFsFnE8LUK.jpg/",
+                    "fanart1": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f10515%2fmoviebackground%2fcastle-in-the-sky-54c934326487d.jpg/",
+                    "fanart2": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f10515%2fmoviebackground%2fcastle-in-the-sky-54c93432640ea.jpg/",
+                    "fanart3": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f10515%2fmoviebackground%2fcastle-in-the-sky-50f08855be816.jpg/",
+                    "fanart4": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f10515%2fmoviebackground%2fcastle-in-the-sky-54c9343262e62.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fuU32j2eWvoHIIVyn7QfBg5UaKue.jpg/",
+                    "keyart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f10515%2fmovieposter%2fcastle-in-the-sky-56fed77707835.jpg/",
+                    "landscape": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f10515%2fmoviethumb%2fcastle-in-the-sky-540713ac6196b.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fuU32j2eWvoHIIVyn7QfBg5UaKue.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Keiko Yokozawa",
+                        "order": 0,
+                        "role": "Sheeta (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fd3JBHoXWEx2tcInTfpc5GTtRx44.jpg/"
+                    },
+                    {
+                        "name": "Mayumi Tanaka",
+                        "order": 1,
+                        "role": "Pazu (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fdWh2Y3bQkSjPv3c7kyy5P6M3PLS.jpg/"
+                    },
+                    {
+                        "name": "Minori Terada",
+                        "order": 2,
+                        "role": "Muska (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fsMgy1Gn24zHOyy82ksabfZHaWcv.jpg/"
+                    },
+                    {
+                        "name": "Kotoe Hatsui",
+                        "order": 3,
+                        "role": "Dola (voice)"
+                    },
+                    {
+                        "name": "Fujio Tokita",
+                        "order": 4,
+                        "role": "Uncle Pomme (voice)"
+                    },
+                    {
+                        "name": "Ichir\u014d Nagai",
+                        "order": 5,
+                        "role": "Shogun Mouro (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fd5LuqwoIjMIqKvKmEk5y6AZY1Ww.jpg/"
+                    },
+                    {
+                        "name": "Hiroshi Ito",
+                        "order": 6,
+                        "role": "Oyakata (voice)"
+                    },
+                    {
+                        "name": "Machiko Washio",
+                        "order": 7,
+                        "role": "Okami (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f44TxvO9Jy1dQoZGCxYCL5hmAevB.jpg/"
+                    },
+                    {
+                        "name": "Takumi Kamiyama",
+                        "order": 8,
+                        "role": "Charles (voice)"
+                    },
+                    {
+                        "name": "Yoshito Yasuhara",
+                        "order": 9,
+                        "role": "Louis (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fbGSGmvLjs24LjGJqR2Eik1wRnIR.jpg/"
+                    },
+                    {
+                        "name": "Sukekiyo Kameyama",
+                        "order": 10,
+                        "role": "Henri (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fxRmZkb4cOrsd5GtzzruOJURT8H3.jpg/"
+                    },
+                    {
+                        "name": "Eken Mine",
+                        "order": 11,
+                        "role": "Underling (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fmctd73MZivVWU5zOC7J5Y2U6Zea.jpg/"
+                    },
+                    {
+                        "name": "TARAKO",
+                        "order": 12,
+                        "role": "Madge (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fdIju4JSkZem6Yaep5RYLWfTmp1P.jpg/"
+                    },
+                    {
+                        "name": "Masashi Sugawara",
+                        "order": 13,
+                        "role": "Underling (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f58SYHyoQmGnHCrKFh0tZ1lTF7ge.jpg/"
+                    },
+                    {
+                        "name": "Reiko Suzuki",
+                        "order": 14,
+                        "role": "Sheeta's Grandmother (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fqgFATlpp1HnAHyhgRJ1QdBYksEG.jpg/"
+                    },
+                    {
+                        "name": "Hochu Otsuka",
+                        "order": 15,
+                        "role": "Man in Black Glasses (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fouMRSpccmkS6iOMVkSc4fEOBiN2.jpg/"
+                    },
+                    {
+                        "name": "Tomomichi Nishimura",
+                        "order": 16,
+                        "role": "Train Operator (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fnDy0ANhUPUGkpSprwuiCbq4Hrwn.jpg/"
+                    },
+                    {
+                        "name": "Ry\u016bji Saikachi",
+                        "order": 17,
+                        "role": "Old Engineer (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ffGCuIdYNTiP7U6jqfPEUaPn8FXi.jpg/"
+                    },
+                    {
+                        "name": "Takuzou Kamiyama",
+                        "order": 18,
+                        "role": "Shalulu (voice)"
+                    },
+                    {
+                        "name": "Takahiro Hirai",
+                        "order": 19,
+                        "role": "Chinese Minion (voice)"
+                    },
+                    {
+                        "name": "Megumi Hayashibara",
+                        "order": 20,
+                        "role": "Woman in Blue (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fwqwCa9PNUBXPuN9MpSnYq2dz740.jpg/"
+                    },
+                    {
+                        "name": "Toshihiko Seki",
+                        "order": 21,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fesu8zw5fb3f7IAyQ2CDVfypbB2U.jpg/"
+                    }
+                ],
+                "country": [
+                    "Japan"
+                ],
+                "customproperties": {
+                    "available_releases": "Theatrical",
+                    "budget": "$3,000,000",
+                    "cast": "Keiko Yokozawa / Mayumi Tanaka / Minori Terada / Kotoe Hatsui / Fujio Tokita / Ichir\u014d Nagai / Hiroshi Ito / Machiko Washio / Takumi Kamiyama / Yoshito Yasuhara / Sukekiyo Kameyama / Eken Mine / TARAKO / Masashi Sugawara / Reiko Suzuki / Hochu Otsuka / Tomomichi Nishimura / Ry\u016bji Saikachi / Takuzou Kamiyama / Takahiro Hirai / Megumi Hayashibara / Toshihiko Seki",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=10515&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=10515)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=10515)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=10515)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=10515)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=10515)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Le Ch\u00e2teau dans le ciel,tmdb_type=movie,tmdb_id=10515)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt0092067",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "10515",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Studio Ghibli (Anime)",
+                    "param.list_slug": "studio-ghibli-anime",
+                    "param.owner": "true",
+                    "param.page": "2",
+                    "param.plugin_category": "Studio Ghibli (Anime)",
+                    "param.reload": "$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]",
+                    "param.user_slug": "jukebox8786",
+                    "param.widget": "true",
+                    "popularity": "37.278",
+                    "provider.link": "https://www.themoviedb.org/movie/10515/watch?locale=FR",
+                    "providers": "Netflix / Apple TV / Orange VOD / Filmo TV / Canal VOD / Rakuten TV / Universcine / Amazon Video / Netflix basic with Ads",
+                    "revenue": "$5,228,752",
+                    "slug_id": "castle-in-the-sky-1986",
+                    "studio": "Tokuma Shoten",
+                    "theatrical_release": "2003-01-15",
+                    "tmdb_id": "10515",
+                    "tmdb_rating": "8.0",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "3,469",
+                    "trakt_id": "5695",
+                    "widget": "Studio Ghibli (Anime)"
+                },
+                "dateadded": "",
+                "director": [
+                    "Hayao Miyazaki"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f3cyjYtLWCBE1uvWINHFsFnE8LUK.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=10515",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Aventure",
+                    "Fantastique",
+                    "Animation",
+                    "Action",
+                    "Familial",
+                    "Romance"
+                ],
+                "imdbnumber": "tt0092067",
+                "label": "Le Ch\u00e2teau dans le ciel",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "Rated U",
+                "originaltitle": "\u5929\u7a7a\u306e\u57ce\u30e9\u30d4\u30e5\u30bf",
+                "playcount": 0,
+                "plot": "Sheeta, seule h\u00e9riti\u00e8re des secrets de Laputa, la cit\u00e9 volante, attire l\u2019avidit\u00e9 des pirates et de l\u2019arm\u00e9e. Poursuivie, elle est sauv\u00e9e par Pazu, un jeune pilote d\u2019avion travaillant dans une cit\u00e9 mini\u00e8re.",
+                "plotoutline": "",
+                "premiered": "1986-08-02",
+                "productioncode": "",
+                "rating": 7.965000152587891,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 7440,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Tokuma Shoten",
+                    "Studio Ghibli",
+                    "Nibariki"
+                ],
+                "tag": [],
+                "tagline": "Qui est vraiment Sheeta\u202f?",
+                "thumbnail": "",
+                "title": "Le Ch\u00e2teau dans le ciel",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=bubkUJcYmeo",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt0092067",
+                    "slug": "castle-in-the-sky-1986",
+                    "tmdb": "10515",
+                    "trakt": "5695",
+                    "unknown": "tt0092067"
+                },
+                "userrating": 0,
+                "votes": "3469",
+                "writer": [
+                    "Hayao Miyazaki"
+                ],
+                "year": 1986
+            }
+        ],
+        "limits": {
+            "end": 4,
+            "start": 0,
+            "total": 4
+        }
+    }
+}

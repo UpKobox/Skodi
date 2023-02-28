@@ -1,0 +1,65 @@
+{
+    "label": "tnt en direct",
+    "type": "shortcut",
+    "paths": [
+        {
+            "label": "",
+            "content": null,
+            "file": {
+                "file": "plugin://plugin.video.catchuptvandmore/resources/lib/channels/fr/mytf1/get_live_url/?_pickle_=80049563000000000000007d94288c075f7469746c655f948c1f54463120e28094204c7963c3a96520546f756c6f757365204c617574726563948c08786d6c74765f6964948c14433139322e6170692e74656c6572616d612e6672948c076974656d5f6964948c0374663194752e",
+                "filetype": "file",
+                "art": {
+                    "clearlogo": "resource://resource.images.catchuptvandmore/channels/fr/tf1.png",
+                    "fanart": "resource://resource.images.catchuptvandmore/channels/fr/tf1_fanart.jpg",
+                    "icon": "https://focus.telerama.fr/1111x625/2022/12/26/0d36a26882994124db46b6a69c3e2e43c219fdd2.jpg",
+                    "thumb": "https://focus.telerama.fr/1111x625/2022/12/26/0d36a26882994124db46b6a69c3e2e43c219fdd2.jpg"
+                },
+                "title": "TF1 \u2014 Lyc\u00e9e Toulouse Lautrec",
+                "genre": "s\u00e9rie humoristique",
+                "duration": "01:10:00",
+                "plot": "22h05 - 23h15\nL'atterrissage\nSaison:1 - Episode:2 - Charlie se pr\u00e9pare \u00e0 son op\u00e9ration du cerveau, et, d\u00e9termin\u00e9s \u00e0 la soutenir, ses camarades organisent une fugue rocambolesque pour se rendre \u00e0 l'h\u00f4pital. Pendant ce temps, Feuillate, le proviseur, et Lespic, son adjointe, s'inqui\u00e8tent de l'avenir du lyc\u00e9e, menac\u00e9 par une inspection du rectorat. De son c\u00f4t\u00e9 Victoire fait la rencontre de Jules, le fils du proviseur.",
+                "writer": "Nicolas Cuche / Val\u00e9rie Karsenti / St\u00e9phane de / Max Baissette / Abraham Wapler / Chine Thybaud / Juliette Halloy / Nicolas Mercier / Eliane Vigneron / Fanny Riedberger",
+                "votes": "0",
+                "size": "0.00 B",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "-1673300381.5170312",
+            "version": "3.7.0"
+        },
+        {
+            "label": "chaine tnt",
+            "content": "files",
+            "file": {
+                "file": "plugin://plugin.video.catchuptvandmore/resources/lib/main/tv_guide_menu/?_pickle_=80049538000000000000007d94288c075f7469746c655f948c064672616e6365948c08786d6c74765f6964944e8c076974656d5f6964948c0766725f6c69766594752e",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons/plugin.video.catchuptvandmore/fanart.jpg",
+                    "icon": "resource://resource.images.catchuptvandmore/channels/fr.png",
+                    "thumb": "resource://resource.images.catchuptvandmore/channels/fr.png"
+                },
+                "title": "France",
+                "plot": "France",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "chaine_tnt-1673300409.4970927",
+            "version": "3.7.0"
+        }
+    ],
+    "id": "tnt_en_direct-1673300364.035851",
+    "art": {
+        "banner": "special://home/addons/plugin.program.autowidget/resources/media/banner/folder-shortcut.png",
+        "fanart": "special://home/addons/plugin.program.autowidget/resources/media/fanart/folder-shortcut.png",
+        "icon": "special://home/addons/plugin.program.autowidget/resources/media/icon/folder-shortcut.png",
+        "poster": "special://home/addons/plugin.program.autowidget/resources/media/poster/folder-shortcut.png",
+        "thumb": "special://home/addons/plugin.program.autowidget/resources/media/icon/folder-shortcut.png"
+    },
+    "version": "3.7.0",
+    "content": "",
+    "sort_order": "1"
+}

@@ -1,0 +1,41 @@
+{
+    "history": [
+        [
+            1677193522.2867525,
+            "9705f1cda262c9f1d0c7aa10846e661279f6c26b"
+        ],
+        [
+            1677193937.3456984,
+            "9705f1cda262c9f1d0c7aa10846e661279f6c26b"
+        ],
+        [
+            1677211488.1171486,
+            "9705f1cda262c9f1d0c7aa10846e661279f6c26b"
+        ],
+        [
+            1677249324.0620584,
+            "9705f1cda262c9f1d0c7aa10846e661279f6c26b"
+        ],
+        [
+            1677284341.1622498,
+            "ae87f1ff44038b448721eb88cfa0774cacd3bed3"
+        ],
+        [
+            1677317319.4642413,
+            "ae87f1ff44038b448721eb88cfa0774cacd3bed3"
+        ],
+        [
+            1677352575.8893864,
+            "ae87f1ff44038b448721eb88cfa0774cacd3bed3"
+        ],
+        [
+            1677363591.1516883,
+            "ae87f1ff44038b448721eb88cfa0774cacd3bed3"
+        ]
+    ],
+    "widgets": [
+        "e254b7cd-f8f7-4a19-a8ef-ecd62a48da9f",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Les+plus+tendances+%28Films%29&list_slug=les-plus-tendances-films&owner=true&plugin_category=Les+plus+tendances+%28Films%29&user_slug=jukebox8786&page=2&widget=true&reload=$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]"
+}

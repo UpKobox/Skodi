@@ -1,0 +1,148 @@
+{
+    "label": "Menu Famille",
+    "type": "shortcut",
+    "paths": [
+        {
+            "label": "Mes Films Famille",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.program.autowidget/?group=favs_famille-1659386902.4631104&mode=group&refresh&reload",
+                "filetype": "directory",
+                "art": {
+                    "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-sync.png",
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/thenuit.png",
+                    "icon": "special://masterprofile/addon_data/icones/favorisgeneral.png",
+                    "poster": "special://masterprofile/addon_data/icones/favorisgeneral.png",
+                    "thumb": "special://masterprofile/addon_data/icones/favorisgeneral.png"
+                },
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "programs",
+            "target": "shortcut",
+            "id": "mes_films_famille-1666870594.2420897",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Films Famille",
+            "content": null,
+            "file": {
+                "file": "plugin://plugin.program.autowidget/?mode=path&group=menu_famille_films-1666112706.9538734&path_id=films_famille-1666112739.2701576&refresh=&reload=",
+                "filetype": "file",
+                "art": {
+                    "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/bleu-marine2.png",
+                    "icon": "special://masterprofile/addon_data/icones/filmsru.png",
+                    "poster": "special://masterprofile/addon_data/icones/films (9).png",
+                    "thumb": "special://masterprofile/addon_data/icones/filmsru.png"
+                },
+                "votes": "0",
+                "size": "0 B"
+            },
+            "color": "white",
+            "window": "programs",
+            "target": "shortcut",
+            "id": "films_famille-1666870425.1755822",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Films Family Tmdb",
+            "content": null,
+            "file": {
+                "file": "plugin://plugin.program.autowidget/?mode=path&group=menu_famille_films-1666112706.9538734&path_id=films_family_tmdb-1666188994.331732&refresh=&reload=",
+                "filetype": "file",
+                "art": {
+                    "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/bleu-marine2.png",
+                    "icon": "special://masterprofile/addon_data/icones/tmdb (3).png",
+                    "poster": "special://masterprofile/addon_data/icones/tmdb (3).png",
+                    "thumb": "special://masterprofile/addon_data/icones/tmdb (3).png"
+                },
+                "votes": "0",
+                "size": "0 B"
+            },
+            "color": "white",
+            "window": "programs",
+            "target": "shortcut",
+            "id": "films_family_tmdb-1666870433.6418111",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Mes S\u00e9ries Famille",
+            "content": null,
+            "file": {
+                "file": "plugin://plugin.program.autowidget/?mode=path&group=menu_series_famille-1666184065.476333&path_id=mes_series_famille-1666188835.2491574&refresh=&reload=",
+                "filetype": "file",
+                "art": {
+                    "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-sync.png",
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/bleu-marine2.png",
+                    "icon": "special://masterprofile/addon_data/icones/favorisgeneral.png",
+                    "poster": "special://masterprofile/addon_data/icones/favorisgeneral.png",
+                    "thumb": "special://masterprofile/addon_data/icones/favorisgeneral.png"
+                },
+                "votes": "0",
+                "size": "0 B"
+            },
+            "color": "white",
+            "window": "programs",
+            "target": "shortcut",
+            "id": "mes_series_famille-1666870456.1280627",
+            "version": "3.7.0"
+        },
+        {
+            "label": "S\u00e9ries Famille",
+            "content": null,
+            "file": {
+                "file": "plugin://plugin.program.autowidget/?mode=path&group=menu_series_famille-1666184065.476333&path_id=series_famille-1666184091.853326&refresh=&reload=",
+                "filetype": "file",
+                "art": {
+                    "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/bleu-marine2.png",
+                    "icon": "special://masterprofile/addon_data/icones/tvseries3pird.png",
+                    "poster": "special://masterprofile/addon_data/icones/tvseries3pird.png",
+                    "thumb": "special://masterprofile/addon_data/icones/tvseries3pird.png"
+                },
+                "votes": "0",
+                "size": "0 B"
+            },
+            "color": "white",
+            "window": "programs",
+            "target": "shortcut",
+            "id": "series_famille-1666870463.9584892",
+            "version": "3.7.0"
+        },
+        {
+            "label": "S\u00e9ries Family Tmdb",
+            "content": null,
+            "file": {
+                "file": "plugin://plugin.program.autowidget/?mode=path&group=menu_series_famille-1666184065.476333&path_id=series_family_tmdb-1666184101.3706276&refresh=&reload=",
+                "filetype": "file",
+                "art": {
+                    "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/bleu-marine2.png",
+                    "icon": "special://masterprofile/addon_data/icones/tmdb (3).png",
+                    "poster": "special://masterprofile/addon_data/icones/tmdb (3).png",
+                    "thumb": "special://masterprofile/addon_data/icones/tmdb (3).png"
+                },
+                "votes": "0",
+                "size": "0 B"
+            },
+            "color": "white",
+            "window": "programs",
+            "target": "shortcut",
+            "id": "series_family_tmdb-1666870471.9096587",
+            "version": "3.7.0"
+        }
+    ],
+    "id": "menu_famille-1666870106.3555057",
+    "art": {
+        "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+        "fanart": "special://home/addons\\plugin.program.autowidget\\resources\\media\\fanart\\folder-shortcut.png",
+        "icon": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png",
+        "poster": "special://home/addons\\plugin.program.autowidget\\resources\\media\\poster\\folder-shortcut.png",
+        "thumb": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png"
+    },
+    "version": "3.7.0",
+    "content": "",
+    "sort_order": "42"
+}

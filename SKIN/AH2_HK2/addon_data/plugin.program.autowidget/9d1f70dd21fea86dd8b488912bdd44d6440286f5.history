@@ -1,0 +1,53 @@
+{
+    "history": [
+        [
+            1676908456.971895,
+            "4ee6972f790f02651bfec154f3e0b78febd97792"
+        ],
+        [
+            1676908926.2607489,
+            "4ee6972f790f02651bfec154f3e0b78febd97792"
+        ],
+        [
+            1676910205.814413,
+            "4ee6972f790f02651bfec154f3e0b78febd97792"
+        ],
+        [
+            1676911395.2960923,
+            "4ee6972f790f02651bfec154f3e0b78febd97792"
+        ],
+        [
+            1676913963.0875955,
+            "4ee6972f790f02651bfec154f3e0b78febd97792"
+        ],
+        [
+            1676926600.5893295,
+            "4ee6972f790f02651bfec154f3e0b78febd97792"
+        ],
+        [
+            1676952488.5469341,
+            "4ee6972f790f02651bfec154f3e0b78febd97792"
+        ],
+        [
+            1676990003.1705823,
+            "4ee6972f790f02651bfec154f3e0b78febd97792"
+        ],
+        [
+            1677038700.4934907,
+            "4ee6972f790f02651bfec154f3e0b78febd97792"
+        ],
+        [
+            1677104197.6005156,
+            "4ee6972f790f02651bfec154f3e0b78febd97792"
+        ],
+        [
+            1677355515.334945,
+            "4ee6972f790f02651bfec154f3e0b78febd97792"
+        ]
+    ],
+    "widgets": [
+        "86ca43fc-19dd-4fbe-8306-acfdc901fb07",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Films+les+plus+populaires+%28Anime%29&list_slug=films-les-plus-populaires-anime&owner=true&plugin_category=Films+les+plus+populaires+%28Anime%29&user_slug=jukebox8786&page=2&widget=true&reload=$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]"
+}

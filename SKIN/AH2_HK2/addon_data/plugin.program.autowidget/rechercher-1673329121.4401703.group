@@ -1,0 +1,107 @@
+{
+    "label": "rechercher",
+    "type": "shortcut",
+    "paths": [
+        {
+            "label": "Genres films",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=genres&tmdb_type=movie&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://masterprofile/addon_data/icones/genrefilm1.png",
+                    "landscape": "special://home/addons/plugin.video.themoviedb.helper//fanart.jpg"
+                },
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "genres_films-1673329132.7750735",
+            "version": "3.7.0"
+        },
+        {
+            "label": "film par plateforme",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=watch_providers&tmdb_type=movie&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://masterprofile/addon_data/icones/film3.png",
+                    "landscape": "special://home/addons/plugin.video.themoviedb.helper//fanart.jpg"
+                },
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "film_par_plateforme-1673329171.0136235",
+            "version": "3.7.0"
+        },
+        {
+            "label": "saga films",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=all_items&tmdb_type=collection&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://masterprofile/addon_data/icones/sagafilm.png",
+                    "landscape": "special://home/addons/plugin.video.themoviedb.helper//fanart.jpg"
+                },
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "saga_films-1673329368.8047686",
+            "version": "3.7.0"
+        },
+        {
+            "label": "s\u00e9rie genre",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=genres&tmdb_type=tv&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://masterprofile/addon_data/icones/genreserie1.png",
+                    "landscape": "special://home/addons/plugin.video.themoviedb.helper//fanart.jpg"
+                },
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "serie_genre-1673329474.4848251",
+            "version": "3.7.0"
+        },
+        {
+            "label": "serie par plateforme",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=watch_providers&tmdb_type=tv&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://masterprofile/addon_data/icones/tvseries3pird.png",
+                    "landscape": "special://home/addons/plugin.video.themoviedb.helper//fanart.jpg"
+                },
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "serie_par_plateforme-1673329496.0033028",
+            "version": "3.7.0"
+        }
+    ],
+    "id": "rechercher-1673329121.4401703",
+    "art": {
+        "banner": "special://home/addons/plugin.program.autowidget/resources/media/banner/folder-shortcut.png",
+        "fanart": "special://home/addons/plugin.program.autowidget/resources/media/fanart/folder-shortcut.png",
+        "icon": "special://home/addons/plugin.program.autowidget/resources/media/icon/folder-shortcut.png",
+        "poster": "special://home/addons/plugin.program.autowidget/resources/media/poster/folder-shortcut.png",
+        "thumb": "special://home/addons/plugin.program.autowidget/resources/media/icon/folder-shortcut.png"
+    },
+    "version": "3.7.0",
+    "content": "",
+    "sort_order": "47"
+}

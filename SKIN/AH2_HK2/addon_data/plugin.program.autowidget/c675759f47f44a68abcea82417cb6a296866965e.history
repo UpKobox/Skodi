@@ -1,0 +1,41 @@
+{
+    "history": [
+        [
+            1677193513.7144768,
+            "11ee2ca4caaffa3810ff1830b4a3b2eaa00434f8"
+        ],
+        [
+            1677193936.5895889,
+            "11ee2ca4caaffa3810ff1830b4a3b2eaa00434f8"
+        ],
+        [
+            1677211487.929151,
+            "11ee2ca4caaffa3810ff1830b4a3b2eaa00434f8"
+        ],
+        [
+            1677249322.9249752,
+            "11ee2ca4caaffa3810ff1830b4a3b2eaa00434f8"
+        ],
+        [
+            1677284340.1303132,
+            "19971b68f3cee3bf2e7c16fe9433e505c41b84d2"
+        ],
+        [
+            1677317319.3222427,
+            "19971b68f3cee3bf2e7c16fe9433e505c41b84d2"
+        ],
+        [
+            1677352575.7353895,
+            "19971b68f3cee3bf2e7c16fe9433e505c41b84d2"
+        ],
+        [
+            1677363590.905697,
+            "19971b68f3cee3bf2e7c16fe9433e505c41b84d2"
+        ]
+    ],
+    "widgets": [
+        "e254b7cd-f8f7-4a19-a8ef-ecd62a48da9f",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Les%20plus%20tendances%20(Films)&list_slug=les-plus-tendances-films&owner=true&plugin_category=Les%20plus%20tendances%20(Films)&user_slug=jukebox8786&widget=True"
+}

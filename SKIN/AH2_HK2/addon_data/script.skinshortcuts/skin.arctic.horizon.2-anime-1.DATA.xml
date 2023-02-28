@@ -1,0 +1,42 @@
+<shortcuts>
+	<shortcut>
+		<defaultID>35232</defaultID>
+		<label>35232</label>
+		<label2 />
+		<icon>special://skin/extras/icons/shortcut.png</icon>
+		<thumb />
+		<action>Fullscreen</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR=red]Les plus tendances[/COLOR]</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.program.autowidget/?mode=path&amp;action=static&amp;group=anime-1676819893.8883781&amp;id=3679fe7f-3eed-48a9-9a36-b217cb1e6a20&amp;refresh=$INFO[Window(10000).Property(autowidget-3679fe7f-3eed-48a9-9a36-b217cb1e6a20-refresh)]&amp;reload=",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR=red]Nouveautés &amp; Recommandations[/COLOR]</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.program.autowidget/?mode=group&amp;group=anime_%28skinlight%29-1677184895.1630738&amp;refresh=&amp;reload=",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR=red]Plus de contenu[/COLOR]</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.program.autowidget/?mode=group&amp;group=anime_2_%28skinlight%29-1677184950.644029&amp;refresh=&amp;reload=",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR=red]SVOD[/COLOR]</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.program.autowidget/?mode=group&amp;group=svod_%28anime%29-1676819945.0189352&amp;refresh=&amp;reload=",return)</action>
+		</shortcut>
+	</shortcuts>

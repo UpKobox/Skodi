@@ -1,0 +1,244 @@
+{
+    "label": "Film Jap-Anime (Trakt)",
+    "type": "shortcut",
+    "paths": [
+        {
+            "label": "Films d'animation du printemps 2022",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=MenuTrakt&nb=10&numliste=23247309",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons/plugin.video.sendtokodiU2P/fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png"
+                },
+                "title": "Films d'animation du printemps 2022",
+                "plot": "Films d'animation du printemps 2022",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "films_danimation_du_printemps_2022-1657138977.4063683",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Les films d'animation de l'hiver 2022",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=MenuTrakt&nb=11&numliste=23261539",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons/plugin.video.sendtokodiU2P/fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png"
+                },
+                "title": "Les films d'animation de l'hiver 2022",
+                "plot": "Les films d'animation de l'hiver 2022",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "les_films_danimation_de_lhiver_2022-1657138986.5156734",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Studio Ghibli Films",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=MenuTrakt&nb=23&numliste=801239",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons/plugin.video.sendtokodiU2P/fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png"
+                },
+                "title": "Studio Ghibli Feature Films",
+                "plot": "Studio Ghibli Feature Films",
+                "votes": "0",
+                "dateadded": "22/04/2009",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "studio_ghibli_films-1657143002.0260367",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Top Anime Film",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=MenuTrakt&nb=134&numliste=19960884",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons/plugin.video.sendtokodiU2P/fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png"
+                },
+                "title": "Top Anime Movies",
+                "plot": "Top Anime Movies",
+                "votes": "0",
+                "dateadded": "22/04/2009",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "top_anime_film-1657143182.8688836",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Manga films",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&famille=groupes&nom=manga%20films&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons/plugin.video.sendtokodiU2P/fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png"
+                },
+                "title": "Manga films",
+                "plot": "manga films",
+                "votes": "0",
+                "dateadded": "22/04/2009",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "manga_films-1657306481.6714132",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Manga oav-cobra",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&famille=groupes&nom=manga%20oav-cobra&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons/plugin.video.sendtokodiU2P/fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png"
+                },
+                "title": "Manga oav-cobra",
+                "plot": "manga oav-cobra",
+                "votes": "0",
+                "dateadded": "22/04/2009",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "manga_oav-cobra-1657306494.9294236",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Manga oav-dragon ball z",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&famille=groupes&nom=manga%20oav-dragon%20ball%20z&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons/plugin.video.sendtokodiU2P/fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png"
+                },
+                "title": "Manga oav-dragon ball z",
+                "plot": "manga oav-dragon ball z",
+                "votes": "0",
+                "dateadded": "22/04/2009",
+                "type": "video"
+            },
+            "color": "deepskyblue",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "manga_oav-dragon_ball_z-1657306504.4449782",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Manga oav-ken",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&famille=groupes&nom=manga%20oav-ken&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons/plugin.video.sendtokodiU2P/fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png"
+                },
+                "title": "Manga oav-ken",
+                "plot": "manga oav-ken",
+                "votes": "0",
+                "dateadded": "22/04/2009",
+                "type": "video"
+            },
+            "color": "dodgerblue",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "manga_oav-ken-1657306517.3625429",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Manga oav-resident evil",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&famille=groupes&nom=manga%20oav-resident%20evil&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons/plugin.video.sendtokodiU2P/fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png"
+                },
+                "title": "Manga oav-resident evil",
+                "plot": "manga oav-resident evil",
+                "votes": "0",
+                "dateadded": "22/04/2009",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "manga_oav-resident_evil-1657306529.9809473",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Top Anime Movies /inactive/",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=MenuTrakt&nb=95&numliste=22320346",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png"
+                },
+                "title": "Top Anime Movies /inactive/",
+                "plot": "Top Anime Movies /inactive/",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "top_anime_movies_inactive-1663781538.5262702",
+            "version": "3.7.0"
+        }
+    ],
+    "id": "film_jap-anime_(trakt)-1657138973.0165193",
+    "art": {
+        "banner": "special://home/addons/plugin.program.autowidget/resources/media/banner/folder-shortcut.png",
+        "fanart": "special://home/addons/plugin.program.autowidget/resources/media/fanart/folder-shortcut.png",
+        "icon": "special://home/addons/plugin.program.autowidget/resources/media/icon/folder-shortcut.png",
+        "poster": "special://home/addons/plugin.program.autowidget/resources/media/poster/folder-shortcut.png",
+        "thumb": "special://home/addons/plugin.program.autowidget/resources/media/icon/folder-shortcut.png"
+    },
+    "version": "3.7.0",
+    "content": "",
+    "sort_order": "2"
+}

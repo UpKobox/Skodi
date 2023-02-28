@@ -65,7 +65,7 @@
                     "param.plugin_category": "Live Concerts & Music",
                     "param.user_slug": "dwarnes1970",
                     "param.widget": "True",
-                    "popularity": "0.651",
+                    "popularity": "0.6",
                     "revenue": "$0",
                     "slug_id": "cinderella-in-concert-2005",
                     "tmdb_id": "57029",
@@ -141,7 +141,7 @@
             {
                 "album": "",
                 "art": {
-                    "icon": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fdefault.png/"
+                    "icon": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p(1)%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fdefault.png/"
                 },
                 "artist": [],
                 "cast": [
@@ -353,13 +353,13 @@
                     "param.plugin_category": "Live Concerts & Music",
                     "param.user_slug": "dwarnes1970",
                     "param.widget": "True",
-                    "popularity": "1.4",
+                    "popularity": "1.109",
                     "revenue": "$0",
                     "slug_id": "def-leppard-viva-hysteria-2013",
                     "tmdb_id": "225341",
-                    "tmdb_rating": "6.6",
+                    "tmdb_rating": "6.7",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "4",
+                    "tmdb_votes": "5",
                     "trakt_id": "138043",
                     "widget": "Live Concerts & Music"
                 },
@@ -386,7 +386,7 @@
                 "plotoutline": "",
                 "premiered": "2013-10-02",
                 "productioncode": "",
-                "rating": 6.599999904632568,
+                "rating": 6.699999809265137,
                 "resume": {
                     "position": 0.0,
                     "total": 5100.0
@@ -424,7 +424,7 @@
                     "unknown": "tt3109048"
                 },
                 "userrating": 0,
-                "votes": "4",
+                "votes": "5",
                 "writer": [],
                 "year": 2013
             },
@@ -764,7 +764,7 @@
                     "param.plugin_category": "Live Concerts & Music",
                     "param.user_slug": "dwarnes1970",
                     "param.widget": "True",
-                    "popularity": "1.167",
+                    "popularity": "1.201",
                     "revenue": "$0",
                     "slug_id": "dio-evil-or-divine-2003",
                     "studio": "Eagle Vision",
@@ -925,7 +925,7 @@
                     "param.plugin_category": "Live Concerts & Music",
                     "param.user_slug": "dwarnes1970",
                     "param.widget": "True",
-                    "popularity": "4.505",
+                    "popularity": "3.707",
                     "revenue": "$10,000,000",
                     "slug_id": "iron-maiden-rock-in-rio-2001-2002",
                     "studio": "Sanctuary Mgt Productions Ltd.",
@@ -962,7 +962,7 @@
                 "plotoutline": "",
                 "premiered": "2002-07-16",
                 "productioncode": "",
-                "rating": 8.039999961853027,
+                "rating": 8.0,
                 "resume": {
                     "position": 0.0,
                     "total": 7500.0
@@ -1079,7 +1079,7 @@
                     "param.plugin_category": "Live Concerts & Music",
                     "param.user_slug": "dwarnes1970",
                     "param.widget": "True",
-                    "popularity": "1.908",
+                    "popularity": "1.611",
                     "provider.link": "https://www.themoviedb.org/movie/31475-iron-maiden-live-after-death/watch?locale=FR",
                     "providers": "Apple iTunes",
                     "revenue": "$0",
@@ -1117,7 +1117,7 @@
                 "plotoutline": "",
                 "premiered": "1985-10-23",
                 "productioncode": "",
-                "rating": 7.875,
+                "rating": 7.900000095367432,
                 "resume": {
                     "position": 0.0,
                     "total": 5400.0
@@ -1225,7 +1225,7 @@
                     "param.plugin_category": "Live Concerts & Music",
                     "param.user_slug": "dwarnes1970",
                     "param.widget": "True",
-                    "popularity": "1.197",
+                    "popularity": "1.018",
                     "revenue": "$0",
                     "slug_id": "megadeth-that-one-night-live-in-buenos-aires-2007",
                     "tmdb_id": "23357",
@@ -1368,7 +1368,7 @@
                     "param.plugin_category": "Live Concerts & Music",
                     "param.user_slug": "dwarnes1970",
                     "param.widget": "True",
-                    "popularity": "0.911",
+                    "popularity": "1.012",
                     "revenue": "$0",
                     "slug_id": "megadeth-rude-awakening-2002",
                     "tmdb_id": "45557",
@@ -1519,7 +1519,7 @@
                     "param.plugin_category": "Live Concerts & Music",
                     "param.user_slug": "dwarnes1970",
                     "param.widget": "True",
-                    "popularity": "1.68",
+                    "popularity": "1.941",
                     "revenue": "$0",
                     "slug_id": "ac-dc-stiff-upper-lip-live-2001",
                     "theatrical_release": "2001-12-04",
@@ -1555,7 +1555,7 @@
                 "plotoutline": "",
                 "premiered": "2001-12-04",
                 "productioncode": "",
-                "rating": 7.077000141143799,
+                "rating": 7.099999904632568,
                 "resume": {
                     "position": 0.0,
                     "total": 8400.0
@@ -1688,7 +1688,7 @@
                     "param.plugin_category": "Live Concerts & Music",
                     "param.user_slug": "dwarnes1970",
                     "param.widget": "True",
-                    "popularity": "2.395",
+                    "popularity": "1.779",
                     "provider.link": "https://www.themoviedb.org/movie/20349-ac-dc-family-jewels/watch?locale=FR",
                     "providers": "Apple iTunes",
                     "revenue": "$0",
@@ -1733,7 +1733,7 @@
                 "plotoutline": "",
                 "premiered": "2005-03-18",
                 "productioncode": "",
-                "rating": 7.7779998779296875,
+                "rating": 7.800000190734863,
                 "resume": {
                     "position": 0.0,
                     "total": 9000.0
@@ -1848,16 +1848,16 @@
                     "param.plugin_category": "Live Concerts & Music",
                     "param.user_slug": "dwarnes1970",
                     "param.widget": "True",
-                    "popularity": "2.363",
+                    "popularity": "2.152",
                     "provider.link": "https://www.themoviedb.org/movie/24983-ac-dc-no-bull/watch?locale=FR",
                     "providers": "Apple iTunes",
                     "revenue": "$0",
                     "slug_id": "ac-dc-no-bull-1996",
                     "studio": "Cowboy Films",
                     "tmdb_id": "24983",
-                    "tmdb_rating": "6.9",
+                    "tmdb_rating": "6.8",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "15",
+                    "tmdb_votes": "16",
                     "trakt_id": "15078",
                     "widget": "Live Concerts & Music"
                 },
@@ -1886,7 +1886,7 @@
                 "plotoutline": "",
                 "premiered": "1996-11-02",
                 "productioncode": "",
-                "rating": 6.867000102996826,
+                "rating": 6.800000190734863,
                 "resume": {
                     "position": 0.0,
                     "total": 7200.0
@@ -1927,7 +1927,7 @@
                     "unknown": "tt0255773"
                 },
                 "userrating": 0,
-                "votes": "15",
+                "votes": "16",
                 "writer": [],
                 "year": 1996
             },
@@ -2021,7 +2021,7 @@
                     "param.plugin_category": "Live Concerts & Music",
                     "param.user_slug": "dwarnes1970",
                     "param.widget": "True",
-                    "popularity": "0.712",
+                    "popularity": "2.498",
                     "provider.link": "https://www.themoviedb.org/movie/36037-ac-dc-plug-me-in/watch?locale=FR",
                     "providers": "Apple iTunes",
                     "revenue": "$0",
@@ -2188,7 +2188,7 @@
                     "param.plugin_category": "Live Concerts & Music",
                     "param.user_slug": "dwarnes1970",
                     "param.widget": "True",
-                    "popularity": "8.013",
+                    "popularity": "10.307",
                     "provider.link": "https://www.themoviedb.org/movie/63973-ac-dc-live-at-river-plate/watch?locale=FR",
                     "providers": "Apple iTunes",
                     "revenue": "$0",
@@ -2275,6 +2275,7 @@
             {
                 "album": "",
                 "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f2Fjl9AlbIe1FjPeOIW9QM9XDz9Q.jpg/",
                     "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fxWbfFPmkKuzU3WBJ6XN2zapYh1B.jpg/",
                     "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fxWbfFPmkKuzU3WBJ6XN2zapYh1B.jpg/"
                 },
@@ -2337,7 +2338,7 @@
                     "param.plugin_category": "Live Concerts & Music",
                     "param.user_slug": "dwarnes1970",
                     "param.widget": "True",
-                    "popularity": "0.6",
+                    "popularity": "0.77",
                     "revenue": "$0",
                     "slug_id": "van-halen-live-right-here-right-now-1993",
                     "studio": "Warner Bros. Records",
@@ -2354,7 +2355,7 @@
                 ],
                 "episode": -1,
                 "episodeguide": "",
-                "fanart": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f2Fjl9AlbIe1FjPeOIW9QM9XDz9Q.jpg/",
                 "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=24466",
                 "filetype": "file",
                 "firstaired": "",
@@ -2373,7 +2374,7 @@
                 "plotoutline": "",
                 "premiered": "1993-02-23",
                 "productioncode": "",
-                "rating": 7.333000183105469,
+                "rating": 7.300000190734863,
                 "resume": {
                     "position": 0.0,
                     "total": 7200.0
@@ -2483,7 +2484,7 @@
                     "param.plugin_category": "Live Concerts & Music",
                     "param.user_slug": "dwarnes1970",
                     "param.widget": "True",
-                    "popularity": "0.838",
+                    "popularity": "1.093",
                     "revenue": "$0",
                     "slug_id": "van-halen-live-without-a-net-86-1987",
                     "tmdb_id": "24465",
@@ -2518,7 +2519,7 @@
                 "plotoutline": "",
                 "premiered": "1987-09-15",
                 "productioncode": "",
-                "rating": 6.75,
+                "rating": 6.800000190734863,
                 "resume": {
                     "position": 0.0,
                     "total": 5400.0
@@ -2572,8 +2573,199 @@
                     {
                         "name": "Eric Clapton",
                         "order": 0,
-                        "role": "Himself",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fxAt8X2SzU4gghOyf8xjPPknHNyv.jpg/"
+                    },
+                    {
+                        "name": "Blake Mills",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Booker T. Jones",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Buddy Guy",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f9J2mWgbZ39QCRASLKtiTeQV23Wr.jpg/"
+                    },
+                    {
+                        "name": "Derek Trucks",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Doyle Bramhall II",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Gary Clark Jr.",
+                        "order": 6,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fw0ePaQi3UUOaejzNGmHpc2V87lK.jpg/"
+                    },
+                    {
+                        "name": "Gregg Allman",
+                        "order": 7,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2faf4x6C09lXLzXRw8L97xmXFlLWT.jpg/"
+                    },
+                    {
+                        "name": "Jeff Beck",
+                        "order": 8,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fX16Bn8VOBYiLenre7ufN7Kzdi.jpg/"
+                    },
+                    {
+                        "name": "John Mayer",
+                        "order": 9,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fj6W5imosdIvPQ2PLZCRMlKiIy4h.jpg/"
+                    },
+                    {
+                        "name": "Keith Richards",
+                        "order": 10,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ft1oa5UsJMmrhNqCIks4jQnAYSQT.jpg/"
+                    },
+                    {
+                        "name": "Keith Urban",
+                        "order": 11,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f6jB3gPO4yhdr24iqLjNS1Nw83SL.jpg/"
+                    },
+                    {
+                        "name": "Los Lobos",
+                        "order": 12,
+                        "role": ""
+                    },
+                    {
+                        "name": "Robert Cray",
+                        "order": 13,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2furFJxPChtAaaz4b2MmlPSeVwNnN.jpg/"
+                    },
+                    {
+                        "name": "Sonny Landreth",
+                        "order": 14,
+                        "role": ""
+                    },
+                    {
+                        "name": "Vince Gill",
+                        "order": 15,
+                        "role": ""
+                    },
+                    {
+                        "name": "Warren Haynes",
+                        "order": 16,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fdMvZ9E5v3wVq7hirdtdYuMlfgf.jpg/"
+                    },
+                    {
+                        "name": "Paul Carrack",
+                        "order": 17,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fkxjGYVkeFInefgNGIAO3pzqokpR.jpg/"
+                    },
+                    {
+                        "name": "Citizen Cope",
+                        "order": 18,
+                        "role": ""
+                    },
+                    {
+                        "name": "Steve Cropper",
+                        "order": 19,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fbpM7BVFPrnasFEecozKmeI34714.jpg/"
+                    },
+                    {
+                        "name": "Andy Fairweather-Low",
+                        "order": 20,
+                        "role": ""
+                    },
+                    {
+                        "name": "Beth Hart",
+                        "order": 21,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f7ylG2gNnOXvieNupT0Mq5ZP6AN.jpg/"
+                    },
+                    {
+                        "name": "B.B. King",
+                        "order": 22,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fyKZKHoX5AKZr2paJpYWaeYq0RuW.jpg/"
+                    },
+                    {
+                        "name": "Earl Klugh",
+                        "order": 23,
+                        "role": ""
+                    },
+                    {
+                        "name": "Albert Lee",
+                        "order": 24,
+                        "role": ""
+                    },
+                    {
+                        "name": "Taj Mahal",
+                        "order": 25,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fq8essPzbetB5NFX0KkaaQdmnMmS.jpg/"
+                    },
+                    {
+                        "name": "Keb' Mo'",
+                        "order": 26,
+                        "role": ""
+                    },
+                    {
+                        "name": "Matt \"Guitar\" Murphy",
+                        "order": 27,
+                        "role": ""
+                    },
+                    {
+                        "name": "Robert Randolph",
+                        "order": 28,
+                        "role": ""
+                    },
+                    {
+                        "name": "Robbie Robertson",
+                        "order": 29,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fpUhQhGrerErQGZKy0kKn6e6m1X7.jpg/"
+                    },
+                    {
+                        "name": "Kurt Rosenwinkel",
+                        "order": 30,
+                        "role": ""
+                    },
+                    {
+                        "name": "Alice Smith",
+                        "order": 31,
+                        "role": ""
+                    },
+                    {
+                        "name": "Quinn Sullivan",
+                        "order": 32,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2faK10XY2xc8vbQFw5hgp7S4dCWdD.jpg/"
+                    },
+                    {
+                        "name": "Jimmie Vaughan",
+                        "order": 33,
+                        "role": ""
+                    },
+                    {
+                        "name": "Tal Wilkenfeld",
+                        "order": 34,
+                        "role": ""
+                    },
+                    {
+                        "name": "Johnny Radelat",
+                        "order": 35,
+                        "role": ""
                     }
                 ],
                 "country": [
@@ -2581,7 +2773,7 @@
                 ],
                 "customproperties": {
                     "budget": "$0",
-                    "cast": "Eric Clapton",
+                    "cast": "Eric Clapton / Blake Mills / Booker T. Jones / Buddy Guy / Derek Trucks / Doyle Bramhall II / Gary Clark Jr. / Gregg Allman / Jeff Beck / John Mayer / Keith Richards / Keith Urban / Los Lobos / Robert Cray / Sonny Landreth / Vince Gill / Warren Haynes / Paul Carrack / Citizen Cope / Steve Cropper / Andy Fairweather-Low / Beth Hart / B.B. King / Earl Klugh / Albert Lee / Taj Mahal / Keb' Mo' / Matt \"Guitar\" Murphy / Robert Randolph / Robbie Robertson / Kurt Rosenwinkel / Alice Smith / Quinn Sullivan / Jimmie Vaughan / Tal Wilkenfeld / Johnny Radelat",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=238470&ignore_default=true)",
                     "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=238470)",
                     "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=238470)",
@@ -2610,8 +2802,12 @@
                     "param.plugin_category": "Live Concerts & Music",
                     "param.user_slug": "dwarnes1970",
                     "param.widget": "True",
-                    "popularity": "1.4",
+                    "popularity": "1.195",
                     "revenue": "$0",
+                    "set.fanart": "",
+                    "set.name": "Crossroads Guitar Festival Collection",
+                    "set.poster": "https://image.tmdb.org/t/p/w500/j52QAw4rar3mxUAHrsqtJPNbZhq.jpg",
+                    "set.tmdb_id": "1073874",
                     "slug_id": "eric-clapton-s-crossroads-guitar-festival-2013-2013",
                     "studio": "Parallel 28 Equipe",
                     "tmdb_id": "238470",
@@ -2653,7 +2849,7 @@
                 },
                 "runtime": 17340,
                 "season": -1,
-                "set": "",
+                "set": "Crossroads Guitar Festival Collection",
                 "setid": -1,
                 "showlink": [],
                 "showtitle": "",
@@ -2753,7 +2949,7 @@
                     "param.plugin_category": "Live Concerts & Music",
                     "param.user_slug": "dwarnes1970",
                     "param.widget": "True",
-                    "popularity": "0.872",
+                    "popularity": "0.6",
                     "revenue": "$0",
                     "slug_id": "the-police-live-in-concert-tokyo-2008",
                     "studio": "Coqueiro Verde",
@@ -2834,8 +3030,8 @@
             {
                 "album": "",
                 "art": {
-                    "icon": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage.png/",
-                    "landscape": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage_wide.png/"
+                    "icon": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p(1)%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage.png/",
+                    "landscape": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p(1)%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage_wide.png/"
                 },
                 "artist": [],
                 "cast": [],

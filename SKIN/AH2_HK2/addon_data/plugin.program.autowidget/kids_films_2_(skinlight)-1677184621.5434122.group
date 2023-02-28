@@ -1,0 +1,77 @@
+{
+    "label": "Kids Films 2 (skinLight)",
+    "type": "shortcut",
+    "paths": [
+        {
+            "label": "En famille (Kids Films)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=En%20famille%20(Kids%20Films)&list_slug=en-famille-kids-films&owner=true&plugin_category=En%20famille%20(Kids%20Films)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/En-famille.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/en-famille-kids-films\r\nUpdated at 2023-02-23 21:06:07",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "en_famille_(kids_films)-1677184625.5932202",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Disney classiques (Kids Films)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Disney%20classiques%20(Kids%20Films)&list_slug=disney-classiques-kids-films&owner=true&plugin_category=Disney%20classiques%20(Kids%20Films)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Disney.jpg"
+                },
+                "plot": "This list is maintained by https://mdblist.com",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "disney_classiques_(kids_films)-1677184647.6921732",
+            "version": "3.7.0"
+        },
+        {
+            "label": "DreamWorks Animation (Kids Films)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=DreamWorks%20Animation%20(Kids%20Films)&list_slug=dreamworks-animation-kids-films&owner=true&plugin_category=DreamWorks%20Animation%20(Kids%20Films)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/DreamWorks.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/dreamworks-animation-kids-films\r\nUpdated at 2023-02-23 15:34:27",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "dreamworks_animation_(kids_films)-1677184665.7746267",
+            "version": "3.7.0"
+        }
+    ],
+    "id": "kids_films_2_(skinlight)-1677184621.5434122",
+    "art": {
+        "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+        "fanart": "special://home/addons\\plugin.program.autowidget\\resources\\media\\fanart\\folder-shortcut.png",
+        "icon": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png",
+        "poster": "special://home/addons\\plugin.program.autowidget\\resources\\media\\poster\\folder-shortcut.png",
+        "thumb": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png"
+    },
+    "version": "3.7.0",
+    "content": "",
+    "sort_order": "16"
+}

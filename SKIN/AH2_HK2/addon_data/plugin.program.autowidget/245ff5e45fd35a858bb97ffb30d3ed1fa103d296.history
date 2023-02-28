@@ -1,0 +1,57 @@
+{
+    "history": [
+        [
+            1676908408.371331,
+            "53e4c5c71ef5eeceebe66c390a0f152b09e8fd9f"
+        ],
+        [
+            1676910169.5245428,
+            "53e4c5c71ef5eeceebe66c390a0f152b09e8fd9f"
+        ],
+        [
+            1676910886.779152,
+            "53e4c5c71ef5eeceebe66c390a0f152b09e8fd9f"
+        ],
+        [
+            1676913929.8638854,
+            "53e4c5c71ef5eeceebe66c390a0f152b09e8fd9f"
+        ],
+        [
+            1676923807.2348177,
+            "53e4c5c71ef5eeceebe66c390a0f152b09e8fd9f"
+        ],
+        [
+            1676932970.119722,
+            "53e4c5c71ef5eeceebe66c390a0f152b09e8fd9f"
+        ],
+        [
+            1676952433.8320646,
+            "53e4c5c71ef5eeceebe66c390a0f152b09e8fd9f"
+        ],
+        [
+            1676989967.1568384,
+            "53e4c5c71ef5eeceebe66c390a0f152b09e8fd9f"
+        ],
+        [
+            1677038666.8120341,
+            "53e4c5c71ef5eeceebe66c390a0f152b09e8fd9f"
+        ],
+        [
+            1677104172.051389,
+            "0d427958cb6eb28aa6e08d090bed88f824b2b928"
+        ],
+        [
+            1677125129.3481257,
+            "0d427958cb6eb28aa6e08d090bed88f824b2b928"
+        ],
+        [
+            1677355422.599676,
+            "0d427958cb6eb28aa6e08d090bed88f824b2b928"
+        ]
+    ],
+    "widgets": [
+        "2635cab1-68aa-40d9-aa32-843471317b66",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Action+%26+Aventure+%28Se%CC%81ries+TV%29&list_slug=action-aventure-series-tv&owner=true&plugin_category=Action+%26+Aventure+%28Se%CC%81ries+TV%29&user_slug=jukebox8786&page=2&widget=true&reload=$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]"
+}

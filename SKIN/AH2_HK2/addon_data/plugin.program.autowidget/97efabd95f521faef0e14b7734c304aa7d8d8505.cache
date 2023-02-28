@@ -49,7 +49,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "gpus",
                     "param.widget": "True",
-                    "popularity": "1.4",
+                    "popularity": "0.6",
                     "provider.link": "https://www.themoviedb.org/movie/518434-roger-waters-us-them/watch?locale=FR",
                     "providers": "Apple iTunes / Google Play Movies / YouTube / Amazon Video",
                     "revenue": "$0",
@@ -327,7 +327,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "gpus",
                     "param.widget": "True",
-                    "popularity": "12.513",
+                    "popularity": "15.335",
                     "provider.link": "https://www.themoviedb.org/movie/625561-travis-scott-look-mom-i-can-fly/watch?locale=FR",
                     "providers": "Netflix / Netflix basic with Ads",
                     "revenue": "$0",
@@ -335,7 +335,7 @@
                     "tmdb_id": "625561",
                     "tmdb_rating": "7.0",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "184",
+                    "tmdb_votes": "187",
                     "trakt_id": "466932",
                     "widget": "Concerts"
                 },
@@ -366,7 +366,7 @@
                 "plotoutline": "",
                 "premiered": "2019-08-28",
                 "productioncode": "",
-                "rating": 6.9670000076293945,
+                "rating": 7.0,
                 "resume": {
                     "position": 0.0,
                     "total": 5160.0
@@ -404,7 +404,7 @@
                     "unknown": "tt10856726"
                 },
                 "userrating": 0,
-                "votes": "184",
+                "votes": "187",
                 "writer": [],
                 "year": 2019
             },
@@ -450,7 +450,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "gpus",
                     "param.widget": "True",
-                    "popularity": "1.652",
+                    "popularity": "2.569",
                     "revenue": "$0",
                     "slug_id": "prime-day-concert-2019-2019",
                     "tmdb_id": "614793",
@@ -592,7 +592,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "gpus",
                     "param.widget": "True",
-                    "popularity": "0.854",
+                    "popularity": "0.603",
                     "revenue": "$0",
                     "slug_id": "arctic-monkeys-live-in-mexico-2019",
                     "tmdb_id": "610119",
@@ -738,7 +738,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "gpus",
                     "param.widget": "True",
-                    "popularity": "1.272",
+                    "popularity": "0.836",
                     "revenue": "$0",
                     "slug_id": "the-cure-disintegration-in-sydney-2019",
                     "studio": "SOH Music",
@@ -846,7 +846,8 @@
                     {
                         "name": "Lenny Castro",
                         "order": 3,
-                        "role": "Percussions"
+                        "role": "Percussions",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fnj5nfCWcXTjh75JNH5fbacNeFsj.jpg/"
                     },
                     {
                         "name": "Shannon Forrest",
@@ -901,7 +902,7 @@
                     "param.user_slug": "gpus",
                     "param.widget": "True",
                     "physical_release": "2019-03-22",
-                    "popularity": "1.315",
+                    "popularity": "0.781",
                     "provider.link": "https://www.themoviedb.org/movie/580873-toto-40-tours-around-the-sun/watch?locale=FR",
                     "providers": "Apple iTunes",
                     "revenue": "$0",
@@ -1058,7 +1059,7 @@
                     "param.user_slug": "gpus",
                     "param.widget": "True",
                     "physical_release": "2018-12-07",
-                    "popularity": "2.955",
+                    "popularity": "2.404",
                     "provider.link": "https://www.themoviedb.org/movie/563397-coldplay-live-in-sao-paulo/watch?locale=FR",
                     "providers": "Apple iTunes",
                     "revenue": "$0",
@@ -1171,8 +1172,7 @@
                     {
                         "name": "Salaam Remi",
                         "order": 2,
-                        "role": "Self",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f6pAtNLKTQQZjAg2DzvTamddtn8m.jpg/"
+                        "role": "Self"
                     },
                     {
                         "name": "Ronnie Spector",
@@ -1215,7 +1215,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "gpus",
                     "param.widget": "True",
-                    "popularity": "2.016",
+                    "popularity": "1.205",
                     "revenue": "$0",
                     "slug_id": "amy-winehouse-back-to-black-the-real-story-behind-the-modern-classic-2018",
                     "studio": "BBC",
@@ -1378,16 +1378,16 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "gpus",
                     "param.widget": "True",
-                    "popularity": "1.621",
+                    "popularity": "2.819",
                     "provider.link": "https://www.themoviedb.org/movie/546291-steven-wilson-home-invasion-in-concert-at-the-royal-albert-hall/watch?locale=FR",
                     "providers": "Amazon Prime Video / Apple iTunes",
                     "revenue": "$0",
                     "slug_id": "steven-wilson-home-invasion-in-concert-at-the-royal-albert-hall-2018",
                     "studio": "Eagle Rock Entertainment",
                     "tmdb_id": "546291",
-                    "tmdb_rating": "8.6",
+                    "tmdb_rating": "8.2",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "5",
+                    "tmdb_votes": "6",
                     "trakt_id": "396721",
                     "widget": "Concerts"
                 },
@@ -1417,7 +1417,7 @@
                 "plotoutline": "",
                 "premiered": "2018-10-26",
                 "productioncode": "",
-                "rating": 8.600000381469727,
+                "rating": 8.199999809265137,
                 "resume": {
                     "position": 0.0,
                     "total": 7980.0
@@ -1457,7 +1457,7 @@
                     "unknown": "tt9364478"
                 },
                 "userrating": 0,
-                "votes": "5",
+                "votes": "6",
                 "writer": [],
                 "year": 2018
             },
@@ -1532,7 +1532,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "gpus",
                     "param.widget": "True",
-                    "popularity": "1.161",
+                    "popularity": "0.766",
                     "revenue": "$0",
                     "slug_id": "alter-bridge-live-at-the-royal-albert-hall-featuring-the-parallax-orchestra-2018",
                     "tmdb_id": "547007",
@@ -1568,9 +1568,9 @@
                 "rating": 10.0,
                 "resume": {
                     "position": 0.0,
-                    "total": 9900.0
+                    "total": 9960.0
                 },
-                "runtime": 9900,
+                "runtime": 9960,
                 "season": -1,
                 "set": "",
                 "setid": -1,
@@ -1782,7 +1782,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "gpus",
                     "param.widget": "True",
-                    "popularity": "3.34",
+                    "popularity": "3.449",
                     "revenue": "$0",
                     "slug_id": "beyonce-live-at-coachella-2018",
                     "tmdb_id": "518280",
@@ -1925,16 +1925,16 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "gpus",
                     "param.widget": "True",
-                    "popularity": "2.84",
+                    "popularity": "3.76",
                     "provider.link": "https://www.themoviedb.org/movie/501350-the-doors-live-at-the-isle-of-wight-festival-1970/watch?locale=FR",
-                    "providers": "Canal+ / Apple iTunes / Arte",
+                    "providers": "Apple iTunes / Arte",
                     "revenue": "$0",
                     "slug_id": "the-doors-live-at-the-isle-of-wight-festival-1970-2018",
                     "studio": "Eagle Rock Entertainment",
                     "tmdb_id": "501350",
-                    "tmdb_rating": "8.2",
+                    "tmdb_rating": "7.8",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "4",
+                    "tmdb_votes": "5",
                     "trakt_id": "348330",
                     "widget": "Concerts"
                 },
@@ -1964,7 +1964,7 @@
                 "plotoutline": "",
                 "premiered": "2018-02-23",
                 "productioncode": "",
-                "rating": 8.199999809265137,
+                "rating": 7.800000190734863,
                 "resume": {
                     "position": 0.0,
                     "total": 3960.0
@@ -2004,7 +2004,7 @@
                     "unknown": "tt7211346"
                 },
                 "userrating": 0,
-                "votes": "4",
+                "votes": "5",
                 "writer": [],
                 "year": 2018
             },
@@ -2190,7 +2190,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "gpus",
                     "param.widget": "True",
-                    "popularity": "13.041",
+                    "popularity": "8.334",
                     "provider.link": "https://www.themoviedb.org/movie/13763-purple-rain/watch?locale=FR",
                     "providers": "Apple iTunes / Google Play Movies / Microsoft Store / YouTube / Filmo TV / Bbox VOD / Amazon Video",
                     "revenue": "$68,392,977",
@@ -2199,7 +2199,7 @@
                     "tmdb_id": "13763",
                     "tmdb_rating": "6.7",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "298",
+                    "tmdb_votes": "300",
                     "trakt_id": "8168",
                     "widget": "Concerts"
                 },
@@ -2230,7 +2230,7 @@
                 "plotoutline": "",
                 "premiered": "1984-07-27",
                 "productioncode": "",
-                "rating": 6.708000183105469,
+                "rating": 6.699999809265137,
                 "resume": {
                     "position": 0.0,
                     "total": 6660.0
@@ -2273,7 +2273,7 @@
                     "unknown": "tt0087957"
                 },
                 "userrating": 0,
-                "votes": "298",
+                "votes": "300",
                 "writer": [
                     "William Blinn",
                     "Albert Magnoli"
@@ -2301,7 +2301,7 @@
                         "name": "Paul McCartney",
                         "order": 0,
                         "role": "Self",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fsCPsv9ueP5UR6BkMSmRDlwbra6S.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fdSheYj41UvBQ4DAEtfyuS1R52Ce.jpg/"
                     },
                     {
                         "name": "Ringo Starr",
@@ -2319,7 +2319,7 @@
                         "name": "George Harrison",
                         "order": 3,
                         "role": "Self (archive footage)",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2frbcU4QSEWTKvLoJCRXGPati4KjJ.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fzwUO2gnKBnSrKOB9hnhI9GdOX6e.jpg/"
                     },
                     {
                         "name": "Larry Kane",
@@ -2343,7 +2343,7 @@
                         "name": "Eddie Izzard",
                         "order": 7,
                         "role": "Herself",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fjPsZdu9DzGudytybdzjXAm77Q0r.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fH8zar1LxJu5jgThl33z59g2iqO.jpg/"
                     },
                     {
                         "name": "Sigourney Weaver",
@@ -2441,7 +2441,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "gpus",
                     "param.widget": "True",
-                    "popularity": "13.501",
+                    "popularity": "13.443",
                     "provider.link": "https://www.themoviedb.org/movie/391698-the-beatles-eight-days-a-week-the-touring-years/watch?locale=FR",
                     "providers": "Apple iTunes / Google Play Movies / Orange VOD / Microsoft Store / YouTube / Filmo TV / Canal VOD / Bbox VOD / Rakuten TV / Amazon Video",
                     "revenue": "$12,283,800",
@@ -2451,7 +2451,7 @@
                     "tmdb_id": "391698",
                     "tmdb_rating": "7.6",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "309",
+                    "tmdb_votes": "315",
                     "trakt_id": "234024",
                     "widget": "Concerts"
                 },
@@ -2480,7 +2480,7 @@
                 "plotoutline": "",
                 "premiered": "2016-09-15",
                 "productioncode": "",
-                "rating": 7.611999988555908,
+                "rating": 7.599999904632568,
                 "resume": {
                     "position": 0.0,
                     "total": 7200.0
@@ -2521,7 +2521,7 @@
                     "unknown": "tt2531318"
                 },
                 "userrating": 0,
-                "votes": "309",
+                "votes": "315",
                 "writer": [
                     "Mark Monroe",
                     "P.G. Morgan",
@@ -2552,13 +2552,13 @@
                         "name": "Paul McCartney",
                         "order": 1,
                         "role": "Paul",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fsCPsv9ueP5UR6BkMSmRDlwbra6S.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fdSheYj41UvBQ4DAEtfyuS1R52Ce.jpg/"
                     },
                     {
                         "name": "George Harrison",
                         "order": 2,
                         "role": "George",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2frbcU4QSEWTKvLoJCRXGPati4KjJ.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fzwUO2gnKBnSrKOB9hnhI9GdOX6e.jpg/"
                     },
                     {
                         "name": "Ringo Starr",
@@ -2632,7 +2632,7 @@
                     {
                         "name": "David Janson",
                         "order": 15,
-                        "role": "Young Boy (as David Jaxon)",
+                        "role": "Young Boy",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fnHhWX0DqvkHi2il7SZf45jMCR0K.jpg/"
                     },
                     {
@@ -2707,7 +2707,7 @@
                         "name": "Susan Hampshire",
                         "order": 28,
                         "role": "Dancer at Disco",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2flgzKKduHCx2B0w5hoMyXwqR9wYq.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f6C7nO6mJq3o5DJpvY2mkIuUqY95.jpg/"
                     },
                     {
                         "name": "Victor Harrington",
@@ -2748,7 +2748,7 @@
                         "name": "Derek Nimmo",
                         "order": 35,
                         "role": "Leslie Jackson",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fyhBNbYlmuEMmWluO0uvt1kYGzTF.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2flH4iG8RKKBmKJvq38Y3BC3rojhh.jpg/"
                     },
                     {
                         "name": "Margaret Nolan",
@@ -2766,7 +2766,7 @@
                         "name": "Charlotte Rampling",
                         "order": 38,
                         "role": "Girl at Disco",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f5U35yScoao1hf6SibbMZcld2CJd.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f7fhg5FCcl0VfYERP5D0unpybqgx.jpg/"
                     },
                     {
                         "name": "Gordon Rollings",
@@ -2844,7 +2844,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "gpus",
                     "param.widget": "True",
-                    "popularity": "15.019",
+                    "popularity": "11.596",
                     "provider.link": "https://www.themoviedb.org/movie/704-a-hard-day-s-night/watch?locale=FR",
                     "providers": "Bbox VOD",
                     "revenue": "$2,360,561",
@@ -2853,7 +2853,7 @@
                     "tmdb_id": "704",
                     "tmdb_rating": "7.4",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "546",
+                    "tmdb_votes": "554",
                     "trakt_id": "576",
                     "widget": "Concerts"
                 },
@@ -2883,7 +2883,7 @@
                 "plotoutline": "",
                 "premiered": "1964-07-07",
                 "productioncode": "",
-                "rating": 7.434999942779541,
+                "rating": 7.400000095367432,
                 "resume": {
                     "position": 0.0,
                     "total": 5220.0
@@ -2926,7 +2926,7 @@
                     "unknown": "tt0058182"
                 },
                 "userrating": 0,
-                "votes": "546",
+                "votes": "554",
                 "writer": [
                     "Alun Owen"
                 ],
@@ -2983,7 +2983,7 @@
                         "name": "George Harrison",
                         "order": 6,
                         "role": "George (uncredited)",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2frbcU4QSEWTKvLoJCRXGPati4KjJ.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fzwUO2gnKBnSrKOB9hnhI9GdOX6e.jpg/"
                     },
                     {
                         "name": "John Lennon",
@@ -2995,7 +2995,7 @@
                         "name": "Paul McCartney",
                         "order": 8,
                         "role": "Paul (uncredited)",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fsCPsv9ueP5UR6BkMSmRDlwbra6S.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fdSheYj41UvBQ4DAEtfyuS1R52Ce.jpg/"
                     },
                     {
                         "name": "Ringo Starr",
@@ -3039,7 +3039,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "gpus",
                     "param.widget": "True",
-                    "popularity": "16.391",
+                    "popularity": "12.837",
                     "provider.link": "https://www.themoviedb.org/movie/12105-yellow-submarine/watch?locale=FR",
                     "providers": "Apple iTunes",
                     "revenue": "$1,273,261",
@@ -3048,7 +3048,7 @@
                     "tmdb_id": "12105",
                     "tmdb_rating": "7.1",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "411",
+                    "tmdb_votes": "417",
                     "trakt_id": "7023",
                     "widget": "Concerts"
                 },
@@ -3081,7 +3081,7 @@
                 "plotoutline": "",
                 "premiered": "1968-07-17",
                 "productioncode": "",
-                "rating": 7.126999855041504,
+                "rating": 7.099999904632568,
                 "resume": {
                     "position": 0.0,
                     "total": 5340.0
@@ -3124,7 +3124,7 @@
                     "unknown": "tt0063823"
                 },
                 "userrating": 0,
-                "votes": "411",
+                "votes": "417",
                 "writer": [
                     "Erich Segal",
                     "Al Brodax",
@@ -3161,7 +3161,7 @@
                         "name": "Taylor Swift",
                         "order": 0,
                         "role": "Self",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f896fxTO6ScX7l3ZeXLQmGcIRcyG.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fxpTNiyJ5PAogtmdjySMZ1sNlvh1.jpg/"
                     },
                     {
                         "name": "Charli XCX",
@@ -3384,7 +3384,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "gpus",
                     "param.widget": "True",
-                    "popularity": "11.23",
+                    "popularity": "16.552",
                     "provider.link": "https://www.themoviedb.org/movie/568332-taylor-swift-reputation-stadium-tour/watch?locale=FR",
                     "providers": "Netflix / Netflix basic with Ads",
                     "revenue": "$0",
@@ -3393,7 +3393,7 @@
                     "tmdb_id": "568332",
                     "tmdb_rating": "8.3",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "253",
+                    "tmdb_votes": "259",
                     "trakt_id": "419622",
                     "widget": "Concerts"
                 },
@@ -3408,8 +3408,7 @@
                 "filetype": "file",
                 "firstaired": "",
                 "genre": [
-                    "Musique",
-                    "Documentaire"
+                    "Musique"
                 ],
                 "imdbnumber": "tt9426852",
                 "label": "Taylor Swift: Reputation Stadium Tour",
@@ -3423,7 +3422,7 @@
                 "plotoutline": "",
                 "premiered": "2018-12-31",
                 "productioncode": "",
-                "rating": 8.267000198364258,
+                "rating": 8.298999786376953,
                 "resume": {
                     "position": 0.0,
                     "total": 7500.0
@@ -3464,7 +3463,7 @@
                     "unknown": "tt9426852"
                 },
                 "userrating": 0,
-                "votes": "253",
+                "votes": "259",
                 "writer": [
                     "Baz Halpin"
                 ],
@@ -3564,14 +3563,14 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "gpus",
                     "param.widget": "True",
-                    "popularity": "9.936",
+                    "popularity": "8.13",
                     "revenue": "$0",
                     "slug_id": "metallica-some-kind-of-monster-2004",
                     "studio": "Electra Entertainment",
                     "tmdb_id": "11401",
                     "tmdb_rating": "7.0",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "184",
+                    "tmdb_votes": "185",
                     "trakt_id": "6497",
                     "widget": "Concerts"
                 },
@@ -3602,7 +3601,7 @@
                 "plotoutline": "",
                 "premiered": "2004-07-09",
                 "productioncode": "",
-                "rating": 6.984000205993652,
+                "rating": 6.988999843597412,
                 "resume": {
                     "position": 0.0,
                     "total": 8400.0
@@ -3643,7 +3642,7 @@
                     "unknown": "tt0387412"
                 },
                 "userrating": 0,
-                "votes": "184",
+                "votes": "185",
                 "writer": [],
                 "year": 2004
             },
@@ -3651,7 +3650,7 @@
                 "album": "",
                 "art": {
                     "clearart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f79931%2fhdmovieclearart%2fadele-live-at-the-royal-albert-hall-5297ccf2e70d0.png/",
-                    "clearlogo": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f79931%2fhdmovielogo%2fadele-live-at-the-royal-albert-hall-508daf229356e.png/",
+                    "clearlogo": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f4q2t4EWvuSDWUloV9GYMB1HOGHC.png/",
                     "discart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f79931%2fmoviedisc%2fadele-live-at-the-royal-albert-hall-511382cf726de.png/",
                     "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fnourcgjOGs59YxNwDuLWxOjo3ME.jpg/",
                     "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2frKHVEjAJ9DG7dNN5VEahTdExzgv.jpg/",
@@ -3766,7 +3765,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "gpus",
                     "param.widget": "True",
-                    "popularity": "7.434",
+                    "popularity": "5.716",
                     "revenue": "$0",
                     "slug_id": "adele-live-at-the-royal-albert-hall-2011",
                     "studio": "Sony Music Entertainment",
@@ -3853,8 +3852,8 @@
             {
                 "album": "",
                 "art": {
-                    "icon": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage.png/",
-                    "landscape": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage_wide.png/"
+                    "icon": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p(1)%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage.png/",
+                    "landscape": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p(1)%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage_wide.png/"
                 },
                 "artist": [],
                 "cast": [],

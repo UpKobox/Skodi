@@ -1,0 +1,102 @@
+{
+    "label": "Menu S\u00e9ries Famille",
+    "type": "shortcut",
+    "paths": [
+        {
+            "label": "Recherche",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=Recherche",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/search.png",
+                    "thumb": "special://masterprofile/addon_data/icones/recherche.png"
+                },
+                "title": "Recherche",
+                "plot": "ben recherche ..... (astuce le _ remplace n'importe quel caract\u00e9re ex search => r_m donnera tous les titres qui contiennent ram, rom , rum etc... Interressant pour la recherche simultan\u00e9es de 'e \u00e9 \u00e8 \u00ea'",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "recherche-1666184173.2053866",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Mes S\u00e9ries Famille",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.program.autowidget/?group=favs_series-1659389709.1006289&mode=group&refresh&reload",
+                "filetype": "directory",
+                "art": {
+                    "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-sync.png",
+                    "fanart": "special://home/addons\\plugin.program.autowidget\\resources\\media\\fanart\\folder-sync.png",
+                    "icon": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-sync.png",
+                    "poster": "special://home/addons\\plugin.program.autowidget\\resources\\media\\poster\\folder-sync.png",
+                    "thumb": "special://masterprofile/addon_data/icones/favorisgeneral.png"
+                },
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "programs",
+            "target": "shortcut",
+            "id": "mes_series_famille-1666188835.2491574",
+            "version": "3.7.0"
+        },
+        {
+            "label": "S\u00e9ries Famille",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.program.autowidget/?group=series_famille-1656858235.5926993&mode=group&refresh&reload",
+                "filetype": "directory",
+                "art": {
+                    "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+                    "fanart": "special://home/addons\\plugin.program.autowidget\\resources\\media\\fanart\\folder-shortcut.png",
+                    "icon": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png",
+                    "poster": "special://home/addons\\plugin.program.autowidget\\resources\\media\\poster\\folder-shortcut.png",
+                    "thumb": "special://masterprofile/addon_data/icones/tvseries3pird.png"
+                },
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "programs",
+            "target": "shortcut",
+            "id": "series_famille-1666184091.853326",
+            "version": "3.7.0"
+        },
+        {
+            "label": "S\u00e9ries Family Tmdb",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.program.autowidget/?group=series_family_tmdb-1657545789.318977&mode=group&refresh&reload",
+                "filetype": "directory",
+                "art": {
+                    "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+                    "fanart": "special://home/addons\\plugin.program.autowidget\\resources\\media\\fanart\\folder-shortcut.png",
+                    "icon": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png",
+                    "poster": "special://home/addons\\plugin.program.autowidget\\resources\\media\\poster\\folder-shortcut.png",
+                    "thumb": "special://masterprofile/addon_data/icones/tmdb.png"
+                },
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "programs",
+            "target": "shortcut",
+            "id": "series_family_tmdb-1666184101.3706276",
+            "version": "3.7.0"
+        }
+    ],
+    "id": "menu_series_famille-1666184065.476333",
+    "art": {
+        "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+        "fanart": "special://masterprofile/addon_data/icones/fonds/thenuit.png",
+        "icon": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png",
+        "poster": "special://home/addons\\plugin.program.autowidget\\resources\\media\\poster\\folder-shortcut.png",
+        "thumb": "special://masterprofile/addon_data/icones/tvseries3pird.png"
+    },
+    "version": "3.7.0",
+    "content": "",
+    "sort_order": "38"
+}

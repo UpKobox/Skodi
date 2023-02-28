@@ -1,0 +1,53 @@
+{
+    "history": [
+        [
+            1676908425.070411,
+            "95ba2d977e32d284f4b988f50446a5bb37a7c7dc"
+        ],
+        [
+            1676910159.7085073,
+            "95ba2d977e32d284f4b988f50446a5bb37a7c7dc"
+        ],
+        [
+            1676910881.052057,
+            "95ba2d977e32d284f4b988f50446a5bb37a7c7dc"
+        ],
+        [
+            1676913917.7414696,
+            "95ba2d977e32d284f4b988f50446a5bb37a7c7dc"
+        ],
+        [
+            1676924008.7930126,
+            "95ba2d977e32d284f4b988f50446a5bb37a7c7dc"
+        ],
+        [
+            1676932962.3334548,
+            "95ba2d977e32d284f4b988f50446a5bb37a7c7dc"
+        ],
+        [
+            1676952416.4075541,
+            "95ba2d977e32d284f4b988f50446a5bb37a7c7dc"
+        ],
+        [
+            1676989958.5155172,
+            "95ba2d977e32d284f4b988f50446a5bb37a7c7dc"
+        ],
+        [
+            1677038662.9999094,
+            "95ba2d977e32d284f4b988f50446a5bb37a7c7dc"
+        ],
+        [
+            1677104168.3935027,
+            "95ba2d977e32d284f4b988f50446a5bb37a7c7dc"
+        ],
+        [
+            1677355476.6931,
+            "95ba2d977e32d284f4b988f50446a5bb37a7c7dc"
+        ]
+    ],
+    "widgets": [
+        "c91ee016-f4a4-46e6-9a5b-e0eb40ebff04",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Familial+%28Films+re%CC%81cents%29&list_slug=familial-films-recents&owner=true&plugin_category=Familial+%28Films+re%CC%81cents%29&user_slug=jukebox8786&page=2&widget=true&reload=$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]"
+}

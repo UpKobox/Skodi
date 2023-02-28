@@ -1,0 +1,61 @@
+{
+    "history": [
+        [
+            1677250583.1452923,
+            "acddc913a51b172c80d6af1d30dc4765b092181e"
+        ],
+        [
+            1677253837.4710321,
+            "e69e443d4fbd76a835efcf68530fc501ea7ca366"
+        ],
+        [
+            1677254189.6231518,
+            "e69e443d4fbd76a835efcf68530fc501ea7ca366"
+        ],
+        [
+            1677261019.313899,
+            "e69e443d4fbd76a835efcf68530fc501ea7ca366"
+        ],
+        [
+            1677262031.7336466,
+            "e69e443d4fbd76a835efcf68530fc501ea7ca366"
+        ],
+        [
+            1677284344.4412637,
+            "e69e443d4fbd76a835efcf68530fc501ea7ca366"
+        ],
+        [
+            1677317321.628419,
+            "e69e443d4fbd76a835efcf68530fc501ea7ca366"
+        ],
+        [
+            1677352581.341161,
+            "e69e443d4fbd76a835efcf68530fc501ea7ca366"
+        ],
+        [
+            1677353810.030551,
+            "e69e443d4fbd76a835efcf68530fc501ea7ca366"
+        ],
+        [
+            1677355091.4726686,
+            "e69e443d4fbd76a835efcf68530fc501ea7ca366"
+        ],
+        [
+            1677363594.2635107,
+            "e69e443d4fbd76a835efcf68530fc501ea7ca366"
+        ],
+        [
+            1677363963.3241856,
+            "e69e443d4fbd76a835efcf68530fc501ea7ca366"
+        ],
+        [
+            1677364447.371031,
+            "e69e443d4fbd76a835efcf68530fc501ea7ca366"
+        ]
+    ],
+    "widgets": [
+        "7cb28716-eb8b-444b-8a67-ae23ebfef3a4",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Les%20plus%20tendances%20(Kids%20S%c3%a9ries%20TV)&list_slug=les-plus-tendances-kids-series-tv&owner=true&plugin_category=Les%20plus%20tendances%20(Kids%20S%c3%a9ries%20TV)&user_slug=jukebox8786&widget=True"
+}

@@ -1,0 +1,57 @@
+{
+    "history": [
+        [
+            1676908427.4242585,
+            "6caaa7f3020a853b1a4c644dc5f8f7a9d7927e20"
+        ],
+        [
+            1676910164.203918,
+            "6caaa7f3020a853b1a4c644dc5f8f7a9d7927e20"
+        ],
+        [
+            1676910882.2630842,
+            "6caaa7f3020a853b1a4c644dc5f8f7a9d7927e20"
+        ],
+        [
+            1676913924.2761781,
+            "6caaa7f3020a853b1a4c644dc5f8f7a9d7927e20"
+        ],
+        [
+            1676924010.4305456,
+            "6caaa7f3020a853b1a4c644dc5f8f7a9d7927e20"
+        ],
+        [
+            1676932965.9670274,
+            "6caaa7f3020a853b1a4c644dc5f8f7a9d7927e20"
+        ],
+        [
+            1676952422.543742,
+            "6caaa7f3020a853b1a4c644dc5f8f7a9d7927e20"
+        ],
+        [
+            1676989962.0758998,
+            "6caaa7f3020a853b1a4c644dc5f8f7a9d7927e20"
+        ],
+        [
+            1677038664.4452665,
+            "6caaa7f3020a853b1a4c644dc5f8f7a9d7927e20"
+        ],
+        [
+            1677104171.5336077,
+            "cdf515e126213d00b79be7598d3fa33eb5a08484"
+        ],
+        [
+            1677125125.9494326,
+            "cdf515e126213d00b79be7598d3fa33eb5a08484"
+        ],
+        [
+            1677355409.371953,
+            "9669eb3c7b0d7759fd8f188827b13f62491217e8"
+        ]
+    ],
+    "widgets": [
+        "206189de-14f6-40cb-bdb7-3d7752e404e6",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Horreur+%28Films+re%CC%81cents%29&list_slug=horreur-films-recents&owner=true&plugin_category=Horreur+%28Films+re%CC%81cents%29&user_slug=jukebox8786&page=2&widget=true&reload=$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]"
+}

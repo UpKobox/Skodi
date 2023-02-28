@@ -1,0 +1,57 @@
+{
+    "history": [
+        [
+            1676908449.344203,
+            "3e9b89b7d61b8619aee1548bae4cb97b2790a878"
+        ],
+        [
+            1676908919.9019635,
+            "3e9b89b7d61b8619aee1548bae4cb97b2790a878"
+        ],
+        [
+            1676910198.6252875,
+            "3e9b89b7d61b8619aee1548bae4cb97b2790a878"
+        ],
+        [
+            1676911386.0120919,
+            "3e9b89b7d61b8619aee1548bae4cb97b2790a878"
+        ],
+        [
+            1676913948.3242717,
+            "3e9b89b7d61b8619aee1548bae4cb97b2790a878"
+        ],
+        [
+            1676926589.569258,
+            "3e9b89b7d61b8619aee1548bae4cb97b2790a878"
+        ],
+        [
+            1676952460.4495487,
+            "3e9b89b7d61b8619aee1548bae4cb97b2790a878"
+        ],
+        [
+            1676952488.1879313,
+            "3e9b89b7d61b8619aee1548bae4cb97b2790a878"
+        ],
+        [
+            1676989993.7268512,
+            "3e9b89b7d61b8619aee1548bae4cb97b2790a878"
+        ],
+        [
+            1677038691.18703,
+            "3e9b89b7d61b8619aee1548bae4cb97b2790a878"
+        ],
+        [
+            1677104186.2136981,
+            "3e9b89b7d61b8619aee1548bae4cb97b2790a878"
+        ],
+        [
+            1677355462.4576983,
+            "3e9b89b7d61b8619aee1548bae4cb97b2790a878"
+        ]
+    ],
+    "widgets": [
+        "10faab66-5135-4212-99c5-b37bfa7e7a6d",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Super-he%CC%81ros+%28Kids+Se%CC%81ries+TV%29&list_slug=super-heros-kids-series-tv&owner=true&plugin_category=Super-he%CC%81ros+%28Kids+Se%CC%81ries+TV%29&user_slug=jukebox8786&page=2&widget=true&reload=$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]"
+}

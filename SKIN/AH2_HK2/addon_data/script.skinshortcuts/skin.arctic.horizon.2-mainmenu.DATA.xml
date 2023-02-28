@@ -16,27 +16,27 @@
 		<action>ActivateWindow(1132)</action>
 		</shortcut>
 	<shortcut>
-		<defaultID>plugin.video.catchuptvandmore</defaultID>
-		<label>TV</label>
+		<defaultID>plugin.program.Skodi</defaultID>
+		<label>Skodi/U2Pplay</label>
 		<label2>Elément personnalisé</label2>
 		<icon>DefaultShortcut.png</icon>
-		<thumb>special://home/media/Arctic Horizon 2/Network-icon.png</thumb>
+		<thumb>special://home/addons/plugin.video.sendtokodiU2P/icon.png</thumb>
 		<action>ActivateWindow(1132)</action>
 		</shortcut>
 	<shortcut>
 		<defaultID>plugin.audio.tidal2</defaultID>
 		<label>Musiques</label>
-		<label2>Extensions Musique</label2>
-		<icon>DefaultShortcut.png</icon>
-		<thumb>special://home/media/Arctic Horizon 2/Guyman-Helmet-Music-icon.png</thumb>
-		<action>ActivateWindow(Music,"plugin://plugin.audio.tidal2",return)</action>
-		</shortcut>
-	<shortcut>
-		<defaultID>plugin.program.Skodi</defaultID>
-		<label>Skodi/U2Pplay</label>
 		<label2>Elément personnalisé</label2>
 		<icon>DefaultShortcut.png</icon>
-		<thumb>special://home/addons/plugin.program.Skodi/icon.png</thumb>
+		<thumb>special://home/media/Arctic Horizon 2/Guyman-Helmet-Music-icon.png</thumb>
+		<action>ActivateWindow(1132)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.catchuptvandmore</defaultID>
+		<label>TV</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/media/Arctic Horizon 2/Network-icon.png</thumb>
 		<action>ActivateWindow(1132)</action>
 		</shortcut>
 	</shortcuts>

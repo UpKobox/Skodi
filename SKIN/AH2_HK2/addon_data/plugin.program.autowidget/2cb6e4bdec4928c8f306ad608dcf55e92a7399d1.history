@@ -1,0 +1,57 @@
+{
+    "history": [
+        [
+            1676908444.0034811,
+            "c2c825e25ccdf7bb3f162a49896412eae74fb862"
+        ],
+        [
+            1676908914.848151,
+            "c2c825e25ccdf7bb3f162a49896412eae74fb862"
+        ],
+        [
+            1676910189.3080118,
+            "c2c825e25ccdf7bb3f162a49896412eae74fb862"
+        ],
+        [
+            1676911377.5483057,
+            "c2c825e25ccdf7bb3f162a49896412eae74fb862"
+        ],
+        [
+            1676913959.708215,
+            "c2c825e25ccdf7bb3f162a49896412eae74fb862"
+        ],
+        [
+            1676921691.6698437,
+            "c2c825e25ccdf7bb3f162a49896412eae74fb862"
+        ],
+        [
+            1676928886.8634698,
+            "c2c825e25ccdf7bb3f162a49896412eae74fb862"
+        ],
+        [
+            1676952482.5815747,
+            "c2c825e25ccdf7bb3f162a49896412eae74fb862"
+        ],
+        [
+            1676989987.5081308,
+            "c2c825e25ccdf7bb3f162a49896412eae74fb862"
+        ],
+        [
+            1677038683.020708,
+            "c2c825e25ccdf7bb3f162a49896412eae74fb862"
+        ],
+        [
+            1677103929.3559701,
+            "c2c825e25ccdf7bb3f162a49896412eae74fb862"
+        ],
+        [
+            1677355449.382127,
+            "c2c825e25ccdf7bb3f162a49896412eae74fb862"
+        ]
+    ],
+    "widgets": [
+        "5f5e7f53-04e1-47d8-a784-5125fe607a3f",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=DreamWorks+Animation+%28Kids+Films%29&list_slug=dreamworks-animation-kids-films&owner=true&plugin_category=DreamWorks+Animation+%28Kids+Films%29&user_slug=jukebox8786&page=2&widget=true&reload=$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]"
+}

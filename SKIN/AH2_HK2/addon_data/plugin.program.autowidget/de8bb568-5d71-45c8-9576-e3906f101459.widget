@@ -1,0 +1,11 @@
+{
+    "action": "static",
+    "id": "de8bb568-5d71-45c8-9576-e3906f101459",
+    "group": "concerts_live-1675340768.9877484",
+    "refresh": 2.0,
+    "path": "live_concerts__music-1675344053.3678124",
+    "version": "3.7.0",
+    "current": 0,
+    "label": "Live Concerts & Music",
+    "stack": []
+}

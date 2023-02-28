@@ -1,0 +1,18 @@
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>Concert</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/media/Arctic Horizon 2/concerts-3586700-2997928.webp</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&amp;famille=concert&amp;offset=0",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>1038</defaultID>
+		<label>1038</label>
+		<label2>item</label2>
+		<icon>special://skin/extras/icons/songs.png</icon>
+		<thumb>special://home/media/Arctic Horizon 2/Folder-Music-icon.png</thumb>
+		<action>ActivateWindow(music,addons://sources/audio/,return)</action>
+		</shortcut>
+	</shortcuts>

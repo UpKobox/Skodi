@@ -17,10 +17,10 @@
                     "fanart4": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f77338%2fmoviebackground%2funtouchable-533b64e83d6ec.jpg/",
                     "fanart5": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f77338%2fmoviebackground%2funtouchable-533b64f4c1e07.jpg/",
                     "fanart6": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f77338%2fmoviebackground%2funtouchable-533b64fed0979.jpg/",
-                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2feH7jlXl7lGVtzmBupKGRUR52WvS.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f8hZnsW4wGz3zuuwu9eniaoKIJnP.jpg/",
                     "keyart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f77338%2fmovieposter%2funtouchable-581629c2ca81c.jpg/",
                     "landscape": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fv2slbRI14tB0yrzjgfqJkNkcC5O.jpg/",
-                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2feH7jlXl7lGVtzmBupKGRUR52WvS.jpg/"
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f8hZnsW4wGz3zuuwu9eniaoKIJnP.jpg/"
                 },
                 "artist": [],
                 "cast": [
@@ -58,7 +58,7 @@
                         "name": "Audrey Fleurot",
                         "order": 5,
                         "role": "Magalie",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f83wsYI6oRWrtkcKr7ozobh1VWrm.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fvLFsuAo10Tp0ApjmrcfwgBw6792.jpg/"
                     },
                     {
                         "name": "Cyril Mendy",
@@ -93,13 +93,13 @@
                     {
                         "name": "Dominique Daguier",
                         "order": 11,
-                        "role": "Friend of Philippe",
+                        "role": "Philippe's Friend",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f30N8wnbFC18euVDTS1i9H7JCP6E.jpg/"
                     },
                     {
                         "name": "Fran\u00e7ois Caron",
                         "order": 12,
-                        "role": "Friend of Philippe",
+                        "role": "Philippe's Friend",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f4W6YjFtvLCuJzsQ2cQR3om7WCjQ.jpg/"
                     },
                     {
@@ -129,7 +129,7 @@
                     {
                         "name": "\u00c9milie Caen",
                         "order": 17,
-                        "role": "Gallery owner",
+                        "role": "Gallery Owner",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2finBbVbSWtYd0I3VjQR9wsrrCGmA.jpg/"
                     },
                     {
@@ -141,13 +141,13 @@
                     {
                         "name": "Sylvain Lazard",
                         "order": 19,
-                        "role": "New auxiliary",
+                        "role": "New Auxiliary",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fe0As23H72z0ovq1XbFfEWUZJyE2.jpg/"
                     },
                     {
                         "name": "Jean-Fran\u00e7ois Cayrey",
                         "order": 20,
-                        "role": "2nd candidate for the post of auxiliary",
+                        "role": "2nd Candidate for the Post of Auxiliary",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fviakoMmXfFrIyyyXQhc4Mk2Dtga.jpg/"
                     },
                     {
@@ -183,24 +183,24 @@
                     {
                         "name": "J\u00e9r\u00f4me Pauwels",
                         "order": 26,
-                        "role": "First badly parked neighbor",
+                        "role": "First Badly Parked Neighbor",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fpvU2lnRSpVuHULw2LbPfYR7Czu2.jpg/"
                     },
                     {
                         "name": "Antoine Laurent",
                         "order": 27,
-                        "role": "Second badly parked neighbor",
+                        "role": "Second Badly Parked Neighbor",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fmeG1BiovTDRifhpXCtG8GoHB4Mj.jpg/"
                     },
                     {
                         "name": "Fabrice Mantegna",
                         "order": 28,
-                        "role": "Opera singer"
+                        "role": "Opera Singer"
                     },
                     {
                         "name": "Hedi Bouchenafa",
                         "order": 29,
-                        "role": "Garage owner",
+                        "role": "Garage Owner",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fisbkfBuMRwoF6y0BqvWQzIeyFTt.jpg/"
                     },
                     {
@@ -224,7 +224,7 @@
                     {
                         "name": "K\u00e9vin Wamo",
                         "order": 33,
-                        "role": "Friend of Driss"
+                        "role": "Driss's Friend"
                     },
                     {
                         "name": "Pierre-Laurent Barneron",
@@ -235,7 +235,7 @@
                     {
                         "name": "Philippe Pozzo di Borgo",
                         "order": 35,
-                        "role": "Himself (archive footage) (uncredited)",
+                        "role": "Self (archive footage) (uncredited)",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f9iH098p2qbvuMuZq9LDNbiKRWR5.jpg/"
                     }
                 ],
@@ -274,9 +274,9 @@
                     "param.user_slug": "atipoul",
                     "param.widget": "True",
                     "physical_release": "2012-03-28",
-                    "popularity": "75.184",
+                    "popularity": "88.901",
                     "provider.link": "https://www.themoviedb.org/movie/77338-intouchables/watch?locale=FR",
-                    "providers": "Apple iTunes / Google Play Movies / Orange VOD / Microsoft Store / YouTube / Filmo TV / Canal VOD / Bbox VOD / Rakuten TV / Amazon Video",
+                    "providers": "Apple TV / Google Play Movies / Orange VOD / Microsoft Store / YouTube / Filmo TV / Canal VOD / Bbox VOD / Rakuten TV / Amazon Video",
                     "revenue": "$426,588,510",
                     "slug_id": "the-intouchables-2011",
                     "studio": "Gaumont",
@@ -284,7 +284,7 @@
                     "tmdb_id": "77338",
                     "tmdb_rating": "8.3",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "15,295",
+                    "tmdb_votes": "15,472",
                     "trakt_id": "57181",
                     "widget": "Films franc\u0327ais > 70%"
                 },
@@ -315,10 +315,10 @@
                 "plotoutline": "",
                 "premiered": "2011-11-02",
                 "productioncode": "",
-                "rating": 8.270000457763672,
+                "rating": 8.272000312805176,
                 "resume": {
                     "position": 0.0,
-                    "total": 6720.0
+                    "total": 0.0
                 },
                 "runtime": 6720,
                 "season": -1,
@@ -362,7 +362,7 @@
                     "unknown": "tt1675434"
                 },
                 "userrating": 0,
-                "votes": "15295",
+                "votes": "15472",
                 "writer": [
                     "\u00c9ric Toledano",
                     "Olivier Nakache",
@@ -892,17 +892,17 @@
                     "param.plugin_category": "Films franc\u0327ais > 70%",
                     "param.user_slug": "atipoul",
                     "param.widget": "True",
-                    "popularity": "40.536",
+                    "popularity": "34.009",
                     "provider.link": "https://www.themoviedb.org/movie/194-le-fabuleux-destin-d-amelie-poulain/watch?locale=FR",
                     "providers": "Orange VOD / Canal VOD / Bbox VOD / Rakuten TV / LaCinetek / Universcine",
                     "revenue": "$173,921,954",
                     "slug_id": "amelie-2001",
-                    "studio": "Canal+",
+                    "studio": "Miramax",
                     "theatrical_release": "2001-04-25",
                     "tmdb_id": "194",
                     "tmdb_rating": "7.9",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "10,178",
+                    "tmdb_votes": "10,317",
                     "trakt_id": "157",
                     "widget": "Films franc\u0327ais > 70%"
                 },
@@ -935,7 +935,7 @@
                 "rating": 7.9029998779296875,
                 "resume": {
                     "position": 0.0,
-                    "total": 7200.0
+                    "total": 0.0
                 },
                 "runtime": 7200,
                 "season": -1,
@@ -953,6 +953,7 @@
                     "video": []
                 },
                 "studio": [
+                    "Miramax",
                     "Canal+",
                     "Filmstiftung Nordrhein-Westfalen",
                     "France 3 Cin\u00e9ma",
@@ -969,7 +970,7 @@
                 "title": "Le Fabuleux Destin d'Am\u00e9lie Poulain",
                 "top250": 0,
                 "track": -1,
-                "trailer": "plugin://plugin.video.youtube/play/?video_id=rPxffUTsQ04",
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=_cZyjM_R6-E",
                 "tvshowid": -1,
                 "type": "movie",
                 "uniqueid": {
@@ -980,7 +981,7 @@
                     "unknown": "tt0211915"
                 },
                 "userrating": 0,
-                "votes": "10178",
+                "votes": "10317",
                 "writer": [
                     "Jean-Pierre Jeunet",
                     "Guillaume Laurant",
@@ -995,7 +996,7 @@
                     "clearart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f2330%2fhdmovieclearart%2ftaxi-529647443e44c.png/",
                     "clearlogo": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fshKSBFh8eBz1zxEITJXkwqFon8O.png/",
                     "discart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f2330%2fmoviedisc%2ftaxi-52947b2f8e35f.png/",
-                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f8a8QjNv3Ziqc2tGjRmq34VEqMjq.jpg/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fnmGgqRzbb0OHJloknzlorUzUVQo.jpg/",
                     "fanart1": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f2330%2fmoviebackground%2ftaxi-552b9d9783c8e.jpg/",
                     "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f5d16tJ2DLImAwCY2w0LYZjgWZA1.jpg/",
                     "keyart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f2330%2fmovieposter%2ftaxi-552a34fb09515.jpg/",
@@ -1098,7 +1099,7 @@
                         "role": "Flic Radar #2"
                     },
                     {
-                        "name": "Edouard Montoute",
+                        "name": "\u00c9douard Montoute",
                         "order": 16,
                         "role": "Alain",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ffWbTkHyL7ByGUuz8C77US8tuDNF.jpg/"
@@ -1260,7 +1261,7 @@
                 "customproperties": {
                     "available_releases": "Theatrical",
                     "budget": "$8,700,000",
-                    "cast": "Samy Naceri / Fr\u00e9d\u00e9ric Diefenthal / Marion Cotillard / Manuela Gourary / Emma Wiklund / Bernard Farcy / Georges Neri / Guy Quang / Maurice Murcia / Sabine Bail / Dan Herzberg / S\u00e9bastien Thiery / Eric B\u00e9renger / Philippe du Janerand / Christophe Fesquet / G\u00e9rard Vantaggioli / Edouard Montoute / Tara R\u00f6mer / Christian Mazucchini / Guillaume Lanson / S\u00e9bastien Pons / Malek Bechar / G\u00e9rard Dubouche / Richard Sammel / Niels Dubost / Franck Libert / Dominique No\u00e9 / Pierre Brichese / Stephan Chrisz / Paul Fructus / Gr\u00e9gory Knop / Denis Braccini / Bernard Destouches / Emilio Martinez / Catherine Alias / St\u00e9phane Algoud / Thierry Melia / J\u00e9r\u00f4me Leleu / Jean-Fran\u00e7ois Palaccio / Henri Masini / Jean-Baptiste Chaudoul / Paul Silve / Didier Gayral / St\u00e9phane Eichenholc",
+                    "cast": "Samy Naceri / Fr\u00e9d\u00e9ric Diefenthal / Marion Cotillard / Manuela Gourary / Emma Wiklund / Bernard Farcy / Georges Neri / Guy Quang / Maurice Murcia / Sabine Bail / Dan Herzberg / S\u00e9bastien Thiery / Eric B\u00e9renger / Philippe du Janerand / Christophe Fesquet / G\u00e9rard Vantaggioli / \u00c9douard Montoute / Tara R\u00f6mer / Christian Mazucchini / Guillaume Lanson / S\u00e9bastien Pons / Malek Bechar / G\u00e9rard Dubouche / Richard Sammel / Niels Dubost / Franck Libert / Dominique No\u00e9 / Pierre Brichese / Stephan Chrisz / Paul Fructus / Gr\u00e9gory Knop / Denis Braccini / Bernard Destouches / Emilio Martinez / Catherine Alias / St\u00e9phane Algoud / Thierry Melia / J\u00e9r\u00f4me Leleu / Jean-Fran\u00e7ois Palaccio / Henri Masini / Jean-Baptiste Chaudoul / Paul Silve / Didier Gayral / St\u00e9phane Eichenholc",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=2330&ignore_default=true)",
                     "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=2330)",
                     "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=2330)",
@@ -1288,9 +1289,9 @@
                     "param.plugin_category": "Films franc\u0327ais > 70%",
                     "param.user_slug": "atipoul",
                     "param.widget": "True",
-                    "popularity": "36.07",
+                    "popularity": "30.269",
                     "provider.link": "https://www.themoviedb.org/movie/2330-taxi/watch?locale=FR",
-                    "providers": "Apple iTunes / Google Play Movies / Orange VOD / YouTube / Canal VOD / Bbox VOD / Universcine / Amazon Video",
+                    "providers": "Apple TV / Google Play Movies / Orange VOD / YouTube / Canal VOD / Bbox VOD / Universcine / Amazon Video",
                     "revenue": "$44,500,000",
                     "set.fanart": "https://image.tmdb.org/t/p/original/74R8bq4RDuxK3F0VPGlse4YH3Ab.jpg",
                     "set.name": "Taxi - Saga",
@@ -1302,7 +1303,7 @@
                     "tmdb_id": "2330",
                     "tmdb_rating": "6.6",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "2,069",
+                    "tmdb_votes": "2,101",
                     "trakt_id": "1643",
                     "widget": "Films franc\u0327ais > 70%"
                 },
@@ -1312,7 +1313,7 @@
                 ],
                 "episode": -1,
                 "episodeguide": "",
-                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f8a8QjNv3Ziqc2tGjRmq34VEqMjq.jpg/",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fnmGgqRzbb0OHJloknzlorUzUVQo.jpg/",
                 "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=2330",
                 "filetype": "file",
                 "firstaired": "",
@@ -1333,10 +1334,10 @@
                 "plotoutline": "",
                 "premiered": "1998-04-08",
                 "productioncode": "",
-                "rating": 6.632999897003174,
+                "rating": 6.636000156402588,
                 "resume": {
                     "position": 0.0,
-                    "total": 5160.0
+                    "total": 0.0
                 },
                 "runtime": 5160,
                 "season": -1,
@@ -1355,9 +1356,9 @@
                 },
                 "studio": [
                     "Canal+",
-                    "Le Studio Canal+",
                     "ARP S\u00e9lection",
                     "TF1 Films Production",
+                    "StudioCanal",
                     "Cofimage 9",
                     "EuropaCorp",
                     "TF1 International",
@@ -1369,7 +1370,7 @@
                 "title": "Taxi",
                 "top250": 0,
                 "track": -1,
-                "trailer": "plugin://plugin.video.youtube/play/?video_id=OnEcAcVPXUw",
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=Ulhfx2yItH4",
                 "tvshowid": -1,
                 "type": "movie",
                 "uniqueid": {
@@ -1380,7 +1381,7 @@
                     "unknown": "tt0152930"
                 },
                 "userrating": 0,
-                "votes": "2069",
+                "votes": "2101",
                 "writer": [
                     "Luc Besson"
                 ],
@@ -1502,7 +1503,7 @@
                         "role": "CRS TV Journalist"
                     },
                     {
-                        "name": "Edouard Montoute",
+                        "name": "\u00c9douard Montoute",
                         "order": 18,
                         "role": "Darty",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ffWbTkHyL7ByGUuz8C77US8tuDNF.jpg/"
@@ -1701,7 +1702,7 @@
                 "customproperties": {
                     "available_releases": "Premiere / Limited / Theatrical / Digital / Digital / Digital / Physical / Physical / Physical / Physical",
                     "budget": "$2,600,000",
-                    "cast": "Vincent Cassel / Hubert Kound\u00e9 / Sa\u00efd Taghmaoui / Abdel Ahmed Ghili / Souleymane Dicko / Joseph Momo / H\u00e9lo\u00efse Rauth / Rywka Wajsbrot / Olga Abrego / Laurent Labasse / Choukri Gabteni / Nabil Ben Mhamed / Beno\u00eet Magimel / M\u00e9dard Niang / Arash Mansour / Abdel-Moulah Boujdouni / Mathilde Vitry / Christian Moro / Edouard Montoute / JiBi / F\u00e9licit\u00e9 Wouassi / Fatou Thioune / Thang-Long / Cut Killer / Sabrina Houicha / Sandor Weltmann / Fran\u00e7ois Levantal / Julie Mauduech / Karin Viard / Peter Kassovitz / Christophe Rossignon / Vincent Lindon / Mathieu Kassovitz / Anthony Souter / Florent Lavandeira / Teddy Marques / Samir Khelif / Tadek Lokcinski / Virginie Montel / Andr\u00e9e Damant / Marcel Marondo / Karim Belkhadra / Marc Duret / Eric Pujol / Philippe Nahon / S\u00e9bastien Tavel / Fran\u00e7ois Toumarkine / Jos\u00e9 Dalmat / Zinedine Soualem / Bernie Bonvoisin / Cyril Ancelin / Patrick M\u00e9dioni / Solo",
+                    "cast": "Vincent Cassel / Hubert Kound\u00e9 / Sa\u00efd Taghmaoui / Abdel Ahmed Ghili / Souleymane Dicko / Joseph Momo / H\u00e9lo\u00efse Rauth / Rywka Wajsbrot / Olga Abrego / Laurent Labasse / Choukri Gabteni / Nabil Ben Mhamed / Beno\u00eet Magimel / M\u00e9dard Niang / Arash Mansour / Abdel-Moulah Boujdouni / Mathilde Vitry / Christian Moro / \u00c9douard Montoute / JiBi / F\u00e9licit\u00e9 Wouassi / Fatou Thioune / Thang-Long / Cut Killer / Sabrina Houicha / Sandor Weltmann / Fran\u00e7ois Levantal / Julie Mauduech / Karin Viard / Peter Kassovitz / Christophe Rossignon / Vincent Lindon / Mathieu Kassovitz / Anthony Souter / Florent Lavandeira / Teddy Marques / Samir Khelif / Tadek Lokcinski / Virginie Montel / Andr\u00e9e Damant / Marcel Marondo / Karim Belkhadra / Marc Duret / Eric Pujol / Philippe Nahon / S\u00e9bastien Tavel / Fran\u00e7ois Toumarkine / Jos\u00e9 Dalmat / Zinedine Soualem / Bernie Bonvoisin / Cyril Ancelin / Patrick M\u00e9dioni / Solo",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=406&ignore_default=true)",
                     "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=406)",
                     "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=406)",
@@ -1732,10 +1733,10 @@
                     "param.user_slug": "atipoul",
                     "param.widget": "True",
                     "physical_release": "1996-05-31",
-                    "popularity": "18.922",
+                    "popularity": "25.096",
                     "premiere_release": "1995-05-27",
                     "provider.link": "https://www.themoviedb.org/movie/406-la-haine/watch?locale=FR",
-                    "providers": "Netflix / Amazon Prime Video / Canal+ / Apple iTunes / Orange VOD / Filmo TV / Canal VOD / Bbox VOD / Rakuten TV / LaCinetek / Universcine / Amazon Video / Universcine Amazon Channel / Filmo Amazon Channel / Netflix basic with Ads",
+                    "providers": "Netflix / Canal+ / OCS Go / Apple TV / Orange VOD / Filmo TV / Canal VOD / Bbox VOD / Rakuten TV / LaCinetek / Universcine / Amazon Video / OCS Amazon Channel  / Universcine Amazon Channel / Filmo Amazon Channel / Netflix basic with Ads",
                     "revenue": "$15,300,000",
                     "slug_id": "la-haine-1995",
                     "studio": "Canal+",
@@ -1743,7 +1744,7 @@
                     "tmdb_id": "406",
                     "tmdb_rating": "8.1",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "3,265",
+                    "tmdb_votes": "3,338",
                     "trakt_id": "324",
                     "widget": "Films franc\u0327ais > 70%"
                 },
@@ -1772,10 +1773,10 @@
                 "plotoutline": "",
                 "premiered": "1995-05-31",
                 "productioncode": "",
-                "rating": 8.081000328063965,
+                "rating": 8.071000099182129,
                 "resume": {
                     "position": 0.0,
-                    "total": 5880.0
+                    "total": 0.0
                 },
                 "runtime": 5880,
                 "season": -1,
@@ -1816,7 +1817,7 @@
                     "unknown": "tt0113247"
                 },
                 "userrating": 0,
-                "votes": "3265",
+                "votes": "3338",
                 "writer": [
                     "Mathieu Kassovitz"
                 ],
@@ -1830,10 +1831,10 @@
                     "discart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f979%2fmoviedisc%2firreversible-51ae62af91c34.png/",
                     "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fxV1EfNSEg6id6juJPr1vM6p9x5X.jpg/",
                     "fanart1": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f979%2fmoviebackground%2firreversible-5801048cb6302.jpg/",
-                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fo6bXnLTiNUvnHShkxqUOnzpdCgk.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fne31Fq4h1UhIoS2o17JrICrEBrT.jpg/",
                     "keyart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f979%2fmovieposter%2firreversible-5cdc026ef01b8.jpg/",
                     "landscape": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f979%2fmoviethumb%2firreversible-55b2add955450.jpg/",
-                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fo6bXnLTiNUvnHShkxqUOnzpdCgk.jpg/"
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fne31Fq4h1UhIoS2o17JrICrEBrT.jpg/"
                 },
                 "artist": [],
                 "cast": [
@@ -1841,7 +1842,7 @@
                         "name": "Monica Bellucci",
                         "order": 0,
                         "role": "Alex",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fpoJIxde589fEgdsvpDuANC9gU7I.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fxExP6SjDuwO9i102ueQagM946zl.jpg/"
                     },
                     {
                         "name": "Vincent Cassel",
@@ -1858,13 +1859,13 @@
                     {
                         "name": "Jo Prestia",
                         "order": 3,
-                        "role": "Le Tenia",
+                        "role": "The Tapeworm",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2frIaOz719AKkymXyb7OisYycFMdl.jpg/"
                     },
                     {
                         "name": "Philippe Nahon",
                         "order": 4,
-                        "role": "L'homme",
+                        "role": "Man",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fCHlLvN1GCXb78eB418z9yfhrSu.jpg/"
                     },
                     {
@@ -1899,12 +1900,12 @@
                     {
                         "name": "Dominique Nato",
                         "order": 10,
-                        "role": "Commissaire"
+                        "role": "Commissioner"
                     },
                     {
                         "name": "Michel Fesche",
                         "order": 11,
-                        "role": "Chauffeur Taxi"
+                        "role": "Taxi Driver"
                     },
                     {
                         "name": "Victoria Jaramillo",
@@ -1914,12 +1915,12 @@
                     {
                         "name": "Jean-Yves Le Quellec",
                         "order": 13,
-                        "role": "Inspecteur"
+                        "role": "Inspector"
                     },
                     {
                         "name": "Isabelle Giami",
                         "order": 14,
-                        "role": "Copine d'Alex enceinte",
+                        "role": "Alex's Girlfriend",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fdshss4fX8ceQIpUqSEH0zdS8q07.jpg/"
                     },
                     {
@@ -1936,13 +1937,13 @@
                     {
                         "name": "Stephane Derderian",
                         "order": 17,
-                        "role": "Client du Rectum",
+                        "role": "Rectum Customer",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2foyKCDV2NElbRqwpSpL4JCd2zbXh.jpg/"
                     },
                     {
                         "name": "Gaspar No\u00e9",
                         "order": 18,
-                        "role": "Client du Rectum",
+                        "role": "Rectum Customer",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fpFuDVMhw1GvVFSM84DmmZMcEX6.jpg/"
                     }
                 ],
@@ -1951,7 +1952,7 @@
                 ],
                 "customproperties": {
                     "available_releases": "Premiere / Theatrical / Digital / Physical / Physical",
-                    "budget": "$0",
+                    "budget": "$3,500,000",
                     "cast": "Monica Bellucci / Vincent Cassel / Albert Dupontel / Jo Prestia / Philippe Nahon / St\u00e9phane Drouot / Jean-Louis Costes / Mick Gondouin / Mourad Khima / Layde Hellal / Dominique Nato / Michel Fesche / Victoria Jaramillo / Jean-Yves Le Quellec / Isabelle Giami / Fatima Adoum / Janice Foulaux / Stephane Derderian / Gaspar No\u00e9",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=979&ignore_default=true)",
                     "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=979)",
@@ -1982,18 +1983,18 @@
                     "param.user_slug": "atipoul",
                     "param.widget": "True",
                     "physical_release": "2019-05-15",
-                    "popularity": "29.643",
+                    "popularity": "38.481",
                     "premiere_release": "2002-05-23",
                     "provider.link": "https://www.themoviedb.org/movie/979-irreversible/watch?locale=FR",
-                    "providers": "Apple iTunes / Google Play Movies / Orange VOD / Microsoft Store / YouTube / Filmo TV / Canal VOD / Bbox VOD / Rakuten TV / LaCinetek / Universcine / Amazon Video",
-                    "revenue": "$792,200",
+                    "providers": "Apple TV / Google Play Movies / Orange VOD / Microsoft Store / YouTube / Filmo TV / Canal VOD / Bbox VOD / Rakuten TV / LaCinetek / Universcine / Amazon Video",
+                    "revenue": "$6,500,000",
                     "slug_id": "irreversible-2002",
                     "studio": "Canal+",
                     "theatrical_release": "2002-05-22",
                     "tmdb_id": "979",
                     "tmdb_rating": "7.2",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "2,342",
+                    "tmdb_votes": "2,403",
                     "trakt_id": "809",
                     "widget": "Films franc\u0327ais > 70%"
                 },
@@ -2025,10 +2026,10 @@
                 "plotoutline": "",
                 "premiered": "2002-05-22",
                 "productioncode": "",
-                "rating": 7.23799991607666,
+                "rating": 7.244999885559082,
                 "resume": {
                     "position": 0.0,
-                    "total": 5940.0
+                    "total": 0.0
                 },
                 "runtime": 5940,
                 "season": -1,
@@ -2071,7 +2072,7 @@
                     "unknown": "tt0290673"
                 },
                 "userrating": 0,
-                "votes": "2342",
+                "votes": "2403",
                 "writer": [
                     "Gaspar No\u00e9"
                 ],
@@ -2110,7 +2111,7 @@
                         "name": "G\u00e9rard Depardieu",
                         "order": 1,
                         "role": "Ob\u00e9lix",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ffLYH1pcEX49x6ikfoKkLC8L5lBO.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f9T92SKbcpK7a2iOFT3Im9QK98tc.jpg/"
                     },
                     {
                         "name": "Jamel Debbouze",
@@ -2122,7 +2123,7 @@
                         "name": "Monica Bellucci",
                         "order": 3,
                         "role": "Cl\u00e9op\u00e2tre",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fpoJIxde589fEgdsvpDuANC9gU7I.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fxExP6SjDuwO9i102ueQagM946zl.jpg/"
                     },
                     {
                         "name": "Alain Chabat",
@@ -2191,7 +2192,7 @@
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ftPiblduUeHCN6LTcxxsjMTlRifr.jpg/"
                     },
                     {
-                        "name": "Edouard Montoute",
+                        "name": "\u00c9douard Montoute",
                         "order": 15,
                         "role": "Nexusis",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ffWbTkHyL7ByGUuz8C77US8tuDNF.jpg/"
@@ -2418,7 +2419,7 @@
                         "name": "Yul Vazquez",
                         "order": 53,
                         "role": "Edifis (english voice)",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f8AeBmhIMia6gF5PO5SF3PRznD3M.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fqFgVUR2keYNlmrAccQMLqx9Jmy3.jpg/"
                     },
                     {
                         "name": "David Cowgill",
@@ -2528,7 +2529,7 @@
                 "customproperties": {
                     "available_releases": "Theatrical",
                     "budget": "$58,500,000",
-                    "cast": "Christian Clavier / G\u00e9rard Depardieu / Jamel Debbouze / Monica Bellucci / Alain Chabat / Claude Rich / G\u00e9rard Darmon / Edouard Baer / Dieudonn\u00e9 / Mouss Diouf / Marina Fo\u00efs / Bernard Farcy / Jean Benguigui / Michel Cr\u00e9mad\u00e8s / Jean-Paul Rouve / Edouard Montoute / Chantal Lauby / No\u00e9mie Lenoir / Fatou N'Diaye / Dominique Besnehard / Zinedine Soualem / Mohamed Nesrate / Jo\u00ebl Cantona / Cyril Raffaelli / Sophie No\u00ebl / Philippe Chany / Robert Kechichian / Christian Gazio / Isabelle Nanty / Louis Leterrier / Yves Domenjoud / Bruno Vatin / Emma de Caunes / Momo Debbouze / Abdel Soufi / Oc\u00e9ane Lavergne / Claude Berri / Atik Mohamed / Patrick Bordier / Pierre Tchernia / Alessandro Freyberger / Victor Loukianenko / Candide Sanchez / Cyril Casm\u00e8ze / Pascal Vincent / Pierre-Fran\u00e7ois Martin-Laval / Jean-Pierre Lazzerini / Xavier Maly / Maurice Barth\u00e9lemy / Laurent Biras / Manu Lanzi / Mathieu Kassovitz / Jean-Pierre Bacri / Yul Vazquez / David Cowgill / Dominic Fumusa / Bridget Hoffman / Tom Kenny / Lex Lang / Mary Elizabeth McGlynn / Edie Mirman / Peggy O'Neal / Bob Papenbrook / Phil Proctor / Lia Sargent / Barry Stigler / Tom Wyner / Erik Bergmann / David Coburn / T. Scott Cunningham / Diane Neal",
+                    "cast": "Christian Clavier / G\u00e9rard Depardieu / Jamel Debbouze / Monica Bellucci / Alain Chabat / Claude Rich / G\u00e9rard Darmon / Edouard Baer / Dieudonn\u00e9 / Mouss Diouf / Marina Fo\u00efs / Bernard Farcy / Jean Benguigui / Michel Cr\u00e9mad\u00e8s / Jean-Paul Rouve / \u00c9douard Montoute / Chantal Lauby / No\u00e9mie Lenoir / Fatou N'Diaye / Dominique Besnehard / Zinedine Soualem / Mohamed Nesrate / Jo\u00ebl Cantona / Cyril Raffaelli / Sophie No\u00ebl / Philippe Chany / Robert Kechichian / Christian Gazio / Isabelle Nanty / Louis Leterrier / Yves Domenjoud / Bruno Vatin / Emma de Caunes / Momo Debbouze / Abdel Soufi / Oc\u00e9ane Lavergne / Claude Berri / Atik Mohamed / Patrick Bordier / Pierre Tchernia / Alessandro Freyberger / Victor Loukianenko / Candide Sanchez / Cyril Casm\u00e8ze / Pascal Vincent / Pierre-Fran\u00e7ois Martin-Laval / Jean-Pierre Lazzerini / Xavier Maly / Maurice Barth\u00e9lemy / Laurent Biras / Manu Lanzi / Mathieu Kassovitz / Jean-Pierre Bacri / Yul Vazquez / David Cowgill / Dominic Fumusa / Bridget Hoffman / Tom Kenny / Lex Lang / Mary Elizabeth McGlynn / Edie Mirman / Peggy O'Neal / Bob Papenbrook / Phil Proctor / Lia Sargent / Barry Stigler / Tom Wyner / Erik Bergmann / David Coburn / T. Scott Cunningham / Diane Neal",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=2899&ignore_default=true)",
                     "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=2899)",
                     "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=2899)",
@@ -2556,9 +2557,9 @@
                     "param.plugin_category": "Films franc\u0327ais > 70%",
                     "param.user_slug": "atipoul",
                     "param.widget": "True",
-                    "popularity": "32.058",
+                    "popularity": "36.915",
                     "provider.link": "https://www.themoviedb.org/movie/2899-asterix-obelix-mission-cleopatre/watch?locale=FR",
-                    "providers": "Apple iTunes / Google Play Movies / Orange VOD / Microsoft Store / YouTube / Canal VOD / Rakuten TV / Amazon Video / La Toile",
+                    "providers": "Apple TV / Google Play Movies / Orange VOD / Microsoft Store / YouTube / Canal VOD / Rakuten TV / Amazon Video / La Toile",
                     "revenue": "$128,027,976",
                     "set.fanart": "https://image.tmdb.org/t/p/original/qDuW7l81vwgFAtjISG6Y0m1Pv48.jpg",
                     "set.name": "Ast\u00e9rix & Ob\u00e9lix - Saga",
@@ -2570,7 +2571,7 @@
                     "tmdb_id": "2899",
                     "tmdb_rating": "7.4",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "2,851",
+                    "tmdb_votes": "2,954",
                     "trakt_id": "1925",
                     "widget": "Films franc\u0327ais > 70%"
                 },
@@ -2595,17 +2596,17 @@
                 "lastmodified": "",
                 "lastplayed": "",
                 "mimetype": "application/octet-stream",
-                "mpaa": "Rated U",
+                "mpaa": "Rated TP",
                 "originaltitle": "Ast\u00e9rix & Ob\u00e9lix Mission Cl\u00e9op\u00e2tre",
                 "playcount": 0,
                 "plot": "Cl\u00e9op\u00e2tre, la reine d\u2019\u00c9gypte, d\u00e9cide, pour d\u00e9fier l\u2019empereur romain Jules C\u00e9sar, de construire en trois mois un palais somptueux en plein d\u00e9sert. Si elle y parvient, celui\u2010ci devra conc\u00e9der publiquement que le peuple \u00e9gyptien est le plus grand de tous les peuples. Pour ce faire, Cl\u00e9op\u00e2tre fait appel \u00e0 Num\u00e9robis, un architecte d\u2019avant\u2010garde plein d\u2019\u00e9nergie. S\u2019il r\u00e9ussit, elle le couvrira d\u2019or. S\u2019il \u00e9choue, elle le jettera aux crocodiles. Celui\u2010ci, conscient du d\u00e9fi \u00e0 relever, cherche de l\u2019aide aupr\u00e8s de son vieil ami Panoramix. Le druide fait le voyage en \u00c9gypte avec Ast\u00e9rix et Ob\u00e9lix. De son c\u00f4t\u00e9, Amonbofis, l\u2019architecte officiel de Cl\u00e9op\u00e2tre, jaloux que la reine ait choisi Num\u00e9robis pour construire le palais, va tout mettre en \u0153uvre pour faire \u00e9chouer son concurrent.",
                 "plotoutline": "",
                 "premiered": "2002-01-30",
                 "productioncode": "",
-                "rating": 7.360000133514404,
+                "rating": 7.366000175476074,
                 "resume": {
                     "position": 0.0,
-                    "total": 6420.0
+                    "total": 0.0
                 },
                 "runtime": 6420,
                 "season": -1,
@@ -2638,7 +2639,7 @@
                 "title": "Ast\u00e9rix & Ob\u00e9lix : Mission Cl\u00e9op\u00e2tre",
                 "top250": 0,
                 "track": -1,
-                "trailer": "plugin://plugin.video.youtube/play/?video_id=7Nd1ZCwB5PI",
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=7_h51UmmjL0",
                 "tvshowid": -1,
                 "type": "movie",
                 "uniqueid": {
@@ -2649,7 +2650,7 @@
                     "unknown": "tt0250223"
                 },
                 "userrating": 0,
-                "votes": "2851",
+                "votes": "2954",
                 "writer": [
                     "Alain Chabat",
                     "Ren\u00e9 Goscinny",
@@ -2948,9 +2949,9 @@
                     "param.user_slug": "atipoul",
                     "param.widget": "True",
                     "physical_release": "2014-09-24",
-                    "popularity": "19.531",
+                    "popularity": "20.614",
                     "provider.link": "https://www.themoviedb.org/movie/262391-qu-est-ce-qu-on-a-fait-au-bon-dieu/watch?locale=FR",
-                    "providers": "Apple iTunes / Google Play Movies / Orange VOD / Microsoft Store / YouTube / Filmo TV / Canal VOD / Rakuten TV / Amazon Video",
+                    "providers": "Apple TV / Google Play Movies / Orange VOD / Microsoft Store / YouTube / Filmo TV / Canal VOD / Rakuten TV / Amazon Video",
                     "revenue": "$176,404,493",
                     "set.fanart": "https://image.tmdb.org/t/p/original/4RW6avScwus6YGcj0J91gnqBCAj.jpg",
                     "set.name": "Qu'est-ce qu'on a fait au Bon Dieu ? - Saga",
@@ -2962,7 +2963,7 @@
                     "tmdb_id": "262391",
                     "tmdb_rating": "6.7",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "3,132",
+                    "tmdb_votes": "3,169",
                     "trakt_id": "161308",
                     "widget": "Films franc\u0327ais > 70%"
                 },
@@ -2991,10 +2992,10 @@
                 "plotoutline": "",
                 "premiered": "2014-04-16",
                 "productioncode": "",
-                "rating": 6.686999797821045,
+                "rating": 6.683000087738037,
                 "resume": {
                     "position": 0.0,
-                    "total": 5820.0
+                    "total": 0.0
                 },
                 "runtime": 5820,
                 "season": -1,
@@ -3031,7 +3032,7 @@
                     "unknown": "tt2800240"
                 },
                 "userrating": 0,
-                "votes": "3132",
+                "votes": "3169",
                 "writer": [
                     "Philippe de Chauveron",
                     "Guy Laurent"
@@ -3223,21 +3224,21 @@
                     "param.plugin_category": "Films franc\u0327ais > 70%",
                     "param.user_slug": "atipoul",
                     "param.widget": "True",
-                    "popularity": "24.263",
+                    "popularity": "23.655",
                     "provider.link": "https://www.themoviedb.org/movie/10045-banlieue-13/watch?locale=FR",
-                    "providers": "Apple iTunes / Orange VOD / Canal VOD / Bbox VOD / Amazon Video",
+                    "providers": "Apple TV / Orange VOD / Canal VOD / Bbox VOD / Amazon Video",
                     "revenue": "$9,584,131",
                     "set.fanart": "https://image.tmdb.org/t/p/original/6d8jbKsWVUKrKBHMcf9mvBkFCgv.jpg",
                     "set.name": "Banlieue 13 - Saga",
-                    "set.poster": "https://image.tmdb.org/t/p/w500/xwzVsZrNIc7LuVmbqtxGC1mQj1G.jpg",
+                    "set.poster": "https://image.tmdb.org/t/p/w500/aA7RT9iKMNLTRwH3jKNV9iEKSOp.jpg",
                     "set.tmdb_id": "85946",
                     "slug_id": "district-b13-2004",
                     "studio": "Canal+",
                     "theatrical_release": "2004-11-09",
                     "tmdb_id": "10045",
-                    "tmdb_rating": "6.7",
+                    "tmdb_rating": "6.8",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "1,579",
+                    "tmdb_votes": "1,602",
                     "trakt_id": "5268",
                     "widget": "Films franc\u0327ais > 70%"
                 },
@@ -3268,10 +3269,10 @@
                 "plotoutline": "",
                 "premiered": "2004-11-09",
                 "productioncode": "",
-                "rating": 6.739999771118164,
+                "rating": 6.750999927520752,
                 "resume": {
                     "position": 0.0,
-                    "total": 5700.0
+                    "total": 0.0
                 },
                 "runtime": 5700,
                 "season": -1,
@@ -3310,7 +3311,7 @@
                     "unknown": "tt0414852"
                 },
                 "userrating": 0,
-                "votes": "1579",
+                "votes": "1602",
                 "writer": [
                     "Luc Besson",
                     "Bibi Naceri"
@@ -3752,36 +3753,30 @@
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fpHMyODPEN5k3rQ0Egvo9cUtBTU9.jpg/"
                     },
                     {
-                        "name": "Andy Mihalache",
-                        "order": 71,
-                        "role": "Funfair passerby (uncredited)",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fchSXNY07hUQtXJb4pjaDeClWxi5.jpg/"
-                    },
-                    {
                         "name": "Abigail Millar",
-                        "order": 72,
+                        "order": 71,
                         "role": "Kristen lookalike (uncredited)"
                     },
                     {
                         "name": "Ashley Nelson",
-                        "order": 73,
+                        "order": 72,
                         "role": "Extra (uncredited)",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fiUECz16r522Uy1OJ01uuuhA0vZT.jpg/"
                     },
                     {
                         "name": "Sophie O'Reilly",
-                        "order": 74,
+                        "order": 73,
                         "role": "Goth Girl (uncredited)",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fjVFtkyPfprTCtmrhdulpaa8XvnE.jpg/"
                     },
                     {
                         "name": "Andrew Palmer",
-                        "order": 75,
+                        "order": 74,
                         "role": "Shoreditch Hipster (uncredited)"
                     },
                     {
                         "name": "Gianluca Tamburella",
-                        "order": 76,
+                        "order": 75,
                         "role": "Shoreditch Hipster (uncredited)",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fle7eH9SYEnZvk0Je5sNwmQpVBpU.jpg/"
                     }
@@ -3793,7 +3788,7 @@
                 "customproperties": {
                     "available_releases": "Premiere / Theatrical / Physical",
                     "budget": "$0",
-                    "cast": "Omar Sy / Gloria Colston / Cl\u00e9mence Po\u00e9sy / Antoine Bertrand / Ashley Walters / Cl\u00e9mentine C\u00e9lari\u00e9 / Anna Cottis / Raphael von Blumenthal / Ben Homewood / Alice David / Mona Walravens / Raquel Cassidy / Howard Crossley / Anabel Lopez / C\u00e9cile Cassel / Antoine Gouy / Guillaume Bouch\u00e8de / Natasha Andrews / Ginnie Watson / Ludivine de Chastenet / Georgina Leeming / Solo / No\u00e9mie Kocher / Bertrand Combe / Patrice Melennec / Ruben Alves / Elaine Caulfield / Victor Klein / Richard Kelly / Christian Erickson / Sian Altman / Laur\u00e8ne Doval / Guillaume M\u00e9lanie / David Lowe / Deepak Anand / Penelope Sharp / Martin Barrie / Richard Banks / Jay Benedict / Winter Goury du Roslan / Sienna Chamberlain / Mathieu Oullion / Joe Creaser / Benjamin Cruickshank / Natasha Jenssen / Swaylee Loughnane / Bharat Mistri / Sandeep Mohan / Ian Sanderson / Megan Sanderson / Jaden Sidhu / No\u00ebl Sorrente / Fran Targ / Rob Vowles / Emilie Parvillers / Claire Ashton / Shane James Bordas / Germaine Braithwaite / Taylor Elwell / Karl Farrer / Susan Fordham / Kirki Gkini / Oliver Grantley / Chris Groundsell / John Heartstone / George Johnston / Phelim Kelly / Attila G. Kerekes / Alexandra Kiss / Matt Lott / Ross McKinnon / Andy Mihalache / Abigail Millar / Ashley Nelson / Sophie O'Reilly / Andrew Palmer / Gianluca Tamburella",
+                    "cast": "Omar Sy / Gloria Colston / Cl\u00e9mence Po\u00e9sy / Antoine Bertrand / Ashley Walters / Cl\u00e9mentine C\u00e9lari\u00e9 / Anna Cottis / Raphael von Blumenthal / Ben Homewood / Alice David / Mona Walravens / Raquel Cassidy / Howard Crossley / Anabel Lopez / C\u00e9cile Cassel / Antoine Gouy / Guillaume Bouch\u00e8de / Natasha Andrews / Ginnie Watson / Ludivine de Chastenet / Georgina Leeming / Solo / No\u00e9mie Kocher / Bertrand Combe / Patrice Melennec / Ruben Alves / Elaine Caulfield / Victor Klein / Richard Kelly / Christian Erickson / Sian Altman / Laur\u00e8ne Doval / Guillaume M\u00e9lanie / David Lowe / Deepak Anand / Penelope Sharp / Martin Barrie / Richard Banks / Jay Benedict / Winter Goury du Roslan / Sienna Chamberlain / Mathieu Oullion / Joe Creaser / Benjamin Cruickshank / Natasha Jenssen / Swaylee Loughnane / Bharat Mistri / Sandeep Mohan / Ian Sanderson / Megan Sanderson / Jaden Sidhu / No\u00ebl Sorrente / Fran Targ / Rob Vowles / Emilie Parvillers / Claire Ashton / Shane James Bordas / Germaine Braithwaite / Taylor Elwell / Karl Farrer / Susan Fordham / Kirki Gkini / Oliver Grantley / Chris Groundsell / John Heartstone / George Johnston / Phelim Kelly / Attila G. Kerekes / Alexandra Kiss / Matt Lott / Ross McKinnon / Abigail Millar / Ashley Nelson / Sophie O'Reilly / Andrew Palmer / Gianluca Tamburella",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=382591&ignore_default=true)",
                     "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=382591)",
                     "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=382591)",
@@ -3822,7 +3817,7 @@
                     "param.user_slug": "atipoul",
                     "param.widget": "True",
                     "physical_release": "2017-04-07",
-                    "popularity": "17.588",
+                    "popularity": "32.973",
                     "premiere_release": "2016-11-04",
                     "provider.link": "https://www.themoviedb.org/movie/382591-demain-tout-commence/watch?locale=FR",
                     "providers": "Canal+ / Google Play Movies / Microsoft Store / YouTube",
@@ -3833,7 +3828,7 @@
                     "tmdb_id": "382591",
                     "tmdb_rating": "7.7",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "2,767",
+                    "tmdb_votes": "2,784",
                     "trakt_id": "261561",
                     "widget": "Films franc\u0327ais > 70%"
                 },
@@ -3866,7 +3861,7 @@
                 "rating": 7.743000030517578,
                 "resume": {
                     "position": 0.0,
-                    "total": 6900.0
+                    "total": 0.0
                 },
                 "runtime": 6900,
                 "season": -1,
@@ -3907,7 +3902,7 @@
                     "unknown": "tt5078204"
                 },
                 "userrating": 0,
-                "votes": "2767",
+                "votes": "2784",
                 "writer": [
                     "Guillermo R\u00edos",
                     "Eugenio Derbez",
@@ -3958,7 +3953,7 @@
                         "name": "Monica Bellucci",
                         "order": 3,
                         "role": "Sylvia",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fpoJIxde589fEgdsvpDuANC9gU7I.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fxExP6SjDuwO9i102ueQagM946zl.jpg/"
                     },
                     {
                         "name": "J\u00e9r\u00e9mie Renier",
@@ -3976,7 +3971,7 @@
                         "name": "Jean Yanne",
                         "order": 6,
                         "role": "Le Comte de Morangias",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fnZAsOM0mtE0oHHj9DlbH94SxtAI.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f1rz3LbxyRn9i0RPd0UV4ONrJVWy.jpg/"
                     },
                     {
                         "name": "Jean-Fran\u00e7ois St\u00e9venin",
@@ -4129,7 +4124,7 @@
                     "param.plugin_category": "Films franc\u0327ais > 70%",
                     "param.user_slug": "atipoul",
                     "param.widget": "True",
-                    "popularity": "21.189",
+                    "popularity": "25.811",
                     "provider.link": "https://www.themoviedb.org/movie/6312-le-pacte-des-loups/watch?locale=FR",
                     "providers": "Google Play Movies / Orange VOD / YouTube / Filmo TV / Canal VOD / Cinemas a la Demande / Amazon Video",
                     "revenue": "$70,752,904",
@@ -4139,7 +4134,7 @@
                     "tmdb_id": "6312",
                     "tmdb_rating": "6.7",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "1,252",
+                    "tmdb_votes": "1,269",
                     "trakt_id": "3572",
                     "widget": "Films franc\u0327ais > 70%"
                 },
@@ -4171,10 +4166,10 @@
                 "plotoutline": "",
                 "premiered": "2001-01-31",
                 "productioncode": "",
-                "rating": 6.696000099182129,
+                "rating": 6.699999809265137,
                 "resume": {
                     "position": 0.0,
-                    "total": 8520.0
+                    "total": 0.0
                 },
                 "runtime": 8520,
                 "season": -1,
@@ -4205,7 +4200,7 @@
                 "title": "Le Pacte des loups",
                 "top250": 0,
                 "track": -1,
-                "trailer": "plugin://plugin.video.youtube/play/?video_id=kIj55gTihAs",
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=brEa4GPCFBQ",
                 "tvshowid": -1,
                 "type": "movie",
                 "uniqueid": {
@@ -4216,7 +4211,7 @@
                     "unknown": "tt0237534"
                 },
                 "userrating": 0,
-                "votes": "1252",
+                "votes": "1269",
                 "writer": [
                     "Christophe Gans",
                     "St\u00e9phane Cabel"
@@ -4295,7 +4290,7 @@
                         "name": "Laurent Capelluto",
                         "order": 9,
                         "role": "Police Officer #1",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fuRkALuGAE1jGQy9vkbhYc7Kfngi.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f4QzdHAvXJs7TJzjnG2WgzAArld1.jpg/"
                     },
                     {
                         "name": "Jean-Michel Monroc",
@@ -4359,10 +4354,10 @@
                     "param.user_slug": "atipoul",
                     "param.widget": "True",
                     "physical_release": "2013-02-26",
-                    "popularity": "12.108",
+                    "popularity": "17.941",
                     "premiere_release": "2012-05-20",
                     "provider.link": "https://www.themoviedb.org/movie/86837-amour/watch?locale=FR",
-                    "providers": "Apple iTunes / Orange VOD / Filmo TV / Canal VOD / Bbox VOD / Universcine / Amazon Video",
+                    "providers": "Apple TV / Orange VOD / Filmo TV / Canal VOD / Bbox VOD / Universcine",
                     "revenue": "$29,844,753",
                     "slug_id": "amour-2012",
                     "studio": "X Filme Creative Pool",
@@ -4370,7 +4365,7 @@
                     "tmdb_id": "86837",
                     "tmdb_rating": "7.8",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "1,381",
+                    "tmdb_votes": "1,403",
                     "trakt_id": "65318",
                     "widget": "Films franc\u0327ais > 70%"
                 },
@@ -4400,10 +4395,10 @@
                 "plotoutline": "",
                 "premiered": "2012-09-20",
                 "productioncode": "",
-                "rating": 7.757999897003174,
+                "rating": 7.761000156402588,
                 "resume": {
                     "position": 0.0,
-                    "total": 7620.0
+                    "total": 0.0
                 },
                 "runtime": 7620,
                 "season": -1,
@@ -4442,7 +4437,7 @@
                     "unknown": "tt1602620"
                 },
                 "userrating": 0,
-                "votes": "1381",
+                "votes": "1403",
                 "writer": [
                     "Michael Haneke"
                 ],
@@ -4457,9 +4452,9 @@
                     "discart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f21575%2fmoviedisc%2fa-prophet-584d82582494b.png/",
                     "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f7en9qwF88VfxPXsN6azHmUxRBNy.jpg/",
                     "fanart1": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f21575%2fmoviebackground%2fa-prophet-53c78373254f2.jpg/",
-                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fm5kvm1nfAVc4Sd78EXlFHTYOcgd.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fbdLXfqAK17eRszckhph8IcFzxLZ.jpg/",
                     "landscape": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f21575%2fmoviethumb%2fa-prophet-584e9bf8d2f7f.jpg/",
-                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fm5kvm1nfAVc4Sd78EXlFHTYOcgd.jpg/"
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fbdLXfqAK17eRszckhph8IcFzxLZ.jpg/"
                 },
                 "artist": [],
                 "cast": [
@@ -4648,9 +4643,9 @@
                     "param.plugin_category": "Films franc\u0327ais > 70%",
                     "param.user_slug": "atipoul",
                     "param.widget": "True",
-                    "popularity": "15.332",
+                    "popularity": "12.983",
                     "provider.link": "https://www.themoviedb.org/movie/21575-un-prophete/watch?locale=FR",
-                    "providers": "Apple iTunes / Orange VOD / Filmo TV / Canal VOD / Bbox VOD / LaCinetek / Universcine",
+                    "providers": "Canal+ / Apple TV / Orange VOD / Filmo TV / Canal VOD / Bbox VOD / LaCinetek / Universcine",
                     "revenue": "$17,873,691",
                     "slug_id": "a-prophet-2009",
                     "studio": "France 2 Cin\u00e9ma",
@@ -4658,7 +4653,7 @@
                     "tmdb_id": "21575",
                     "tmdb_rating": "7.6",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "1,277",
+                    "tmdb_votes": "1,306",
                     "trakt_id": "13203",
                     "widget": "Films franc\u0327ais > 70%"
                 },
@@ -4688,10 +4683,10 @@
                 "plotoutline": "",
                 "premiered": "2009-08-26",
                 "productioncode": "",
-                "rating": 7.586999893188477,
+                "rating": 7.599999904632568,
                 "resume": {
                     "position": 0.0,
-                    "total": 9300.0
+                    "total": 0.0
                 },
                 "runtime": 9300,
                 "season": -1,
@@ -4743,7 +4738,7 @@
                     "unknown": "tt1235166"
                 },
                 "userrating": 0,
-                "votes": "1277",
+                "votes": "1306",
                 "writer": [
                     "Jacques Audiard",
                     "Abdel Raouf Dafri",
@@ -4781,7 +4776,7 @@
                     {
                         "name": "Jean-Claude Dreyfus",
                         "order": 2,
-                        "role": "Clapet (the butcher)",
+                        "role": "Clapet",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fs38aGneCsrxBj0YrBZBqv0uD9qU.jpg/"
                     },
                     {
@@ -4822,7 +4817,7 @@
                         "name": "Chick Ortega",
                         "order": 9,
                         "role": "Postman",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fgzONDwMEPovwqjVfBapS7lkEXTG.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fdz5lyoZFdRGBDBJWOgYylt9unJW.jpg/"
                     },
                     {
                         "name": "Jean-Fran\u00e7ois Perrier",
@@ -4863,19 +4858,19 @@
                     {
                         "name": "Patrick Paroux",
                         "order": 16,
-                        "role": "",
+                        "role": "Puk",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f4UmFDH99RoDYW8nR9YGPiUJ77Zv.jpg/"
                     },
                     {
                         "name": "Marc Caro",
                         "order": 17,
-                        "role": "",
+                        "role": "Fox",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fefDW1xahbkZYBiZRVf8nMS2UfjU.jpg/"
                     },
                     {
                         "name": "Eric Averlant",
                         "order": 18,
-                        "role": "Tourneur",
+                        "role": "Turner",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ff5c0PcqGkGw9g1zP4lWLKtufxIV.jpg/"
                     },
                     {
@@ -4886,22 +4881,22 @@
                     {
                         "name": "Jean-Luc Caron",
                         "order": 20,
-                        "role": ""
+                        "role": "Troglodists"
                     },
                     {
                         "name": "Bernard Flavien",
                         "order": 21,
-                        "role": ""
+                        "role": "Troglodists"
                     },
                     {
                         "name": "David Defever",
                         "order": 22,
-                        "role": ""
+                        "role": "Troglodists"
                     },
                     {
                         "name": "Raymond Forestier",
                         "order": 23,
-                        "role": ""
+                        "role": "Troglodists"
                     },
                     {
                         "name": "Robert Baud",
@@ -4911,7 +4906,18 @@
                     {
                         "name": "Sylvain Plaine",
                         "order": 25,
-                        "role": "A customer at the butchery"
+                        "role": "Customer at the Butchery"
+                    },
+                    {
+                        "name": "Anthony Backman",
+                        "order": 26,
+                        "role": "Buano (uncredited)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fdnRB2UoOsUhOkoK76axbRkTbWia.jpg/"
+                    },
+                    {
+                        "name": "Nikky Smedley",
+                        "order": 27,
+                        "role": "Teri (uncredited)"
                     }
                 ],
                 "country": [
@@ -4920,7 +4926,7 @@
                 "customproperties": {
                     "available_releases": "Theatrical",
                     "budget": "$4,000,000",
-                    "cast": "Dominique Pinon / Marie-Laure Dougnac / Jean-Claude Dreyfus / Karin Viard / Ticky Holgado / Pascal Benezech / Edith Ker / Rufus / Jacques Mathou / Chick Ortega / Jean-Fran\u00e7ois Perrier / Silvie Laguna / Howard Vernon / Dominique Zardi / Anne-Marie Pisani / Maurice Lamy / Patrick Paroux / Marc Caro / Eric Averlant / Dominique Betenfeld / Jean-Luc Caron / Bernard Flavien / David Defever / Raymond Forestier / Robert Baud / Sylvain Plaine",
+                    "cast": "Dominique Pinon / Marie-Laure Dougnac / Jean-Claude Dreyfus / Karin Viard / Ticky Holgado / Pascal Benezech / Edith Ker / Rufus / Jacques Mathou / Chick Ortega / Jean-Fran\u00e7ois Perrier / Silvie Laguna / Howard Vernon / Dominique Zardi / Anne-Marie Pisani / Maurice Lamy / Patrick Paroux / Marc Caro / Eric Averlant / Dominique Betenfeld / Jean-Luc Caron / Bernard Flavien / David Defever / Raymond Forestier / Robert Baud / Sylvain Plaine / Anthony Backman / Nikky Smedley",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=892&ignore_default=true)",
                     "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=892)",
                     "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=892)",
@@ -4948,9 +4954,9 @@
                     "param.plugin_category": "Films franc\u0327ais > 70%",
                     "param.user_slug": "atipoul",
                     "param.widget": "True",
-                    "popularity": "14.522",
+                    "popularity": "15.186",
                     "provider.link": "https://www.themoviedb.org/movie/892-delicatessen/watch?locale=FR",
-                    "providers": "Canal+ / Apple iTunes / Google Play Movies / Orange VOD / YouTube / Filmo TV / Canal VOD / Bbox VOD / Rakuten TV / LaCinetek / Universcine / Amazon Video",
+                    "providers": "Canal+ / Apple TV / Google Play Movies / Orange VOD / Microsoft Store / YouTube / Filmo TV / Canal VOD / Bbox VOD / Rakuten TV / LaCinetek / Universcine / Amazon Video",
                     "revenue": "$1,794,187",
                     "slug_id": "delicatessen-1991",
                     "studio": "Hachette Premi\u00e8re",
@@ -4958,7 +4964,7 @@
                     "tmdb_id": "892",
                     "tmdb_rating": "7.3",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "1,171",
+                    "tmdb_votes": "1,200",
                     "trakt_id": "735",
                     "widget": "Films franc\u0327ais > 70%"
                 },
@@ -4990,10 +4996,10 @@
                 "plotoutline": "",
                 "premiered": "1991-04-17",
                 "productioncode": "",
-                "rating": 7.330999851226807,
+                "rating": 7.334000110626221,
                 "resume": {
                     "position": 0.0,
-                    "total": 5820.0
+                    "total": 0.0
                 },
                 "runtime": 5820,
                 "season": -1,
@@ -5037,7 +5043,7 @@
                     "unknown": "tt0101700"
                 },
                 "userrating": 0,
-                "votes": "1171",
+                "votes": "1200",
                 "writer": [
                     "Jean-Pierre Jeunet",
                     "Marc Caro",
@@ -5050,7 +5056,7 @@
                 "art": {
                     "banner": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f484468%2fmoviebanner%2fle-chant-du-loup-5eecfa20ad22a.jpg/",
                     "clearart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f484468%2fhdmovieclearart%2fle-chant-du-loup-612e90d5e3c3e.png/",
-                    "clearlogo": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2feL4Y2oSq6QfdiZGpp3WndqSDTP7.png/",
+                    "clearlogo": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fk3h0JMkLejKwhUkhtD352lBYN5x.png/",
                     "discart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f484468%2fmoviedisc%2fle-chant-du-loup-5e524a0ccf08e.png/",
                     "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fxPLM2q3aHEXlEc3MQY4EHgMkdZp.jpg/",
                     "fanart1": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f484468%2fmoviebackground%2fle-chant-du-loup-5c37a09633505.jpg/",
@@ -5109,7 +5115,7 @@
                         "name": "Damien Bonnard",
                         "order": 7,
                         "role": "Navigation officer SNLE",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f2XYsRJdDJdkZzoiHeuqpjBKM7eK.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fvSIigjescPgQ1o3UBnhmuA3G5tm.jpg/"
                     },
                     {
                         "name": "Pierre Cevaer",
@@ -5262,10 +5268,10 @@
                     "param.user_slug": "atipoul",
                     "param.widget": "True",
                     "physical_release": "2019-06-26",
-                    "popularity": "23.803",
+                    "popularity": "24.408",
                     "premiere_release": "2019-01-17",
                     "provider.link": "https://www.themoviedb.org/movie/484468-le-chant-du-loup/watch?locale=FR",
-                    "providers": "Netflix / Apple iTunes / Google Play Movies / Orange VOD / Microsoft Store / YouTube / Filmo TV / Canal VOD / Rakuten TV / Universcine / Amazon Video / Netflix basic with Ads / La Toile",
+                    "providers": "Apple TV / Google Play Movies / Orange VOD / Microsoft Store / YouTube / Filmo TV / Canal VOD / Rakuten TV / Universcine / Amazon Video / La Toile",
                     "revenue": "$12,652,790",
                     "slug_id": "the-wolf-s-call-2019",
                     "studio": "Path\u00e9",
@@ -5273,7 +5279,7 @@
                     "tmdb_id": "484468",
                     "tmdb_rating": "7.6",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "1,672",
+                    "tmdb_votes": "1,706",
                     "trakt_id": "331755",
                     "widget": "Films franc\u0327ais > 70%"
                 },
@@ -5303,10 +5309,10 @@
                 "plotoutline": "",
                 "premiered": "2019-02-20",
                 "productioncode": "",
-                "rating": 7.570000171661377,
+                "rating": 7.599999904632568,
                 "resume": {
                     "position": 0.0,
-                    "total": 6900.0
+                    "total": 0.0
                 },
                 "runtime": 6900,
                 "season": -1,
@@ -5346,7 +5352,7 @@
                     "unknown": "tt7458762"
                 },
                 "userrating": 0,
-                "votes": "1672",
+                "votes": "1706",
                 "writer": [
                     "Antonin Baudry"
                 ],
@@ -5572,10 +5578,10 @@
                     "param.user_slug": "atipoul",
                     "param.widget": "True",
                     "physical_release": "2008-10-29",
-                    "popularity": "13.557",
+                    "popularity": "16.248",
                     "premiere_release": "2008-01-17",
                     "provider.link": "https://www.themoviedb.org/movie/8265-bienvenue-chez-les-ch-tis/watch?locale=FR",
-                    "providers": "Apple iTunes / Google Play Movies / Orange VOD / YouTube / Filmo TV / Canal VOD / Bbox VOD / Rakuten TV / Amazon Video",
+                    "providers": "Apple TV / Google Play Movies / Orange VOD / YouTube / Filmo TV / Canal VOD / Bbox VOD / Rakuten TV / Amazon Video",
                     "revenue": "$245,144,417",
                     "slug_id": "welcome-to-the-sticks-2008",
                     "studio": "Canal+",
@@ -5583,7 +5589,7 @@
                     "tmdb_id": "8265",
                     "tmdb_rating": "6.7",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "2,162",
+                    "tmdb_votes": "2,196",
                     "trakt_id": "4089",
                     "tv_release": "2010-11-28",
                     "widget": "Films franc\u0327ais > 70%"
@@ -5615,10 +5621,10 @@
                 "plotoutline": "",
                 "premiered": "2008-02-20",
                 "productioncode": "",
-                "rating": 6.664000034332275,
+                "rating": 6.671999931335449,
                 "resume": {
                     "position": 0.0,
-                    "total": 6420.0
+                    "total": 0.0
                 },
                 "runtime": 6420,
                 "season": -1,
@@ -5652,7 +5658,7 @@
                 "title": "Bienvenue chez les Ch'tis",
                 "top250": 0,
                 "track": -1,
-                "trailer": "plugin://plugin.video.youtube/play/?video_id=oQRaqY7Hu1g",
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=UN6C_fzfqZQ",
                 "tvshowid": -1,
                 "type": "movie",
                 "uniqueid": {
@@ -5663,7 +5669,7 @@
                     "unknown": "tt1064932"
                 },
                 "userrating": 0,
-                "votes": "2162",
+                "votes": "2196",
                 "writer": [
                     "Alexandre Charlot",
                     "Franck Magnier",
@@ -5681,10 +5687,10 @@
                     "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fahoWkbAXSRqDhBZPj7TVU5PshEm.jpg/",
                     "fanart1": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f37645%2fmoviebackground%2f22-bullets-54b42345860f5.jpg/",
                     "fanart2": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f37645%2fmoviebackground%2f22-bullets-583618fec8a34.jpg/",
-                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2faUkckkmw2gRgWITUAm6Zb1kGo5O.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fhSuylvTu4QXMntafVqKmapt6a7I.jpg/",
                     "keyart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f37645%2fmovieposter%2f22-bullets-58604d71d7e7d.jpg/",
                     "landscape": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f37645%2fmoviethumb%2f22-bullets-58604e47ae488.jpg/",
-                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2faUkckkmw2gRgWITUAm6Zb1kGo5O.jpg/"
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fhSuylvTu4QXMntafVqKmapt6a7I.jpg/"
                 },
                 "artist": [],
                 "cast": [
@@ -6071,9 +6077,9 @@
                     "param.plugin_category": "Films franc\u0327ais > 70%",
                     "param.user_slug": "atipoul",
                     "param.widget": "True",
-                    "popularity": "34.419",
+                    "popularity": "39.6",
                     "provider.link": "https://www.themoviedb.org/movie/37645-l-immortel/watch?locale=FR",
-                    "providers": "Apple iTunes / Orange VOD / Microsoft Store / Canal VOD / Universcine / Amazon Video",
+                    "providers": "Apple TV / Orange VOD / Microsoft Store / Canal VOD / Universcine / Amazon Video",
                     "revenue": "$0",
                     "slug_id": "22-bullets-2010",
                     "studio": "TF1 Films Production",
@@ -6081,7 +6087,7 @@
                     "tmdb_id": "37645",
                     "tmdb_rating": "6.6",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "1,045",
+                    "tmdb_votes": "1,068",
                     "trakt_id": "24151",
                     "widget": "Films franc\u0327ais > 70%"
                 },
@@ -6112,10 +6118,10 @@
                 "plotoutline": "",
                 "premiered": "2010-03-23",
                 "productioncode": "",
-                "rating": 6.599999904632568,
+                "rating": 6.64300012588501,
                 "resume": {
                     "position": 0.0,
-                    "total": 6900.0
+                    "total": 0.0
                 },
                 "runtime": 6900,
                 "season": -1,
@@ -6153,7 +6159,7 @@
                     "unknown": "tt1167638"
                 },
                 "userrating": 0,
-                "votes": "1045",
+                "votes": "1068",
                 "writer": [
                     "Richard Berry",
                     "Richard Berry",
@@ -6323,7 +6329,7 @@
                     "param.plugin_category": "Films franc\u0327ais > 70%",
                     "param.user_slug": "atipoul",
                     "param.widget": "True",
-                    "popularity": "10.966",
+                    "popularity": "11.887",
                     "premiere_release": "2016-10-10",
                     "provider.link": "https://www.themoviedb.org/movie/393559-ma-vie-de-courgette/watch?locale=FR",
                     "providers": "Google Play Movies / YouTube / Filmo TV / Canal VOD / Rakuten TV / Universcine / Amazon Video / La Toile",
@@ -6334,7 +6340,7 @@
                     "tmdb_id": "393559",
                     "tmdb_rating": "7.8",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "1,125",
+                    "tmdb_votes": "1,142",
                     "trakt_id": "236008",
                     "widget": "Films franc\u0327ais > 70%"
                 },
@@ -6367,10 +6373,10 @@
                 "plotoutline": "",
                 "premiered": "2016-09-22",
                 "productioncode": "",
-                "rating": 7.807000160217285,
+                "rating": 7.800000190734863,
                 "resume": {
                     "position": 0.0,
-                    "total": 3960.0
+                    "total": 0.0
                 },
                 "runtime": 3960,
                 "season": -1,
@@ -6415,7 +6421,7 @@
                     "unknown": "tt2321405"
                 },
                 "userrating": 0,
-                "votes": "1125",
+                "votes": "1142",
                 "writer": [
                     "C\u00e9line Sciamma",
                     "Claude Barras",
@@ -6430,34 +6436,34 @@
                 "art": {
                     "banner": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f304410%2fmoviebanner%2fla-famille-blier-550702820e8d6.jpg/",
                     "clearart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f304410%2fhdmovieclearart%2fla-famille-blier-598c51765b888.png/",
-                    "clearlogo": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f304410%2fhdmovielogo%2fla-famille-blier-54706b980ae6d.png/",
+                    "clearlogo": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f8zGbpriBGARgXa5O0HSAdnfI7rm.png/",
                     "discart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f304410%2fmoviedisc%2fla-famille-blier-55a0c0fba287d.png/",
                     "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fnLLYm9qPtE6WwFSzDOHMUUfytcx.jpg/",
                     "fanart1": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f304410%2fmoviebackground%2fla-famille-blier-550554138c6b7.jpg/",
                     "fanart2": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f304410%2fmoviebackground%2fla-famille-blier-5834ae3378b07.jpg/",
-                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fyowdtxLTsivpAZN4ZUwljJP4Xd5.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fkAQeZUZ1pMTSjSF3d6eBZClFGgN.jpg/",
                     "keyart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f304410%2fmovieposter%2fla-famille-blier-58e3e8b096424.jpg/",
                     "landscape": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fiO3GYcBUjLjWQizXhnkm2Up5G5Q.jpg/",
-                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fyowdtxLTsivpAZN4ZUwljJP4Xd5.jpg/"
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fkAQeZUZ1pMTSjSF3d6eBZClFGgN.jpg/"
                 },
                 "artist": [],
                 "cast": [
                     {
                         "name": "Karin Viard",
                         "order": 0,
-                        "role": "Gigi B\u00e9lier, Paula's mother",
+                        "role": "Gigi B\u00e9lier",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fquIomRrFBxXq32K5MBuvaTR3xBk.jpg/"
                     },
                     {
                         "name": "Fran\u00e7ois Damiens",
                         "order": 1,
-                        "role": "Rodolphe B\u00e9lier, Paula's father",
+                        "role": "Rodolphe B\u00e9lier",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fwuHsu8bp24NVkDlpfdHgsTN9L6V.jpg/"
                     },
                     {
                         "name": "Eric Elmosnino",
                         "order": 2,
-                        "role": "Fabien Thomasson, music teacher",
+                        "role": "Fabien Thomasson",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ftBiMY94OLEUWbBaH7GJtAZ3TY37.jpg/"
                     },
                     {
@@ -6469,31 +6475,31 @@
                     {
                         "name": "Roxane Duran",
                         "order": 4,
-                        "role": "Mathilde, Paula's best friend",
+                        "role": "Mathilde",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f2FbKGEBnFkbD5vQoIaxahxBLIKD.jpg/"
                     },
                     {
                         "name": "Ilian Bergala",
                         "order": 5,
-                        "role": "Gabriel Chevignon, Paula's boyfriend",
+                        "role": "Gabriel Chevignon",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f7iq8euEe8JdXNf96BRTrVDG4EA7.jpg/"
                     },
                     {
                         "name": "Luca Gelberg",
                         "order": 6,
-                        "role": "Quentin B\u00e9lier, Paula's brother",
+                        "role": "Quentin B\u00e9lier",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f1xx8N9wdLZXer9XalFKUuq3qswf.jpg/"
                     },
                     {
                         "name": "Mar Sodupe",
                         "order": 7,
-                        "role": "Ms. Dos Santos, spanish teacher",
+                        "role": "Ms. Dos Santos",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fuuvprtQWzeoPeF6hqwc5vjFOzoG.jpg/"
                     },
                     {
                         "name": "St\u00e9phan Wojtowicz",
                         "order": 8,
-                        "role": "Lapidus, mayor",
+                        "role": "Lapidus",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fi8Fq5msIvvB1LEulXkiW5rrPvFp.jpg/"
                     },
                     {
@@ -6511,7 +6517,7 @@
                     {
                         "name": "V\u00e9ronique Poulain",
                         "order": 11,
-                        "role": "Market client",
+                        "role": "Market Customer",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fePgqs1fqBWVG9uZZcMEOrob8FWl.jpg/"
                     },
                     {
@@ -6529,13 +6535,13 @@
                     {
                         "name": "Melchior Lebeaut",
                         "order": 14,
-                        "role": "Four-eyed student",
+                        "role": "Four-eyed Student",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f2MxiNd2QASf0K1pNh6XjDIMUsJD.jpg/"
                     },
                     {
                         "name": "C\u00e9line Jorrion",
                         "order": 15,
-                        "role": "FR3 journalist",
+                        "role": "FR3 Journalist",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fDMVccUrBa87JtxGbmfbBc8V7Zu.jpg/"
                     },
                     {
@@ -6547,19 +6553,19 @@
                     {
                         "name": "S\u00e9bastien Agius",
                         "order": 17,
-                        "role": "Gabriel Chevignon (singing voice)",
+                        "role": "Gabriel Chevignon (voice)",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f7XQ4UZYUCUH7oyTheGXrZlVndiY.jpg/"
                     },
                     {
                         "name": "Giulia Fo\u00efs",
                         "order": 18,
-                        "role": "TV reporter (voice)",
+                        "role": "TV Reporter (voice)",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fzXBdWSI4bmvdTZAoAssTWA4WTpa.jpg/"
                     },
                     {
                         "name": "No\u00ebl Sorrente",
                         "order": 19,
-                        "role": "Man in the market (uncredited)",
+                        "role": "Man in the Market (uncredited)",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f5YgyfV7Cfy13gBz0f45ywSOm4Sj.jpg/"
                     },
                     {
@@ -6622,10 +6628,10 @@
                     "param.user_slug": "atipoul",
                     "param.widget": "True",
                     "physical_release": "2015-04-29",
-                    "popularity": "14.993",
+                    "popularity": "11.946",
                     "premiere_release": "2014-11-07",
                     "provider.link": "https://www.themoviedb.org/movie/304410-la-famille-belier/watch?locale=FR",
-                    "providers": "Apple iTunes / Google Play Movies / Orange VOD / Microsoft Store / YouTube / Filmo TV / Canal VOD / Rakuten TV / Amazon Video",
+                    "providers": "Apple TV / Google Play Movies / Orange VOD / Microsoft Store / YouTube / Filmo TV / Canal VOD / Rakuten TV / Amazon Video",
                     "revenue": "$0",
                     "slug_id": "the-belier-family-2014",
                     "studio": "France 2 Cin\u00e9ma",
@@ -6633,7 +6639,7 @@
                     "tmdb_id": "304410",
                     "tmdb_rating": "6.9",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "2,153",
+                    "tmdb_votes": "2,170",
                     "trakt_id": "193922",
                     "widget": "Films franc\u0327ais > 70%"
                 },
@@ -6663,10 +6669,10 @@
                 "plotoutline": "",
                 "premiered": "2014-12-17",
                 "productioncode": "",
-                "rating": 6.914999961853027,
+                "rating": 6.900000095367432,
                 "resume": {
                     "position": 0.0,
-                    "total": 6300.0
+                    "total": 0.0
                 },
                 "runtime": 6300,
                 "season": -1,
@@ -6709,7 +6715,7 @@
                     "unknown": "tt3547740"
                 },
                 "userrating": 0,
-                "votes": "2153",
+                "votes": "2170",
                 "writer": [
                     "Stanislas Carr\u00e9 de Malberg",
                     "Eric Lartigau",
@@ -6893,10 +6899,10 @@
                     "param.user_slug": "atipoul",
                     "param.widget": "True",
                     "physical_release": "2012-11-07",
-                    "popularity": "8.919",
+                    "popularity": "10.502",
                     "premiere_release": "2012-05-17",
                     "provider.link": "https://www.themoviedb.org/movie/97365-de-rouille-et-d-os/watch?locale=FR",
-                    "providers": "Apple iTunes / Orange VOD / Canal VOD / Bbox VOD / Universcine",
+                    "providers": "Apple TV / Orange VOD / Canal VOD / Bbox VOD / Universcine",
                     "revenue": "$25,762,027",
                     "slug_id": "rust-and-bone-2012",
                     "studio": "France 2 Cin\u00e9ma",
@@ -6904,7 +6910,7 @@
                     "tmdb_id": "97365",
                     "tmdb_rating": "7.2",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "1,207",
+                    "tmdb_votes": "1,231",
                     "trakt_id": "70753",
                     "widget": "Films franc\u0327ais > 70%"
                 },
@@ -6934,10 +6940,10 @@
                 "plotoutline": "",
                 "premiered": "2012-05-17",
                 "productioncode": "",
-                "rating": 7.177999973297119,
+                "rating": 7.186999797821045,
                 "resume": {
                     "position": 0.0,
-                    "total": 6900.0
+                    "total": 0.0
                 },
                 "runtime": 6900,
                 "season": -1,
@@ -6966,7 +6972,7 @@
                     "Page 114",
                     "Lumi\u00e8re",
                     "Lunanime",
-                    "Centre du Cin\u00e9ma et de l'Audiovisuel de la F\u00e9d\u00e9ration Wallonie-Bruxelles",
+                    "Centre du Cin\u00e9ma et de l'Audiovisuel de la FWB",
                     "VOO",
                     "R\u00e9gion Provence-Alpes-C\u00f4te d'Azur",
                     "D\u00e9partement des Alpes-Maritimes",
@@ -6989,7 +6995,7 @@
                     "unknown": "tt2053425"
                 },
                 "userrating": 0,
-                "votes": "1207",
+                "votes": "1231",
                 "writer": [
                     "Jacques Audiard",
                     "Thomas Bidegain",
@@ -7281,9 +7287,9 @@
                     "param.user_slug": "atipoul",
                     "param.widget": "True",
                     "physical_release": "2019-04-10",
-                    "popularity": "17.496",
+                    "popularity": "24.469",
                     "provider.link": "https://www.themoviedb.org/movie/527729-asterix-le-secret-de-la-potion-magique/watch?locale=FR",
-                    "providers": "Apple iTunes / Google Play Movies / Orange VOD / Microsoft Store / YouTube / Filmo TV / Canal VOD / Rakuten TV / Universcine / Amazon Video",
+                    "providers": "Apple TV / Google Play Movies / Orange VOD / Microsoft Store / YouTube / Filmo TV / Canal VOD / Rakuten TV / Universcine / Amazon Video",
                     "revenue": "$47,349,002",
                     "set.fanart": "https://image.tmdb.org/t/p/original/7DpiEK17hH1foWyj4U0kv9ylRqG.jpg",
                     "set.name": "Ast\u00e9rix & Ob\u00e9lix (animation) - Saga",
@@ -7295,7 +7301,7 @@
                     "tmdb_id": "527729",
                     "tmdb_rating": "6.9",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "1,031",
+                    "tmdb_votes": "1,045",
                     "trakt_id": "375853",
                     "widget": "Films franc\u0327ais > 70%"
                 },
@@ -7328,10 +7334,10 @@
                 "plotoutline": "",
                 "premiered": "2018-05-12",
                 "productioncode": "",
-                "rating": 6.906000137329102,
+                "rating": 6.900000095367432,
                 "resume": {
                     "position": 0.0,
-                    "total": 5100.0
+                    "total": 0.0
                 },
                 "runtime": 5100,
                 "season": -1,
@@ -7376,7 +7382,7 @@
                     "unknown": "tt8001346"
                 },
                 "userrating": 0,
-                "votes": "1031",
+                "votes": "1045",
                 "writer": [
                     "Ren\u00e9 Goscinny",
                     "Albert Uderzo",
@@ -7389,8 +7395,8 @@
             {
                 "album": "",
                 "art": {
-                    "icon": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage.png/",
-                    "landscape": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage_wide.png/"
+                    "icon": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p(1)%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage.png/",
+                    "landscape": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p(1)%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage_wide.png/"
                 },
                 "artist": [],
                 "cast": [],

@@ -1,0 +1,136 @@
+{
+    "label": "SVOD (Kids S\u00e9ries TV)",
+    "type": "shortcut",
+    "paths": [
+        {
+            "label": "Netflix (Kids S\u00e9ries TV)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Netflix%20(Kids%20S%c3%a9ries%20TV)&list_slug=netflix-kids-series-tv&owner=true&plugin_category=Netflix%20(Kids%20S%c3%a9ries%20TV)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Netflix.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/netflix-kids-series-tv\r\nUpdated at 2023-02-18 23:45:08",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "netflix_(kids_series_tv)-1676818462.708873",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Disney+ (Kids S\u00e9ries TV)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Disney%2b%20(Kids%20S%c3%a9ries%20TV)&list_slug=disney-kids-series-tv&owner=true&plugin_category=Disney%2b%20(Kids%20S%c3%a9ries%20TV)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Disney+.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/disney-kids-series-tv\r\nUpdated at 2023-02-19 14:54:11",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "disney_(kids_series_tv)-1676818471.0581963",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Amazon Prime (Kids S\u00e9ries TV)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Amazon%20Prime%20(Kids%20S%c3%a9ries%20TV)&list_slug=amazon-prime-kids-series-tv&owner=true&plugin_category=Amazon%20Prime%20(Kids%20S%c3%a9ries%20TV)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Amazon Prime.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/amazon-prime-kids-series-tv\r\nUpdated at 2023-02-19 12:42:51",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "amazon_prime_(kids_series_tv)-1676818478.4913833",
+            "version": "3.7.0"
+        },
+        {
+            "label": "HBO Max (Kids S\u00e9ries TV)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=HBO%20Max%20(Kids%20S%c3%a9ries%20TV)&list_slug=hbo-max-kids-series-tv&owner=true&plugin_category=HBO%20Max%20(Kids%20S%c3%a9ries%20TV)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/HBO Max.jpg"
+                },
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "hbo_max_(kids_series_tv)-1676818494.8904939",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Apple TV+ (Kids S\u00e9ries TV)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Apple%20TV%2b%20(Kids%20S%c3%a9ries%20TV)&list_slug=apple-tv-kids-series-tv&owner=true&plugin_category=Apple%20TV%2b%20(Kids%20S%c3%a9ries%20TV)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Apple TV+.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/apple-tv-kids-series-tv\r\nUpdated at 2023-02-19 12:19:32",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "apple_tv_(kids_series_tv)-1676818501.756379",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Paramount+ (Kids S\u00e9ries TV)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Paramount%2b%20(Kids%20S%c3%a9ries%20TV)&list_slug=paramount-kids-series-tv&owner=true&plugin_category=Paramount%2b%20(Kids%20S%c3%a9ries%20TV)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Paramount+.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/paramount-kids-series-tv\r\nUpdated at 2023-02-19 14:10:13",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "paramount_(kids_series_tv)-1676818521.3216944",
+            "version": "3.7.0"
+        }
+    ],
+    "id": "svod_(kids_series_tv)-1676818458.192287",
+    "art": {
+        "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+        "fanart": "special://home/addons\\plugin.program.autowidget\\resources\\media\\fanart\\folder-shortcut.png",
+        "icon": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png",
+        "poster": "special://home/addons\\plugin.program.autowidget\\resources\\media\\poster\\folder-shortcut.png",
+        "thumb": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png"
+    },
+    "version": "3.7.0",
+    "content": "",
+    "sort_order": "9"
+}

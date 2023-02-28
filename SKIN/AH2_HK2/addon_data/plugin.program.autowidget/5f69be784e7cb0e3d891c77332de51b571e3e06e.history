@@ -1,0 +1,53 @@
+{
+    "history": [
+        [
+            1676908431.7571177,
+            "e192dddfb6d5efc1ee217dc2a7758c274294a2c4"
+        ],
+        [
+            1676910176.1851122,
+            "e192dddfb6d5efc1ee217dc2a7758c274294a2c4"
+        ],
+        [
+            1676910889.5183856,
+            "e192dddfb6d5efc1ee217dc2a7758c274294a2c4"
+        ],
+        [
+            1676913934.9098706,
+            "e192dddfb6d5efc1ee217dc2a7758c274294a2c4"
+        ],
+        [
+            1676923813.4929602,
+            "e192dddfb6d5efc1ee217dc2a7758c274294a2c4"
+        ],
+        [
+            1676932973.4779153,
+            "e192dddfb6d5efc1ee217dc2a7758c274294a2c4"
+        ],
+        [
+            1676952439.0868998,
+            "e192dddfb6d5efc1ee217dc2a7758c274294a2c4"
+        ],
+        [
+            1676989973.9613395,
+            "e192dddfb6d5efc1ee217dc2a7758c274294a2c4"
+        ],
+        [
+            1677038671.0163016,
+            "e192dddfb6d5efc1ee217dc2a7758c274294a2c4"
+        ],
+        [
+            1677104174.6393595,
+            "e192dddfb6d5efc1ee217dc2a7758c274294a2c4"
+        ],
+        [
+            1677355429.2804449,
+            "2026bf3280234521c1e4a73a369ace583222de49"
+        ]
+    ],
+    "widgets": [
+        "1783213e-e303-4181-82a7-d485b7714298",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Horreur+%28Se%CC%81ries+TV%29&list_slug=horreur-series-tv&owner=true&plugin_category=Horreur+%28Se%CC%81ries+TV%29&user_slug=jukebox8786&page=2&widget=true&reload=$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]"
+}

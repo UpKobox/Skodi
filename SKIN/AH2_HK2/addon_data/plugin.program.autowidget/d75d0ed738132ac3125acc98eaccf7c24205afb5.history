@@ -1,0 +1,33 @@
+{
+    "history": [
+        [
+            1677193516.3870358,
+            "9eeabb06d3bc3743e572cf5eed785b068152d4eb"
+        ],
+        [
+            1677193939.3504512,
+            "9eeabb06d3bc3743e572cf5eed785b068152d4eb"
+        ],
+        [
+            1677211491.9689038,
+            "9eeabb06d3bc3743e572cf5eed785b068152d4eb"
+        ],
+        [
+            1677249326.4761496,
+            "9eeabb06d3bc3743e572cf5eed785b068152d4eb"
+        ],
+        [
+            1677284345.6212623,
+            "9eeabb06d3bc3743e572cf5eed785b068152d4eb"
+        ],
+        [
+            1677352578.8673902,
+            "9eeabb06d3bc3743e572cf5eed785b068152d4eb"
+        ]
+    ],
+    "widgets": [
+        "7c25162e-6eab-40ae-a2f7-bf9071757cec",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Les%20plus%20tendances%20(Kids%20Films)&list_slug=les-plus-tendances-kids-films&owner=true&plugin_category=Les%20plus%20tendances%20(Kids%20Films)&user_slug=jukebox8786&widget=True"
+}

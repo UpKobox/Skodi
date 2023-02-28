@@ -1,0 +1,65 @@
+{
+    "history": [
+        [
+            1676908444.0104868,
+            "09140ce18d272468c2bbc2e929db998cdb497640"
+        ],
+        [
+            1676908911.6611497,
+            "09140ce18d272468c2bbc2e929db998cdb497640"
+        ],
+        [
+            1676910189.1460094,
+            "09140ce18d272468c2bbc2e929db998cdb497640"
+        ],
+        [
+            1676911376.621307,
+            "09140ce18d272468c2bbc2e929db998cdb497640"
+        ],
+        [
+            1676913940.2784212,
+            "09140ce18d272468c2bbc2e929db998cdb497640"
+        ],
+        [
+            1676921690.8402917,
+            "09140ce18d272468c2bbc2e929db998cdb497640"
+        ],
+        [
+            1676921695.3363235,
+            "09140ce18d272468c2bbc2e929db998cdb497640"
+        ],
+        [
+            1676928886.2334669,
+            "09140ce18d272468c2bbc2e929db998cdb497640"
+        ],
+        [
+            1676952446.4146934,
+            "09140ce18d272468c2bbc2e929db998cdb497640"
+        ],
+        [
+            1676989984.4967396,
+            "09140ce18d272468c2bbc2e929db998cdb497640"
+        ],
+        [
+            1677038682.851726,
+            "09140ce18d272468c2bbc2e929db998cdb497640"
+        ],
+        [
+            1677103926.8365505,
+            "4a3e3e915e23cf40ff17041884d61dcc54ee4f40"
+        ],
+        [
+            1677125143.9111867,
+            "4a3e3e915e23cf40ff17041884d61dcc54ee4f40"
+        ],
+        [
+            1677355446.7469327,
+            "4a3e3e915e23cf40ff17041884d61dcc54ee4f40"
+        ]
+    ],
+    "widgets": [
+        "1647db23-7164-423b-a92e-96980ec88944",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=En+famille+%28Kids+Films%29&list_slug=en-famille-kids-films&owner=true&plugin_category=En+famille+%28Kids+Films%29&user_slug=jukebox8786&page=2&widget=true&reload=$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]"
+}

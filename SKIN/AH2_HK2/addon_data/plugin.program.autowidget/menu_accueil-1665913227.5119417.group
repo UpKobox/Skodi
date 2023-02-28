@@ -1,0 +1,268 @@
+{
+    "label": "Menu Accueil",
+    "type": "shortcut",
+    "paths": [
+        {
+            "label": "Ma recherche HK2",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=affSearch",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/fanart (2).jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/search.png",
+                    "thumb": "special://masterprofile/addon_data/icones/recherche.png"
+                },
+                "title": "# Ma Recherche",
+                "plot": "type de recherche dispo",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "ma_recherche_hk2-1665914442.898079",
+            "version": "3.7.0"
+        },
+        {
+            "label": "On continue...",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=Mon%20historique&offset=0&suite=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/Mon historique.png",
+                    "thumb": "special://masterprofile/addon_data/icones/oncontinue.png"
+                },
+                "title": "On continue...",
+                "plot": "on continue nos series",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "on_continue...-1666474216.2663836",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Mes favoris HK Films",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&famille=Mes%20favoris%20HK&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://masterprofile/addon_data/icones/favorishk2__3.png"
+                },
+                "title": "Mes favoris HK",
+                "plot": "liste de vos favoris",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "mes_favoris_hk_films-1665913903.865201",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Mes favoris HK S\u00e9ries",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=Mes%20favoris%20HK",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://masterprofile/addon_data/icones/favorishk2__3 (2).png"
+                },
+                "title": "Mes favoris HK",
+                "plot": "Mes envies de voir",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "mes_favoris_hk_series-1665913942.5838044",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Mes Acteurs",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.program.autowidget/?group=mes_acteurs-1665914660.504863&mode=group&refresh&reload",
+                "filetype": "directory",
+                "art": {
+                    "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/fanart (2).jpg",
+                    "icon": "special://masterprofile/addon_data/icones/mesacteurs.png",
+                    "poster": "special://masterprofile/addon_data/icones/mesacteurs.png",
+                    "thumb": "special://masterprofile/addon_data/icones/mesacteurs.png"
+                },
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "programs",
+            "target": "shortcut",
+            "id": "mes_acteurs-1665914698.4564984",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Mes Bandes Annonces",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=affbaext",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/bleu-marine.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://masterprofile/addon_data/icones/films (6).png"
+                },
+                "title": "Mes Bandes Annonces",
+                "plot": "Acc\u00e9s repo special Bande Annonce",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "mes_bandes_annonces-1665914009.4020488",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Attendus Films",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_anticipated&tmdb_type=movie&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://masterprofile/addon_data/icones/attendus.png",
+                    "landscape": "special://masterprofile/addon_data/icones/attendus.png"
+                },
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "attendus_films-1666462571.739351",
+            "version": "3.7.0"
+        },
+        {
+            "label": "En Salles",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=now_playing&tmdb_type=movie&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://masterprofile/addon_data/icones/cine2.png",
+                    "landscape": "special://masterprofile/addon_data/icones/cine2.png"
+                },
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "en_salles-1666474353.8198657",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Setting Profils",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=affProfils",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/profil.png",
+                    "thumb": "special://masterprofile/addon_data/icones/param\u00e8tres.png"
+                },
+                "title": "Setting Profils",
+                "plot": "Choix Profils",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "setting_profils-1666430445.2958364",
+            "version": "3.7.0"
+        },
+        {
+            "label": "[Adulte]",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=folderPub&offset=0&repo=adulte&typM=divers",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://masterprofile/addon_data/icones/Age18.png"
+                },
+                "title": "[Adulte]",
+                "plot": "Partage alternatif Divers rep publique crypt\u00e9",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "adulte-1666430561.2658377",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Mediatheque HK",
+            "content": null,
+            "file": {
+                "file": "favourites://ActivateWindow(10025%2c%22plugin%3a%2f%2fplugin.video.sendtokodiU2P%2f%3faction%3dmovies%22%2creturn)/",
+                "filetype": "file",
+                "art": {
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/movies.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/movies.png"
+                },
+                "size": "0 B"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "mediatheque_hk-1666431063.6911347",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Mon Uptobox",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=affUpto",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/upto.png",
+                    "thumb": "special://masterprofile/addon_data/icones/Uptobox.png"
+                },
+                "title": "Mon Uptobox",
+                "plot": "acc\u00e9s \u00e0 ton compte upto et publique",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "mon_uptobox-1667745942.4726448",
+            "version": "3.7.0"
+        }
+    ],
+    "id": "menu_accueil-1665913227.5119417",
+    "art": {
+        "banner": "special://masterprofile/addon_data/icones/accueil3.png",
+        "fanart": "special://masterprofile/addon_data/icones/accueil3.png",
+        "icon": "special://masterprofile/addon_data/icones/accueil3.png",
+        "poster": "special://masterprofile/addon_data/icones/accueil3.png",
+        "thumb": "special://masterprofile/addon_data/icones/accueil3.png"
+    },
+    "version": "3.7.0",
+    "content": "",
+    "sort_order": "3"
+}

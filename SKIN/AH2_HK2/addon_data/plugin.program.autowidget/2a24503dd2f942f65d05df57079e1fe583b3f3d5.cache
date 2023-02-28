@@ -75,7 +75,7 @@
                     "param.plugin_category": "Live concerts",
                     "param.user_slug": "hazeyboy",
                     "param.widget": "True",
-                    "popularity": "1.072",
+                    "popularity": "0.717",
                     "revenue": "$0",
                     "slug_id": "fleetwood-mac-in-concert-the-mirage-tour-1983",
                     "tmdb_id": "62608",
@@ -199,7 +199,7 @@
                     "param.plugin_category": "Live concerts",
                     "param.user_slug": "hazeyboy",
                     "param.widget": "True",
-                    "popularity": "0.834",
+                    "popularity": "1.186",
                     "revenue": "$0",
                     "slug_id": "elton-john-tantrums-tiaras-1997",
                     "tmdb_id": "17916",
@@ -234,7 +234,7 @@
                 "plotoutline": "",
                 "premiered": "1997-09-03",
                 "productioncode": "",
-                "rating": 7.14300012588501,
+                "rating": 7.099999904632568,
                 "resume": {
                     "position": 0.0,
                     "total": 4440.0
@@ -375,14 +375,14 @@
                     "param.plugin_category": "Live concerts",
                     "param.user_slug": "hazeyboy",
                     "param.widget": "True",
-                    "popularity": "9.368",
+                    "popularity": "9.129",
                     "revenue": "$4,978,922",
                     "slug_id": "stop-making-sense-1984",
                     "studio": "Talking Heads",
                     "tmdb_id": "24128",
                     "tmdb_rating": "8.3",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "185",
+                    "tmdb_votes": "188",
                     "trakt_id": "14488",
                     "widget": "Live concerts"
                 },
@@ -412,7 +412,7 @@
                 "plotoutline": "",
                 "premiered": "1984-11-16",
                 "productioncode": "",
-                "rating": 8.307999610900879,
+                "rating": 8.303000450134277,
                 "resume": {
                     "position": 0.0,
                     "total": 5280.0
@@ -454,7 +454,7 @@
                     "unknown": "tt0088178"
                 },
                 "userrating": 0,
-                "votes": "185",
+                "votes": "188",
                 "writer": [
                     "Jonathan Demme"
                 ],
@@ -490,8 +490,7 @@
                     {
                         "name": "Doyle Bramhall II",
                         "order": 3,
-                        "role": "Guitar, Backing Vocals",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fhyvh1fPEEkaYdJa6ArtKRy3jJw1.jpg/"
+                        "role": "Guitar, Backing Vocals"
                     },
                     {
                         "name": "Gary Clark Jr.",
@@ -526,8 +525,7 @@
                     {
                         "name": "Jimmie Vaughan",
                         "order": 9,
-                        "role": "Guitar",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f5fDNvlMCXNCXhT7POHfholwoI74.jpg/"
+                        "role": "Guitar"
                     },
                     {
                         "name": "Buddy Guy",
@@ -622,7 +620,7 @@
                     "param.plugin_category": "Live concerts",
                     "param.user_slug": "hazeyboy",
                     "param.widget": "True",
-                    "popularity": "2.3",
+                    "popularity": "2.19",
                     "revenue": "$1,000,000",
                     "slug_id": "eric-clapton-s-crossroads-guitar-festival-2010-2010",
                     "studio": "Parallel 28 Equipe",
@@ -712,54 +710,54 @@
                     {
                         "name": "Eric Clapton",
                         "order": 0,
-                        "role": "Guitar",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fxAt8X2SzU4gghOyf8xjPPknHNyv.jpg/"
                     },
                     {
                         "name": "B.B. King",
                         "order": 1,
-                        "role": "Guitar",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fyKZKHoX5AKZr2paJpYWaeYq0RuW.jpg/"
                     },
                     {
                         "name": "Jeff Beck",
                         "order": 2,
-                        "role": "Guitar",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fX16Bn8VOBYiLenre7ufN7Kzdi.jpg/"
                     },
                     {
                         "name": "Buddy Guy",
                         "order": 3,
-                        "role": "Himself",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f9J2mWgbZ39QCRASLKtiTeQV23Wr.jpg/"
                     },
                     {
                         "name": "Robert Cray",
                         "order": 4,
-                        "role": "Himself",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2furFJxPChtAaaz4b2MmlPSeVwNnN.jpg/"
                     },
                     {
                         "name": "Robbie Robertson",
                         "order": 5,
-                        "role": "Himself",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fpUhQhGrerErQGZKy0kKn6e6m1X7.jpg/"
                     },
                     {
                         "name": "Sheryl Crow",
                         "order": 6,
-                        "role": "Herself",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fqS0VRNBZYqIxP56y4JbKzi4r2vm.jpg/"
                     },
                     {
                         "name": "Derek Trucks",
                         "order": 7,
-                        "role": "Himself"
+                        "role": ""
                     },
                     {
                         "name": "John Mayer",
                         "order": 8,
-                        "role": "Himself",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fj6W5imosdIvPQ2PLZCRMlKiIy4h.jpg/"
                     }
                 ],
@@ -795,8 +793,12 @@
                     "param.plugin_category": "Live concerts",
                     "param.user_slug": "hazeyboy",
                     "param.widget": "True",
-                    "popularity": "0.732",
+                    "popularity": "1.61",
                     "revenue": "$0",
+                    "set.fanart": "",
+                    "set.name": "Crossroads Guitar Festival Collection",
+                    "set.poster": "https://image.tmdb.org/t/p/w500/j52QAw4rar3mxUAHrsqtJPNbZhq.jpg",
+                    "set.tmdb_id": "1073874",
                     "slug_id": "eric-clapton-s-crossroads-guitar-festival-2007-2007",
                     "tmdb_id": "247421",
                     "tmdb_rating": "6.5",
@@ -837,7 +839,7 @@
                 },
                 "runtime": 7980,
                 "season": -1,
-                "set": "",
+                "set": "Crossroads Guitar Festival Collection",
                 "setid": -1,
                 "showlink": [],
                 "showtitle": "",
@@ -895,13 +897,13 @@
                         "name": "Paul McCartney",
                         "order": 1,
                         "role": "Paul",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fsCPsv9ueP5UR6BkMSmRDlwbra6S.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fdSheYj41UvBQ4DAEtfyuS1R52Ce.jpg/"
                     },
                     {
                         "name": "George Harrison",
                         "order": 2,
                         "role": "George",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2frbcU4QSEWTKvLoJCRXGPati4KjJ.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fzwUO2gnKBnSrKOB9hnhI9GdOX6e.jpg/"
                     },
                     {
                         "name": "Ringo Starr",
@@ -975,7 +977,7 @@
                     {
                         "name": "David Janson",
                         "order": 15,
-                        "role": "Young Boy (as David Jaxon)",
+                        "role": "Young Boy",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fnHhWX0DqvkHi2il7SZf45jMCR0K.jpg/"
                     },
                     {
@@ -1050,7 +1052,7 @@
                         "name": "Susan Hampshire",
                         "order": 28,
                         "role": "Dancer at Disco",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2flgzKKduHCx2B0w5hoMyXwqR9wYq.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f6C7nO6mJq3o5DJpvY2mkIuUqY95.jpg/"
                     },
                     {
                         "name": "Victor Harrington",
@@ -1091,7 +1093,7 @@
                         "name": "Derek Nimmo",
                         "order": 35,
                         "role": "Leslie Jackson",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fyhBNbYlmuEMmWluO0uvt1kYGzTF.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2flH4iG8RKKBmKJvq38Y3BC3rojhh.jpg/"
                     },
                     {
                         "name": "Margaret Nolan",
@@ -1109,7 +1111,7 @@
                         "name": "Charlotte Rampling",
                         "order": 38,
                         "role": "Girl at Disco",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f5U35yScoao1hf6SibbMZcld2CJd.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f7fhg5FCcl0VfYERP5D0unpybqgx.jpg/"
                     },
                     {
                         "name": "Gordon Rollings",
@@ -1187,7 +1189,7 @@
                     "param.plugin_category": "Live concerts",
                     "param.user_slug": "hazeyboy",
                     "param.widget": "True",
-                    "popularity": "15.019",
+                    "popularity": "11.596",
                     "provider.link": "https://www.themoviedb.org/movie/704-a-hard-day-s-night/watch?locale=FR",
                     "providers": "Bbox VOD",
                     "revenue": "$2,360,561",
@@ -1196,7 +1198,7 @@
                     "tmdb_id": "704",
                     "tmdb_rating": "7.4",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "546",
+                    "tmdb_votes": "554",
                     "trakt_id": "576",
                     "widget": "Live concerts"
                 },
@@ -1226,7 +1228,7 @@
                 "plotoutline": "",
                 "premiered": "1964-07-07",
                 "productioncode": "",
-                "rating": 7.434999942779541,
+                "rating": 7.400000095367432,
                 "resume": {
                     "position": 0.0,
                     "total": 5220.0
@@ -1269,7 +1271,7 @@
                     "unknown": "tt0058182"
                 },
                 "userrating": 0,
-                "votes": "546",
+                "votes": "554",
                 "writer": [
                     "Alun Owen"
                 ],
@@ -1288,7 +1290,7 @@
                         "name": "David Bowie",
                         "order": 0,
                         "role": "",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fqrqQJivS0zLzxZKfgNZnDtjbqpI.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f7OIa363iSLG43x9Sb9HojUANwbh.jpg/"
                     }
                 ],
                 "country": [],
@@ -1415,7 +1417,7 @@
                         "name": "Neil Diamond",
                         "order": 0,
                         "role": "Himself",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fgeiwcAPT3xJDiNAeAGP929wq9LO.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2facb9GQPrp21CGlXkodYdde6KTLU.jpg/"
                     }
                 ],
                 "country": [
@@ -1452,7 +1454,7 @@
                     "param.plugin_category": "Live concerts",
                     "param.user_slug": "hazeyboy",
                     "param.widget": "True",
-                    "popularity": "2.072",
+                    "popularity": "1.856",
                     "revenue": "$0",
                     "slug_id": "neil-diamond-hot-august-night-nyc-2009",
                     "studio": "Columbia Music Video",
@@ -1544,31 +1546,31 @@
                     {
                         "name": "Freddie Mercury",
                         "order": 0,
-                        "role": "Lead Singer",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f29YpQZNzrGJtoa49ZVo2XLKZuQr.jpg/"
                     },
                     {
                         "name": "Brian May",
                         "order": 1,
-                        "role": "Guitar",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fdcSrV82AWt21t6XNa5UsYGeBzqx.jpg/"
                     },
                     {
                         "name": "Roger Taylor",
                         "order": 2,
-                        "role": "Drums",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f3RK6HF5pPgpOMDLzxkKhptjlJzv.jpg/"
                     },
                     {
                         "name": "John Deacon",
                         "order": 3,
-                        "role": "Bass",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fucbtgzdLR5oeVXfsTkbxl5TBU5z.jpg/"
                     },
                     {
                         "name": "Spike Edney",
                         "order": 4,
-                        "role": "Keyboards",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2frUnmXEwC4BdRrXROpXhhfIDvCO8.jpg/"
                     }
                 ],
@@ -1606,7 +1608,7 @@
                     "param.plugin_category": "Live concerts",
                     "param.user_slug": "hazeyboy",
                     "param.widget": "True",
-                    "popularity": "11.589",
+                    "popularity": "8.835",
                     "provider.link": "https://www.themoviedb.org/movie/20575-queen-live-at-wembley-stadium/watch?locale=FR",
                     "providers": "Apple iTunes",
                     "revenue": "$0",
@@ -1615,7 +1617,7 @@
                     "tmdb_id": "20575",
                     "tmdb_rating": "8.5",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "119",
+                    "tmdb_votes": "120",
                     "trakt_id": "12637",
                     "widget": "Live concerts"
                 },
@@ -1644,7 +1646,7 @@
                 "plotoutline": "",
                 "premiered": "1986-07-12",
                 "productioncode": "",
-                "rating": 8.529000282287598,
+                "rating": 8.541999816894531,
                 "resume": {
                     "position": 0.0,
                     "total": 6600.0
@@ -1685,7 +1687,7 @@
                     "unknown": "tt0158874"
                 },
                 "userrating": 0,
-                "votes": "119",
+                "votes": "120",
                 "writer": [],
                 "year": 1986
             },
@@ -1759,7 +1761,7 @@
                     "param.plugin_category": "Live concerts",
                     "param.user_slug": "hazeyboy",
                     "param.widget": "True",
-                    "popularity": "1.34",
+                    "popularity": "0.6",
                     "revenue": "$0",
                     "slug_id": "eagles-new-zealand-concert-1995",
                     "tmdb_id": "427514",
@@ -1870,7 +1872,7 @@
                         "name": "David Bowie",
                         "order": 4,
                         "role": "Himself",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fqrqQJivS0zLzxZKfgNZnDtjbqpI.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f7OIa363iSLG43x9Sb9HojUANwbh.jpg/"
                     },
                     {
                         "name": "Rick Allen",
@@ -2027,7 +2029,7 @@
                     "param.plugin_category": "Live concerts",
                     "param.user_slug": "hazeyboy",
                     "param.widget": "True",
-                    "popularity": "4.14",
+                    "popularity": "2.735",
                     "provider.link": "https://www.themoviedb.org/movie/34490-the-freddie-mercury-tribute-concert/watch?locale=FR",
                     "providers": "Apple iTunes",
                     "revenue": "$0",
@@ -2418,7 +2420,7 @@
                     "param.plugin_category": "Live concerts",
                     "param.user_slug": "hazeyboy",
                     "param.widget": "True",
-                    "popularity": "1.4",
+                    "popularity": "1.823",
                     "revenue": "$0",
                     "slug_id": "concert-for-diana-2007",
                     "studio": "Live Nation",
@@ -2550,7 +2552,7 @@
                     "param.plugin_category": "Live concerts",
                     "param.user_slug": "hazeyboy",
                     "param.widget": "True",
-                    "popularity": "1.642",
+                    "popularity": "1.694",
                     "revenue": "$0",
                     "slug_id": "tiesto-in-concert-2003",
                     "studio": "Black Hole",
@@ -2653,8 +2655,7 @@
                     {
                         "name": "Salaam Remi",
                         "order": 2,
-                        "role": "Self",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f6pAtNLKTQQZjAg2DzvTamddtn8m.jpg/"
+                        "role": "Self"
                     },
                     {
                         "name": "Ronnie Spector",
@@ -2697,7 +2698,7 @@
                     "param.plugin_category": "Live concerts",
                     "param.user_slug": "hazeyboy",
                     "param.widget": "True",
-                    "popularity": "2.016",
+                    "popularity": "1.205",
                     "revenue": "$0",
                     "slug_id": "amy-winehouse-back-to-black-the-real-story-behind-the-modern-classic-2018",
                     "studio": "BBC",
@@ -2784,7 +2785,7 @@
                 "album": "",
                 "art": {
                     "clearart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f79931%2fhdmovieclearart%2fadele-live-at-the-royal-albert-hall-5297ccf2e70d0.png/",
-                    "clearlogo": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f79931%2fhdmovielogo%2fadele-live-at-the-royal-albert-hall-508daf229356e.png/",
+                    "clearlogo": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f4q2t4EWvuSDWUloV9GYMB1HOGHC.png/",
                     "discart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f79931%2fmoviedisc%2fadele-live-at-the-royal-albert-hall-511382cf726de.png/",
                     "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fnourcgjOGs59YxNwDuLWxOjo3ME.jpg/",
                     "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2frKHVEjAJ9DG7dNN5VEahTdExzgv.jpg/",
@@ -2899,7 +2900,7 @@
                     "param.plugin_category": "Live concerts",
                     "param.user_slug": "hazeyboy",
                     "param.widget": "True",
-                    "popularity": "7.434",
+                    "popularity": "5.716",
                     "revenue": "$0",
                     "slug_id": "adele-live-at-the-royal-albert-hall-2011",
                     "studio": "Sony Music Entertainment",
@@ -3098,7 +3099,7 @@
                     "param.plugin_category": "Live concerts",
                     "param.user_slug": "hazeyboy",
                     "param.widget": "True",
-                    "popularity": "8.455",
+                    "popularity": "7.515",
                     "provider.link": "https://www.themoviedb.org/movie/448449-whitney-can-i-be-me/watch?locale=FR",
                     "providers": "Apple iTunes / Google Play Movies / Orange VOD / YouTube / Rakuten TV / Universcine / Amazon Video",
                     "revenue": "$0",
@@ -3139,7 +3140,7 @@
                 "plotoutline": "",
                 "premiered": "2017-04-24",
                 "productioncode": "",
-                "rating": 6.47599983215332,
+                "rating": 6.5,
                 "resume": {
                     "position": 0.0,
                     "total": 6300.0
@@ -3238,7 +3239,7 @@
                     "param.plugin_category": "Live concerts",
                     "param.user_slug": "hazeyboy",
                     "param.widget": "True",
-                    "popularity": "4.619",
+                    "popularity": "3.931",
                     "revenue": "$0",
                     "slug_id": "adele-live-in-new-york-city-2015",
                     "studio": "NBC",
@@ -3371,7 +3372,7 @@
                     "param.plugin_category": "Live concerts",
                     "param.user_slug": "hazeyboy",
                     "param.widget": "True",
-                    "popularity": "3.875",
+                    "popularity": "4.522",
                     "provider.link": "https://www.themoviedb.org/movie/408619-justin-timberlake-the-tennessee-kids/watch?locale=FR",
                     "providers": "Netflix / Netflix basic with Ads",
                     "revenue": "$0",
@@ -3410,7 +3411,7 @@
                 "plotoutline": "",
                 "premiered": "2016-09-13",
                 "productioncode": "",
-                "rating": 7.428999900817871,
+                "rating": 7.400000095367432,
                 "resume": {
                     "position": 0.0,
                     "total": 5400.0
@@ -3649,7 +3650,7 @@
                     "param.plugin_category": "Live concerts",
                     "param.user_slug": "hazeyboy",
                     "param.widget": "True",
-                    "popularity": "5.131",
+                    "popularity": "3.577",
                     "revenue": "$0",
                     "slug_id": "george-michael-freedom-2017",
                     "studio": "Sony Music Entertainment (UK) Ltd",
@@ -3686,7 +3687,7 @@
                 "plotoutline": "",
                 "premiered": "2017-10-16",
                 "productioncode": "",
-                "rating": 7.8460001945495605,
+                "rating": 7.800000190734863,
                 "resume": {
                     "position": 0.0,
                     "total": 5160.0
@@ -3877,14 +3878,14 @@
                     "param.plugin_category": "Live concerts",
                     "param.user_slug": "hazeyboy",
                     "param.widget": "True",
-                    "popularity": "8.879",
+                    "popularity": "10.367",
                     "revenue": "$0",
                     "slug_id": "queen-days-of-our-lives-2011-05-29",
                     "studio": "BBC",
                     "tmdb_id": "74406",
                     "tmdb_rating": "8.1",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "165",
+                    "tmdb_votes": "166",
                     "trakt_id": "54773",
                     "widget": "Live concerts"
                 },
@@ -3914,7 +3915,7 @@
                 "plotoutline": "",
                 "premiered": "2011-05-29",
                 "productioncode": "",
-                "rating": 8.102999687194824,
+                "rating": 8.100000381469727,
                 "resume": {
                     "position": 0.0,
                     "total": 5880.0
@@ -3954,15 +3955,15 @@
                     "unknown": "tt1977894"
                 },
                 "userrating": 0,
-                "votes": "165",
+                "votes": "166",
                 "writer": [],
                 "year": 2011
             },
             {
                 "album": "",
                 "art": {
-                    "icon": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage.png/",
-                    "landscape": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage_wide.png/"
+                    "icon": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p(1)%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage.png/",
+                    "landscape": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p(1)%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage_wide.png/"
                 },
                 "artist": [],
                 "cast": [],

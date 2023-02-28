@@ -1,0 +1,57 @@
+{
+    "history": [
+        [
+            1676908410.9398496,
+            "5ce10a81af117753a64b6de9878044fe2e76d0b2"
+        ],
+        [
+            1676910174.128118,
+            "5ce10a81af117753a64b6de9878044fe2e76d0b2"
+        ],
+        [
+            1676910888.6083612,
+            "5ce10a81af117753a64b6de9878044fe2e76d0b2"
+        ],
+        [
+            1676913934.5093482,
+            "5ce10a81af117753a64b6de9878044fe2e76d0b2"
+        ],
+        [
+            1676923811.5740623,
+            "5ce10a81af117753a64b6de9878044fe2e76d0b2"
+        ],
+        [
+            1676932972.464914,
+            "5ce10a81af117753a64b6de9878044fe2e76d0b2"
+        ],
+        [
+            1676952470.8864024,
+            "5ce10a81af117753a64b6de9878044fe2e76d0b2"
+        ],
+        [
+            1676989971.9126203,
+            "5ce10a81af117753a64b6de9878044fe2e76d0b2"
+        ],
+        [
+            1677038669.2258701,
+            "5ce10a81af117753a64b6de9878044fe2e76d0b2"
+        ],
+        [
+            1677104200.4960868,
+            "39b141f23de4528f0f0156fd3294616eee793db1"
+        ],
+        [
+            1677125131.5974498,
+            "39b141f23de4528f0f0156fd3294616eee793db1"
+        ],
+        [
+            1677355483.8782601,
+            "45afb1f5f45be33b577e0ca27b66ba5cc7d5de4b"
+        ]
+    ],
+    "widgets": [
+        "5d1cf9e3-c92e-4ed8-88d0-d29ba83e1505",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Fantastique+%26+Science-Fiction+%28Se%CC%81ries+TV%29&list_slug=fantastique-science-fiction-series-tv&owner=true&plugin_category=Fantastique+%26+Science-Fiction+%28Se%CC%81ries+TV%29&user_slug=jukebox8786&page=2&widget=true&reload=$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]"
+}

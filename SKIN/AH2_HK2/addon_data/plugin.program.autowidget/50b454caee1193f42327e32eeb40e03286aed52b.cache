@@ -1,0 +1,2373 @@
+{
+    "id": 1,
+    "jsonrpc": "2.0",
+    "result": {
+        "files": [
+            {
+                "album": "",
+                "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fkP5k4gA6yJiQCeN5FNcGwRtGDuq.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ff6mMqxJfAD2Ao4sto7kOq6a7tWg.jpg/",
+                    "landscape": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fyH5RpA13KTwXDHcxG5T4aCWj6XN.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ff6mMqxJfAD2Ao4sto7kOq6a7tWg.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Justin Hartley",
+                        "order": 0,
+                        "role": "Jacob Turner",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2foo7vqWz30pA1tY6quUOnS6O0AgB.jpg/"
+                    },
+                    {
+                        "name": "Barrett Doss",
+                        "order": 1,
+                        "role": "Rachel Campbell",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fsYCzceQLzAOcVYQClar3gJiJoMM.jpg/"
+                    },
+                    {
+                        "name": "Bonnie Bedelia",
+                        "order": 2,
+                        "role": "Ellie Foster",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f10JhoIaKHQGG0DNbQECTI4gHNn9.jpg/"
+                    },
+                    {
+                        "name": "Essence Atkins",
+                        "order": 3,
+                        "role": "Noel Hayden",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f5cBdIVRJmy7IntOk3E3yyqGk2fJ.jpg/"
+                    },
+                    {
+                        "name": "James Remar",
+                        "order": 4,
+                        "role": "Scott Turner",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fctMVpFDKKWCty60lLORf3IoJcv9.jpg/"
+                    },
+                    {
+                        "name": "Aaron Costa Ganis",
+                        "order": 5,
+                        "role": "Matt Segreto",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fnr6ItmkLYmOG7Wsgozy0vlrWscm.jpg/"
+                    },
+                    {
+                        "name": "Jeff Corbett",
+                        "order": 6,
+                        "role": "Ian Page",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f90BXqe89kTCrLNeFxXv99cecP5v.jpg/"
+                    },
+                    {
+                        "name": "Andrea Sooch",
+                        "order": 7,
+                        "role": "Svetlana",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f1l7w43URGBpTkK5xletbgJ1tsAm.jpg/"
+                    },
+                    {
+                        "name": "Lucia Spina",
+                        "order": 8,
+                        "role": "Book Store Owner"
+                    },
+                    {
+                        "name": "Shelby Reitman Renee",
+                        "order": 9,
+                        "role": "Young Noel"
+                    },
+                    {
+                        "name": "Vivian Full",
+                        "order": 10,
+                        "role": "Shari",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fkek3PiseYBEfcMbNO7dH7EGyX9z.jpg/"
+                    },
+                    {
+                        "name": "Mike Donovan",
+                        "order": 11,
+                        "role": "Alan",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2foQIM9zVx0LPnSOyM0yxzMVfk7Qe.jpg/"
+                    },
+                    {
+                        "name": "Whitney Kimball Long",
+                        "order": 12,
+                        "role": "Attractive Fan"
+                    },
+                    {
+                        "name": "Monica McCarthy",
+                        "order": 13,
+                        "role": "Lois Turner"
+                    },
+                    {
+                        "name": "Samantha Smart",
+                        "order": 14,
+                        "role": "Vamp Fan",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fbJ7cLATDWyzsv3qegbM7mmLufVr.jpg/"
+                    },
+                    {
+                        "name": "Baylen Bielitz",
+                        "order": 15,
+                        "role": "Benjamin Turner",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ftUNUsTXuCYmG2tp9TjqnrxAuQHg.jpg/"
+                    },
+                    {
+                        "name": "Gina D'Acciaro",
+                        "order": 16,
+                        "role": "Waitress"
+                    },
+                    {
+                        "name": "Lauren Yaffe",
+                        "order": 17,
+                        "role": "Fan"
+                    },
+                    {
+                        "name": "Alexander Blaise",
+                        "order": 18,
+                        "role": "Vittorio",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fiRL6j4fAEu3okfvYOm9BWD4VCIe.jpg/"
+                    },
+                    {
+                        "name": "Hollis Kempain Abram",
+                        "order": 19,
+                        "role": "Townsfolk"
+                    },
+                    {
+                        "name": "Blaine Morris",
+                        "order": 20,
+                        "role": "Nurse Cindy",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fi0jluLviizswfIMmlXKlPUaoEeP.jpg/"
+                    },
+                    {
+                        "name": "Patrick K. Dooley",
+                        "order": 21,
+                        "role": "Todd"
+                    },
+                    {
+                        "name": "Marilyn Busch",
+                        "order": 22,
+                        "role": "Fifty-Something Fan",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f71FMZ0cMoGwGNAdj08RnhI8HS3T.jpg/"
+                    },
+                    {
+                        "name": "Kathleen Mary Carthy",
+                        "order": 23,
+                        "role": "Candlelight Inn Receptionist",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f1ULyOv2kK0lXxHqpsMv9NDmovdB.jpg/"
+                    },
+                    {
+                        "name": "William DeMeritt",
+                        "order": 24,
+                        "role": "Dion",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fwQAOAhi4GkujJJAIqMlKgK9FT5n.jpg/"
+                    }
+                ],
+                "country": [
+                    "Canada",
+                    "United States of America"
+                ],
+                "customproperties": {
+                    "available_releases": "Digital",
+                    "budget": "$0",
+                    "cast": "Justin Hartley / Barrett Doss / Bonnie Bedelia / Essence Atkins / James Remar / Aaron Costa Ganis / Jeff Corbett / Andrea Sooch / Lucia Spina / Shelby Reitman Renee / Vivian Full / Mike Donovan / Whitney Kimball Long / Monica McCarthy / Samantha Smart / Baylen Bielitz / Gina D'Acciaro / Lauren Yaffe / Alexander Blaise / Hollis Kempain Abram / Blaine Morris / Patrick K. Dooley / Marilyn Busch / Kathleen Mary Carthy / William DeMeritt",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=736918&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=736918)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=736918)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=736918)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=736918)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=736918)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=The Noel Diary,tmdb_type=movie,tmdb_id=736918)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "dbtype": "movie",
+                    "digital_release": "2022-11-24",
+                    "imdb_id": "tt13007592",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "736918",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Familial (Films re\u0301cents)",
+                    "param.list_slug": "familial-films-recents",
+                    "param.owner": "true",
+                    "param.page": "2",
+                    "param.plugin_category": "Familial (Films re\u0301cents)",
+                    "param.reload": "$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]",
+                    "param.user_slug": "jukebox8786",
+                    "param.widget": "true",
+                    "popularity": "33.129",
+                    "provider.link": "https://www.themoviedb.org/movie/736918-the-noel-diary/watch?locale=FR",
+                    "providers": "Netflix / Netflix basic with Ads",
+                    "revenue": "$0",
+                    "slug_id": "the-noel-diary-2022",
+                    "studio": "Johnson Production Group",
+                    "tmdb_id": "736918",
+                    "tmdb_rating": "6.4",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "260",
+                    "trakt_id": "578341",
+                    "widget": "Familial (Films re\u0301cents)"
+                },
+                "dateadded": "",
+                "director": [
+                    "Charles Shyer"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fkP5k4gA6yJiQCeN5FNcGwRtGDuq.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=736918",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Romance",
+                    "Com\u00e9die",
+                    "Drame"
+                ],
+                "imdbnumber": "tt13007592",
+                "label": "The Noel Diary",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "Rated 10",
+                "originaltitle": "The Noel Diary",
+                "playcount": 2,
+                "plot": "Jake Turner, auteur de best-sellers, rentre chez lui \u00e0 No\u00ebl pour r\u00e9gler la succession d'une m\u00e8re avec qui il entretenait des relations distendues. Il d\u00e9couvre alors un journal intime qui pourrait bien l'\u00e9clairer sur son histoire et sur celle de Rachel, une jeune femme intrigante lanc\u00e9e dans sa propre qu\u00eate. Ensemble, ils entreprennent d'affronter leur pass\u00e9 pour se d\u00e9couvrir un avenir qu'ils ne soup\u00e7onnaient pas.",
+                "plotoutline": "",
+                "premiered": "2022-11-24",
+                "productioncode": "",
+                "rating": 6.360000133514404,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 5940,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Johnson Production Group",
+                    "Off Camera Entertainment"
+                ],
+                "tag": [],
+                "tagline": "Donneront-ils une chance \u00e0 l'amour malgr\u00e9 la douleur et le deuil\u00a0?",
+                "thumbnail": "",
+                "title": "The Noel Diary",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=kgWxi8Kh7VQ",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt13007592",
+                    "slug": "the-noel-diary-2022",
+                    "tmdb": "736918",
+                    "trakt": "578341",
+                    "unknown": "tt13007592"
+                },
+                "userrating": 0,
+                "votes": "260",
+                "writer": [
+                    "Charles Shyer",
+                    "David Golden",
+                    "Richard Paul Evans",
+                    "Rebecca Connor"
+                ],
+                "year": 2022
+            },
+            {
+                "album": "",
+                "art": {
+                    "clearlogo": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f1028938%2fhdmovielogo%2fa-hollywood-christmas-6388c6eabaf5a.png/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fWqN2eD2R2GOGds5iiZDJcHh7JS.jpg/",
+                    "fanart1": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f1028938%2fmoviebackground%2fa-hollywood-christmas-6388c716d1d34.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fr7Pv8Cfu7JTtedwWxBwBxyPKMu5.jpg/",
+                    "keyart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f1028938%2fmovieposter%2fa-hollywood-christmas-6388c7074d9eb.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fr7Pv8Cfu7JTtedwWxBwBxyPKMu5.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Jessika Van",
+                        "order": 0,
+                        "role": "Jessica",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f8y0Ui5RK87lT6IjYhWKsY65MVTe.jpg/"
+                    },
+                    {
+                        "name": "Josh Swickard",
+                        "order": 1,
+                        "role": "Christopher",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f5yVwWt6TCkGnUPGY2ENQs7PUVc7.jpg/"
+                    },
+                    {
+                        "name": "Missi Pyle",
+                        "order": 2,
+                        "role": "Theresa Frost",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f2HGKOnkngQ765z1RxxHiAaf6QxJ.jpg/"
+                    },
+                    {
+                        "name": "Anissa Borrego",
+                        "order": 3,
+                        "role": "Reena",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fsCD07WiAI9EskZJcLvBVqh07Y33.jpg/"
+                    },
+                    {
+                        "name": "Riley Dandy",
+                        "order": 4,
+                        "role": "Ashley / Chloe",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2foa3V4MDiPAzu4mUJNnc3mXHPt3U.jpg/"
+                    },
+                    {
+                        "name": "Zak Steiner",
+                        "order": 5,
+                        "role": "Michael / Jeb",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f75Zgszy5CiWAFbei56i57BWcy8V.jpg/"
+                    },
+                    {
+                        "name": "Tom Williamson",
+                        "order": 6,
+                        "role": "Daniel",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2frG8ObJpnCHXygQJwgc4oyqYYYLA.jpg/"
+                    },
+                    {
+                        "name": "Brooke Dillman",
+                        "order": 7,
+                        "role": "Karla",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ftmZM7jwbz8xMVGvp89T0TAhH1lL.jpg/"
+                    },
+                    {
+                        "name": "Mark W. Gray",
+                        "order": 8,
+                        "role": "Santa Claus",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fx2ZnAAinkw9iMJkKm6fDXTfx1LT.jpg/"
+                    },
+                    {
+                        "name": "Emelia Hartford",
+                        "order": 9,
+                        "role": "Clapper"
+                    },
+                    {
+                        "name": "Olga Safari",
+                        "order": 10,
+                        "role": "Noreen / Nadia",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fwoBJvu2MftJvIkEtyyhHJ9p88um.jpg/"
+                    }
+                ],
+                "country": [
+                    "United States of America"
+                ],
+                "customproperties": {
+                    "budget": "$0",
+                    "cast": "Jessika Van / Josh Swickard / Missi Pyle / Anissa Borrego / Riley Dandy / Zak Steiner / Tom Williamson / Brooke Dillman / Mark W. Gray / Emelia Hartford / Olga Safari",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=1028938&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=1028938)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=1028938)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=1028938)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=1028938)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=1028938)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=No\u00ebl \u00e0 Hollywood,tmdb_type=movie,tmdb_id=1028938)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt21950514",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "1028938",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Familial (Films re\u0301cents)",
+                    "param.list_slug": "familial-films-recents",
+                    "param.owner": "true",
+                    "param.page": "2",
+                    "param.plugin_category": "Familial (Films re\u0301cents)",
+                    "param.reload": "$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]",
+                    "param.user_slug": "jukebox8786",
+                    "param.widget": "true",
+                    "popularity": "19.713",
+                    "revenue": "$0",
+                    "slug_id": "a-hollywood-christmas-2022",
+                    "studio": "ESX Entertainment",
+                    "tmdb_id": "1028938",
+                    "tmdb_rating": "5.8",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "36",
+                    "trakt_id": "827372",
+                    "widget": "Familial (Films re\u0301cents)"
+                },
+                "dateadded": "",
+                "director": [
+                    "Alex Ranarivelo"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fWqN2eD2R2GOGds5iiZDJcHh7JS.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=1028938",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Com\u00e9die",
+                    "Romance"
+                ],
+                "imdbnumber": "tt21950514",
+                "label": "No\u00ebl \u00e0 Hollywood",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "A Hollywood Christmas",
+                "playcount": 0,
+                "plot": "Une r\u00e9alisatrice de films de No\u00ebl \u00e0 succ\u00e8s commence \u00e0 vivre son propre film de No\u00ebl lorsqu'un beau cadre de la cha\u00eene se pr\u00e9sente et menace d'arr\u00eater le tournage de sa derni\u00e8re production.",
+                "plotoutline": "",
+                "premiered": "2022-12-01",
+                "productioncode": "",
+                "rating": 5.800000190734863,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 5460,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "ESX Entertainment",
+                    "Lila Lane Pictures"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "No\u00ebl \u00e0 Hollywood",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=OS6L1Umb-jw",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt21950514",
+                    "slug": "a-hollywood-christmas-2022",
+                    "tmdb": "1028938",
+                    "trakt": "827372",
+                    "unknown": "tt21950514"
+                },
+                "userrating": 0,
+                "votes": "36",
+                "writer": [
+                    "John Ducey"
+                ],
+                "year": 2022
+            },
+            {
+                "album": "",
+                "art": {
+                    "clearlogo": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f1015724%2fhdmovielogo%2ftrick-or-treat-scooby-doo-633d344b3afe5.png/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fzoL7dO6Uw8wOtkhfrwryevQudSK.jpg/",
+                    "fanart1": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f1015724%2fmoviebackground%2ftrick-or-treat-scooby-doo-634cec244832f.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2faXTIZpimlytL86FkK5VujsUuMLi.jpg/",
+                    "landscape": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2frSvtUOlmhEfLZKIlfACVT7Dq8s1.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2faXTIZpimlytL86FkK5VujsUuMLi.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Frank Welker",
+                        "order": 0,
+                        "role": "Scooby-Doo / Rudy / Fred / Nefario (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fxXODQ5AX6pG4my8ieeEIuiAREXs.jpg/"
+                    },
+                    {
+                        "name": "Grey DeLisle",
+                        "order": 1,
+                        "role": "Daphne / Daisy / Musketeer 1 / Olive (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fanib3yRL9GyUvTkYNHWxQPlXLUH.jpg/"
+                    },
+                    {
+                        "name": "Matthew Lillard",
+                        "order": 2,
+                        "role": "Shaggy / Craggly / Captain Cutler (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f51v6jsvzuAXYirIzdqcjLBp46d6.jpg/"
+                    },
+                    {
+                        "name": "Kate Micucci",
+                        "order": 3,
+                        "role": "Velma / Helga (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f10FRMebTRHAgkxqhJ3Egq1liICF.jpg/"
+                    },
+                    {
+                        "name": "Myrna Velasco",
+                        "order": 4,
+                        "role": "Coco Diablo (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fbZ3HKdcvCSjfcAl9YWjsTDZfHIV.jpg/"
+                    },
+                    {
+                        "name": "Dee Bradley Baker",
+                        "order": 5,
+                        "role": "Esteban / Mr. Wickles / Cat Man (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg/"
+                    },
+                    {
+                        "name": "Jeff Bennett",
+                        "order": 6,
+                        "role": "Shady Guy / Charlie Humdrum / Hank (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fp78svoOr99IA2oBOUzAH9cnPOwf.jpg/"
+                    },
+                    {
+                        "name": "Anthony Carrigan",
+                        "order": 7,
+                        "role": "Trevor Glume / Farmer (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f6YtczDvE4eI8lkU6KXE6pkXaTIi.jpg/"
+                    },
+                    {
+                        "name": "Erin Fitzgerald",
+                        "order": 8,
+                        "role": "Library Kid / Superhero Girl / Musketeer 2 (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ffAMOm2xRjbR7nDUo3FsNVy61U70.jpg/"
+                    },
+                    {
+                        "name": "David Lodge",
+                        "order": 9,
+                        "role": "Warden Collins / Harry the Hypnotist / Inspector (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f1SVIavAalm6lwKjuHQoMggHH180.jpg/"
+                    },
+                    {
+                        "name": "Lara Jill Miller",
+                        "order": 10,
+                        "role": "Prisoner Costume Teen / Superhero Boy / Musketeer 3 (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f4C6W6w9uxA1WEe62zodDfHj3hZ8.jpg/"
+                    },
+                    {
+                        "name": "Candi Milo",
+                        "order": 11,
+                        "role": "Prison Woman / Dinosaur Kid / Monster Kid (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ffCgxSGGGF6m8YhrIE7Irs1ueh3W.jpg/"
+                    },
+                    {
+                        "name": "Jenelle Lynn Randall",
+                        "order": 12,
+                        "role": "Librarian / Superboy (voice)"
+                    },
+                    {
+                        "name": "Kevin Michael Richardson",
+                        "order": 13,
+                        "role": "Sheriff / Henry Bascombe / 10,000 Volt Ghost (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fxXt9Nh7RAT5bOen66TaXreNYmCl.jpg/"
+                    }
+                ],
+                "country": [
+                    "United States of America"
+                ],
+                "customproperties": {
+                    "available_releases": "Digital / Physical",
+                    "budget": "$0",
+                    "cast": "Frank Welker / Grey DeLisle / Matthew Lillard / Kate Micucci / Myrna Velasco / Dee Bradley Baker / Jeff Bennett / Anthony Carrigan / Erin Fitzgerald / David Lodge / Lara Jill Miller / Candi Milo / Jenelle Lynn Randall / Kevin Michael Richardson",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=1015724&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=1015724)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=1015724)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=1015724)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=1015724)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=1015724)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Scooby-Doo! et la mission d'Halloween,tmdb_type=movie,tmdb_id=1015724)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "dbtype": "movie",
+                    "digital_release": "2022-10-04",
+                    "imdb_id": "tt21919270",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "1015724",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Familial (Films re\u0301cents)",
+                    "param.list_slug": "familial-films-recents",
+                    "param.owner": "true",
+                    "param.page": "2",
+                    "param.plugin_category": "Familial (Films re\u0301cents)",
+                    "param.reload": "$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]",
+                    "param.user_slug": "jukebox8786",
+                    "param.widget": "true",
+                    "physical_release": "2022-11-16",
+                    "popularity": "108.596",
+                    "provider.link": "https://www.themoviedb.org/movie/1015724-trick-or-treat-scooby-doo/watch?locale=FR",
+                    "providers": "Apple TV / Google Play Movies / Microsoft Store / YouTube / Canal VOD / Rakuten TV / Amazon Video",
+                    "revenue": "$0",
+                    "slug_id": "trick-or-treat-scooby-doo-2022",
+                    "studio": "Hanna-Barbera Productions",
+                    "tmdb_id": "1015724",
+                    "tmdb_rating": "7.4",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "139",
+                    "trakt_id": "816526",
+                    "widget": "Familial (Films re\u0301cents)"
+                },
+                "dateadded": "",
+                "director": [
+                    "Audie Harrison"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fzoL7dO6Uw8wOtkhfrwryevQudSK.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=1015724",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Aventure",
+                    "Myst\u00e8re",
+                    "Com\u00e9die",
+                    "Animation",
+                    "Familial"
+                ],
+                "imdbnumber": "tt21919270",
+                "label": "Scooby-Doo! et la mission d'Halloween",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "Rated U",
+                "originaltitle": "Trick or Treat Scooby-Doo!",
+                "playcount": 0,
+                "plot": "Myst\u00e8res associ\u00e9s a r\u00e9solu l'affaire du si\u00e8cle ! Ils ont retrouv\u00e9 la piste de Coco Diablo, le chef du gang de criminels costum\u00e9s dont font partie The Black Knight, Space Kook et Ghost Diver. Avec Coco et son chat sous les verrous, Myst\u00e8res associ\u00e9s pensent pouvoir profiter d'un peu de repos. Que nenni ! Des fant\u00f4mes \u00e0 l'apparence du gang de Scooby-Doo et d'autres affreux jojos qu'ils connaissent bien envahissent Coolsville pour menacer Halloween. C'est \u00e0 pr\u00e9sent aux sales petits fouineurs (et leur nouvel alli\u00e9 improbable Coco) de d\u00e9masquer ce nouveau malfaiteur et sauver Halloween ! C'est bien plus qu'un bonbon ou un sort qui attendent Sammy et Scooby-Doo !",
+                "plotoutline": "",
+                "premiered": "2022-10-04",
+                "productioncode": "",
+                "rating": 7.355999946594238,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 4320,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Hanna-Barbera Productions",
+                    "Warner Bros. Animation"
+                ],
+                "tag": [],
+                "tagline": "Truc ou pi\u00e8ge ?!",
+                "thumbnail": "",
+                "title": "Scooby-Doo! et la mission d'Halloween",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=PQKHtdElMng",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt21919270",
+                    "slug": "trick-or-treat-scooby-doo-2022",
+                    "tmdb": "1015724",
+                    "trakt": "816526",
+                    "unknown": "tt21919270"
+                },
+                "userrating": 0,
+                "votes": "139",
+                "writer": [
+                    "Daniel McLellan",
+                    "Daniel McLellan",
+                    "Audie Harrison",
+                    "Audie Harrison",
+                    "Laura Pollak"
+                ],
+                "year": 2022
+            },
+            {
+                "album": "",
+                "art": {
+                    "banner": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f1001865%2fmoviebanner%2fscrooge-a-christmas-carol-63a8ab777dc77.jpg/",
+                    "clearlogo": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f94INcOwAMmyoJw6jt2JFqbrvP1l.png/",
+                    "discart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f1001865%2fmoviedisc%2fscrooge-a-christmas-carol-638c59a861c73.png/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fwMNY6tU9WOUeAMRfqbCYwceOl9u.jpg/",
+                    "fanart1": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f1001865%2fmoviebackground%2fscrooge-a-christmas-carol-638ba81839d87.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f2H76B1Jel5KUiLX3xuk9ojCIBSF.jpg/",
+                    "landscape": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fnxuCcXcYmv8Y0igIX2mnYm3DrFx.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f2H76B1Jel5KUiLX3xuk9ojCIBSF.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Luke Evans",
+                        "order": 0,
+                        "role": "Ebenezer Scrooge (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fqUkYJcrDc4M0LHNYASs30luFvw0.jpg/"
+                    },
+                    {
+                        "name": "Olivia Colman",
+                        "order": 1,
+                        "role": "Ghost of Christmas Past (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f4ZwZ66zXZyX26Kf2wfeMt1tQZQf.jpg/"
+                    },
+                    {
+                        "name": "Jessie Buckley",
+                        "order": 2,
+                        "role": "Isabel Fezziwig (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fjKhDQOMVQ1JP4gaUXCQg75gvsrm.jpg/"
+                    },
+                    {
+                        "name": "Johnny Flynn",
+                        "order": 3,
+                        "role": "Bob Cratchit (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fmDD9Dh101map9KzJejtVk5QxuWu.jpg/"
+                    },
+                    {
+                        "name": "Fra Fee",
+                        "order": 4,
+                        "role": "Harry Huffam (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f1UnZxfqaRTpoqpafM9PEAvlHAc7.jpg/"
+                    },
+                    {
+                        "name": "Giles Terera",
+                        "order": 5,
+                        "role": "Tom Jenkins (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fA7NUexegQjbQxSQ9cNB8bDQVHRW.jpg/"
+                    },
+                    {
+                        "name": "Trevor Dion Nicholas",
+                        "order": 6,
+                        "role": "Ghost of Christmas Present (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fPxD3SqcoiSycxzAN5resMhTjUa.jpg/"
+                    },
+                    {
+                        "name": "James Cosmo",
+                        "order": 7,
+                        "role": "Mr. Fezziwig (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fyNZLoDlGmsQfvqK53yFiCMsknp0.jpg/"
+                    },
+                    {
+                        "name": "Jonathan Pryce",
+                        "order": 8,
+                        "role": "Jacob Marley (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fzwSv5uXzPTtmitFe39UdqnVwmdL.jpg/"
+                    }
+                ],
+                "country": [
+                    "United Kingdom"
+                ],
+                "customproperties": {
+                    "available_releases": "Digital",
+                    "budget": "$0",
+                    "cast": "Luke Evans / Olivia Colman / Jessie Buckley / Johnny Flynn / Fra Fee / Giles Terera / Trevor Dion Nicholas / James Cosmo / Jonathan Pryce",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=1001865&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=1001865)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=1001865)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=1001865)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=1001865)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=1001865)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Scrooge : Un (m\u00e9)chant de No\u00ebl,tmdb_type=movie,tmdb_id=1001865)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "dbtype": "movie",
+                    "digital_release": "2022-12-02",
+                    "imdb_id": "tt20917338",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "1001865",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Familial (Films re\u0301cents)",
+                    "param.list_slug": "familial-films-recents",
+                    "param.owner": "true",
+                    "param.page": "2",
+                    "param.plugin_category": "Familial (Films re\u0301cents)",
+                    "param.reload": "$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]",
+                    "param.user_slug": "jukebox8786",
+                    "param.widget": "true",
+                    "popularity": "197.964",
+                    "provider.link": "https://www.themoviedb.org/movie/1001865-scrooge-a-christmas-carol/watch?locale=FR",
+                    "providers": "Netflix / Netflix basic with Ads",
+                    "revenue": "$0",
+                    "slug_id": "scrooge-a-christmas-carol-2022",
+                    "studio": "Timeless Films",
+                    "tmdb_id": "1001865",
+                    "tmdb_rating": "6.8",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "333",
+                    "trakt_id": "805332",
+                    "widget": "Familial (Films re\u0301cents)"
+                },
+                "dateadded": "",
+                "director": [
+                    "Stephen Donnelly"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fwMNY6tU9WOUeAMRfqbCYwceOl9u.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=1001865",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Animation",
+                    "Familial",
+                    "Fantastique",
+                    "Drame"
+                ],
+                "imdbnumber": "tt20917338",
+                "label": "Scrooge : Un (m\u00e9)chant de No\u00ebl",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Scrooge: A Christmas Carol",
+                "playcount": 0,
+                "plot": "La l\u00e9gende de Charles Dickens rena\u00eet avec l'adaptation en com\u00e9die musicale de cette fabuleuse histoire de No\u00ebl surnaturelle sur fond de voyage dans le temps. Scrooge n'a plus qu'une veille de No\u00ebl avant d'affronter son pass\u00e9 et d'essayer de s'assurer un plus bel avenir. Il en va de la paix de son \u00e2me.",
+                "plotoutline": "",
+                "premiered": "2022-11-18",
+                "productioncode": "",
+                "rating": 6.806000232696533,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 5760,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Timeless Films",
+                    "Axis Studios"
+                ],
+                "tag": [],
+                "tagline": "Faites face au pass\u00e9 et changez l\u2019avenir avant que le temps ne s\u2019\u00e9puise.",
+                "thumbnail": "",
+                "title": "Scrooge : Un (m\u00e9)chant de No\u00ebl",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=139oEnaYaII",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt20917338",
+                    "slug": "scrooge-a-christmas-carol-2022",
+                    "tmdb": "1001865",
+                    "trakt": "805332",
+                    "unknown": "tt20917338"
+                },
+                "userrating": 0,
+                "votes": "333",
+                "writer": [
+                    "Leslie Bricusse",
+                    "Charles Dickens"
+                ],
+                "year": 2022
+            },
+            {
+                "album": "",
+                "art": {
+                    "clearlogo": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f936960%2fhdmovielogo%2fchristmas-with-you-6376545de7771.png/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f1ZnbzMbxgSqKuCh9aOQCvv1mAyN.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fnkJQWyK0ABJaBaQ4Io3kOzMvdsa.jpg/",
+                    "landscape": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f936960%2fmoviethumb%2fchristmas-with-you-6376535f5f5fd.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fnkJQWyK0ABJaBaQ4Io3kOzMvdsa.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Aimee Garcia",
+                        "order": 0,
+                        "role": "Angelina",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f4z3mkoa8jHpqjzfbhzYMeKe2Mf7.jpg/"
+                    },
+                    {
+                        "name": "Freddie Prinze Jr.",
+                        "order": 1,
+                        "role": "Miguel",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f8V9yNBjCNRBKROyjCLKLJGcCBdG.jpg/"
+                    },
+                    {
+                        "name": "Deja Monique Cruz",
+                        "order": 2,
+                        "role": "Cristina",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fkhLcb8r17UsqhHgCSIiE7fmowBz.jpg/"
+                    },
+                    {
+                        "name": "Zenzi Williams",
+                        "order": 3,
+                        "role": "Monique"
+                    },
+                    {
+                        "name": "Kyndra Sanchez",
+                        "order": 4,
+                        "role": "Gloria"
+                    },
+                    {
+                        "name": "Socorro Santiago",
+                        "order": 5,
+                        "role": "Frida",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f8jHdcmw9r9L1VIAzgJQbXYt2tNt.jpg/"
+                    },
+                    {
+                        "name": "Helena Betancourt",
+                        "order": 6,
+                        "role": "Conchi"
+                    },
+                    {
+                        "name": "Elisa Bocanegra",
+                        "order": 7,
+                        "role": "Connie",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fnNf88dj04dZPIHMlL40rXm3ZbwK.jpg/"
+                    },
+                    {
+                        "name": "Lawrence J. Hughes",
+                        "order": 8,
+                        "role": "Barry"
+                    },
+                    {
+                        "name": "Nicolette Stephanie Templier",
+                        "order": 9,
+                        "role": "Cheri Bibi",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fbqFqJ9YyvAI4XQLdhBnxWT5bLzG.jpg/"
+                    },
+                    {
+                        "name": "Gabriel Sloyer",
+                        "order": 10,
+                        "role": "Ricardo",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fhbAylhJM8jIQPxIfYSKmatOZwcB.jpg/"
+                    },
+                    {
+                        "name": "Grace Dumdaw",
+                        "order": 11,
+                        "role": "Madison"
+                    },
+                    {
+                        "name": "Matthew Grimaldi",
+                        "order": 12,
+                        "role": "Scott Dawkins",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f1wTgR1oDmpvvXKasZLwjsyNW6Ot.jpg/"
+                    },
+                    {
+                        "name": "Cedric Cannon",
+                        "order": 13,
+                        "role": "Principal Shriner",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f3PtbLNqbkSwX1kuri68DNWh3MIU.jpg/"
+                    },
+                    {
+                        "name": "Kayla Cruz",
+                        "order": 14,
+                        "role": "Dancer #1"
+                    },
+                    {
+                        "name": "Celine Edmondson",
+                        "order": 15,
+                        "role": "Dancer #2"
+                    },
+                    {
+                        "name": "Norbert Reyes",
+                        "order": 16,
+                        "role": "Dancer #3"
+                    },
+                    {
+                        "name": "Khasan Brailsford",
+                        "order": 17,
+                        "role": "Dancer #4"
+                    },
+                    {
+                        "name": "Tatiana Marie Barber",
+                        "order": 18,
+                        "role": "Court Dancer #1"
+                    },
+                    {
+                        "name": "Victoria Caban",
+                        "order": 19,
+                        "role": "Court Dancer #2"
+                    },
+                    {
+                        "name": "Devin Neal",
+                        "order": 20,
+                        "role": "Court Dancer #3"
+                    },
+                    {
+                        "name": "Alexander Pelaez",
+                        "order": 21,
+                        "role": "Court Dancer #4"
+                    },
+                    {
+                        "name": "Juicy Rodriguez",
+                        "order": 22,
+                        "role": "Court Dancer #5"
+                    },
+                    {
+                        "name": "Ilia Jessica Castro",
+                        "order": 23,
+                        "role": "Choreographer"
+                    }
+                ],
+                "country": [
+                    "United States of America"
+                ],
+                "customproperties": {
+                    "available_releases": "Digital",
+                    "budget": "$0",
+                    "cast": "Aimee Garcia / Freddie Prinze Jr. / Deja Monique Cruz / Zenzi Williams / Kyndra Sanchez / Socorro Santiago / Helena Betancourt / Elisa Bocanegra / Lawrence J. Hughes / Nicolette Stephanie Templier / Gabriel Sloyer / Grace Dumdaw / Matthew Grimaldi / Cedric Cannon / Kayla Cruz / Celine Edmondson / Norbert Reyes / Khasan Brailsford / Tatiana Marie Barber / Victoria Caban / Devin Neal / Alexander Pelaez / Juicy Rodriguez / Ilia Jessica Castro",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=936960&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=936960)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=936960)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=936960)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=936960)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=936960)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Christmas with You,tmdb_type=movie,tmdb_id=936960)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "dbtype": "movie",
+                    "digital_release": "2022-11-17",
+                    "imdb_id": "tt15824322",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "936960",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Familial (Films re\u0301cents)",
+                    "param.list_slug": "familial-films-recents",
+                    "param.owner": "true",
+                    "param.page": "2",
+                    "param.plugin_category": "Familial (Films re\u0301cents)",
+                    "param.reload": "$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]",
+                    "param.user_slug": "jukebox8786",
+                    "param.widget": "true",
+                    "popularity": "17.782",
+                    "provider.link": "https://www.themoviedb.org/movie/936960-christmas-with-you/watch?locale=FR",
+                    "providers": "Netflix / Netflix basic with Ads",
+                    "revenue": "$0",
+                    "slug_id": "christmas-with-you-2022",
+                    "studio": "GMT Films",
+                    "tmdb_id": "936960",
+                    "tmdb_rating": "5.8",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "158",
+                    "trakt_id": "751813",
+                    "widget": "Familial (Films re\u0301cents)"
+                },
+                "dateadded": "",
+                "director": [
+                    "Gabriela Tagliavini"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f1ZnbzMbxgSqKuCh9aOQCvv1mAyN.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=936960",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Romance",
+                    "Com\u00e9die"
+                ],
+                "imdbnumber": "tt15824322",
+                "label": "Christmas with You",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "Rated 10",
+                "originaltitle": "Christmas with You",
+                "playcount": 0,
+                "plot": "En plein burn-out, Angelina, star de la pop, s'enfuit dans une petite ville pour r\u00e9aliser le r\u00eave d'une jeune fan. Elle y trouve non seulement l'inspiration pour relancer sa carri\u00e8re, mais aussi une chance de conna\u00eetre le grand amour.",
+                "plotoutline": "",
+                "premiered": "2022-11-17",
+                "productioncode": "",
+                "rating": 5.75600004196167,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 5460,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "GMT Films"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "Christmas with You",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=oqOTYDJdbzg",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt15824322",
+                    "slug": "christmas-with-you-2022",
+                    "tmdb": "936960",
+                    "trakt": "751813",
+                    "unknown": "tt15824322"
+                },
+                "userrating": 0,
+                "votes": "158",
+                "writer": [
+                    "Michael Varrati",
+                    "Paco Farias",
+                    "Jennifer C. Stetson"
+                ],
+                "year": 2022
+            },
+            {
+                "album": "",
+                "art": {
+                    "clearlogo": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f7diCegSDhL3LT2e17Lai8R2Qkf0.png/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f2rSwXeyGJH1vmtlgP3EqzdfTEC1.jpg/",
+                    "fanart1": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f833097%2fmoviebackground%2ffalling-for-christmas-636e655a29aa6.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fxEzCCBRUOb2r3Zg6F3kXUvXLBJe.jpg/",
+                    "keyart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f833097%2fmovieposter%2ffalling-for-christmas-636e654920970.jpg/",
+                    "landscape": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f833097%2fmoviethumb%2ffalling-for-christmas-636d28837c1b8.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fxEzCCBRUOb2r3Zg6F3kXUvXLBJe.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Lindsay Lohan",
+                        "order": 0,
+                        "role": "Sierra Belmont",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f6ppPVpOabVTK8BvBz2VdFBDudrd.jpg/"
+                    },
+                    {
+                        "name": "Chord Overstreet",
+                        "order": 1,
+                        "role": "Jake Russell",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fdrWXFTF9f8h9DRLRtKENCrJKGk1.jpg/"
+                    },
+                    {
+                        "name": "George Young",
+                        "order": 2,
+                        "role": "Tad Fairchild",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fdDTtlhWEnqIvBoOljmX2Hoi8IO4.jpg/"
+                    },
+                    {
+                        "name": "Jack Wagner",
+                        "order": 3,
+                        "role": "Beauregard Belmont",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fzRoZShStnWymvcm7bQDr35qdck6.jpg/"
+                    },
+                    {
+                        "name": "Olivia Perez",
+                        "order": 4,
+                        "role": "Avy",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2foCHMfy0wWd9xuOgn6RYgT4zjCUM.jpg/"
+                    },
+                    {
+                        "name": "Alejandra Flores",
+                        "order": 5,
+                        "role": "Alejandra Carlisle",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fcwxMa0RuL90FzlyOsqC07J159xQ.jpg/"
+                    },
+                    {
+                        "name": "Sean J. Dillingham",
+                        "order": 6,
+                        "role": "Ralph",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fquqA6H7UwuKc9h9kfKmAGou1247.jpg/"
+                    },
+                    {
+                        "name": "Chase Ramsey",
+                        "order": 7,
+                        "role": "Terry Carver",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fxUqxf7OmlUNW6axmvBeFxZEBPsd.jpg/"
+                    },
+                    {
+                        "name": "Bus Riley",
+                        "order": 8,
+                        "role": "Chestnut Vendor",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fAmoiQuUPCEgRaHbbwrwfg13jSmH.jpg/"
+                    },
+                    {
+                        "name": "Aliana Lohan",
+                        "order": 9,
+                        "role": "Bianca"
+                    },
+                    {
+                        "name": "Kate Rachesky",
+                        "order": 10,
+                        "role": "Heather",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fvTDjoDoDkXxhjXmCLtTgw4nu9Wy.jpg/"
+                    },
+                    {
+                        "name": "Oscar Rudecindo",
+                        "order": 11,
+                        "role": "Darius"
+                    },
+                    {
+                        "name": "Lonzo Liggins",
+                        "order": 12,
+                        "role": "Mayor Anand",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fiZYeOILjCl8LWO9hWsIFGuAhyIj.jpg/"
+                    },
+                    {
+                        "name": "Antonio D. Charity",
+                        "order": 13,
+                        "role": "Sheriff Borden",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fS8T0ABox1qJYbl84GWkQNU7wvZ.jpg/"
+                    },
+                    {
+                        "name": "Blythe Howard",
+                        "order": 14,
+                        "role": "Dr. Layla Monroe",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fbBaE8oyF8N1729PoE7SSVNQcbmN.jpg/"
+                    },
+                    {
+                        "name": "Allan Groves",
+                        "order": 15,
+                        "role": "Deputy",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fq9qwMOQkZWFS49aZSRsHM83BOh8.jpg/"
+                    },
+                    {
+                        "name": "Cat Hammons",
+                        "order": 16,
+                        "role": "Louise",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2feXschtSdmGxvNdaXHkG8dn8RD0t.jpg/"
+                    },
+                    {
+                        "name": "Sila Agavale",
+                        "order": 17,
+                        "role": "Howard",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fyGmr4BKKyMMJo10KOAnmXwZSZgm.jpg/"
+                    },
+                    {
+                        "name": "Rebecca Flinn-White",
+                        "order": 18,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f9IglumbneynFJzx1FosDsy3dlKC.jpg/"
+                    },
+                    {
+                        "name": "Jane Autumn Bonner",
+                        "order": 19,
+                        "role": "Kid"
+                    },
+                    {
+                        "name": "McKenzie Steele Foster",
+                        "order": 20,
+                        "role": "Media #1"
+                    },
+                    {
+                        "name": "Elizabeth Adeola",
+                        "order": 21,
+                        "role": "Media #2"
+                    },
+                    {
+                        "name": "Robert Daniels",
+                        "order": 22,
+                        "role": "Curtis"
+                    },
+                    {
+                        "name": "Anthony Starzynski",
+                        "order": 23,
+                        "role": "Bodi"
+                    },
+                    {
+                        "name": "Camelia Somers",
+                        "order": 24,
+                        "role": "Skylar"
+                    }
+                ],
+                "country": [
+                    "United States of America"
+                ],
+                "customproperties": {
+                    "available_releases": "Digital",
+                    "budget": "$0",
+                    "cast": "Lindsay Lohan / Chord Overstreet / George Young / Jack Wagner / Olivia Perez / Alejandra Flores / Sean J. Dillingham / Chase Ramsey / Bus Riley / Aliana Lohan / Kate Rachesky / Oscar Rudecindo / Lonzo Liggins / Antonio D. Charity / Blythe Howard / Allan Groves / Cat Hammons / Sila Agavale / Rebecca Flinn-White / Jane Autumn Bonner / McKenzie Steele Foster / Elizabeth Adeola / Robert Daniels / Anthony Starzynski / Camelia Somers",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=833097&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=833097)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=833097)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=833097)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=833097)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=833097)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=No\u00ebl tombe \u00e0 pic,tmdb_type=movie,tmdb_id=833097)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "dbtype": "movie",
+                    "digital_release": "2022-11-10",
+                    "imdb_id": "tt14715170",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "833097",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Familial (Films re\u0301cents)",
+                    "param.list_slug": "familial-films-recents",
+                    "param.owner": "true",
+                    "param.page": "2",
+                    "param.plugin_category": "Familial (Films re\u0301cents)",
+                    "param.reload": "$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]",
+                    "param.user_slug": "jukebox8786",
+                    "param.widget": "true",
+                    "popularity": "34.899",
+                    "provider.link": "https://www.themoviedb.org/movie/833097-falling-for-christmas/watch?locale=FR",
+                    "providers": "Netflix / Netflix basic with Ads",
+                    "revenue": "$0",
+                    "slug_id": "falling-for-christmas-2022",
+                    "studio": "Motion Picture Corporation of America",
+                    "tmdb_id": "833097",
+                    "tmdb_rating": "6.3",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "554",
+                    "trakt_id": "664937",
+                    "widget": "Familial (Films re\u0301cents)"
+                },
+                "dateadded": "",
+                "director": [
+                    "Janeen Damian"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f2rSwXeyGJH1vmtlgP3EqzdfTEC1.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=833097",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Romance",
+                    "Com\u00e9die",
+                    "Familial"
+                ],
+                "imdbnumber": "tt14715170",
+                "label": "No\u00ebl tombe \u00e0 pic",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "Rated 10",
+                "originaltitle": "Falling for Christmas",
+                "playcount": 0,
+                "plot": "Apr\u00e8s avoir perdu la m\u00e9moire dans un accident de ski pendant les f\u00eates, une h\u00e9riti\u00e8re choy\u00e9e se retrouve sous les bons soins d'un veuf malchanceux et de sa fille.",
+                "plotoutline": "",
+                "premiered": "2022-11-10",
+                "productioncode": "",
+                "rating": 6.329999923706055,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 5580,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Motion Picture Corporation of America",
+                    "Brad Krevoy Television",
+                    "Riviera Films",
+                    "WulfPak Productions"
+                ],
+                "tag": [],
+                "tagline": "",
+                "thumbnail": "",
+                "title": "No\u00ebl tombe \u00e0 pic",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=1FAZkpoavbo",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt14715170",
+                    "slug": "falling-for-christmas-2022",
+                    "tmdb": "833097",
+                    "trakt": "664937",
+                    "unknown": "tt14715170"
+                },
+                "userrating": 0,
+                "votes": "554",
+                "writer": [
+                    "Ron Oliver",
+                    "Jeff Bonnett",
+                    "Jeff Bonnett"
+                ],
+                "year": 2022
+            },
+            {
+                "album": "",
+                "art": {
+                    "clearlogo": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f826953%2fhdmovielogo%2fbetter-nate-than-ever-623d14eb3793d.png/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2foXJq7bVXfKzx1qMI0J8qOM1Yr9A.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f7IhlEdwOrZvHF4Ow2cSYYv3ms3S.jpg/",
+                    "landscape": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fy2oXMVX7KECOjlQXDq4ffZRVsGT.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f7IhlEdwOrZvHF4Ow2cSYYv3ms3S.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Rueby Wood",
+                        "order": 0,
+                        "role": "Nate Foster",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f2I35owVinnu4BzyJyXY2yzvj4cH.jpg/"
+                    },
+                    {
+                        "name": "Lisa Kudrow",
+                        "order": 1,
+                        "role": "Aunt Heidi",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f9YNzHuT7L0wdEl3zua6iUYz5tYT.jpg/"
+                    },
+                    {
+                        "name": "Joshua Bassett",
+                        "order": 2,
+                        "role": "Anthony Foster",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fyWZFAlOUmQiQqgOH5N4wgzLaH4b.jpg/"
+                    },
+                    {
+                        "name": "Aria Brooks",
+                        "order": 3,
+                        "role": "Libby",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f6mQ0J7DuBuqqBoX8xW6OzS76DZr.jpg/"
+                    },
+                    {
+                        "name": "Norbert Leo Butz",
+                        "order": 4,
+                        "role": "Rex",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f5gEoeS1YUVcsbLHcjfdi92ruJ76.jpg/"
+                    },
+                    {
+                        "name": "Michelle Federer",
+                        "order": 5,
+                        "role": "Sherrie",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fa8JEiVxSuYijDojNT3Xet2YoItC.jpg/"
+                    },
+                    {
+                        "name": "Finn Egan-Liang",
+                        "order": 6,
+                        "role": "Jimmy Madison"
+                    },
+                    {
+                        "name": "Pierson Salvador",
+                        "order": 7,
+                        "role": "Tall Middle Schooler",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fcI2aeoiAKzBYWQjS0TPvt6heM2y.jpg/"
+                    },
+                    {
+                        "name": "Mandy Gonz\u00e1lez",
+                        "order": 8,
+                        "role": "Mrs. Wadsworth",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2foxPTyTQfArSaLvky65Vunh2b6er.jpg/"
+                    },
+                    {
+                        "name": "Jimmy Ray Bennett",
+                        "order": 9,
+                        "role": "Fantasy Audition Greeter",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fAko3Obp07e1XskcH5LLgALZXcIF.jpg/"
+                    },
+                    {
+                        "name": "Brandon Espinoza",
+                        "order": 10,
+                        "role": "Local Guy"
+                    },
+                    {
+                        "name": "Kim Rios Lin",
+                        "order": 11,
+                        "role": "Stage Mom",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fvjEHonL9ia3lLgnXfrZ2yIsyB1J.jpg/"
+                    },
+                    {
+                        "name": "Kylie Kuioka",
+                        "order": 12,
+                        "role": "Stage Daughter",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fxL78pb1Iy9XM3jHO5RVXWjXbSu8.jpg/"
+                    },
+                    {
+                        "name": "Krystina Alabado",
+                        "order": 13,
+                        "role": "Assistant Casting Director",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f7qM07kJt5iNTdbFgDlxZNAHYF5C.jpg/"
+                    },
+                    {
+                        "name": "Brooks Ashmanskas",
+                        "order": 14,
+                        "role": "Casting Director",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fp6J2LmlPOQIzWCwDaIMMZeHFXFT.jpg/"
+                    },
+                    {
+                        "name": "Tamika Lawrence",
+                        "order": 15,
+                        "role": "Drugstore Employee",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ffuvptXKKUX06q5RwUTmHwiuzabg.jpg/"
+                    },
+                    {
+                        "name": "Priscilla Lopez",
+                        "order": 16,
+                        "role": "Serious Play Casting Director",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fpP2RnsD2twtt7Qv8km3EVLleiGo.jpg/"
+                    },
+                    {
+                        "name": "George Benson",
+                        "order": 17,
+                        "role": "Himself",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ffOavR4hLbsSHdYccCzKSlOLEpSl.jpg/"
+                    },
+                    {
+                        "name": "Keola Simpson",
+                        "order": 18,
+                        "role": "Garret Kekoa",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fuckg7qTZ0DqHGQTxgxO1EM84Rl7.jpg/"
+                    },
+                    {
+                        "name": "Anaseini Katoa",
+                        "order": 19,
+                        "role": "Director",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fqFK01oekq014KGUr8HOXdcXhg0S.jpg/"
+                    },
+                    {
+                        "name": "Natasha Yvette Williams",
+                        "order": 20,
+                        "role": "Principal",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f4CFuU2BSNiJ1DpoKDyAkuUrbTyb.jpg/"
+                    },
+                    {
+                        "name": "Natalie Kaye Clater",
+                        "order": 21,
+                        "role": "Kimmy"
+                    }
+                ],
+                "country": [
+                    "United States of America"
+                ],
+                "customproperties": {
+                    "available_releases": "Digital",
+                    "budget": "$0",
+                    "cast": "Rueby Wood / Lisa Kudrow / Joshua Bassett / Aria Brooks / Norbert Leo Butz / Michelle Federer / Finn Egan-Liang / Pierson Salvador / Mandy Gonz\u00e1lez / Jimmy Ray Bennett / Brandon Espinoza / Kim Rios Lin / Kylie Kuioka / Krystina Alabado / Brooks Ashmanskas / Tamika Lawrence / Priscilla Lopez / George Benson / Keola Simpson / Anaseini Katoa / Natasha Yvette Williams / Natalie Kaye Clater",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=826953&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=826953)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=826953)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=826953)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=826953)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=826953)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Le Monde de Nate,tmdb_type=movie,tmdb_id=826953)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "dbtype": "movie",
+                    "digital_release": "2022-04-01",
+                    "imdb_id": "tt14696284",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "826953",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Familial (Films re\u0301cents)",
+                    "param.list_slug": "familial-films-recents",
+                    "param.owner": "true",
+                    "param.page": "2",
+                    "param.plugin_category": "Familial (Films re\u0301cents)",
+                    "param.reload": "$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]",
+                    "param.user_slug": "jukebox8786",
+                    "param.widget": "true",
+                    "popularity": "13.097",
+                    "provider.link": "https://www.themoviedb.org/movie/826953-better-nate-than-ever/watch?locale=FR",
+                    "providers": "Disney Plus",
+                    "revenue": "$0",
+                    "slug_id": "better-nate-than-ever-2022",
+                    "studio": "Walt Disney Pictures",
+                    "tmdb_id": "826953",
+                    "tmdb_rating": "6.7",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "76",
+                    "trakt_id": "659566",
+                    "widget": "Familial (Films re\u0301cents)"
+                },
+                "dateadded": "",
+                "director": [
+                    "Tim Federle"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2foXJq7bVXfKzx1qMI0J8qOM1Yr9A.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=826953",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique",
+                    "Familial",
+                    "Com\u00e9die"
+                ],
+                "imdbnumber": "tt14696284",
+                "label": "Le Monde de Nate",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Better Nate Than Ever",
+                "playcount": 0,
+                "plot": "Nate Foster, 13 ans, s'enfuit en douce de Pittsburgh, avec son amie Libby, apr\u00e8s avoir \u00e9t\u00e9 recal\u00e9s de la pi\u00e8ce de th\u00e9\u00e2tre de leur \u00e9cole, afin de se rendre \u00e0 New York dans le but de passer une importante audition pour une com\u00e9die musicale. Par le plus grand des hasards, il tombe sur sa tante, Heidi, perdue de vue depuis longtemps. Cette rencontre fortuite va chambouler leurs projets.",
+                "plotoutline": "",
+                "premiered": "2022-03-15",
+                "productioncode": "",
+                "rating": 6.699999809265137,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 5520,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Walt Disney Pictures",
+                    "Marc Platt Productions"
+                ],
+                "tag": [],
+                "tagline": "Chaque aventure commence par un r\u00eave.",
+                "thumbnail": "",
+                "title": "Le Monde de Nate",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=PMo0OJKckHw",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt14696284",
+                    "slug": "better-nate-than-ever-2022",
+                    "tmdb": "826953",
+                    "trakt": "659566",
+                    "unknown": "tt14696284"
+                },
+                "userrating": 0,
+                "votes": "76",
+                "writer": [
+                    "Tim Federle"
+                ],
+                "year": 2022
+            },
+            {
+                "album": "",
+                "art": {
+                    "clearlogo": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f799883%2fhdmovielogo%2fhollywood-stargirl-6299fdb0a46e6.png/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fhGykHXIRZ5HI602BDpQDUNUsVqH.jpg/",
+                    "fanart1": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f799883%2fmoviebackground%2fhollywood-stargirl-6299fddc06364.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fkWZ7SXmyMeksAp1KpnrU41IdEG8.jpg/",
+                    "keyart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f799883%2fmovieposter%2fhollywood-stargirl-6299fdcd949c3.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fkWZ7SXmyMeksAp1KpnrU41IdEG8.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Grace VanderWaal",
+                        "order": 0,
+                        "role": "Susan \"Stargirl\" Caraway",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f3Efkxfo7aZjhhJ4Y9w0DvhBUfMa.jpg/"
+                    },
+                    {
+                        "name": "Judy Greer",
+                        "order": 1,
+                        "role": "Ana Caraway",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fpTLjIjh83R424RGxIfq4U0yx947.jpg/"
+                    },
+                    {
+                        "name": "Elijah Richardson",
+                        "order": 2,
+                        "role": "Evan",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fjGRaWIHyukihSstY1ZU2Ea0aO0G.jpg/"
+                    },
+                    {
+                        "name": "Uma Thurman",
+                        "order": 3,
+                        "role": "Roxanne Martel",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fsBgAZWi3o4FsnaTvnTNtK6jpQcF.jpg/"
+                    },
+                    {
+                        "name": "Tyrel Jackson Williams",
+                        "order": 4,
+                        "role": "Terrell",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fjHHj7vmQ9iWLJxmbWQdVjtv3PQC.jpg/"
+                    },
+                    {
+                        "name": "Judd Hirsch",
+                        "order": 5,
+                        "role": "Mr. Mitchell",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f7rJ0TZfMoPLTcO203tHhE6tcPKP.jpg/"
+                    },
+                    {
+                        "name": "Nija Okoro",
+                        "order": 6,
+                        "role": "Daphne",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fy1CHwlSVJ4mBtqgriO2wKjkHBCP.jpg/"
+                    },
+                    {
+                        "name": "Chris Williams",
+                        "order": 7,
+                        "role": "George",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fopLLZdBb1Wk7HmWsxMIkfdiPO36.jpg/"
+                    },
+                    {
+                        "name": "Al Madrigal",
+                        "order": 8,
+                        "role": "Iggy",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fp4vN80EGGlzLb5J7G8Ss3n9K2pc.jpg/"
+                    },
+                    {
+                        "name": "Ben Geurens",
+                        "order": 9,
+                        "role": "Daniel",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fl5IVbfx40zE6PeiaOO7ej8A9V5v.jpg/"
+                    },
+                    {
+                        "name": "Kristin Slaysman",
+                        "order": 10,
+                        "role": "Jody",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fglv0eHubeuIwcfrwNh0J6p4ZdJO.jpg/"
+                    },
+                    {
+                        "name": "Sarayu Blue",
+                        "order": 11,
+                        "role": "Priya Collins",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fzOYPWKAKwhlKTKEFei4h2DTj9tt.jpg/"
+                    },
+                    {
+                        "name": "Conor Husting",
+                        "order": 12,
+                        "role": "Pedro",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f1ALFpQQ2TzT4YObOiBcfBBX7WAt.jpg/"
+                    },
+                    {
+                        "name": "Sara Amini",
+                        "order": 13,
+                        "role": "Nicole",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fbM2Okv0uudBsratKTn5tQL8ml3H.jpg/"
+                    },
+                    {
+                        "name": "Noah Taliferro Spaulding",
+                        "order": 14,
+                        "role": "Mike"
+                    },
+                    {
+                        "name": "Kelly Sry",
+                        "order": 15,
+                        "role": "Daryl",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f9FhfpLCr6vWHggZ39UqmpZS61Vq.jpg/"
+                    },
+                    {
+                        "name": "Adrienne Beal",
+                        "order": 16,
+                        "role": "June"
+                    },
+                    {
+                        "name": "Starr Gilliard",
+                        "order": 17,
+                        "role": "Etta Tutu",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f5cPF8t4Kmhh6cT9KeJLgJ9I3kwW.jpg/"
+                    },
+                    {
+                        "name": "Janzy Paraiso",
+                        "order": 18,
+                        "role": "Young Women",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fvcg6z8lcaRbd53YmX8aFg18O7i8.jpg/"
+                    },
+                    {
+                        "name": "Roman Arabia",
+                        "order": 19,
+                        "role": "Max",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f9HnOoeFNoDAHF8dflirbZee4OOg.jpg/"
+                    },
+                    {
+                        "name": "Chelsea Conwright",
+                        "order": 20,
+                        "role": "Young Waitress"
+                    },
+                    {
+                        "name": "Heather Grace Hancock",
+                        "order": 21,
+                        "role": "Manager",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fsFN1Zqohn09ZKLMa2Vl8mCS332f.jpg/"
+                    },
+                    {
+                        "name": "Matt Cordova",
+                        "order": 22,
+                        "role": "Ken",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fu4yyIYsvqxoz5hREAcGVbdGPaRd.jpg/"
+                    },
+                    {
+                        "name": "Peter G. Adams",
+                        "order": 23,
+                        "role": "Dan"
+                    },
+                    {
+                        "name": "Jasmine Ash",
+                        "order": 24,
+                        "role": "Maggie"
+                    },
+                    {
+                        "name": "Janelle Froehlich",
+                        "order": 25,
+                        "role": "Female Production Assistant",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fjGno7G1j1d2abYVK0LWjf9i8p99.jpg/"
+                    },
+                    {
+                        "name": "Joey Jennings",
+                        "order": 26,
+                        "role": "Male Production Assistant",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fyX4EsHe6maCGi7I38noL8AYCRvt.jpg/"
+                    },
+                    {
+                        "name": "Rebecca Ann Johnson",
+                        "order": 27,
+                        "role": "Tail Waitress"
+                    },
+                    {
+                        "name": "Ryan Freeland",
+                        "order": 28,
+                        "role": "Bart"
+                    },
+                    {
+                        "name": "Zuri Appleby",
+                        "order": 29,
+                        "role": "Melissa"
+                    },
+                    {
+                        "name": "Doug Petty",
+                        "order": 30,
+                        "role": "Ben"
+                    },
+                    {
+                        "name": "Sanjay Krishnamurthy",
+                        "order": 31,
+                        "role": "Shayar"
+                    },
+                    {
+                        "name": "Nikhil Pai",
+                        "order": 32,
+                        "role": "Salesman",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fpJVktFw5twROjsdsPf5uT9VndRy.jpg/"
+                    },
+                    {
+                        "name": "Daniel Kim",
+                        "order": 33,
+                        "role": "Phil",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fwiYx97qudWH53Rw0v30FWZbw08g.jpg/"
+                    },
+                    {
+                        "name": "Luanne Homzy",
+                        "order": 34,
+                        "role": "Busker"
+                    },
+                    {
+                        "name": "Nick Baxter",
+                        "order": 35,
+                        "role": "Cousin Baxter"
+                    },
+                    {
+                        "name": "Matthew Bridges",
+                        "order": 36,
+                        "role": "Director of Photography",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f8Ii6OdCkaSpeiLVe3xyqx3abLcz.jpg/"
+                    },
+                    {
+                        "name": "Adam Foster Ballard",
+                        "order": 37,
+                        "role": "2nd 2nd Assistant Director"
+                    },
+                    {
+                        "name": "Geo Lee",
+                        "order": 38,
+                        "role": "Production Assistant"
+                    },
+                    {
+                        "name": "Austin Zudek",
+                        "order": 39,
+                        "role": "Guitar Player"
+                    }
+                ],
+                "country": [
+                    "United States of America"
+                ],
+                "customproperties": {
+                    "available_releases": "Digital",
+                    "budget": "$0",
+                    "cast": "Grace VanderWaal / Judy Greer / Elijah Richardson / Uma Thurman / Tyrel Jackson Williams / Judd Hirsch / Nija Okoro / Chris Williams / Al Madrigal / Ben Geurens / Kristin Slaysman / Sarayu Blue / Conor Husting / Sara Amini / Noah Taliferro Spaulding / Kelly Sry / Adrienne Beal / Starr Gilliard / Janzy Paraiso / Roman Arabia / Chelsea Conwright / Heather Grace Hancock / Matt Cordova / Peter G. Adams / Jasmine Ash / Janelle Froehlich / Joey Jennings / Rebecca Ann Johnson / Ryan Freeland / Zuri Appleby / Doug Petty / Sanjay Krishnamurthy / Nikhil Pai / Daniel Kim / Luanne Homzy / Nick Baxter / Matthew Bridges / Adam Foster Ballard / Geo Lee / Austin Zudek",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=799883&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=799883)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=799883)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=799883)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=799883)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=799883)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Hollywood Stargirl,tmdb_type=movie,tmdb_id=799883)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "dbtype": "movie",
+                    "digital_release": "2022-06-03",
+                    "imdb_id": "tt14109994",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "799883",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Familial (Films re\u0301cents)",
+                    "param.list_slug": "familial-films-recents",
+                    "param.owner": "true",
+                    "param.page": "2",
+                    "param.plugin_category": "Familial (Films re\u0301cents)",
+                    "param.reload": "$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]",
+                    "param.user_slug": "jukebox8786",
+                    "param.widget": "true",
+                    "popularity": "15.469",
+                    "provider.link": "https://www.themoviedb.org/movie/799883-hollywood-stargirl/watch?locale=FR",
+                    "providers": "Disney Plus",
+                    "revenue": "$0",
+                    "set.fanart": "https://image.tmdb.org/t/p/original/a2hSuCbJkosr7Vn7y8M76OaXDqE.jpg",
+                    "set.name": "Stargirl Collection",
+                    "set.poster": "https://image.tmdb.org/t/p/w500/8Bh8h6jbyT9VGsaljgloHWvY0He.jpg",
+                    "set.tmdb_id": "970645",
+                    "slug_id": "hollywood-stargirl-2022",
+                    "studio": "Walt Disney Pictures",
+                    "tmdb_id": "799883",
+                    "tmdb_rating": "6.8",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "40",
+                    "trakt_id": "635045",
+                    "widget": "Familial (Films re\u0301cents)"
+                },
+                "dateadded": "",
+                "director": [
+                    "Julia Hart"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fhGykHXIRZ5HI602BDpQDUNUsVqH.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=799883",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Com\u00e9die",
+                    "Romance",
+                    "Musique"
+                ],
+                "imdbnumber": "tt14109994",
+                "label": "Hollywood Stargirl",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Hollywood Stargirl",
+                "playcount": 0,
+                "plot": "La destin\u00e9e de Stargirl alors qu\u2019elle s\u2019appr\u00eate \u00e0 gagner la Californie en compagnie de sa m\u00e8re Ana, embauch\u00e9e pour r\u00e9aliser les costumes d\u2019un film \u00e0 Los Angeles. La jeune fille, qui esp\u00e8re concr\u00e9tiser ses r\u00eaves et devenir chanteuse professionnelle, y fait la connaissance de personnages aux profils tr\u00e8s vari\u00e9s, dont M. Mitchell, son voisin ; les fr\u00e8res Evan et Terrell, deux r\u00e9alisateurs en herbe ; et Roxanne Martel, une musicienne qu\u2019elle admire.",
+                "plotoutline": "",
+                "premiered": "2022-06-03",
+                "productioncode": "",
+                "rating": 6.800000190734863,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 6300,
+                "season": -1,
+                "set": "Stargirl Collection",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Walt Disney Pictures",
+                    "Gotham Group",
+                    "BCDF Pictures",
+                    "Hahnscape Entertainment",
+                    "Original Headquarters"
+                ],
+                "tag": [],
+                "tagline": "Trouvez votre place parmi les \u00e9toiles.",
+                "thumbnail": "",
+                "title": "Hollywood Stargirl",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=KFQVny5zGWY",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt14109994",
+                    "slug": "hollywood-stargirl-2022",
+                    "tmdb": "799883",
+                    "trakt": "635045",
+                    "unknown": "tt14109994"
+                },
+                "userrating": 0,
+                "votes": "40",
+                "writer": [
+                    "Jordan Horowitz",
+                    "Julia Hart",
+                    "Jerry Spinelli"
+                ],
+                "year": 2022
+            },
+            {
+                "album": "",
+                "art": {
+                    "clearlogo": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f759054%2fhdmovielogo%2frise-62a78b0aca15f.png/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fuKL39lSf3rQbcMG8XbByoHBwGId.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fvYeVdH4NLWRG0VJk0eLpvzbSYCJ.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fvYeVdH4NLWRG0VJk0eLpvzbSYCJ.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Uche Agada",
+                        "order": 0,
+                        "role": "Giannis Antetokounmpo",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fcxIxEX8XgrPmIs6cHfLB46wEjxy.jpg/"
+                    },
+                    {
+                        "name": "Dayo Okeniyi",
+                        "order": 1,
+                        "role": "Charles Antetokounmpo",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f8m4ZIuzVBDjFbJFLXebc4iwv27o.jpg/"
+                    },
+                    {
+                        "name": "Yetide Badaki",
+                        "order": 2,
+                        "role": "Veronica Antetokounmpo",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fqfzkREHuI1JvMxBteIAjKX8qMEr.jpg/"
+                    },
+                    {
+                        "name": "Ral Agada",
+                        "order": 3,
+                        "role": "Thanasis Antetokounmpo",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fwNvHBlGLH8X7Z6ztghF9qJQrJVY.jpg/"
+                    },
+                    {
+                        "name": "Jaden Osimuwa",
+                        "order": 4,
+                        "role": "Kostas Antetokounmpo",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fjx4ZIINHjWqWcFdtW4Me46m1ZI3.jpg/"
+                    },
+                    {
+                        "name": "Elijah Sholanke",
+                        "order": 5,
+                        "role": "Alexandros Antetokounmpo",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fAaYxGloi6at1ahX3OcF91IRoGF3.jpg/"
+                    },
+                    {
+                        "name": "Taylor Nichols",
+                        "order": 6,
+                        "role": "John Hammond",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f2VnYWsBXx19tNvBX1diwfjdLkjU.jpg/"
+                    },
+                    {
+                        "name": "Panos Koronis",
+                        "order": 7,
+                        "role": "Takis Zivas",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fs74kfWjMVWLxLcGqh40irJzx1lb.jpg/"
+                    },
+                    {
+                        "name": "Manish Dayal",
+                        "order": 8,
+                        "role": "Kevin Stephanides",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f7XwaeMi2PJapWWnK7nFw9Kj64hf.jpg/"
+                    },
+                    {
+                        "name": "Christos Loulis",
+                        "order": 9,
+                        "role": "Poco",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f8JZSfO7ZTfXXy74ABd9GHjUn9Cv.jpg/"
+                    },
+                    {
+                        "name": "Pilar Holland",
+                        "order": 10,
+                        "role": "Teresa Perez",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fk3aLuByd8CUsf7FPRXqF3h6kk4B.jpg/"
+                    },
+                    {
+                        "name": "Maximiliano Hern\u00e1ndez",
+                        "order": 11,
+                        "role": "OKC Thunder Rep",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fyZYUmF4t7Wu3CWjAcSANvTlSop9.jpg/"
+                    },
+                    {
+                        "name": "Phil Blevins",
+                        "order": 12,
+                        "role": "Peristeri B. C. Point Guard",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2faAeonFLps4taMjthxdp83eoMOB2.jpg/"
+                    },
+                    {
+                        "name": "Efthimis Chalkidis",
+                        "order": 13,
+                        "role": "Haris Eleftheriou",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f74vIo5mnCrjE4dar2rZduD7bnEH.jpg/"
+                    },
+                    {
+                        "name": "Babis Hawk Konstantinou",
+                        "order": 14,
+                        "role": "Turkish Policeman",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fiXYSNF7OvEzavZJ9qDgerYPBrqP.jpg/"
+                    },
+                    {
+                        "name": "Lina Patsiou",
+                        "order": 15,
+                        "role": "Nurse #1",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fvpkNN3gm5KEt4ekEntOBjJTRLgN.jpg/"
+                    },
+                    {
+                        "name": "Nicolas Politis",
+                        "order": 16,
+                        "role": "NBA Scouter",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fjMdshVCNszYPiHSYoT9eWSLew9q.jpg/"
+                    },
+                    {
+                        "name": "Jake Schwencke",
+                        "order": 17,
+                        "role": "NBA Scouter",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fehzl1X2pj7rZpuz3kWpVQM553Id.jpg/"
+                    },
+                    {
+                        "name": "McColm Kona Cephas Jr.",
+                        "order": 18,
+                        "role": "Young Giannis",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fzY0I6vz12mY2g1OK9vmEEivjJud.jpg/"
+                    },
+                    {
+                        "name": "Chinua Baraka Payne",
+                        "order": 19,
+                        "role": "Young Thanasis",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fbMoI3uT2u3N6qmMsSKYVyp33rbV.jpg/"
+                    },
+                    {
+                        "name": "Aaron Kingsley Adetola",
+                        "order": 20,
+                        "role": "Young Kostas",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f1bcFrorRtHGe0seQoQ5OAqKYWIu.jpg/"
+                    },
+                    {
+                        "name": "Jahleel Kamara",
+                        "order": 21,
+                        "role": "Young Alexandros",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f1MqmHDuz8tUgfSlZOhcYbkU2Mj5.jpg/"
+                    }
+                ],
+                "country": [
+                    "United States of America"
+                ],
+                "customproperties": {
+                    "available_releases": "Digital",
+                    "budget": "$0",
+                    "cast": "Uche Agada / Dayo Okeniyi / Yetide Badaki / Ral Agada / Jaden Osimuwa / Elijah Sholanke / Taylor Nichols / Panos Koronis / Manish Dayal / Christos Loulis / Pilar Holland / Maximiliano Hern\u00e1ndez / Phil Blevins / Efthimis Chalkidis / Babis Hawk Konstantinou / Lina Patsiou / Nicolas Politis / Jake Schwencke / McColm Kona Cephas Jr. / Chinua Baraka Payne / Aaron Kingsley Adetola / Jahleel Kamara",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=759054&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=759054)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=759054)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=759054)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=759054)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=759054)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Rise : La V\u00e9ritable Histoire des Antetokounmpo,tmdb_type=movie,tmdb_id=759054)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "dbtype": "movie",
+                    "digital_release": "2022-06-24",
+                    "imdb_id": "tt11242162",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "759054",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Familial (Films re\u0301cents)",
+                    "param.list_slug": "familial-films-recents",
+                    "param.owner": "true",
+                    "param.page": "2",
+                    "param.plugin_category": "Familial (Films re\u0301cents)",
+                    "param.reload": "$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]",
+                    "param.user_slug": "jukebox8786",
+                    "param.widget": "true",
+                    "popularity": "22.043",
+                    "provider.link": "https://www.themoviedb.org/movie/759054-rise/watch?locale=FR",
+                    "providers": "Disney Plus",
+                    "revenue": "$0",
+                    "slug_id": "rise-2022-06-24",
+                    "studio": "Walt Disney Pictures",
+                    "tmdb_id": "759054",
+                    "tmdb_rating": "7.7",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "211",
+                    "trakt_id": "598149",
+                    "widget": "Familial (Films re\u0301cents)"
+                },
+                "dateadded": "",
+                "director": [
+                    "Akin Omotoso"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fuKL39lSf3rQbcMG8XbByoHBwGId.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=759054",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Drame"
+                ],
+                "imdbnumber": "tt11242162",
+                "label": "Rise : La V\u00e9ritable Histoire des Antetokounmpo",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Rise",
+                "playcount": 0,
+                "plot": "La famille Antetokounmpo vit sous la menace permanente de l\u2019expulsion. Les fr\u00e8res Giannis, Thanasis et Kostas se d\u00e9couvrent un talent pour le basket et s\u2019envolent vers la renomm\u00e9e mondiale.",
+                "plotoutline": "",
+                "premiered": "2022-06-23",
+                "productioncode": "",
+                "rating": 7.701000213623047,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 6780,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Walt Disney Pictures",
+                    "Faliro House Productions",
+                    "Walt Disney Studios"
+                ],
+                "tag": [],
+                "tagline": "Amoureux du basket, bonjour !",
+                "thumbnail": "",
+                "title": "Rise : La V\u00e9ritable Histoire des Antetokounmpo",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=gRcr3zLacl4",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt11242162",
+                    "slug": "rise-2022-06-24",
+                    "tmdb": "759054",
+                    "trakt": "598149",
+                    "unknown": "tt11242162"
+                },
+                "userrating": 0,
+                "votes": "211",
+                "writer": [
+                    "Arash Amel"
+                ],
+                "year": 2022
+            }
+        ],
+        "limits": {
+            "end": 9,
+            "start": 0,
+            "total": 9
+        }
+    }
+}

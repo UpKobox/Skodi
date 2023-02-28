@@ -1,0 +1,57 @@
+{
+    "history": [
+        [
+            1676908449.5552053,
+            "9c699a1a739be9bd4f84bfc8f6a7b4ca5e753a98"
+        ],
+        [
+            1676908921.09176,
+            "9c699a1a739be9bd4f84bfc8f6a7b4ca5e753a98"
+        ],
+        [
+            1676910198.8592873,
+            "9c699a1a739be9bd4f84bfc8f6a7b4ca5e753a98"
+        ],
+        [
+            1676911385.4960918,
+            "9c699a1a739be9bd4f84bfc8f6a7b4ca5e753a98"
+        ],
+        [
+            1676913947.5203574,
+            "9c699a1a739be9bd4f84bfc8f6a7b4ca5e753a98"
+        ],
+        [
+            1676926588.8472586,
+            "9c699a1a739be9bd4f84bfc8f6a7b4ca5e753a98"
+        ],
+        [
+            1676952458.0407686,
+            "9c699a1a739be9bd4f84bfc8f6a7b4ca5e753a98"
+        ],
+        [
+            1676989991.3327422,
+            "9c699a1a739be9bd4f84bfc8f6a7b4ca5e753a98"
+        ],
+        [
+            1677038690.8224459,
+            "9c699a1a739be9bd4f84bfc8f6a7b4ca5e753a98"
+        ],
+        [
+            1677104187.3437057,
+            "d220c6879016a3519dc98e130af3d775366eeefa"
+        ],
+        [
+            1677125151.7161584,
+            "d220c6879016a3519dc98e130af3d775366eeefa"
+        ],
+        [
+            1677355459.4333732,
+            "d220c6879016a3519dc98e130af3d775366eeefa"
+        ]
+    ],
+    "widgets": [
+        "080aa4f7-3efa-4aff-a0fd-743933f63e05",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Pour+les+plus+grands+%28Kids+Se%CC%81ries+TV%29&list_slug=pour-les-plus-grands-kids-series-tv&owner=true&plugin_category=Pour+les+plus+grands+%28Kids+Se%CC%81ries+TV%29&user_slug=jukebox8786&page=2&widget=true&reload=$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]"
+}

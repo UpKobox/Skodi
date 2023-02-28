@@ -50,7 +50,7 @@
                     "param.plugin_category": "CONCERTS",
                     "param.user_slug": "ezzer_man",
                     "param.widget": "True",
-                    "popularity": "0.875",
+                    "popularity": "0.6",
                     "provider.link": "https://www.themoviedb.org/movie/338430-annie-lennox-an-evening-of-nostalgia-with-annie-lennox/watch?locale=FR",
                     "providers": "Apple iTunes",
                     "revenue": "$0",
@@ -205,7 +205,7 @@
                     "param.plugin_category": "CONCERTS",
                     "param.user_slug": "ezzer_man",
                     "param.widget": "True",
-                    "popularity": "0.95",
+                    "popularity": "0.708",
                     "revenue": "$0",
                     "slug_id": "arena-1985",
                     "studio": "HBO",
@@ -318,7 +318,7 @@
                         "name": "George Harrison",
                         "order": 3,
                         "role": "Self",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2frbcU4QSEWTKvLoJCRXGPati4KjJ.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fzwUO2gnKBnSrKOB9hnhI9GdOX6e.jpg/"
                     },
                     {
                         "name": "John Mellencamp",
@@ -439,7 +439,7 @@
                     "param.plugin_category": "CONCERTS",
                     "param.user_slug": "ezzer_man",
                     "param.widget": "True",
-                    "popularity": "2.929",
+                    "popularity": "2.492",
                     "provider.link": "https://www.themoviedb.org/movie/54931-bob-dylan-the-30th-anniversary-concert-celebration/watch?locale=FR",
                     "providers": "Apple iTunes / Google Play Movies / YouTube / Amazon Video",
                     "revenue": "$0",
@@ -570,7 +570,7 @@
                     "param.plugin_category": "CONCERTS",
                     "param.user_slug": "ezzer_man",
                     "param.widget": "True",
-                    "popularity": "1.577",
+                    "popularity": "1.081",
                     "revenue": "$0",
                     "slug_id": "bob-marley-live-in-concert-2012-04-12",
                     "tmdb_id": "121441",
@@ -721,7 +721,7 @@
                     "param.plugin_category": "CONCERTS",
                     "param.user_slug": "ezzer_man",
                     "param.widget": "True",
-                    "popularity": "1.242",
+                    "popularity": "0.756",
                     "revenue": "$0",
                     "slug_id": "celtic-woman-songs-from-the-heart-2009",
                     "studio": "Alex Coletti Productions",
@@ -851,7 +851,7 @@
                     "param.plugin_category": "CONCERTS",
                     "param.user_slug": "ezzer_man",
                     "param.widget": "True",
-                    "popularity": "1.137",
+                    "popularity": "0.824",
                     "revenue": "$0",
                     "slug_id": "cher-live-in-concert-1999",
                     "studio": "HBO",
@@ -976,7 +976,7 @@
                     "param.plugin_category": "CONCERTS",
                     "param.user_slug": "ezzer_man",
                     "param.widget": "True",
-                    "popularity": "1.241",
+                    "popularity": "0.6",
                     "revenue": "$0",
                     "slug_id": "chris-isaak-live-in-concert-and-greatest-hits-live-concert-2012",
                     "tmdb_id": "120305",
@@ -1111,7 +1111,7 @@
                     "param.plugin_category": "CONCERTS",
                     "param.user_slug": "ezzer_man",
                     "param.widget": "True",
-                    "popularity": "0.651",
+                    "popularity": "0.6",
                     "revenue": "$0",
                     "slug_id": "cinderella-in-concert-2005",
                     "tmdb_id": "57029",
@@ -1360,7 +1360,7 @@
                     "param.plugin_category": "CONCERTS",
                     "param.user_slug": "ezzer_man",
                     "param.widget": "True",
-                    "popularity": "0.6",
+                    "popularity": "0.666",
                     "revenue": "$0",
                     "slug_id": "the-cure-live-in-paris-2008-2008",
                     "studio": "Sombrero & Company",
@@ -1513,7 +1513,7 @@
                     "param.plugin_category": "CONCERTS",
                     "param.user_slug": "ezzer_man",
                     "param.widget": "True",
-                    "popularity": "0.84",
+                    "popularity": "0.6",
                     "revenue": "$0",
                     "slug_id": "the-cure-show-1993",
                     "studio": "Elektra Entertainment Group",
@@ -1660,7 +1660,7 @@
                     "param.plugin_category": "CONCERTS",
                     "param.user_slug": "ezzer_man",
                     "param.widget": "True",
-                    "popularity": "1.362",
+                    "popularity": "1.465",
                     "revenue": "$0",
                     "slug_id": "the-cure-festival-2005-2006",
                     "studio": "Geffen Records",
@@ -1825,7 +1825,7 @@
                     "param.plugin_category": "CONCERTS",
                     "param.user_slug": "ezzer_man",
                     "param.widget": "True",
-                    "popularity": "0.693",
+                    "popularity": "0.768",
                     "revenue": "$0",
                     "slug_id": "the-cure-greatest-hits-videos-2001",
                     "tmdb_id": "40556",
@@ -1947,7 +1947,7 @@
                     "param.plugin_category": "CONCERTS",
                     "param.user_slug": "ezzer_man",
                     "param.widget": "True",
-                    "popularity": "0.844",
+                    "popularity": "0.6",
                     "revenue": "$0",
                     "slug_id": "the-cure-live-in-chicago-2013",
                     "tmdb_id": "213227",
@@ -2094,7 +2094,7 @@
                     "param.plugin_category": "CONCERTS",
                     "param.user_slug": "ezzer_man",
                     "param.widget": "True",
-                    "popularity": "1.297",
+                    "popularity": "2.155",
                     "revenue": "$0",
                     "slug_id": "the-cure-trilogy-2002",
                     "theatrical_release": "2002-11-10",
@@ -2186,7 +2186,7 @@
                         "name": "David Bowie",
                         "order": 0,
                         "role": "Self",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f9lrhptypRSlwkDFoHidWIEwWyGA.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f7OIa363iSLG43x9Sb9HojUANwbh.jpg/"
                     }
                 ],
                 "country": [
@@ -2223,7 +2223,7 @@
                     "param.plugin_category": "CONCERTS",
                     "param.user_slug": "ezzer_man",
                     "param.widget": "True",
-                    "popularity": "2.105",
+                    "popularity": "2.59",
                     "provider.link": "https://www.themoviedb.org/movie/47019-david-bowie-a-reality-tour/watch?locale=FR",
                     "providers": "Apple iTunes",
                     "revenue": "$0",
@@ -2322,7 +2322,7 @@
                         "name": "David Bowie",
                         "order": 0,
                         "role": "Himself on Lead Vocals / Guitar",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fqrqQJivS0zLzxZKfgNZnDtjbqpI.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f7OIa363iSLG43x9Sb9HojUANwbh.jpg/"
                     },
                     {
                         "name": "Earl Slick",
@@ -2412,7 +2412,7 @@
                     "param.plugin_category": "CONCERTS",
                     "param.user_slug": "ezzer_man",
                     "param.widget": "True",
-                    "popularity": "2.164",
+                    "popularity": "2.335",
                     "provider.link": "https://www.themoviedb.org/movie/132781-david-bowie-serious-moonlight/watch?locale=FR",
                     "providers": "Apple iTunes",
                     "revenue": "$0",
@@ -2507,7 +2507,7 @@
                         "name": "David Bowie",
                         "order": 0,
                         "role": "",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fqrqQJivS0zLzxZKfgNZnDtjbqpI.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f7OIa363iSLG43x9Sb9HojUANwbh.jpg/"
                     }
                 ],
                 "country": [],
@@ -2624,8 +2624,8 @@
             {
                 "album": "",
                 "art": {
-                    "icon": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage.png/",
-                    "landscape": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage_wide.png/"
+                    "icon": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p(1)%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage.png/",
+                    "landscape": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p(1)%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage_wide.png/"
                 },
                 "artist": [],
                 "cast": [],

@@ -1,0 +1,41 @@
+{
+    "history": [
+        [
+            1677193513.935478,
+            "665f5cb31c4d8aa8a28a9b2c2aeb1610153ad543"
+        ],
+        [
+            1677193937.0455856,
+            "665f5cb31c4d8aa8a28a9b2c2aeb1610153ad543"
+        ],
+        [
+            1677211488.6101518,
+            "665f5cb31c4d8aa8a28a9b2c2aeb1610153ad543"
+        ],
+        [
+            1677249323.8310597,
+            "665f5cb31c4d8aa8a28a9b2c2aeb1610153ad543"
+        ],
+        [
+            1677284342.6676,
+            "3e132bdd900ba9fe292bc4ec698e9a95d50e9b33"
+        ],
+        [
+            1677317320.1116168,
+            "3e132bdd900ba9fe292bc4ec698e9a95d50e9b33"
+        ],
+        [
+            1677352576.0333862,
+            "3e132bdd900ba9fe292bc4ec698e9a95d50e9b33"
+        ],
+        [
+            1677363591.619602,
+            "3e132bdd900ba9fe292bc4ec698e9a95d50e9b33"
+        ]
+    ],
+    "widgets": [
+        "7d8a9c0c-d1ed-45c2-98e7-0d15b923fb22",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Les%20plus%20tendances%20(S%c3%a9ries%20TV)&list_slug=les-plus-tendances-series-tv&owner=true&plugin_category=Les%20plus%20tendances%20(S%c3%a9ries%20TV)&user_slug=jukebox8786&widget=True"
+}

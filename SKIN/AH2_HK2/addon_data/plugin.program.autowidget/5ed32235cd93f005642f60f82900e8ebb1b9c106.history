@@ -1,0 +1,13 @@
+{
+    "history": [
+        [
+            1673477020.4148417,
+            "74722d931f5b40758ee5b42592e80d9042e98c1f"
+        ]
+    ],
+    "widgets": [
+        "4c32e37d-c7e2-4922-ba34-24a0615a4d1d",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=fr-2020-2025&list_slug=fr-2020-2025&plugin_category=fr-2020-2025&user_slug=exosmart&widget=True"
+}

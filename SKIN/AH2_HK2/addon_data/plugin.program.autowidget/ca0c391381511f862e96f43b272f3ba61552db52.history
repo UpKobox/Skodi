@@ -1,0 +1,53 @@
+{
+    "history": [
+        [
+            1676908455.627893,
+            "a200591c78c2c65770ee77838cae05a66468f9f3"
+        ],
+        [
+            1676908925.8807487,
+            "a200591c78c2c65770ee77838cae05a66468f9f3"
+        ],
+        [
+            1676910205.8164098,
+            "a200591c78c2c65770ee77838cae05a66468f9f3"
+        ],
+        [
+            1676911394.72909,
+            "a200591c78c2c65770ee77838cae05a66468f9f3"
+        ],
+        [
+            1676913953.3737118,
+            "a200591c78c2c65770ee77838cae05a66468f9f3"
+        ],
+        [
+            1676926599.45395,
+            "a200591c78c2c65770ee77838cae05a66468f9f3"
+        ],
+        [
+            1676952487.134668,
+            "a200591c78c2c65770ee77838cae05a66468f9f3"
+        ],
+        [
+            1676990001.6361163,
+            "a200591c78c2c65770ee77838cae05a66468f9f3"
+        ],
+        [
+            1677038699.202677,
+            "a200591c78c2c65770ee77838cae05a66468f9f3"
+        ],
+        [
+            1677104195.6608138,
+            "a200591c78c2c65770ee77838cae05a66468f9f3"
+        ],
+        [
+            1677355515.0248945,
+            "a200591c78c2c65770ee77838cae05a66468f9f3"
+        ]
+    ],
+    "widgets": [
+        "58c53421-cc21-44de-9b01-a96ea237b33b",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Studio+Ghibli+%28Anime%29&list_slug=studio-ghibli-anime&owner=true&plugin_category=Studio+Ghibli+%28Anime%29&user_slug=jukebox8786&page=2&widget=true&reload=$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]"
+}

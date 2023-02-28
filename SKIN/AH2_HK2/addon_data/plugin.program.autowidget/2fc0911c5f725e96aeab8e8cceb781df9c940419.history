@@ -1,0 +1,41 @@
+{
+    "history": [
+        [
+            1677193510.3950412,
+            "96b8dcdae15f1267749009f7984a6f08c926fbae"
+        ],
+        [
+            1677193933.1207795,
+            "96b8dcdae15f1267749009f7984a6f08c926fbae"
+        ],
+        [
+            1677211484.6660452,
+            "96b8dcdae15f1267749009f7984a6f08c926fbae"
+        ],
+        [
+            1677249320.633231,
+            "96b8dcdae15f1267749009f7984a6f08c926fbae"
+        ],
+        [
+            1677284337.251507,
+            "8af903ef76d6506b528de294e41510d7431ad749"
+        ],
+        [
+            1677317314.961243,
+            "8af903ef76d6506b528de294e41510d7431ad749"
+        ],
+        [
+            1677352572.6450977,
+            "8af903ef76d6506b528de294e41510d7431ad749"
+        ],
+        [
+            1677363586.5844622,
+            "8af903ef76d6506b528de294e41510d7431ad749"
+        ]
+    ],
+    "widgets": [
+        "9a12f0dc-ae05-4346-91eb-b31268c40dd7",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Les%20plus%20populaires%20de%20la%20semaine%20(Kids%20S%c3%a9ries%20TV)&list_slug=les-plus-populaires-de-la-semaine-kids-series-tv&owner=true&plugin_category=Les%20plus%20populaires%20de%20la%20semaine%20(Kids%20S%c3%a9ries%20TV)&user_slug=jukebox8786&widget=True"
+}

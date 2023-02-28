@@ -1,0 +1,41 @@
+{
+    "history": [
+        [
+            1677193522.69375,
+            "b898667de729a3ab426ef5181a7935b01ac85eaf"
+        ],
+        [
+            1677193936.9005854,
+            "b898667de729a3ab426ef5181a7935b01ac85eaf"
+        ],
+        [
+            1677211488.9131508,
+            "b898667de729a3ab426ef5181a7935b01ac85eaf"
+        ],
+        [
+            1677249324.4633908,
+            "b898667de729a3ab426ef5181a7935b01ac85eaf"
+        ],
+        [
+            1677284343.1265173,
+            "18873a803693d3f877512784ed9bcc819f84c842"
+        ],
+        [
+            1677317320.353618,
+            "18873a803693d3f877512784ed9bcc819f84c842"
+        ],
+        [
+            1677352576.6153886,
+            "18873a803693d3f877512784ed9bcc819f84c842"
+        ],
+        [
+            1677363592.2555716,
+            "18873a803693d3f877512784ed9bcc819f84c842"
+        ]
+    ],
+    "widgets": [
+        "7d8a9c0c-d1ed-45c2-98e7-0d15b923fb22",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Les+plus+tendances+%28Se%CC%81ries+TV%29&list_slug=les-plus-tendances-series-tv&owner=true&plugin_category=Les+plus+tendances+%28Se%CC%81ries+TV%29&user_slug=jukebox8786&page=2&widget=true&reload=$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]"
+}

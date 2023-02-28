@@ -6,7 +6,7 @@
             {
                 "album": "",
                 "art": {
-                    "icon": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fdefault.png/"
+                    "icon": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p(1)%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fdefault.png/"
                 },
                 "artist": [],
                 "cast": [],
@@ -163,7 +163,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "rjchignell",
                     "param.widget": "True",
-                    "popularity": "1.151",
+                    "popularity": "1.286",
                     "revenue": "$0",
                     "slug_id": "311-day-live-in-new-orleans-2004",
                     "tmdb_id": "143116",
@@ -263,13 +263,13 @@
                         "name": "Paul McCartney",
                         "order": 1,
                         "role": "Paul",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fsCPsv9ueP5UR6BkMSmRDlwbra6S.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fdSheYj41UvBQ4DAEtfyuS1R52Ce.jpg/"
                     },
                     {
                         "name": "George Harrison",
                         "order": 2,
                         "role": "George",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2frbcU4QSEWTKvLoJCRXGPati4KjJ.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fzwUO2gnKBnSrKOB9hnhI9GdOX6e.jpg/"
                     },
                     {
                         "name": "Ringo Starr",
@@ -343,7 +343,7 @@
                     {
                         "name": "David Janson",
                         "order": 15,
-                        "role": "Young Boy (as David Jaxon)",
+                        "role": "Young Boy",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fnHhWX0DqvkHi2il7SZf45jMCR0K.jpg/"
                     },
                     {
@@ -418,7 +418,7 @@
                         "name": "Susan Hampshire",
                         "order": 28,
                         "role": "Dancer at Disco",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2flgzKKduHCx2B0w5hoMyXwqR9wYq.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f6C7nO6mJq3o5DJpvY2mkIuUqY95.jpg/"
                     },
                     {
                         "name": "Victor Harrington",
@@ -459,7 +459,7 @@
                         "name": "Derek Nimmo",
                         "order": 35,
                         "role": "Leslie Jackson",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fyhBNbYlmuEMmWluO0uvt1kYGzTF.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2flH4iG8RKKBmKJvq38Y3BC3rojhh.jpg/"
                     },
                     {
                         "name": "Margaret Nolan",
@@ -477,7 +477,7 @@
                         "name": "Charlotte Rampling",
                         "order": 38,
                         "role": "Girl at Disco",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f5U35yScoao1hf6SibbMZcld2CJd.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f7fhg5FCcl0VfYERP5D0unpybqgx.jpg/"
                     },
                     {
                         "name": "Gordon Rollings",
@@ -555,7 +555,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "rjchignell",
                     "param.widget": "True",
-                    "popularity": "15.019",
+                    "popularity": "11.596",
                     "provider.link": "https://www.themoviedb.org/movie/704-a-hard-day-s-night/watch?locale=FR",
                     "providers": "Bbox VOD",
                     "revenue": "$2,360,561",
@@ -564,7 +564,7 @@
                     "tmdb_id": "704",
                     "tmdb_rating": "7.4",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "546",
+                    "tmdb_votes": "554",
                     "trakt_id": "576",
                     "widget": "Concerts"
                 },
@@ -594,7 +594,7 @@
                 "plotoutline": "",
                 "premiered": "1964-07-07",
                 "productioncode": "",
-                "rating": 7.434999942779541,
+                "rating": 7.400000095367432,
                 "resume": {
                     "position": 0.0,
                     "total": 5220.0
@@ -637,7 +637,7 @@
                     "unknown": "tt0058182"
                 },
                 "userrating": 0,
-                "votes": "546",
+                "votes": "554",
                 "writer": [
                     "Alun Owen"
                 ],
@@ -692,7 +692,7 @@
                         "name": "Reba McEntire",
                         "order": 6,
                         "role": "Herself",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ffWF0qy3NJyNRQ4eo6suQiOHlac5.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fq0Y3p8IJUNZdxv4SVUgFo6rOqSZ.jpg/"
                     },
                     {
                         "name": "Dolly Parton",
@@ -741,7 +741,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "rjchignell",
                     "param.widget": "True",
-                    "popularity": "2.223",
+                    "popularity": "1.291",
                     "revenue": "$0",
                     "slug_id": "a-pentatonix-christmas-special-2016",
                     "studio": "Brad Lachman Productions",
@@ -916,7 +916,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "rjchignell",
                     "param.widget": "True",
-                    "popularity": "2.395",
+                    "popularity": "1.779",
                     "provider.link": "https://www.themoviedb.org/movie/20349-ac-dc-family-jewels/watch?locale=FR",
                     "providers": "Apple iTunes",
                     "revenue": "$0",
@@ -961,7 +961,7 @@
                 "plotoutline": "",
                 "premiered": "2005-03-18",
                 "productioncode": "",
-                "rating": 7.7779998779296875,
+                "rating": 7.800000190734863,
                 "resume": {
                     "position": 0.0,
                     "total": 9000.0
@@ -1076,7 +1076,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "rjchignell",
                     "param.widget": "True",
-                    "popularity": "1.4",
+                    "popularity": "0.926",
                     "revenue": "$0",
                     "slug_id": "ac-dc-live-77-at-the-hippodrome-golders-green-london-2003",
                     "studio": "BBC",
@@ -1195,12 +1195,17 @@
                         "order": 4,
                         "role": "Self - Drums",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fczZz5dfcHnZthFnQnt4lDYbapXa.jpg/"
+                    },
+                    {
+                        "name": "AC/DC",
+                        "order": 5,
+                        "role": "Themselves"
                     }
                 ],
                 "country": [],
                 "customproperties": {
                     "budget": "$0",
-                    "cast": "Angus Young / Malcolm Young / Brian Johnson / Cliff Williams / Chris Slade",
+                    "cast": "Angus Young / Malcolm Young / Brian Johnson / Cliff Williams / Chris Slade / AC/DC",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=19027&ignore_default=true)",
                     "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=19027)",
                     "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=19027)",
@@ -1229,7 +1234,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "rjchignell",
                     "param.widget": "True",
-                    "popularity": "7.224",
+                    "popularity": "7.333",
                     "provider.link": "https://www.themoviedb.org/movie/19027-ac-dc-live-at-donington/watch?locale=FR",
                     "providers": "Apple iTunes",
                     "revenue": "$1,000,000",
@@ -1348,9 +1353,10 @@
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f7nXedWc1NpW7Uky0FTnrtWcFMqU.jpg/"
                     },
                     {
-                        "name": "Phil Rudd ",
+                        "name": "Phil Rudd",
                         "order": 4,
-                        "role": "Himself - Drums"
+                        "role": "Himself - Drums",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fh5KTDmdg2iWKEqscJgVOOLaLFH3.jpg/"
                     }
                 ],
                 "country": [
@@ -1358,7 +1364,7 @@
                 ],
                 "customproperties": {
                     "budget": "$0",
-                    "cast": "Angus Young / Brian Johnson / Malcolm Young / Cliff Williams / Phil Rudd ",
+                    "cast": "Angus Young / Brian Johnson / Malcolm Young / Cliff Williams / Phil Rudd",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=122307&ignore_default=true)",
                     "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=122307)",
                     "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=122307)",
@@ -1386,7 +1392,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "rjchignell",
                     "param.widget": "True",
-                    "popularity": "0.841",
+                    "popularity": "1.091",
                     "revenue": "$0",
                     "slug_id": "ac-dc-live-at-the-circus-krone-2003-06-17",
                     "studio": "Columbia Music Video",
@@ -1553,7 +1559,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "rjchignell",
                     "param.widget": "True",
-                    "popularity": "8.013",
+                    "popularity": "10.307",
                     "provider.link": "https://www.themoviedb.org/movie/63973-ac-dc-live-at-river-plate/watch?locale=FR",
                     "providers": "Apple iTunes",
                     "revenue": "$0",
@@ -1710,16 +1716,16 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "rjchignell",
                     "param.widget": "True",
-                    "popularity": "2.363",
+                    "popularity": "2.152",
                     "provider.link": "https://www.themoviedb.org/movie/24983-ac-dc-no-bull/watch?locale=FR",
                     "providers": "Apple iTunes",
                     "revenue": "$0",
                     "slug_id": "ac-dc-no-bull-1996",
                     "studio": "Cowboy Films",
                     "tmdb_id": "24983",
-                    "tmdb_rating": "6.9",
+                    "tmdb_rating": "6.8",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "15",
+                    "tmdb_votes": "16",
                     "trakt_id": "15078",
                     "widget": "Concerts"
                 },
@@ -1748,7 +1754,7 @@
                 "plotoutline": "",
                 "premiered": "1996-11-02",
                 "productioncode": "",
-                "rating": 6.867000102996826,
+                "rating": 6.800000190734863,
                 "resume": {
                     "position": 0.0,
                     "total": 7200.0
@@ -1789,7 +1795,7 @@
                     "unknown": "tt0255773"
                 },
                 "userrating": 0,
-                "votes": "15",
+                "votes": "16",
                 "writer": [],
                 "year": 1996
             },
@@ -1883,7 +1889,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "rjchignell",
                     "param.widget": "True",
-                    "popularity": "0.712",
+                    "popularity": "2.498",
                     "provider.link": "https://www.themoviedb.org/movie/36037-ac-dc-plug-me-in/watch?locale=FR",
                     "providers": "Apple iTunes",
                     "revenue": "$0",
@@ -2035,7 +2041,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "rjchignell",
                     "param.widget": "True",
-                    "popularity": "1.68",
+                    "popularity": "1.941",
                     "revenue": "$0",
                     "slug_id": "ac-dc-stiff-upper-lip-live-2001",
                     "theatrical_release": "2001-12-04",
@@ -2071,7 +2077,7 @@
                 "plotoutline": "",
                 "premiered": "2001-12-04",
                 "productioncode": "",
-                "rating": 7.077000141143799,
+                "rating": 7.099999904632568,
                 "resume": {
                     "position": 0.0,
                     "total": 8400.0
@@ -2233,7 +2239,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "rjchignell",
                     "param.widget": "True",
-                    "popularity": "0.735",
+                    "popularity": "1.654",
                     "revenue": "$0",
                     "slug_id": "acm-presents-lionel-richie-and-friends-in-concert-2012",
                     "studio": "Dick Clark Productions",
@@ -2392,7 +2398,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "rjchignell",
                     "param.widget": "True",
-                    "popularity": "1.168",
+                    "popularity": "1.689",
                     "revenue": "$0",
                     "slug_id": "above-beyond-giving-up-the-day-job-2018",
                     "studio": "Archer's Mark",
@@ -2478,8 +2484,144 @@
             {
                 "album": "",
                 "art": {
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fswKfZN64nRPYhODFZmCwgMNytmf.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fofZXWrAV9FoDt64BnkDTCm4npMW.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fofZXWrAV9FoDt64BnkDTCm4npMW.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Adele",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f3eARarxsWedHczppAPi6MRZ3qOA.jpg/"
+                    },
+                    {
+                        "name": "Graham Norton",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f2VLkmia1Nd6r78WM5vWDgIIVsDF.jpg/"
+                    }
+                ],
+                "country": [
+                    "United Kingdom"
+                ],
+                "customproperties": {
+                    "available_releases": "TV",
+                    "budget": "$0",
+                    "cast": "Adele / Graham Norton",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=369533&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=369533)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=369533)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=369533)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=369533)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=369533)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Adele : Live in London,tmdb_type=movie,tmdb_id=369533)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt5224376",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "369533",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Concerts",
+                    "param.list_slug": "concerts",
+                    "param.owner": "true",
+                    "param.plugin_category": "Concerts",
+                    "param.user_slug": "rjchignell",
+                    "param.widget": "True",
+                    "popularity": "2.858",
+                    "revenue": "$0",
+                    "slug_id": "adele-at-the-bbc-2015",
+                    "studio": "BBC One",
+                    "tmdb_id": "369533",
+                    "tmdb_rating": "6.9",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "14",
+                    "trakt_id": "224056",
+                    "tv_release": "2015-12-02",
+                    "widget": "Concerts"
+                },
+                "dateadded": "",
+                "director": [],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fswKfZN64nRPYhODFZmCwgMNytmf.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=369533",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Musique"
+                ],
+                "imdbnumber": "tt5224376",
+                "label": "Adele : Live in London",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "Rated 10",
+                "originaltitle": "Adele at the BBC",
+                "playcount": 0,
+                "plot": "Le temps d'une soir\u00e9e exceptionnelle, Alcaline laisse la place \u00e0 Adele pour qu'elle fasse... son show. Un show qui va vous filer les poils, mais aussi vous faire rire, vous faire pleurer. Bref : une palette d'\u00e9motions musicales pour une soir\u00e9e in\u00e9dite. C'est promis, vous allez d\u00e9couvrir Adele comme vous ne l'avez jamais vue !",
+                "plotoutline": "",
+                "premiered": "2015-11-20",
+                "productioncode": "",
+                "rating": 6.900000095367432,
+                "resume": {
+                    "position": 0.0,
+                    "total": 3900.0
+                },
+                "runtime": 3900,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "BBC One"
+                ],
+                "tag": [],
+                "tagline": "Adele interpr\u00e8te en exclusivit\u00e9 les titres de son 3e album, \u00ab25\u00bb",
+                "thumbnail": "",
+                "title": "Adele : Live in London",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=Rf6epv4STtI",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt5224376",
+                    "slug": "adele-at-the-bbc-2015",
+                    "tmdb": "369533",
+                    "trakt": "224056",
+                    "unknown": "tt5224376"
+                },
+                "userrating": 0,
+                "votes": "14",
+                "writer": [],
+                "year": 2015
+            },
+            {
+                "album": "",
+                "art": {
                     "clearart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f79931%2fhdmovieclearart%2fadele-live-at-the-royal-albert-hall-5297ccf2e70d0.png/",
-                    "clearlogo": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f79931%2fhdmovielogo%2fadele-live-at-the-royal-albert-hall-508daf229356e.png/",
+                    "clearlogo": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f4q2t4EWvuSDWUloV9GYMB1HOGHC.png/",
                     "discart": "image://https%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f79931%2fmoviedisc%2fadele-live-at-the-royal-albert-hall-511382cf726de.png/",
                     "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fnourcgjOGs59YxNwDuLWxOjo3ME.jpg/",
                     "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2frKHVEjAJ9DG7dNN5VEahTdExzgv.jpg/",
@@ -2594,7 +2736,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "rjchignell",
                     "param.widget": "True",
-                    "popularity": "7.434",
+                    "popularity": "5.716",
                     "revenue": "$0",
                     "slug_id": "adele-live-at-the-royal-albert-hall-2011",
                     "studio": "Sony Music Entertainment",
@@ -2681,142 +2823,6 @@
             {
                 "album": "",
                 "art": {
-                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fswKfZN64nRPYhODFZmCwgMNytmf.jpg/",
-                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fofZXWrAV9FoDt64BnkDTCm4npMW.jpg/",
-                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fofZXWrAV9FoDt64BnkDTCm4npMW.jpg/"
-                },
-                "artist": [],
-                "cast": [
-                    {
-                        "name": "Adele",
-                        "order": 0,
-                        "role": "",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f3eARarxsWedHczppAPi6MRZ3qOA.jpg/"
-                    },
-                    {
-                        "name": "Graham Norton",
-                        "order": 1,
-                        "role": "",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f2VLkmia1Nd6r78WM5vWDgIIVsDF.jpg/"
-                    }
-                ],
-                "country": [
-                    "United Kingdom"
-                ],
-                "customproperties": {
-                    "available_releases": "TV",
-                    "budget": "$0",
-                    "cast": "Adele / Graham Norton",
-                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=369533&ignore_default=true)",
-                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=369533)",
-                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=369533)",
-                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=369533)",
-                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=369533)",
-                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=369533)",
-                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Adele : Live in London,tmdb_type=movie,tmdb_id=369533)",
-                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
-                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
-                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
-                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
-                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
-                    "contextmenulabel(5)": "$LOCALIZE[20444]",
-                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
-                    "dbtype": "movie",
-                    "imdb_id": "tt5224376",
-                    "isplayable": "true",
-                    "item.info": "play",
-                    "item.tmdb_id": "369533",
-                    "item.tmdb_type": "movie",
-                    "item.type": "movie",
-                    "param.info": "trakt_userlist",
-                    "param.list_name": "Concerts",
-                    "param.list_slug": "concerts",
-                    "param.owner": "true",
-                    "param.plugin_category": "Concerts",
-                    "param.user_slug": "rjchignell",
-                    "param.widget": "True",
-                    "popularity": "2.225",
-                    "revenue": "$0",
-                    "slug_id": "adele-at-the-bbc-2015",
-                    "studio": "BBC One",
-                    "tmdb_id": "369533",
-                    "tmdb_rating": "6.9",
-                    "tmdb_type": "movie",
-                    "tmdb_votes": "14",
-                    "trakt_id": "224056",
-                    "tv_release": "2015-12-02",
-                    "widget": "Concerts"
-                },
-                "dateadded": "",
-                "director": [],
-                "episode": -1,
-                "episodeguide": "",
-                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fswKfZN64nRPYhODFZmCwgMNytmf.jpg/",
-                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=369533",
-                "filetype": "file",
-                "firstaired": "",
-                "genre": [
-                    "Musique"
-                ],
-                "imdbnumber": "tt5224376",
-                "label": "Adele : Live in London",
-                "lastmodified": "",
-                "lastplayed": "",
-                "mimetype": "application/octet-stream",
-                "mpaa": "Rated 10",
-                "originaltitle": "Adele at the BBC",
-                "playcount": 0,
-                "plot": "Le temps d'une soir\u00e9e exceptionnelle, Alcaline laisse la place \u00e0 Adele pour qu'elle fasse... son show. Un show qui va vous filer les poils, mais aussi vous faire rire, vous faire pleurer. Bref : une palette d'\u00e9motions musicales pour une soir\u00e9e in\u00e9dite. C'est promis, vous allez d\u00e9couvrir Adele comme vous ne l'avez jamais vue !",
-                "plotoutline": "",
-                "premiered": "2015-11-20",
-                "productioncode": "",
-                "rating": 6.900000095367432,
-                "resume": {
-                    "position": 0.0,
-                    "total": 3900.0
-                },
-                "runtime": 3900,
-                "season": -1,
-                "set": "",
-                "setid": -1,
-                "showlink": [],
-                "showtitle": "",
-                "size": 0,
-                "sorttitle": "",
-                "specialsortepisode": -1,
-                "specialsortseason": -1,
-                "streamdetails": {
-                    "audio": [],
-                    "subtitle": [],
-                    "video": []
-                },
-                "studio": [
-                    "BBC One"
-                ],
-                "tag": [],
-                "tagline": "Adele interpr\u00e8te en exclusivit\u00e9 les titres de son 3e album, \u00ab25\u00bb",
-                "thumbnail": "",
-                "title": "Adele : Live in London",
-                "top250": 0,
-                "track": -1,
-                "trailer": "plugin://plugin.video.youtube/play/?video_id=Rf6epv4STtI",
-                "tvshowid": -1,
-                "type": "movie",
-                "uniqueid": {
-                    "imdb": "tt5224376",
-                    "slug": "adele-at-the-bbc-2015",
-                    "tmdb": "369533",
-                    "trakt": "224056",
-                    "unknown": "tt5224376"
-                },
-                "userrating": 0,
-                "votes": "14",
-                "writer": [],
-                "year": 2015
-            },
-            {
-                "album": "",
-                "art": {
                     "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fn4bfsPVaK1cXUxowqHw5XZlp6gG.jpg/",
                     "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fbjXzln3rACuqfwrzwqPmE0RYODj.jpg/",
                     "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fbjXzln3rACuqfwrzwqPmE0RYODj.jpg/"
@@ -2864,7 +2870,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "rjchignell",
                     "param.widget": "True",
-                    "popularity": "4.619",
+                    "popularity": "3.931",
                     "revenue": "$0",
                     "slug_id": "adele-live-in-new-york-city-2015",
                     "studio": "NBC",
@@ -3019,7 +3025,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "rjchignell",
                     "param.widget": "True",
-                    "popularity": "0.697",
+                    "popularity": "1.164",
                     "revenue": "$0",
                     "slug_id": "aerosmith-mtv-unplugged-1990",
                     "studio": "MTV",
@@ -3115,8 +3121,8 @@
                     {
                         "name": "Alanis Morissette",
                         "order": 0,
-                        "role": "Cantora",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fjN1EmBR9X6YczdbjYMIxl6srNJj.jpg/"
+                        "role": "Self",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fqUYL0dHbERwqtvIYxIghnv1EzpA.jpg/"
                     }
                 ],
                 "country": [
@@ -3154,7 +3160,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "rjchignell",
                     "param.widget": "True",
-                    "popularity": "0.684",
+                    "popularity": "1.545",
                     "provider.link": "https://www.themoviedb.org/movie/188506-alanis-morissette-live-at-montreux-2012/watch?locale=FR",
                     "providers": "Amazon Prime Video / Apple iTunes",
                     "revenue": "$0",
@@ -3238,8 +3244,8 @@
             {
                 "album": "",
                 "art": {
-                    "icon": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage.png/",
-                    "landscape": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage_wide.png/"
+                    "icon": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p(1)%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage.png/",
+                    "landscape": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p(1)%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage_wide.png/"
                 },
                 "artist": [],
                 "cast": [],

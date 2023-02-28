@@ -1,0 +1,43 @@
+{
+    "history": [
+        [
+            1675344646.9332368,
+            "629bcd57b16886dbae838ad34084377bc1ffb9c3"
+        ],
+        [
+            1675345162.1548762,
+            "844cfd7465a6e2f932eea36be5a8ac053f811bd3"
+        ],
+        [
+            1675345905.399709,
+            "629bcd57b16886dbae838ad34084377bc1ffb9c3"
+        ],
+        [
+            1675346306.9804285,
+            "844cfd7465a6e2f932eea36be5a8ac053f811bd3"
+        ],
+        [
+            1675346758.7383943,
+            "844cfd7465a6e2f932eea36be5a8ac053f811bd3"
+        ],
+        [
+            1675347114.228678,
+            "844cfd7465a6e2f932eea36be5a8ac053f811bd3"
+        ],
+        [
+            1675347428.127036,
+            "844cfd7465a6e2f932eea36be5a8ac053f811bd3"
+        ],
+        [
+            1677581154.9817102,
+            "e73d17cdc7e9d618cb94e34a5ca2720d4af4e474"
+        ]
+    ],
+    "widgets": [
+        "987123e7-7049-4734-8990-7997012a3c98",
+        null,
+        "7bf1b6da-5d8f-4953-a52b-0ff30b770547",
+        "1264b2ed-1582-4245-8ab7-57b1830283f2"
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Music%20Concerts%2c%20Artists%20%26%20Bands%20(2%20of4)&list_slug=music-concerts-artists-bands-2-of4&plugin_category=Music%20Concerts%2c%20Artists%20%26%20Bands%20(2%20of4)&user_slug=krissykk&widget=True"
+}

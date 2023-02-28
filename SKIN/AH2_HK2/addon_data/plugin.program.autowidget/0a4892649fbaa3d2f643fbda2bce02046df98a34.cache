@@ -1,0 +1,2743 @@
+{
+    "id": 1,
+    "jsonrpc": "2.0",
+    "result": {
+        "files": [
+            {
+                "album": "",
+                "art": {
+                    "banner": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f315162%2fmoviebanner%2fpuss-in-boots-the-last-wish-63ba2ca86211a.jpg/",
+                    "clearart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f315162%2fhdmovieclearart%2fpuss-in-boots-the-last-wish-63b7f08d895fc.png/",
+                    "clearlogo": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f62PjA7LKo4TROqrPYQ8gILrWKMI.png/",
+                    "discart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f315162%2fmoviedisc%2fpuss-in-boots-the-last-wish-63b8a666c54ac.png/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fb1Y8SUb12gPHCSSSNlbX4nB3IKy.jpg/",
+                    "fanart1": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f315162%2fmoviebackground%2fpuss-in-boots-the-last-wish-63b89fa0b281b.jpg/",
+                    "fanart2": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f315162%2fmoviebackground%2fpuss-in-boots-the-last-wish-63a9926bc9e7d.jpg/",
+                    "fanart3": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f315162%2fmoviebackground%2fpuss-in-boots-the-last-wish-63a99261dbfa8.jpg/",
+                    "fanart4": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f315162%2fmoviebackground%2fpuss-in-boots-the-last-wish-62c8794252c37.jpg/",
+                    "fanart5": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f315162%2fmoviebackground%2fpuss-in-boots-the-last-wish-63cb2d1b2a33e.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fkO35BwoKHyP1VRulxZJVeEl5dvS.jpg/",
+                    "keyart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f315162%2fmovieposter%2fpuss-in-boots-the-last-wish-63b82f631734f.jpg/",
+                    "landscape": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fkptV9tyKRKiTyX4M06Yagl7wN4f.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fkO35BwoKHyP1VRulxZJVeEl5dvS.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Antonio Banderas",
+                        "order": 0,
+                        "role": "Puss in Boots (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fn8YlGookYzgD3cmpMP45BYRNIoh.jpg/"
+                    },
+                    {
+                        "name": "Salma Hayek",
+                        "order": 1,
+                        "role": "Kitty Softpaws (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f1qfYF7NGRObmeKR7IVXUFVIC0CN.jpg/"
+                    },
+                    {
+                        "name": "Harvey Guill\u00e9n",
+                        "order": 2,
+                        "role": "Perrito (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fyiNBonobPwqMVweB02JWufzp2l9.jpg/"
+                    },
+                    {
+                        "name": "Wagner Moura",
+                        "order": 3,
+                        "role": "Wolf (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f8KlWNopvOjDKoyDSQsiNwZWIpQs.jpg/"
+                    },
+                    {
+                        "name": "Florence Pugh",
+                        "order": 4,
+                        "role": "Goldilocks (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ff8e41Oon18FiEZr4zgyJDVUqOeh.jpg/"
+                    },
+                    {
+                        "name": "Olivia Colman",
+                        "order": 5,
+                        "role": "Mama Bear (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f4ZwZ66zXZyX26Kf2wfeMt1tQZQf.jpg/"
+                    },
+                    {
+                        "name": "Ray Winstone",
+                        "order": 6,
+                        "role": "Papa Bear (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fkDShEv6zPfArgcwXliGWKR65Mmo.jpg/"
+                    },
+                    {
+                        "name": "Samson Kayo",
+                        "order": 7,
+                        "role": "Baby Bear (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fjyGT8cgl6MEANOpRKoHgXaC1yp6.jpg/"
+                    },
+                    {
+                        "name": "John Mulaney",
+                        "order": 8,
+                        "role": "Jack Horner (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ffag9JGgIVSeraG4FQ4WSmq4qCIA.jpg/"
+                    },
+                    {
+                        "name": "Da'Vine Joy Randolph",
+                        "order": 9,
+                        "role": "Mama Luna (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fawNT6lltD8zItbGtolmO8IGT8ot.jpg/"
+                    },
+                    {
+                        "name": "Anthony Mendez",
+                        "order": 10,
+                        "role": "Doctor (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fp6aJA6De9KWR8vlw1nK0VnVJtFy.jpg/"
+                    },
+                    {
+                        "name": "Kevin McCann",
+                        "order": 11,
+                        "role": "Ethical Bug (voice)"
+                    },
+                    {
+                        "name": "Bernardo de Paula",
+                        "order": 12,
+                        "role": "Governor / Little Boy's Father / Male Partier (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fsjvTZ6sfF3xeRsbAaPdV4Qeh2bO.jpg/"
+                    },
+                    {
+                        "name": "Betsy Sodaro",
+                        "order": 13,
+                        "role": "Jo Serpent / Additional Baker's Dozen Gang Member (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f9bMACXZdz4QHMc9Ew4WYIYVL5VH.jpg/"
+                    },
+                    {
+                        "name": "Artemis Pebdani",
+                        "order": 14,
+                        "role": "Jan Serpent (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fctwVQYbcOuTIQJ866fi3AhzqKBM.jpg/"
+                    },
+                    {
+                        "name": "Conrad Vernon",
+                        "order": 15,
+                        "role": "Gingy (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fc7MIz3sy6UPhBh9YnThd7j8ypdl.jpg/"
+                    },
+                    {
+                        "name": "Cody Cameron",
+                        "order": 16,
+                        "role": "Pinocchio (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f68Cewzd8H9qFwJclWFl33Fl3N70.jpg/"
+                    },
+                    {
+                        "name": "Kailey Crawford",
+                        "order": 17,
+                        "role": "Little Goldi (voice)"
+                    },
+                    {
+                        "name": "Al Rodrigo",
+                        "order": 18,
+                        "role": "Bartender (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fkyQSlxHVnla3MfXzs2XhKCRHWMw.jpg/"
+                    },
+                    {
+                        "name": "Bob Persichetti",
+                        "order": 19,
+                        "role": "Ohhh Cat (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fe8ezXe2id6TRTxDsL9lTpw4pM93.jpg/"
+                    },
+                    {
+                        "name": "Miguel Matrai",
+                        "order": 20,
+                        "role": "Little Boy (voice)"
+                    },
+                    {
+                        "name": "Pilar Uribe",
+                        "order": 21,
+                        "role": "Governor's Assistant / Female Partier (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fdU5ENAPoSDCFIUf1WPyu01ov5RE.jpg/"
+                    },
+                    {
+                        "name": "Heidi Gardner",
+                        "order": 22,
+                        "role": "Last Baker (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fiONzt7sP8fm5sjgfSenQQU1RAvS.jpg/"
+                    },
+                    {
+                        "name": "Joel Crawford",
+                        "order": 23,
+                        "role": "Band Member / Baker's Dozen Gang Member (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f3F60mZB4sGgB51jAIglwn6OrUgB.jpg/"
+                    },
+                    {
+                        "name": "Januel Mercado",
+                        "order": 24,
+                        "role": "Band Member / Baker's Dozen Gang Member (voice)"
+                    },
+                    {
+                        "name": "James Ryan",
+                        "order": 25,
+                        "role": "Little Jack Audience Member / Baker's Dozen Gang Member (voice)"
+                    },
+                    {
+                        "name": "Natalia Cronembold",
+                        "order": 26,
+                        "role": "Waitress / Baker's Dozen Gang Member (voice)"
+                    },
+                    {
+                        "name": "Paul Fisher",
+                        "order": 27,
+                        "role": "Additional Baker's Dozen Gang Member (voice)"
+                    },
+                    {
+                        "name": "Aydrea Walden",
+                        "order": 28,
+                        "role": "Additional Baker's Dozen Gang Member (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fkOVApwJxys8bCZUshVOCew8lFLV.jpg/"
+                    }
+                ],
+                "country": [
+                    "United States of America"
+                ],
+                "customproperties": {
+                    "available_releases": "Theatrical",
+                    "budget": "$90,000,000",
+                    "cast": "Antonio Banderas / Salma Hayek / Harvey Guill\u00e9n / Wagner Moura / Florence Pugh / Olivia Colman / Ray Winstone / Samson Kayo / John Mulaney / Da'Vine Joy Randolph / Anthony Mendez / Kevin McCann / Bernardo de Paula / Betsy Sodaro / Artemis Pebdani / Conrad Vernon / Cody Cameron / Kailey Crawford / Al Rodrigo / Bob Persichetti / Miguel Matrai / Pilar Uribe / Heidi Gardner / Joel Crawford / Januel Mercado / James Ryan / Natalia Cronembold / Paul Fisher / Aydrea Walden",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=315162&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=315162)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=315162)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=315162)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=315162)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=315162)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Le Chat Pott\u00e9 2 : la derni\u00e8re qu\u00eate,tmdb_type=movie,tmdb_id=315162)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt3915174",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "315162",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Les plus populaires de la semaine (Kids Films)",
+                    "param.list_slug": "les-plus-populaires-de-la-semaine-kids-films",
+                    "param.owner": "true",
+                    "param.plugin_category": "Les plus populaires de la semaine (Kids Films)",
+                    "param.user_slug": "jukebox8786",
+                    "param.widget": "True",
+                    "physical_release": "2023-04-12",
+                    "popularity": "3911.777",
+                    "revenue": "$423,000,000",
+                    "set.fanart": "https://image.tmdb.org/t/p/original/feU1DWV5zMWxXUHJyAIk3dHRQ9c.jpg",
+                    "set.name": "Le Chat Pott\u00e9 - Saga",
+                    "set.poster": "https://image.tmdb.org/t/p/w500/5YvkBmHNJWYZVg8sVVFj9EvCU7N.jpg",
+                    "set.tmdb_id": "94602",
+                    "slug_id": "puss-in-boots-the-last-wish-2022",
+                    "studio": "Universal Pictures",
+                    "theatrical_release": "2022-12-07",
+                    "tmdb_id": "315162",
+                    "tmdb_rating": "8.5",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "3,859",
+                    "trakt_id": "197298",
+                    "widget": "Les plus populaires de la semaine (Kids Films)"
+                },
+                "dateadded": "",
+                "director": [
+                    "Joel Crawford"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fb1Y8SUb12gPHCSSSNlbX4nB3IKy.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=315162",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Animation",
+                    "Aventure",
+                    "Com\u00e9die",
+                    "Familial",
+                    "Fantastique"
+                ],
+                "imdbnumber": "tt3915174",
+                "label": "Le Chat Pott\u00e9 2 : la derni\u00e8re qu\u00eate",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "Rated TP",
+                "originaltitle": "Puss in Boots: The Last Wish",
+                "playcount": 0,
+                "plot": "Le Chat Pott\u00e9 d\u00e9couvre que sa passion pour l'aventure et son m\u00e9pris du danger ont fini par lui co\u00fbter cher : il a \u00e9puis\u00e9 huit de ses neuf vies, et en a perdu le compte au passage. Afin de retomber sur ses pattes notre h\u00e9ros velu se lance litt\u00e9ralement dans la qu\u00eate de sa vie. Il s'embarque dans une aventure \u00e9pique aux confins de la For\u00eat Sombre afin de d\u00e9nicher la mythique Etoile \u00e0 v\u0153u, seule susceptible de lui rendre ses vies perdues. Mais quand il ne vous en reste qu\u2019une, il faut savoir faire profil bas, se montrer prudent et demander de l\u2019aide. C\u2019est ainsi qu\u2019il se tourne vers son ancienne partenaire et meilleure ennemie de toujours : l\u2019ensorcelante Kitty Pattes De Velours. Le Chat Pott\u00e9 et la belle Kitty vont \u00eatre aid\u00e9s dans leur qu\u00eate, \u00e0 leur corps bien d\u00e9fendant, par Perro, un corniaud errant et galleux \u00e0 la langue bien pendue et d\u2019une inalt\u00e9rable bonne humeur.",
+                "plotoutline": "",
+                "premiered": "2022-12-07",
+                "productioncode": "",
+                "rating": 8.482000350952148,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 6120,
+                "season": -1,
+                "set": "Le Chat Pott\u00e9 - Saga",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Universal Pictures",
+                    "DreamWorks Animation"
+                ],
+                "tag": [],
+                "tagline": "La l\u00e9gende ne meurt jamais.",
+                "thumbnail": "",
+                "title": "Le Chat Pott\u00e9 2 : la derni\u00e8re qu\u00eate",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=5fZ5hVKw2tg",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt3915174",
+                    "slug": "puss-in-boots-the-last-wish-2022",
+                    "tmdb": "315162",
+                    "trakt": "197298",
+                    "unknown": "tt3915174"
+                },
+                "userrating": 0,
+                "votes": "3859",
+                "writer": [
+                    "Tommy Swerdlow",
+                    "Tommy Swerdlow",
+                    "Etan Cohen",
+                    "Paul Fisher",
+                    "Tom Wheeler",
+                    "Heidi Jo Gilbert"
+                ],
+                "year": 2022
+            },
+            {
+                "album": "",
+                "art": {
+                    "banner": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f508947%2fmoviebanner%2fturning-red-623109bca3ebf.jpg/",
+                    "clearart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f508947%2fhdmovieclearart%2fturning-red-623109faa0d2d.png/",
+                    "clearlogo": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fbkBO6Pbd2nz72NMJUojkvbhBPrc.png/",
+                    "discart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f508947%2fmoviedisc%2fturning-red-624dc6877e15e.png/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2ffOy2Jurz9k6RnJnMUMRDAgBwru2.jpg/",
+                    "fanart1": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f508947%2fmoviebackground%2fturning-red-61f2ebfa2078d.jpg/",
+                    "fanart2": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f508947%2fmoviebackground%2fturning-red-622c90d38963e.jpg/",
+                    "fanart3": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f508947%2fmoviebackground%2fturning-red-628b4366f4143.jpg/",
+                    "fanart4": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f508947%2fmoviebackground%2fturning-red-622c91178a8e3.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fn3xTq6TMhECWWsWEVs0RmOMNFnd.jpg/",
+                    "keyart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f508947%2fmovieposter%2fturning-red-61f2eb90293c2.jpg/",
+                    "landscape": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fmMo166j6QiIamXZN1EGCtTmT91z.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fn3xTq6TMhECWWsWEVs0RmOMNFnd.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Rosalie Chiang",
+                        "order": 0,
+                        "role": "Meilin 'Mei' Lee (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fcbEWkQM0FS9vzv07JFErCk0YKkx.jpg/"
+                    },
+                    {
+                        "name": "Sandra Oh",
+                        "order": 1,
+                        "role": "Ming (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fzU8vjebHxcP60ESEL5Ok68KWZvj.jpg/"
+                    },
+                    {
+                        "name": "Ava Morse",
+                        "order": 2,
+                        "role": "Miriam (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fe3bkf5MHPzqvSrJALr78pp0DCWt.jpg/"
+                    },
+                    {
+                        "name": "Hyein Park",
+                        "order": 3,
+                        "role": "Abby (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2faud7tBslfKn2qIrKCbltxpXoOTi.jpg/"
+                    },
+                    {
+                        "name": "Maitreyi Ramakrishnan",
+                        "order": 4,
+                        "role": "Priya (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fjBFqjwvngaz6ZXEhNd6dMeZ0W6c.jpg/"
+                    },
+                    {
+                        "name": "Orion Lee",
+                        "order": 5,
+                        "role": "Jin Lee (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fglWRdpNnOj9JBmrbiCuvUWkBejf.jpg/"
+                    },
+                    {
+                        "name": "Wai Ching Ho",
+                        "order": 6,
+                        "role": "Grandma (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fsbEwwkKVcLJRi02ZCqx8JymmbTm.jpg/"
+                    },
+                    {
+                        "name": "Tristan Allerick Chen",
+                        "order": 7,
+                        "role": "Tyler (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f4N9OueMmNA0uggxZ6ZqYoWqkto.jpg/"
+                    },
+                    {
+                        "name": "Lori Tan Chinn",
+                        "order": 8,
+                        "role": "Auntie Chen (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fzFqLvvVEk4q8RgCDAKXxUahwZ7n.jpg/"
+                    },
+                    {
+                        "name": "Mia Tagano",
+                        "order": 9,
+                        "role": "Lily (voice)"
+                    },
+                    {
+                        "name": "Sherry Cola",
+                        "order": 10,
+                        "role": "Helen (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f1C2psFP8Tm2FVfSZnDJgdXNfBLG.jpg/"
+                    },
+                    {
+                        "name": "Lillian Lim",
+                        "order": 11,
+                        "role": "Auntie Ping (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fdKV9HYM85DIHArgb4qQPX8pXTJE.jpg/"
+                    },
+                    {
+                        "name": "James Hong",
+                        "order": 12,
+                        "role": "Mr. Gao (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fv3lfw5aHOy0paOCx6WHiSnwzbH0.jpg/"
+                    },
+                    {
+                        "name": "Jordan Fisher",
+                        "order": 13,
+                        "role": "Robaire (4*Town) (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fun93GYC6nqUBhfkisMGsdefj8Oe.jpg/"
+                    },
+                    {
+                        "name": "Finneas O'Connell",
+                        "order": 14,
+                        "role": "Jesse (4*Town) (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f51ykLxoGsLnseUUdSU3xWt4Mad8.jpg/"
+                    },
+                    {
+                        "name": "Topher Ngo",
+                        "order": 15,
+                        "role": "Aaron T. (4*Town) (voice)"
+                    },
+                    {
+                        "name": "Grayson Villanueva",
+                        "order": 16,
+                        "role": "Tae Young (4*Town) (voice)"
+                    },
+                    {
+                        "name": "Josh Levi",
+                        "order": 17,
+                        "role": "Aaron Z. (4*Town) (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f4fzJWtZK9ItPDP2ekaUe3FDkVLB.jpg/"
+                    },
+                    {
+                        "name": "Sasha Roiz",
+                        "order": 18,
+                        "role": "Mr. Kieslowski / Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fhneSnvFh25FFRWRzd93EhO7S11p.jpg/"
+                    },
+                    {
+                        "name": "Addie Chandler",
+                        "order": 19,
+                        "role": "Devon / Additional Voices (voice)"
+                    },
+                    {
+                        "name": "Lily Sanfelippo",
+                        "order": 20,
+                        "role": "Stacy Frick / Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2feMFx62OscSsEGd5wSYsTeDRLvou.jpg/"
+                    },
+                    {
+                        "name": "Anne-Marie",
+                        "order": 21,
+                        "role": "Lauren (voice) (uncredited)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f56uZUpaNqxQt05Xz0aaKBlvlOnc.jpg/"
+                    },
+                    {
+                        "name": "Evan Agos",
+                        "order": 22,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fvtjvZGvxzyfH8NHDYzd16ZHkRyz.jpg/"
+                    },
+                    {
+                        "name": "Trinity Bliss",
+                        "order": 23,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ftIrKB4Lp2n6fiNO3v9rG8NLOFLa.jpg/"
+                    },
+                    {
+                        "name": "Devin Bright",
+                        "order": 24,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ftwt9sPBWyNM8BkKcfc8lVuU5Ffj.jpg/"
+                    },
+                    {
+                        "name": "Kimberly Brooks",
+                        "order": 25,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fiPlCk1VQ8fnAtsMow6HlCZoQc0w.jpg/"
+                    },
+                    {
+                        "name": "Ian James Corlett",
+                        "order": 26,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fidVH8zLzuKrOrjtwLWvbgE4L338.jpg/"
+                    },
+                    {
+                        "name": "Juliet Donenfeld",
+                        "order": 27,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fy6A7Mf7uBU8nzC8LKL5Et33WdDy.jpg/"
+                    },
+                    {
+                        "name": "Terri Douglas",
+                        "order": 28,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f6yRCc5oKalchZuRvVJJbEDNmLEd.jpg/"
+                    },
+                    {
+                        "name": "Ellen Dubin",
+                        "order": 29,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fcvf1pX4t6ZzDPsRi9J2xGrGj78c.jpg/"
+                    },
+                    {
+                        "name": "Alison Fernandez",
+                        "order": 30,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f3L5tZZzoo422CmLvSEA88PaBrNb.jpg/"
+                    },
+                    {
+                        "name": "Jack Fisher",
+                        "order": 31,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f9WLKUtNDV4V8hu77Ta2YPVBWqv3.jpg/"
+                    },
+                    {
+                        "name": "Erin Fitzgerald",
+                        "order": 32,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ffAMOm2xRjbR7nDUo3FsNVy61U70.jpg/"
+                    },
+                    {
+                        "name": "Poon Fong-Fong",
+                        "order": 33,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f433fu3KCKLLnaiOhwGw91ZN9KQ1.jpg/"
+                    },
+                    {
+                        "name": "Hadley Gannaway",
+                        "order": 34,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f6DOPocZ9WHSa5Ri9rlreehwZ8bn.jpg/"
+                    },
+                    {
+                        "name": "David Hayter",
+                        "order": 35,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fzj0knrkaYOHbBEf6WyfGU30hjgx.jpg/"
+                    },
+                    {
+                        "name": "Karen Huie",
+                        "order": 36,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2faJfKOnA80bfgLEh9oacjdGIq6Or.jpg/"
+                    },
+                    {
+                        "name": "Sean T. Krishnan",
+                        "order": 37,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f41UnzzXQWEe1CX5DuIeJvIoeegL.jpg/"
+                    },
+                    {
+                        "name": "Arif S. Kinchen",
+                        "order": 38,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2frY16iqdy5lJIyEMoL941NdzUlEr.jpg/"
+                    },
+                    {
+                        "name": "Paul Kwo",
+                        "order": 39,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2frKBhiitMXVzcuuObunwJOT1PiUC.jpg/"
+                    },
+                    {
+                        "name": "James Taku Leung",
+                        "order": 40,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fWLXW0hGrHkTwTI33dovxJOVFFi.jpg/"
+                    },
+                    {
+                        "name": "Lydia Look",
+                        "order": 41,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fi6kFnYMpez6MBE2SjOpNd9bSlxF.jpg/"
+                    },
+                    {
+                        "name": "David Chen",
+                        "order": 42,
+                        "role": "Additional Voices (voice)"
+                    },
+                    {
+                        "name": "Kim Mai Guest",
+                        "order": 43,
+                        "role": "Additional Voices (voice)"
+                    },
+                    {
+                        "name": "Caleb Jeon",
+                        "order": 44,
+                        "role": "Additional Voices (voice)"
+                    },
+                    {
+                        "name": "Ethan Loh",
+                        "order": 45,
+                        "role": "Additional Voices (voice)"
+                    },
+                    {
+                        "name": "Noel Mason",
+                        "order": 46,
+                        "role": "Additional Voices (voice)"
+                    },
+                    {
+                        "name": "Jason Maybaum",
+                        "order": 47,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fvm7mCQdWiN7lDRkJbcLzIoiusOC.jpg/"
+                    },
+                    {
+                        "name": "Jaiden McLeod",
+                        "order": 48,
+                        "role": "Additional Voices (voice)"
+                    },
+                    {
+                        "name": "Ulka Simone Mohanty",
+                        "order": 49,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fvGxK0NL21sxQUcTY8zDh6jNGwp3.jpg/"
+                    },
+                    {
+                        "name": "Iara Nemirovsky",
+                        "order": 50,
+                        "role": "Additional Voices (voice)"
+                    },
+                    {
+                        "name": "Capri Oliver",
+                        "order": 51,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fiuC99jDkBaYHJSC71i62LenYw9W.jpg/"
+                    },
+                    {
+                        "name": "Benjamin Plessala",
+                        "order": 52,
+                        "role": "Additional Voices (voice)"
+                    },
+                    {
+                        "name": "Tsang Pui-Yee",
+                        "order": 53,
+                        "role": "Additional Voices (voice)"
+                    },
+                    {
+                        "name": "Maddix Robinson",
+                        "order": 54,
+                        "role": "Additional Voices (voice)"
+                    },
+                    {
+                        "name": "Zeno Robinson",
+                        "order": 55,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fPyoUSDPm4AiGcp6W2WTBD2zSMt.jpg/"
+                    },
+                    {
+                        "name": "Vivienne Rutherford",
+                        "order": 56,
+                        "role": "Additional Voices (voice)"
+                    },
+                    {
+                        "name": "Violet Grace Schaffer",
+                        "order": 57,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f1PfxNDnT10rsiCyZbP1mZgiwklM.jpg/"
+                    },
+                    {
+                        "name": "Mariel Sheets",
+                        "order": 58,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fsrzD9tYxanE7XUbqw4sPyrMCaex.jpg/"
+                    },
+                    {
+                        "name": "Christian J. Simon",
+                        "order": 59,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fsfuCawC8UViDrIatBscCa2tkkmM.jpg/"
+                    },
+                    {
+                        "name": "Artemis Snow",
+                        "order": 60,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fvEsU5uBBYdqCxNYpo2eyswqfCGU.jpg/"
+                    },
+                    {
+                        "name": "Sydney Thomas",
+                        "order": 61,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fuTRSUkiQ4OSDXnnZPIXfYlwKgkm.jpg/"
+                    },
+                    {
+                        "name": "Timothy Cheng",
+                        "order": 62,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2faALvr6xIjApnKfwDAFLlMORFqyZ.jpg/"
+                    },
+                    {
+                        "name": "Benjamin Valic",
+                        "order": 63,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fvpedWcdmhA9Fa6SiRDD7IKwgDey.jpg/"
+                    },
+                    {
+                        "name": "Shondalia White",
+                        "order": 64,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fmC8kxaTtfaRmD1tHVa1ovQzdHjz.jpg/"
+                    },
+                    {
+                        "name": "Cedric L. Williams",
+                        "order": 65,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fsBxfuNnJMHq60KJP1HRYxLSRBR6.jpg/"
+                    }
+                ],
+                "country": [
+                    "United States of America"
+                ],
+                "customproperties": {
+                    "available_releases": "Digital",
+                    "budget": "$190,000,000",
+                    "cast": "Rosalie Chiang / Sandra Oh / Ava Morse / Hyein Park / Maitreyi Ramakrishnan / Orion Lee / Wai Ching Ho / Tristan Allerick Chen / Lori Tan Chinn / Mia Tagano / Sherry Cola / Lillian Lim / James Hong / Jordan Fisher / Finneas O'Connell / Topher Ngo / Grayson Villanueva / Josh Levi / Sasha Roiz / Addie Chandler / Lily Sanfelippo / Anne-Marie / Evan Agos / Trinity Bliss / Devin Bright / Kimberly Brooks / Ian James Corlett / Juliet Donenfeld / Terri Douglas / Ellen Dubin / Alison Fernandez / Jack Fisher / Erin Fitzgerald / Poon Fong-Fong / Hadley Gannaway / David Hayter / Karen Huie / Sean T. Krishnan / Arif S. Kinchen / Paul Kwo / James Taku Leung / Lydia Look / David Chen / Kim Mai Guest / Caleb Jeon / Ethan Loh / Noel Mason / Jason Maybaum / Jaiden McLeod / Ulka Simone Mohanty / Iara Nemirovsky / Capri Oliver / Benjamin Plessala / Tsang Pui-Yee / Maddix Robinson / Zeno Robinson / Vivienne Rutherford / Violet Grace Schaffer / Mariel Sheets / Christian J. Simon / Artemis Snow / Sydney Thomas / Timothy Cheng / Benjamin Valic / Shondalia White / Cedric L. Williams",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=508947&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=508947)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=508947)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=508947)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=508947)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=508947)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Alerte rouge,tmdb_type=movie,tmdb_id=508947)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "dbtype": "movie",
+                    "digital_release": "2022-03-11",
+                    "imdb_id": "tt8097030",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "508947",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Les plus populaires de la semaine (Kids Films)",
+                    "param.list_slug": "les-plus-populaires-de-la-semaine-kids-films",
+                    "param.owner": "true",
+                    "param.plugin_category": "Les plus populaires de la semaine (Kids Films)",
+                    "param.user_slug": "jukebox8786",
+                    "param.widget": "True",
+                    "popularity": "281.775",
+                    "provider.link": "https://www.themoviedb.org/movie/508947-turning-red/watch?locale=FR",
+                    "providers": "Disney Plus / Apple TV / Google Play Movies / Orange VOD / Microsoft Store / YouTube / Rakuten TV / Amazon Video",
+                    "revenue": "$18,879,922",
+                    "slug_id": "turning-red-2022",
+                    "studio": "Walt Disney Pictures",
+                    "tmdb_id": "508947",
+                    "tmdb_rating": "7.5",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "3,906",
+                    "trakt_id": "356441",
+                    "widget": "Les plus populaires de la semaine (Kids Films)"
+                },
+                "dateadded": "",
+                "director": [
+                    "Domee Shi"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2ffOy2Jurz9k6RnJnMUMRDAgBwru2.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=508947",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Animation",
+                    "Familial",
+                    "Com\u00e9die",
+                    "Fantastique"
+                ],
+                "imdbnumber": "tt8097030",
+                "label": "Alerte rouge",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "Rated 10",
+                "originaltitle": "Turning Red",
+                "playcount": 1,
+                "plot": "Les aventures de Meilin Lee, une jeune adolescente de 13 ans, pleine d\u2019assurance, mais tiraill\u00e9e entre son image de petite fille mod\u00e8le aux yeux de sa m\u00e8re hyper protectrice et le chaos de l\u2019adolescence. Et comme si tous les changements qui s\u2019op\u00e8rent en elle ne suffisaient pas, chaque fois qu\u2019elle est d\u00e9bord\u00e9e par ses \u00e9motions - ce qui, pour une ado, arrive quasiment tout le temps - elle se transforme en panda roux g\u00e9ant !",
+                "plotoutline": "",
+                "premiered": "2022-03-10",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 6000,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Walt Disney Pictures",
+                    "Pixar"
+                ],
+                "tag": [],
+                "tagline": "Bienvenue dans l'\u00e2ge b\u00eate.",
+                "thumbnail": "",
+                "title": "Alerte rouge",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=41pXKTSrC_g",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt8097030",
+                    "slug": "turning-red-2022",
+                    "tmdb": "508947",
+                    "trakt": "356441",
+                    "unknown": "tt8097030"
+                },
+                "userrating": 0,
+                "votes": "3906",
+                "writer": [
+                    "Julia Cho",
+                    "Julia Cho",
+                    "Lucy Laliberte",
+                    "Domee Shi",
+                    "Domee Shi",
+                    "Bill Presing",
+                    "Rosana Sullivan",
+                    "Searit Huluf",
+                    "Sarah Streicher"
+                ],
+                "year": 2022
+            },
+            {
+                "album": "",
+                "art": {
+                    "banner": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f568124%2fmoviebanner%2fencanto-61561640036d3.jpg/",
+                    "clearart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f568124%2fhdmovieclearart%2fencanto-623ca1a560394.png/",
+                    "clearlogo": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fpu2BBRXflT48Hm49q2pNeFQWn1x.png/",
+                    "discart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f568124%2fmoviedisc%2fencanto-61a7f65384ee9.png/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f3G1Q5xF40HkUBJXxt2DQgQzKTp5.jpg/",
+                    "fanart1": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f568124%2fmoviebackground%2fencanto-61d572d4bb4d5.jpg/",
+                    "fanart2": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f568124%2fmoviebackground%2fencanto-6155b4ed81809.jpg/",
+                    "fanart3": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f568124%2fmoviebackground%2fencanto-61c7783fca928.jpg/",
+                    "fanart4": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f568124%2fmoviebackground%2fencanto-61c1f2984a890.jpg/",
+                    "fanart5": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f568124%2fmoviebackground%2fencanto-61c1f294b0cd0.jpg/",
+                    "fanart6": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f568124%2fmoviebackground%2fencanto-61c1f29162289.jpg/",
+                    "fanart7": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f568124%2fmoviebackground%2fencanto-61c1f28ed31ca.jpg/",
+                    "fanart8": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f568124%2fmoviebackground%2fencanto-61c1f28c3b855.jpg/",
+                    "fanart9": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f568124%2fmoviebackground%2fencanto-61c1f28988991.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f75s7inwv1WHRuySyjA6p0oMaz9Z.jpg/",
+                    "keyart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f568124%2fmovieposter%2fencanto-617cf7a8d20c8.jpg/",
+                    "landscape": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fp2UtYadkNoQNjf2Ooa7zDwIFhAS.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f75s7inwv1WHRuySyjA6p0oMaz9Z.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Stephanie Beatriz",
+                        "order": 0,
+                        "role": "Mirabel Madrigal (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fpGo7zMGsMXOMSMZc68Xi3LvzeP0.jpg/"
+                    },
+                    {
+                        "name": "Mar\u00eda Cecilia Botero",
+                        "order": 1,
+                        "role": "Abuela Alma Madrigal (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fnH6eBBgv1PI9J6Ftkn01ny1TMt1.jpg/"
+                    },
+                    {
+                        "name": "John Leguizamo",
+                        "order": 2,
+                        "role": "Bruno Madrigal (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fkEbXDtcPJ46GEhj5QlCTLZS6PWE.jpg/"
+                    },
+                    {
+                        "name": "Mauro Castillo",
+                        "order": 3,
+                        "role": "F\u00e9lix Madrigal (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fqGNGBRyy9LumdFw32M7elnHP4IJ.jpg/"
+                    },
+                    {
+                        "name": "Jessica Darrow",
+                        "order": 4,
+                        "role": "Luisa Madrigal (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2frJojc1ZUasEnUxSk7lL42RxyQbP.jpg/"
+                    },
+                    {
+                        "name": "Angie Cepeda",
+                        "order": 5,
+                        "role": "Julieta Madrigal  (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fazShCjdzK93jcBBOJSs5lFUd7CH.jpg/"
+                    },
+                    {
+                        "name": "Carolina Gait\u00e1n",
+                        "order": 6,
+                        "role": "Pepa Madrigal (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fc7UPkmhIXYWmlqaQK250L8GTsPQ.jpg/"
+                    },
+                    {
+                        "name": "Diane Guerrero",
+                        "order": 7,
+                        "role": "Isabela Madrigal (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ff2uMkdJKEFxvMNKzuX6Cmf3UyyD.jpg/"
+                    },
+                    {
+                        "name": "Wilmer Valderrama",
+                        "order": 8,
+                        "role": "Agust\u00edn Madrigal (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fApA03vxxobrGauXmQ3LpGM5EKjD.jpg/"
+                    },
+                    {
+                        "name": "Rhenzy Feliz",
+                        "order": 9,
+                        "role": "Camilo Madrigal (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f9YPe3GgyWjG4D0GnTx9KzfvnO0L.jpg/"
+                    },
+                    {
+                        "name": "Ravi Cabot-Conyers",
+                        "order": 10,
+                        "role": "Antonio Madrigal (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fuM5F2LcmFLJeMrguucByChufpbT.jpg/"
+                    },
+                    {
+                        "name": "Adassa",
+                        "order": 11,
+                        "role": "Dolores Madrigal (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fbQPhInWW1B81kpSpHGuJBCmSVV3.jpg/"
+                    },
+                    {
+                        "name": "Maluma",
+                        "order": 12,
+                        "role": "Mariano (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f2G5nw9Kbhe2UeC9P8ShPWroPCsD.jpg/"
+                    },
+                    {
+                        "name": "Rose Portillo",
+                        "order": 13,
+                        "role": "Se\u00f1ora Guzm\u00e1n (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2faZBwQ2EJWrS8NhHfQTiU0GqIGuy.jpg/"
+                    },
+                    {
+                        "name": "Juan Castano",
+                        "order": 14,
+                        "role": "Osvaldo (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f4cCVdhvEOp126rJUboCFMdwoSev.jpg/"
+                    },
+                    {
+                        "name": "Sarah-Nicole Robles",
+                        "order": 15,
+                        "role": "Se\u00f1ora Ozma (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fwfk8MRawUfhSpD4v6zwC3EuikIu.jpg/"
+                    },
+                    {
+                        "name": "Hector Elias",
+                        "order": 16,
+                        "role": "Old Arturo (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f9i4NH2BzkFEEoUMPS6tuOmGqUy4.jpg/"
+                    },
+                    {
+                        "name": "Alan Tudyk",
+                        "order": 17,
+                        "role": "Toucan (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fjUuUbPuMGonFT5E2pcs4alfqaCN.jpg/"
+                    },
+                    {
+                        "name": "Olga Merediz",
+                        "order": 18,
+                        "role": "Abuela Alma Madrigal (singing voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fAoU4DdgK26xQN4qZTuzgJpVxhos.jpg/"
+                    }
+                ],
+                "country": [
+                    "United States of America"
+                ],
+                "customproperties": {
+                    "available_releases": "Theatrical / Digital / Digital / Physical",
+                    "budget": "$50,000,000",
+                    "cast": "Stephanie Beatriz / Mar\u00eda Cecilia Botero / John Leguizamo / Mauro Castillo / Jessica Darrow / Angie Cepeda / Carolina Gait\u00e1n / Diane Guerrero / Wilmer Valderrama / Rhenzy Feliz / Ravi Cabot-Conyers / Adassa / Maluma / Rose Portillo / Juan Castano / Sarah-Nicole Robles / Hector Elias / Alan Tudyk / Olga Merediz",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=568124&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=568124)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=568124)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=568124)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=568124)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=568124)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Encanto, la fantastique famille Madrigal,tmdb_type=movie,tmdb_id=568124)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "dbtype": "movie",
+                    "digital_release": "2022-08-12",
+                    "imdb_id": "tt2953050",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "568124",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Les plus populaires de la semaine (Kids Films)",
+                    "param.list_slug": "les-plus-populaires-de-la-semaine-kids-films",
+                    "param.owner": "true",
+                    "param.plugin_category": "Les plus populaires de la semaine (Kids Films)",
+                    "param.user_slug": "jukebox8786",
+                    "param.widget": "True",
+                    "physical_release": "2022-04-01",
+                    "popularity": "289.368",
+                    "provider.link": "https://www.themoviedb.org/movie/568124-encanto/watch?locale=FR",
+                    "providers": "Canal+ / Apple TV / Google Play Movies / Orange VOD / Microsoft Store / YouTube / Canal VOD / Rakuten TV / Amazon Video",
+                    "revenue": "$253,000,000",
+                    "slug_id": "encanto-2021",
+                    "studio": "Walt Disney Pictures",
+                    "theatrical_release": "2021-11-24",
+                    "tmdb_id": "568124",
+                    "tmdb_rating": "7.7",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "7,943",
+                    "trakt_id": "419442",
+                    "widget": "Les plus populaires de la semaine (Kids Films)"
+                },
+                "dateadded": "",
+                "director": [
+                    "Byron Howard",
+                    "Jared Bush"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f3G1Q5xF40HkUBJXxt2DQgQzKTp5.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=568124",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Animation",
+                    "Com\u00e9die",
+                    "Familial",
+                    "Fantastique"
+                ],
+                "imdbnumber": "tt2953050",
+                "label": "Encanto, la fantastique famille Madrigal",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "Rated U",
+                "originaltitle": "Encanto",
+                "playcount": 1,
+                "plot": "Dans un myst\u00e9rieux endroit nich\u00e9 au c\u0153ur des montagnes de Colombie, la fantastique famille Madrigal habite une maison enchant\u00e9e dans une cit\u00e9 pleine de vie, un endroit merveilleux appel\u00e9 Encanto. L\u2019Encanto a dot\u00e9 chacun des enfants de la famille d\u2019une facult\u00e9 magique allant d\u2019une force surhumaine au pouvoir de gu\u00e9rison. Seule Mirabel n\u2019a re\u00e7u aucun don particulier. Mais lorsque la magie de l\u2019Encanto se trouve menac\u00e9e, la seule enfant ordinaire de cette famille extraordinaire va peut-\u00eatre se r\u00e9v\u00e9ler leur unique espoir\u2026",
+                "plotoutline": "",
+                "premiered": "2021-10-13",
+                "productioncode": "",
+                "rating": 7.656000137329102,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 6120,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Walt Disney Pictures",
+                    "Walt Disney Animation Studios"
+                ],
+                "tag": [],
+                "tagline": "Chez les Madrigal, tout le monde est magique... Enfin presque.",
+                "thumbnail": "",
+                "title": "Encanto, la fantastique famille Madrigal",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=bdH6itLQ9-0",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt2953050",
+                    "slug": "encanto-2021",
+                    "tmdb": "568124",
+                    "trakt": "419442",
+                    "unknown": "tt2953050"
+                },
+                "userrating": 0,
+                "votes": "7943",
+                "writer": [
+                    "Byron Howard",
+                    "Lin-Manuel Miranda",
+                    "Nancy Kruse",
+                    "Nancy Kruse",
+                    "Jared Bush",
+                    "Jared Bush",
+                    "Jason Hand",
+                    "Jason Hand",
+                    "Charise Castro Smith",
+                    "Charise Castro Smith"
+                ],
+                "year": 2021
+            },
+            {
+                "album": "",
+                "art": {
+                    "banner": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f438148%2fmoviebanner%2fminions-the-rise-of-gru-631b84a714f46.jpg/",
+                    "clearart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f438148%2fhdmovieclearart%2fminions-the-rise-of-gru-631b8496c87b9.png/",
+                    "clearlogo": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fklk6DsksU7VRMgjTGreMxQ5T2KJ.png/",
+                    "discart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f438148%2fmoviedisc%2fminions-the-rise-of-gru-62ed985a7dc54.png/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fbn3fAIckhOFEnrIZNCSbgHXRHLY.jpg/",
+                    "fanart1": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f438148%2fmoviebackground%2fminions-2-62512d958fcb8.jpg/",
+                    "fanart2": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f438148%2fmoviebackground%2fminions-the-rise-of-gru-63abe10e74685.jpg/",
+                    "fanart3": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f438148%2fmoviebackground%2fminions-2-5ed41848419a5.jpg/",
+                    "fanart4": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f438148%2fmoviebackground%2fminions-the-rise-of-gru-62c59362e9071.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fpA05WmBZLEu32peDDh3I4VuVPsu.jpg/",
+                    "keyart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f438148%2fmovieposter%2fminions-2-62512cfd1ac13.jpg/",
+                    "landscape": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fbF8wBAy0tQ0VB9PQzM8FkJDyznw.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fpA05WmBZLEu32peDDh3I4VuVPsu.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Pierre Coffin",
+                        "order": 0,
+                        "role": "Kevin / Stuart / Bob / Minions (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f5HojYPP34c4agydy7D90apCMNHn.jpg/"
+                    },
+                    {
+                        "name": "Steve Carell",
+                        "order": 1,
+                        "role": "Gru (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fdzJtsLspH5Bf8Tvw7OQC47ETNfJ.jpg/"
+                    },
+                    {
+                        "name": "Russell Brand",
+                        "order": 2,
+                        "role": "Dr. Nefario (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fAzRt43rdeK5nH7w6uWyyVwYla0.jpg/"
+                    },
+                    {
+                        "name": "Alan Arkin",
+                        "order": 3,
+                        "role": "Wild Knuckles (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fmhACkTNrnwR4E115h8EfCZ263zH.jpg/"
+                    },
+                    {
+                        "name": "Taraji P. Henson",
+                        "order": 4,
+                        "role": "Belle Bottom (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2frxnEvzGlRBsE94s7lC4cMAiLluH.jpg/"
+                    },
+                    {
+                        "name": "Jean-Claude Van Damme",
+                        "order": 5,
+                        "role": "Jean Clawed (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f7DP3bm3MS0qa0L8tBLHGebbCu6H.jpg/"
+                    },
+                    {
+                        "name": "Lucy Lawless",
+                        "order": 6,
+                        "role": "Nunchuck (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fs3FqnfsjIEkWibx8QFtbyq5VnZL.jpg/"
+                    },
+                    {
+                        "name": "Dolph Lundgren",
+                        "order": 7,
+                        "role": "Svengeance (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ffisJpm05tw6GCJ4v62TKBCoWuZM.jpg/"
+                    },
+                    {
+                        "name": "Danny Trejo",
+                        "order": 8,
+                        "role": "Stronghold (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f7JrUkRGBscZ1Hy5JinaaXjjzSCF.jpg/"
+                    },
+                    {
+                        "name": "Michelle Yeoh",
+                        "order": 9,
+                        "role": "Master Chow (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fklATAW2KEfV2Glm5uhWAhJWt2ip.jpg/"
+                    },
+                    {
+                        "name": "Julie Andrews",
+                        "order": 10,
+                        "role": "Gru's Mom (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fkTXM2KfsXh2vSav0s9vaDKfs4lR.jpg/"
+                    },
+                    {
+                        "name": "RZA",
+                        "order": 11,
+                        "role": "Biker (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f2PVYCKXb1X3PLawJNoYGLN1x0In.jpg/"
+                    },
+                    {
+                        "name": "Will Arnett",
+                        "order": 12,
+                        "role": "Mr. Perkins (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fcXupYqk2ERP13XBkw816skYdVDO.jpg/"
+                    },
+                    {
+                        "name": "Steve Coogan",
+                        "order": 13,
+                        "role": "Silas Ramsbottom (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ftT7OXc2qA6hlREHXdwGLp0XihzA.jpg/"
+                    },
+                    {
+                        "name": "Jimmy O. Yang",
+                        "order": 14,
+                        "role": "Henchman 1 (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f1QfCVmdNo4AqBdN54kc9DTBx84X.jpg/"
+                    },
+                    {
+                        "name": "Kevin Michael Richardson",
+                        "order": 15,
+                        "role": "Henchman 2 (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fxXt9Nh7RAT5bOen66TaXreNYmCl.jpg/"
+                    },
+                    {
+                        "name": "John DiMaggio",
+                        "order": 16,
+                        "role": "Henchman 3 (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fawmyFwU6ErFJbGFFzhBYZ9AQn8m.jpg/"
+                    },
+                    {
+                        "name": "Michael Beattie",
+                        "order": 17,
+                        "role": "VNC Announcer / Guru Rick (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fgDuLXdt6xXMjGOmdqoLymyra55n.jpg/"
+                    },
+                    {
+                        "name": "Colette Whitaker",
+                        "order": 18,
+                        "role": "Gru's Teacher (voice)"
+                    },
+                    {
+                        "name": "Raymond S. Persi",
+                        "order": 19,
+                        "role": "Birthday Kid (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f37HnYfTAHhtAmWdl4NlVAOR7vCW.jpg/"
+                    },
+                    {
+                        "name": "Kyle Balda",
+                        "order": 20,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fuay7ZJLuW47ClGfQ4FGWgXZOerv.jpg/"
+                    },
+                    {
+                        "name": "Debra Wilson",
+                        "order": 21,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f2bsguOhkeCrSFMhWQZ9xUrQcaFw.jpg/"
+                    },
+                    {
+                        "name": "Bob Bergen",
+                        "order": 22,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fsoDD1xiV3zVQWOJzVdJwfgIqzfe.jpg/"
+                    },
+                    {
+                        "name": "Beau Billingslea",
+                        "order": 23,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ftU2NJQ5m1sRlwpw9ljyt5NJB0Bf.jpg/"
+                    },
+                    {
+                        "name": "David Chen",
+                        "order": 24,
+                        "role": "Additional Voices (voice)"
+                    },
+                    {
+                        "name": "Will Collyer",
+                        "order": 25,
+                        "role": "Additional Voices (voice)"
+                    },
+                    {
+                        "name": "Nisa Ward",
+                        "order": 26,
+                        "role": "Additional Voices (voice)"
+                    },
+                    {
+                        "name": "Nora Wyman",
+                        "order": 27,
+                        "role": "Additional Voices (voice)"
+                    },
+                    {
+                        "name": "Regina Taufen",
+                        "order": 28,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fuawDYFYJ4cMJurfYRrA9BgAD3BS.jpg/"
+                    },
+                    {
+                        "name": "Fred Tatasciore",
+                        "order": 29,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fbusoEz4khUJ0hOoKHexjXwGrsit.jpg/"
+                    },
+                    {
+                        "name": "Mindy Sterling",
+                        "order": 30,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fhX99KTTCFxB4a2rB1SpDbr8imrK.jpg/"
+                    },
+                    {
+                        "name": "James Sie",
+                        "order": 31,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fyZ8SFsJJNmhgtNizwcWfknyBoBt.jpg/"
+                    },
+                    {
+                        "name": "Cathy Cavadini",
+                        "order": 32,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fwPC9ElskzT3qNsQm0waKdKtk0ak.jpg/"
+                    },
+                    {
+                        "name": "Nev Scharrel",
+                        "order": 33,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fpfRP7SxmCzbgcPlTSF63ok7kh09.jpg/"
+                    },
+                    {
+                        "name": "Carla Rempp",
+                        "order": 34,
+                        "role": "Additional Voices (voice)"
+                    },
+                    {
+                        "name": "David J. Randolph",
+                        "order": 35,
+                        "role": "Additional Voices (voice)"
+                    },
+                    {
+                        "name": "Alex Puccinelli",
+                        "order": 36,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f4iTBlmw8uOPbpgnBCXm58YAjAcC.jpg/"
+                    },
+                    {
+                        "name": "Benjamin Plessala",
+                        "order": 37,
+                        "role": "Additional Voices (voice)"
+                    },
+                    {
+                        "name": "Levi Nunez",
+                        "order": 38,
+                        "role": "Additional Voices (voice)"
+                    },
+                    {
+                        "name": "Amari McCoy",
+                        "order": 39,
+                        "role": "Additional Voices (voice)"
+                    },
+                    {
+                        "name": "Dawnn Lewis",
+                        "order": 40,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fppxGgmkTczev2VsiOSMfaGUy580.jpg/"
+                    },
+                    {
+                        "name": "Sam Lavagnino",
+                        "order": 41,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fzTKuiH43wspXMigVAiGMF4rUKUs.jpg/"
+                    },
+                    {
+                        "name": "Evan Kishiyama",
+                        "order": 42,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ftL0bxnvJNvCWbysjQuh6lcboJGx.jpg/"
+                    },
+                    {
+                        "name": "JP Karliak",
+                        "order": 43,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f7Rc3n8KmKUaztqfsIpddO1a2ggn.jpg/"
+                    },
+                    {
+                        "name": "Barbara Harris",
+                        "order": 44,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fdrqeEGFRYChMVIEUF9h2BFG2iLc.jpg/"
+                    },
+                    {
+                        "name": "Aaron Hendry",
+                        "order": 45,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2flOA25S5b1fkBL6fnG3u33mFtTdE.jpg/"
+                    },
+                    {
+                        "name": "Ramone Hamilton",
+                        "order": 46,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fvA7iiobQkwtfyseHnz4ZJbvhuX3.jpg/"
+                    },
+                    {
+                        "name": "Isa Hall",
+                        "order": 47,
+                        "role": "Additional Voices (voice)"
+                    },
+                    {
+                        "name": "Jake Green",
+                        "order": 48,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f3bfUpMgBCJw1Serr18Qm8tDJQvE.jpg/"
+                    },
+                    {
+                        "name": "Kellen Goff",
+                        "order": 49,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fujzQjAPx04ID2HUeEc8C05jazLu.jpg/"
+                    },
+                    {
+                        "name": "Scarlett Estevez",
+                        "order": 50,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fc8T1SJxcHs0bV1W66qvWVfaINOt.jpg/"
+                    },
+                    {
+                        "name": "Debi Derryberry",
+                        "order": 51,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2faCVgHnvGBw7ssZA9kl1Pnr5pJjU.jpg/"
+                    },
+                    {
+                        "name": "Antonio Raul Corbo",
+                        "order": 52,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fslBvNn8bPsHKTFkVbyeEnfw7rmu.jpg/"
+                    },
+                    {
+                        "name": "Meilee Condron",
+                        "order": 53,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fz7j0JGXX5iU9sp6lnnkUGKO0339.jpg/"
+                    }
+                ],
+                "country": [
+                    "United States of America"
+                ],
+                "customproperties": {
+                    "available_releases": "Theatrical / Digital / Digital / Physical",
+                    "budget": "$85,000,000",
+                    "cast": "Pierre Coffin / Steve Carell / Russell Brand / Alan Arkin / Taraji P. Henson / Jean-Claude Van Damme / Lucy Lawless / Dolph Lundgren / Danny Trejo / Michelle Yeoh / Julie Andrews / RZA / Will Arnett / Steve Coogan / Jimmy O. Yang / Kevin Michael Richardson / John DiMaggio / Michael Beattie / Colette Whitaker / Raymond S. Persi / Kyle Balda / Debra Wilson / Bob Bergen / Beau Billingslea / David Chen / Will Collyer / Nisa Ward / Nora Wyman / Regina Taufen / Fred Tatasciore / Mindy Sterling / James Sie / Cathy Cavadini / Nev Scharrel / Carla Rempp / David J. Randolph / Alex Puccinelli / Benjamin Plessala / Levi Nunez / Amari McCoy / Dawnn Lewis / Sam Lavagnino / Evan Kishiyama / JP Karliak / Barbara Harris / Aaron Hendry / Ramone Hamilton / Isa Hall / Jake Green / Kellen Goff / Scarlett Estevez / Debi Derryberry / Antonio Raul Corbo / Meilee Condron",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=438148&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=438148)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=438148)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=438148)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=438148)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=438148)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Les Minions 2 : Il \u00e9tait une fois Gru,tmdb_type=movie,tmdb_id=438148)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "dbtype": "movie",
+                    "digital_release": "2023-02-17",
+                    "imdb_id": "tt5113044",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "438148",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Les plus populaires de la semaine (Kids Films)",
+                    "param.list_slug": "les-plus-populaires-de-la-semaine-kids-films",
+                    "param.owner": "true",
+                    "param.plugin_category": "Les plus populaires de la semaine (Kids Films)",
+                    "param.user_slug": "jukebox8786",
+                    "param.widget": "True",
+                    "physical_release": "2022-11-16",
+                    "popularity": "321.211",
+                    "provider.link": "https://www.themoviedb.org/movie/438148-minions-the-rise-of-gru/watch?locale=FR",
+                    "providers": "Canal+ / Apple TV / Google Play Movies / Orange VOD / Microsoft Store / YouTube / Filmo TV / Canal VOD / Rakuten TV / Universcine / Amazon Video",
+                    "revenue": "$939,628,210",
+                    "set.fanart": "https://image.tmdb.org/t/p/original/62Qe28oi9PaK3P2ljDYUDTGAyST.jpg",
+                    "set.name": "Les Minions - Saga",
+                    "set.poster": "https://image.tmdb.org/t/p/w500/yG4ZgrIinuQJGuFQfXZc1fB2UHN.jpg",
+                    "set.tmdb_id": "544669",
+                    "slug_id": "minions-the-rise-of-gru-2022",
+                    "studio": "Universal Pictures",
+                    "theatrical_release": "2022-07-06",
+                    "tmdb_id": "438148",
+                    "tmdb_rating": "7.5",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "2,619",
+                    "trakt_id": "284359",
+                    "widget": "Les plus populaires de la semaine (Kids Films)"
+                },
+                "dateadded": "",
+                "director": [
+                    "Kyle Balda"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fbn3fAIckhOFEnrIZNCSbgHXRHLY.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=438148",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Animation",
+                    "Com\u00e9die",
+                    "Familial"
+                ],
+                "imdbnumber": "tt5113044",
+                "label": "Les Minions 2 : Il \u00e9tait une fois Gru",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "Rated TP",
+                "originaltitle": "Minions: The Rise of Gru",
+                "playcount": 0,
+                "plot": "Alors que les ann\u00e9es 70 battent leur plein, Gru qui grandit en banlieue au milieu des jeans \u00e0 pattes d\u2019\u00e9l\u00e9phants et des chevelures en fleur, met sur pied un plan machiav\u00e9lique \u00e0 souhait pour r\u00e9ussir \u00e0 int\u00e9grer un groupe c\u00e9l\u00e8bre de super m\u00e9chants, connu sous le nom de Vicious 6, dont il est le plus grand fan. Il est second\u00e9 dans sa t\u00e2che par les Minions, ses petits compagnons aussi turbulents que fid\u00e8les. Avec l\u2019aide de Kevin, Stuart, Bob et Otto \u2013 un nouveau Minion arborant un magnifique appareil dentaire et un besoin d\u00e9sesp\u00e9r\u00e9 de plaire - ils vont d\u00e9ployer ensemble des tr\u00e9sors d\u2019ing\u00e9niosit\u00e9 afin de construire leur premier repaire, exp\u00e9rimenter leurs premi\u00e8res armes, et lancer leur premi\u00e8re mission. Gru passe l\u2019audition pour int\u00e9grer l\u2019\u00e9quipe. Le moins qu\u2019on puisse dire c\u2019est que l\u2019entrevue tourne mal, et soudain court quand Gru leur d\u00e9montre sa sup\u00e9riorit\u00e9 et se retrouve soudain leur ennemi jur\u00e9.",
+                "plotoutline": "",
+                "premiered": "2022-06-29",
+                "productioncode": "",
+                "rating": 7.468999862670898,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 5220,
+                "season": -1,
+                "set": "Les Minions - Saga",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Universal Pictures",
+                    "Illumination"
+                ],
+                "tag": [],
+                "tagline": "L'ascension d'un super-vilain.",
+                "thumbnail": "",
+                "title": "Les Minions 2 : Il \u00e9tait une fois Gru",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=Cm6wpegvRpA",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt5113044",
+                    "slug": "minions-the-rise-of-gru-2022",
+                    "tmdb": "438148",
+                    "trakt": "284359",
+                    "unknown": "tt5113044"
+                },
+                "userrating": 0,
+                "votes": "2619",
+                "writer": [
+                    "Cinco Paul",
+                    "Brian Lynch",
+                    "Matt Fogel",
+                    "Matt Fogel"
+                ],
+                "year": 2022
+            },
+            {
+                "album": "",
+                "art": {
+                    "banner": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f438695%2fmoviebanner%2fsing-2-61e56bd1c6086.jpg/",
+                    "clearart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f438695%2fhdmovieclearart%2fsing-2-624c942139e50.png/",
+                    "clearlogo": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2ftiK7cy1NXOHEhS9UEDQhfofZCev.png/",
+                    "discart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f438695%2fmoviedisc%2fsing-2-624c4dbb826a0.png/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f6mJrgL7Mi13XjJeGYJFlD6UEVQw.jpg/",
+                    "fanart1": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f438695%2fmoviebackground%2fsing-2-61ba15a08e5a8.jpg/",
+                    "fanart2": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f438695%2fmoviebackground%2fsing-2-62003e6be9aa8.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fxsjgiztyEu9cEZetxFlvJz6Yibw.jpg/",
+                    "landscape": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f6V3Z7bO1xRhuhIs4euKSNc6cnpn.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fxsjgiztyEu9cEZetxFlvJz6Yibw.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Matthew McConaughey",
+                        "order": 0,
+                        "role": "Buster Moon (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fsY2mwpafcwqyYS1sOySu1MENDse.jpg/"
+                    },
+                    {
+                        "name": "Reese Witherspoon",
+                        "order": 1,
+                        "role": "Rosita (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fo1z4UwW2137IViFIRk8AV8hWze1.jpg/"
+                    },
+                    {
+                        "name": "Scarlett Johansson",
+                        "order": 2,
+                        "role": "Ash (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f6bBCPmc55gzP7TR9Th4WbykrYd0.jpg/"
+                    },
+                    {
+                        "name": "Taron Egerton",
+                        "order": 3,
+                        "role": "Johnny (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fxFaGAbslcfwYUziyJBkWTfWPlHK.jpg/"
+                    },
+                    {
+                        "name": "Bobby Cannavale",
+                        "order": 4,
+                        "role": "Mr. Crystal (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fgYQwTbEj5IBPYKLGKgrsNGrWAMl.jpg/"
+                    },
+                    {
+                        "name": "Tori Kelly",
+                        "order": 5,
+                        "role": "Meena (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2flVNwHEY7urqbWYg2zgb47KHxBpi.jpg/"
+                    },
+                    {
+                        "name": "Nick Kroll",
+                        "order": 6,
+                        "role": "Gunter (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ffNiOuEKeBtELGdhKn4lxXq4O7YP.jpg/"
+                    },
+                    {
+                        "name": "Halsey",
+                        "order": 7,
+                        "role": "Porsha Crystal (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fg32C7wJagm1a5uHAETrCaUZREXK.jpg/"
+                    },
+                    {
+                        "name": "Spike Jonze",
+                        "order": 8,
+                        "role": "Jerry (voice) (uncredited)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fx2QeqEXvi3QjgTybvZ4mmqUf4qO.jpg/"
+                    },
+                    {
+                        "name": "Nick Offerman",
+                        "order": 9,
+                        "role": "Norman (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ff6z3mPVtaF40ewfdmZydprAjmYd.jpg/"
+                    },
+                    {
+                        "name": "Letitia Wright",
+                        "order": 10,
+                        "role": "Nooshy (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f4jdsjY5jKwoNpCMd5nnJFsDmieY.jpg/"
+                    },
+                    {
+                        "name": "Eric Andr\u00e9",
+                        "order": 11,
+                        "role": "Darius (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fe9XlcFnZQiBSQ1vISQVyTOrkIaq.jpg/"
+                    },
+                    {
+                        "name": "Pharrell Williams",
+                        "order": 12,
+                        "role": "Alfonso (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fvbgFf9k1VE0WLWqQFOQ2nohJlLz.jpg/"
+                    },
+                    {
+                        "name": "Chelsea Peretti",
+                        "order": 13,
+                        "role": "Suki (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f4sy7TD87DEbGm0Tgv1ZgYumexqj.jpg/"
+                    },
+                    {
+                        "name": "Bono",
+                        "order": 14,
+                        "role": "Clay Calloway (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fr1jCFctRrEAHBHOyJun8rWCH0AD.jpg/"
+                    },
+                    {
+                        "name": "Garth Jennings",
+                        "order": 15,
+                        "role": "Miss Crawly (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fzl6ZWijGySSIYJRFalleAiGkxyQ.jpg/"
+                    },
+                    {
+                        "name": "Adam Buxton",
+                        "order": 16,
+                        "role": "Klaus Kickenklober (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fjD0Pl0QnNHuls1PmYtEnBNbuLKY.jpg/"
+                    },
+                    {
+                        "name": "Jennifer Saunders",
+                        "order": 17,
+                        "role": "Nana (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fpTgxwHcz9L8SNVYvPJS0o0lgHya.jpg/"
+                    },
+                    {
+                        "name": "Julia Davis",
+                        "order": 18,
+                        "role": "Linda Le Bon (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fwsUNCSKoNQTgSdlr9FIeIR6hRAd.jpg/"
+                    },
+                    {
+                        "name": "Peter Serafinowicz",
+                        "order": 19,
+                        "role": "Big Daddy (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fatXOX0UQzIZkcnpNj1cluBdHwAE.jpg/"
+                    },
+                    {
+                        "name": "Edgar Wright",
+                        "order": 20,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fdQzv5Ml2SkelS33hgl7E2oh0a9S.jpg/"
+                    },
+                    {
+                        "name": "Wes Anderson",
+                        "order": 21,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f5z2WroP0CgQ5vI17M0hzi8o5NAn.jpg/"
+                    },
+                    {
+                        "name": "Scott Mosier",
+                        "order": 22,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2foEQcuNy9uYGMNq3e49VSJ7oPsJw.jpg/"
+                    },
+                    {
+                        "name": "Jason Schwartzman",
+                        "order": 23,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fgCjMdmW1DiPAClHVl4zHEIffIsE.jpg/"
+                    },
+                    {
+                        "name": "Tara Strong",
+                        "order": 24,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fy9S3QzI3L5aARP8GYYO86rREKxU.jpg/"
+                    },
+                    {
+                        "name": "Fisher Stevens",
+                        "order": 25,
+                        "role": "Additional Voices (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fvfyZMT3t3mGTloYGrC7T3QhGkwp.jpg/"
+                    },
+                    {
+                        "name": "Debra Wilson",
+                        "order": 26,
+                        "role": "Additional Voice (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f2bsguOhkeCrSFMhWQZ9xUrQcaFw.jpg/"
+                    },
+                    {
+                        "name": "Doug Burch",
+                        "order": 27,
+                        "role": "Additional Voice (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fylIeoYrK278PkJXUhbZkzW0soQI.jpg/"
+                    },
+                    {
+                        "name": "Cathy Cavadini",
+                        "order": 28,
+                        "role": "Additional Voice (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fwPC9ElskzT3qNsQm0waKdKtk0ak.jpg/"
+                    },
+                    {
+                        "name": "Chris Renaud",
+                        "order": 29,
+                        "role": "Additional Voice (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fsumBJgBqRkK4XEJ2JYXpad3MTJs.jpg/"
+                    },
+                    {
+                        "name": "Brian T. Delaney",
+                        "order": 30,
+                        "role": "Additional Voice (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fzzkAnz4HcnUIDJKTxuL0HS7uHk2.jpg/"
+                    },
+                    {
+                        "name": "Aaron Fors",
+                        "order": 31,
+                        "role": "Additional Voice (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fcZuAdf50vu237WYIKryYCLUDiD4.jpg/"
+                    },
+                    {
+                        "name": "Julianna Gamiz",
+                        "order": 32,
+                        "role": "Additional Voice (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fnjOvkRObymJohX5Dnczgisf7emF.jpg/"
+                    },
+                    {
+                        "name": "Aaron Hendry",
+                        "order": 33,
+                        "role": "Additional Voice (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2flOA25S5b1fkBL6fnG3u33mFtTdE.jpg/"
+                    },
+                    {
+                        "name": "Barbara Harris",
+                        "order": 34,
+                        "role": "Additional Voice (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fd1BGeZT2b81Wa9gCOPdrXGWUtmR.jpg/"
+                    },
+                    {
+                        "name": "JP Karliak",
+                        "order": 35,
+                        "role": "Additional Voice (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f7Rc3n8KmKUaztqfsIpddO1a2ggn.jpg/"
+                    },
+                    {
+                        "name": "John Kassir",
+                        "order": 36,
+                        "role": "Additional Voice (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fbyj6Px0tLcqRFWIJYUxstg25Qd2.jpg/"
+                    },
+                    {
+                        "name": "Danny Mann",
+                        "order": 37,
+                        "role": "Additional Voice (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f980QYqXIZCMn5Knx0vjROkw9vKo.jpg/"
+                    },
+                    {
+                        "name": "Regina Taufen",
+                        "order": 38,
+                        "role": "Additional Voice (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fuawDYFYJ4cMJurfYRrA9BgAD3BS.jpg/"
+                    },
+                    {
+                        "name": "Will Collyer",
+                        "order": 39,
+                        "role": "Additional Voice (voice)"
+                    },
+                    {
+                        "name": "Hudson D'Andrea",
+                        "order": 40,
+                        "role": "Additional Voice (voice)"
+                    },
+                    {
+                        "name": "Remy Edgerly",
+                        "order": 41,
+                        "role": "Additional Voice (voice)"
+                    },
+                    {
+                        "name": "George Griffiths",
+                        "order": 42,
+                        "role": "Additional Voice (voice)"
+                    },
+                    {
+                        "name": "Isa Hall",
+                        "order": 43,
+                        "role": "Additional Voice (voice)"
+                    },
+                    {
+                        "name": "Asa Jennings",
+                        "order": 44,
+                        "role": "Additional Voice (voice)"
+                    },
+                    {
+                        "name": "Caspar Jennings",
+                        "order": 45,
+                        "role": "Additional Voice (voice)"
+                    },
+                    {
+                        "name": "Louise Jennings",
+                        "order": 46,
+                        "role": "Additional Voice (voice)"
+                    },
+                    {
+                        "name": "Katherine Kelloway",
+                        "order": 47,
+                        "role": "Additional Voice (voice)"
+                    },
+                    {
+                        "name": "Igor Khait",
+                        "order": 48,
+                        "role": "Additional Voice (voice)"
+                    },
+                    {
+                        "name": "Vida Alves McConaughhey",
+                        "order": 49,
+                        "role": "Additional Voice (voice)"
+                    },
+                    {
+                        "name": "Jason Broad",
+                        "order": 50,
+                        "role": "Additional Voice (voice)"
+                    },
+                    {
+                        "name": "Levi Nunez",
+                        "order": 51,
+                        "role": "Additional Voice (voice)"
+                    },
+                    {
+                        "name": "Joy Poirel",
+                        "order": 52,
+                        "role": "Additional Voice (voice)"
+                    },
+                    {
+                        "name": "Adeline Krupinski Polidoro",
+                        "order": 53,
+                        "role": "Additional Voice (voice)"
+                    },
+                    {
+                        "name": "Noreen Reardon",
+                        "order": 54,
+                        "role": "Additional Voice (voice)"
+                    },
+                    {
+                        "name": "Gary P. Rizzo",
+                        "order": 55,
+                        "role": "Additional Voice (voice)"
+                    },
+                    {
+                        "name": "Liza Seneca",
+                        "order": 56,
+                        "role": "Additional Voice (voice)"
+                    },
+                    {
+                        "name": "Ayden Soria",
+                        "order": 57,
+                        "role": "Additional Voice (voice)"
+                    },
+                    {
+                        "name": "Jack Stanton",
+                        "order": 58,
+                        "role": "Additional Voice (voice)"
+                    },
+                    {
+                        "name": "Thomas Walters",
+                        "order": 59,
+                        "role": "Additional Voice (voice)"
+                    },
+                    {
+                        "name": "Colette Whitaker",
+                        "order": 60,
+                        "role": "Additional Voice (voice)"
+                    },
+                    {
+                        "name": "Nora Wyman",
+                        "order": 61,
+                        "role": "Additional Voice (voice)"
+                    }
+                ],
+                "country": [
+                    "United States of America"
+                ],
+                "customproperties": {
+                    "available_releases": "Theatrical / Digital / Digital / Physical",
+                    "budget": "$85,000,000",
+                    "cast": "Matthew McConaughey / Reese Witherspoon / Scarlett Johansson / Taron Egerton / Bobby Cannavale / Tori Kelly / Nick Kroll / Halsey / Spike Jonze / Nick Offerman / Letitia Wright / Eric Andr\u00e9 / Pharrell Williams / Chelsea Peretti / Bono / Garth Jennings / Adam Buxton / Jennifer Saunders / Julia Davis / Peter Serafinowicz / Edgar Wright / Wes Anderson / Scott Mosier / Jason Schwartzman / Tara Strong / Fisher Stevens / Debra Wilson / Doug Burch / Cathy Cavadini / Chris Renaud / Brian T. Delaney / Aaron Fors / Julianna Gamiz / Aaron Hendry / Barbara Harris / JP Karliak / John Kassir / Danny Mann / Regina Taufen / Will Collyer / Hudson D'Andrea / Remy Edgerly / George Griffiths / Isa Hall / Asa Jennings / Caspar Jennings / Louise Jennings / Katherine Kelloway / Igor Khait / Vida Alves McConaughhey / Jason Broad / Levi Nunez / Joy Poirel / Adeline Krupinski Polidoro / Noreen Reardon / Gary P. Rizzo / Liza Seneca / Ayden Soria / Jack Stanton / Thomas Walters / Colette Whitaker / Nora Wyman",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=438695&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=438695)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=438695)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=438695)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=438695)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=438695)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Tous en sc\u00e8ne 2,tmdb_type=movie,tmdb_id=438695)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "dbtype": "movie",
+                    "digital_release": "2022-12-24",
+                    "imdb_id": "tt6467266",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "438695",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Les plus populaires de la semaine (Kids Films)",
+                    "param.list_slug": "les-plus-populaires-de-la-semaine-kids-films",
+                    "param.owner": "true",
+                    "param.plugin_category": "Les plus populaires de la semaine (Kids Films)",
+                    "param.user_slug": "jukebox8786",
+                    "param.widget": "True",
+                    "physical_release": "2022-04-27",
+                    "popularity": "255.635",
+                    "provider.link": "https://www.themoviedb.org/movie/438695-sing-2/watch?locale=FR",
+                    "providers": "Apple TV / Google Play Movies / Orange VOD / Microsoft Store / YouTube / Filmo TV / Canal VOD / Rakuten TV / Universcine / Amazon Video",
+                    "revenue": "$406,000,000",
+                    "set.fanart": "https://image.tmdb.org/t/p/original/z9ft5HYHzWcasR6SGcgeluxTznB.jpg",
+                    "set.name": "Tous en sc\u00e8ne - Saga",
+                    "set.poster": "https://image.tmdb.org/t/p/w500/xS2VLzd9ZG4XyZj5C69abO7ucbv.jpg",
+                    "set.tmdb_id": "544670",
+                    "slug_id": "sing-2-2021",
+                    "studio": "Universal Pictures",
+                    "theatrical_release": "2021-12-22",
+                    "tmdb_id": "438695",
+                    "tmdb_rating": "8.0",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "3,505",
+                    "trakt_id": "284832",
+                    "widget": "Les plus populaires de la semaine (Kids Films)"
+                },
+                "dateadded": "",
+                "director": [
+                    "Garth Jennings"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f6mJrgL7Mi13XjJeGYJFlD6UEVQw.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=438695",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Animation",
+                    "Aventure",
+                    "Com\u00e9die",
+                    "Familial"
+                ],
+                "imdbnumber": "tt6467266",
+                "label": "Tous en sc\u00e8ne 2",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "Rated U",
+                "originaltitle": "Sing 2",
+                "playcount": 0,
+                "plot": "Dans le nouveau th\u00e9\u00e2tre Moon, la troupe interpr\u00e8te sa version musicale d'Alice au pays des merveilles. Buster Moon tient \u00e0 avoir l'avis de Suki Lane. Elle est celle qui d\u00e9cide quels talents peuvent auditionner devant Jimmy Crystal, grand producteur de spectacles \u00e0 Redshore City. Pour elle, le niveau n'est pas suffisant et l'insistance de Buster Moon n'y fait rien.Remotiv\u00e9 par Nana Noodleman, le koala rassemble ses artistes et part infiltrer les auditions.",
+                "plotoutline": "",
+                "premiered": "2021-12-01",
+                "productioncode": "",
+                "rating": 7.9730000495910645,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 6600,
+                "season": -1,
+                "set": "Tous en sc\u00e8ne - Saga",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Universal Pictures",
+                    "Illumination"
+                ],
+                "tag": [],
+                "tagline": "Jusqu'o\u00f9 vos r\u00eaves vous m\u00e8neront-ils ?",
+                "thumbnail": "",
+                "title": "Tous en sc\u00e8ne 2",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=uKJTyEA4myw",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt6467266",
+                    "slug": "sing-2-2021",
+                    "tmdb": "438695",
+                    "trakt": "284832",
+                    "unknown": "tt6467266"
+                },
+                "userrating": 0,
+                "votes": "3505",
+                "writer": [
+                    "Garth Jennings",
+                    "Garth Jennings"
+                ],
+                "year": 2021
+            },
+            {
+                "album": "",
+                "art": {
+                    "banner": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f830784%2fmoviebanner%2flyle-lyle-crocodile-638028de1f8ee.jpg/",
+                    "clearart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f830784%2fhdmovieclearart%2flyle-lyle-crocodile-63aafd28b3b88.png/",
+                    "clearlogo": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fnKIiyhp0DzDYILOcllcb74La9QE.png/",
+                    "discart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f830784%2fmoviedisc%2flyle-lyle-crocodile-63802b84d4589.png/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2feIeCUHk8q7smdd2KAiPBmceN7QS.jpg/",
+                    "fanart1": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f830784%2fmoviebackground%2flyle-lyle-crocodile-63a5d8c879c3a.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fU3hvOlj4iYKzh2dHXt9jtqXuZ7.jpg/",
+                    "keyart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f830784%2fmovieposter%2flyle-lyle-crocodile-63ab153451ce1.jpg/",
+                    "landscape": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f8r2hgJWwsxdkhdYEc3dlC8aeei1.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fU3hvOlj4iYKzh2dHXt9jtqXuZ7.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Shawn Mendes",
+                        "order": 0,
+                        "role": "Lyle (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fpb6T6FNi5qI4i9bKSzBaHGIW7Tn.jpg/"
+                    },
+                    {
+                        "name": "Javier Bardem",
+                        "order": 1,
+                        "role": "Hector P. Valenti",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fdKArLTzGUBqRwV6MI3Atc1xN9bc.jpg/"
+                    },
+                    {
+                        "name": "Winslow Fegley",
+                        "order": 2,
+                        "role": "Josh",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ffx72xnTrHYLsFA3CUlDbwojH8G7.jpg/"
+                    },
+                    {
+                        "name": "Constance Wu",
+                        "order": 3,
+                        "role": "Mrs. Primm",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f7nT6QsetU2RCUwopPmq2NFSnLDL.jpg/"
+                    },
+                    {
+                        "name": "Scoot McNairy",
+                        "order": 4,
+                        "role": "Mr. Primm",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2foP2LJEqupxVZ2XdEW1lN5Q5LF3M.jpg/"
+                    },
+                    {
+                        "name": "Brett Gelman",
+                        "order": 5,
+                        "role": "Mr. Grumps",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fub2IuMWFNQGYghHTPq0lpmn2Ue0.jpg/"
+                    },
+                    {
+                        "name": "Ego Nwodim",
+                        "order": 6,
+                        "role": "Carol",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f1vpud1BpXvbJUy0OO3B8Vl24nlp.jpg/"
+                    },
+                    {
+                        "name": "Lyric Hurd",
+                        "order": 7,
+                        "role": "Trudy",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f1f1YpN00QRXqNLa5E7PFSZGYg9c.jpg/"
+                    },
+                    {
+                        "name": "Jason Kravits",
+                        "order": 8,
+                        "role": "Cy",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fcJR2IntcqNtpMU7iqiHBUAHx6HA.jpg/"
+                    },
+                    {
+                        "name": "Ben Palacios",
+                        "order": 9,
+                        "role": "Crocodile Reference",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fpQMoTaKibVohssp9E0P04ZyNq57.jpg/"
+                    },
+                    {
+                        "name": "Joshua Vasquez",
+                        "order": 10,
+                        "role": "8th Grade Boy"
+                    },
+                    {
+                        "name": "Marc Farley",
+                        "order": 11,
+                        "role": "Animal Store Owner",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fybk9ymGDogzoPPfSgHrejtTXXmR.jpg/"
+                    },
+                    {
+                        "name": "Sal Viscuso",
+                        "order": 12,
+                        "role": "Judge",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fjmblbzHDTcGcR0nI1zUifxfuq24.jpg/"
+                    },
+                    {
+                        "name": "Adam Murray",
+                        "order": 13,
+                        "role": "Lowlife",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2faN3qYei2JVRM727A7P4X6xXIrdv.jpg/"
+                    },
+                    {
+                        "name": "Mary Neely",
+                        "order": 14,
+                        "role": "Security Technician Mary"
+                    },
+                    {
+                        "name": "Don DiPetta",
+                        "order": 15,
+                        "role": "Paramedic",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fe3sv7LBTdAfJqbulhf0GdsqlpnI.jpg/"
+                    },
+                    {
+                        "name": "Lindsey Moser",
+                        "order": 16,
+                        "role": "Wrestling Coach",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fkWT960tyRcX3bDzHoGQVAVPvRrO.jpg/"
+                    },
+                    {
+                        "name": "Matthew Risch",
+                        "order": 17,
+                        "role": "Walkie Talkie Police Officer",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f79OQy1R5UvQVUQaHoSyYhI3Mu7R.jpg/"
+                    },
+                    {
+                        "name": "Clayton English",
+                        "order": 18,
+                        "role": "Young Security Guard",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f6ge4bvnq28ET6hxH0GittFXaN8h.jpg/"
+                    },
+                    {
+                        "name": "Mac Wells",
+                        "order": 19,
+                        "role": "Show Security Guard",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fbr9rk3zemRudXWw31YXFVvZiOGU.jpg/"
+                    },
+                    {
+                        "name": "Jef Holbrook",
+                        "order": 20,
+                        "role": "Audition Stage Manager",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fhuB6TwdSCsF18wuuM3rlbNNpDW2.jpg/"
+                    },
+                    {
+                        "name": "Matthew Wilkas",
+                        "order": 21,
+                        "role": "Night Construction Worker",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2flDUeFGhNIY5cY53sKUQQwUOMzhm.jpg/"
+                    },
+                    {
+                        "name": "Lauren Boyd",
+                        "order": 22,
+                        "role": "Live Show Stage Manager",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fiYtUySKJF6qZ7B1zsPFUPJHsENb.jpg/"
+                    },
+                    {
+                        "name": "Reif Howey",
+                        "order": 23,
+                        "role": "Sweep Dancer"
+                    },
+                    {
+                        "name": "Evangeline Miller",
+                        "order": 24,
+                        "role": "Sweep Dancer"
+                    },
+                    {
+                        "name": "Jene Moore",
+                        "order": 25,
+                        "role": "Sweep Dancer",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f2mcoTzg7WpXpw6TNTrqedzWVO5x.jpg/"
+                    },
+                    {
+                        "name": "Chance Mizell",
+                        "order": 26,
+                        "role": "Sweep Dancer"
+                    },
+                    {
+                        "name": "Christine Moon",
+                        "order": 27,
+                        "role": "Zookeeper"
+                    },
+                    {
+                        "name": "Angela Davis",
+                        "order": 28,
+                        "role": "HOA Member",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fwgVbQQMJywbIhVIOZ3fGYb3tg9w.jpg/"
+                    },
+                    {
+                        "name": "Kathryn Orlando",
+                        "order": 29,
+                        "role": "HOA Member"
+                    },
+                    {
+                        "name": "Caden Brillantes",
+                        "order": 30,
+                        "role": "Wrestling Student"
+                    },
+                    {
+                        "name": "Kyson Galligan",
+                        "order": 31,
+                        "role": "Wrestling Student"
+                    },
+                    {
+                        "name": "Alton Williams",
+                        "order": 32,
+                        "role": "Wrestling Student"
+                    },
+                    {
+                        "name": "Thomas Williams",
+                        "order": 33,
+                        "role": "Wrestling Student"
+                    },
+                    {
+                        "name": "Irving Thigpen",
+                        "order": 34,
+                        "role": "Wrestling Student"
+                    },
+                    {
+                        "name": "Matt Rogers",
+                        "order": 35,
+                        "role": "Show Host",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fe1o0DW1pmWcDFBKO3IJPnVg7hnG.jpg/"
+                    },
+                    {
+                        "name": "Eric Rutherford",
+                        "order": 36,
+                        "role": "Esteemed Judge"
+                    },
+                    {
+                        "name": "Eboni Nichols",
+                        "order": 37,
+                        "role": "Show Judge"
+                    },
+                    {
+                        "name": "Taylor James",
+                        "order": 38,
+                        "role": "Judge",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fsMMCf0O7GcbJZoxmyWAbU6CsN6B.jpg/"
+                    },
+                    {
+                        "name": "Donnie Cormier",
+                        "order": 39,
+                        "role": "Security Guard #3"
+                    },
+                    {
+                        "name": "Rick Pearson",
+                        "order": 40,
+                        "role": "Live Show Producer"
+                    },
+                    {
+                        "name": "Al Thompson",
+                        "order": 41,
+                        "role": "Animal Control Officer",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fyAuaq0kczwOwbnSG9jB9wxKjcJ1.jpg/"
+                    }
+                ],
+                "country": [
+                    "Italy",
+                    "United States of America"
+                ],
+                "customproperties": {
+                    "available_releases": "Theatrical",
+                    "budget": "$50,000,000",
+                    "cast": "Shawn Mendes / Javier Bardem / Winslow Fegley / Constance Wu / Scoot McNairy / Brett Gelman / Ego Nwodim / Lyric Hurd / Jason Kravits / Ben Palacios / Joshua Vasquez / Marc Farley / Sal Viscuso / Adam Murray / Mary Neely / Don DiPetta / Lindsey Moser / Matthew Risch / Clayton English / Mac Wells / Jef Holbrook / Matthew Wilkas / Lauren Boyd / Reif Howey / Evangeline Miller / Jene Moore / Chance Mizell / Christine Moon / Angela Davis / Kathryn Orlando / Caden Brillantes / Kyson Galligan / Alton Williams / Thomas Williams / Irving Thigpen / Matt Rogers / Eric Rutherford / Eboni Nichols / Taylor James / Donnie Cormier / Rick Pearson / Al Thompson",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=830784&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=830784)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=830784)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=830784)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=830784)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=830784)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Enzo, le croco,tmdb_type=movie,tmdb_id=830784)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "dbtype": "movie",
+                    "imdb_id": "tt14668630",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "830784",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Les plus populaires de la semaine (Kids Films)",
+                    "param.list_slug": "les-plus-populaires-de-la-semaine-kids-films",
+                    "param.owner": "true",
+                    "param.plugin_category": "Les plus populaires de la semaine (Kids Films)",
+                    "param.user_slug": "jukebox8786",
+                    "param.widget": "True",
+                    "physical_release": "2023-04-05",
+                    "popularity": "334.315",
+                    "revenue": "$104,088,441",
+                    "slug_id": "lyle-lyle-crocodile-2022",
+                    "studio": "Columbia Pictures",
+                    "theatrical_release": "2022-11-30",
+                    "tmdb_id": "830784",
+                    "tmdb_rating": "7.6",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "339",
+                    "trakt_id": "662895",
+                    "widget": "Les plus populaires de la semaine (Kids Films)"
+                },
+                "dateadded": "",
+                "director": [
+                    "Josh Gordon",
+                    "Will Speck"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2feIeCUHk8q7smdd2KAiPBmceN7QS.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=830784",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Com\u00e9die",
+                    "Familial",
+                    "Musique"
+                ],
+                "imdbnumber": "tt14668630",
+                "label": "Enzo, le croco",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "Rated TP",
+                "originaltitle": "Lyle, Lyle, Crocodile",
+                "playcount": 0,
+                "plot": "Quand la famille Primm d\u00e9m\u00e9nage \u00e0 New York, leur jeune fils Josh peine \u00e0 s'adapter \u00e0 sa nouvelle \u00e9cole et \u00e0 ses nouveaux camarades. Tout cela change quand il d\u00e9couvre Enzo - un crocodile chanteur qui aime les bains et le caviar \u2013 et qui vit dans le grenier de sa nouvelle maison. Enzo et Josh deviennent rapidement amis, mais lorsque l'existence de l\u2019insolite crocodile est menac\u00e9e par leur diabolique voisin, M. Grumps, les Primm s'allient avec Hector P. Valenti, le propri\u00e9taire d\u2019Enzo, afin de prouver au monde qu\u2019une famille peut toujours s\u2019improviser, et qu'il n'y a aucun mal \u00e0 int\u00e9grer un grand reptile m\u00e9lomane, dot\u00e9 d'une personnalit\u00e9 haute en couleur et d\u2019une incroyable voix.",
+                "plotoutline": "",
+                "premiered": "2022-10-07",
+                "productioncode": "",
+                "rating": 7.618000030517578,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 6360,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Columbia Pictures",
+                    "Sony Pictures",
+                    "Sony Pictures Animation",
+                    "Eagle Pictures",
+                    "TSG Entertainment",
+                    "Hutch Parker Entertainment",
+                    "Speck Gordon"
+                ],
+                "tag": [],
+                "tagline": "Ce croco va vous faire craquer.",
+                "thumbnail": "",
+                "title": "Enzo, le croco",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=RLW8Bpy-PHg",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt14668630",
+                    "slug": "lyle-lyle-crocodile-2022",
+                    "tmdb": "830784",
+                    "trakt": "662895",
+                    "unknown": "tt14668630"
+                },
+                "userrating": 0,
+                "votes": "339",
+                "writer": [
+                    "William Davies",
+                    "Justin Paul",
+                    "Benj Pasek",
+                    "Bernard Waber"
+                ],
+                "year": 2022
+            },
+            {
+                "album": "",
+                "art": {
+                    "banner": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f877269%2fmoviebanner%2fstrange-world-63b06f8fc210b.jpg/",
+                    "clearart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f877269%2fhdmovieclearart%2fstrange-world-63b4a1a6b18d8.png/",
+                    "clearlogo": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fucoIvjprqnuxext0gFzxO86UT3L.png/",
+                    "discart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f877269%2fmoviedisc%2fstrange-world-63b565bdc69c5.png/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f5wDBVictj4wUYZ31gR5WzCM9dLD.jpg/",
+                    "fanart1": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f877269%2fmoviebackground%2fstrange-world-6354e137295ca.jpg/",
+                    "fanart2": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f877269%2fmoviebackground%2fstrange-world-63b34ad4b34cc.jpg/",
+                    "fanart3": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f877269%2fmoviebackground%2fstrange-world-63b34ad1f143c.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f11GbQWBUx9MtTmQHvwZ8qUOvWXb.jpg/",
+                    "keyart": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f877269%2fmovieposter%2fstrange-world-639f464eb961f.jpg/",
+                    "landscape": "image://http%3a%2f%2fassets.fanart.tv%2ffanart%2fmovies%2f877269%2fmoviethumb%2fstrange-world-63a5edbcafbe7.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f11GbQWBUx9MtTmQHvwZ8qUOvWXb.jpg/"
+                },
+                "artist": [],
+                "cast": [
+                    {
+                        "name": "Jake Gyllenhaal",
+                        "order": 0,
+                        "role": "Searcher Clade (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2frJdYHYNhlcOBwbPvDZVvt1xw7bi.jpg/"
+                    },
+                    {
+                        "name": "Dennis Quaid",
+                        "order": 1,
+                        "role": "Jaeger Clade (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fwKzcCeEj9eXWRIL4qGNsbgtR6Fe.jpg/"
+                    },
+                    {
+                        "name": "Jaboukie Young-White",
+                        "order": 2,
+                        "role": "Ethan Clade (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f8OYI8OqsMUpBZica4lM2odjgVH6.jpg/"
+                    },
+                    {
+                        "name": "Gabrielle Union",
+                        "order": 3,
+                        "role": "Meridian Clade (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ftoeSCybsYufRKfgz77AKy4C8axD.jpg/"
+                    },
+                    {
+                        "name": "Lucy Liu",
+                        "order": 4,
+                        "role": "Callisto Mal (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f9nbtjqsx3De7hO2XDtrBQ7M9VCH.jpg/"
+                    },
+                    {
+                        "name": "Alan Tudyk",
+                        "order": 5,
+                        "role": "Narrator / Radio Host 1 / Duffle (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fjUuUbPuMGonFT5E2pcs4alfqaCN.jpg/"
+                    },
+                    {
+                        "name": "Jonathan Melo",
+                        "order": 6,
+                        "role": "Diazo (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fngbzgpAQJ3x0LAENIUHsr4w29nD.jpg/"
+                    },
+                    {
+                        "name": "Abraham Benrubi",
+                        "order": 7,
+                        "role": "Lonnie Redshirt (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fd5pQ1PCv0XDnYXZTbX2t5r4AMph.jpg/"
+                    },
+                    {
+                        "name": "Karan Soni",
+                        "order": 8,
+                        "role": "Caspian (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fs7jfz0OA9PeCEf1Te5b2heOia0b.jpg/"
+                    },
+                    {
+                        "name": "Adelina Anthony",
+                        "order": 9,
+                        "role": "Pulk (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f8MQfvODOkrdxDCI2yCKtxRslJIl.jpg/"
+                    },
+                    {
+                        "name": "Nik Dodani",
+                        "order": 10,
+                        "role": "Kardez (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f4540BkFpeHCBY25YYhIXQGe0iNT.jpg/"
+                    },
+                    {
+                        "name": "Francesca Reale",
+                        "order": 11,
+                        "role": "Azimuth (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f9qqCNZUR1rYzwP81NzXOw3ecGeV.jpg/"
+                    },
+                    {
+                        "name": "Emily Kuroda",
+                        "order": 12,
+                        "role": "Ro (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fyaZhAxSsElEaX0az2U6FUBN38ET.jpg/"
+                    },
+                    {
+                        "name": "Reed Buck",
+                        "order": 13,
+                        "role": "Rory (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2flw3sqTcIRPqg8aPpzkXLVhxFNwP.jpg/"
+                    },
+                    {
+                        "name": "Katie Lowes",
+                        "order": 14,
+                        "role": "Radio Host 2 (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f5Mt9HjPk1MDUsNHtATqNQiQDeB9.jpg/"
+                    },
+                    {
+                        "name": "LaNisa Renee Frederick",
+                        "order": 15,
+                        "role": "Client #2 (voice)",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f4LU8JGpjxtij6aKxL5FSVCtBaU6.jpg/"
+                    },
+                    {
+                        "name": "Dave Kohut",
+                        "order": 16,
+                        "role": "Client #3 (voice)"
+                    },
+                    {
+                        "name": "Alice Kina Diehl",
+                        "order": 17,
+                        "role": "Client #4 (voice)"
+                    }
+                ],
+                "country": [
+                    "United States of America"
+                ],
+                "customproperties": {
+                    "available_releases": "Digital",
+                    "budget": "$180,000,000",
+                    "cast": "Jake Gyllenhaal / Dennis Quaid / Jaboukie Young-White / Gabrielle Union / Lucy Liu / Alan Tudyk / Jonathan Melo / Abraham Benrubi / Karan Soni / Adelina Anthony / Nik Dodani / Francesca Reale / Emily Kuroda / Reed Buck / Katie Lowes / LaNisa Renee Frederick / Dave Kohut / Alice Kina Diehl",
+                    "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=877269&ignore_default=true)",
+                    "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=877269)",
+                    "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=877269)",
+                    "contextmenuaction(3)": "RunScript(plugin.video.themoviedb.helper,manage_artwork,tmdb_type=movie,tmdb_id=877269)",
+                    "contextmenuaction(4)": "RunScript(plugin.video.themoviedb.helper,refresh_details,tmdb_type=movie,tmdb_id=877269)",
+                    "contextmenuaction(5)": "RunScript(plugin.video.themoviedb.helper,add_to_library,tmdb_type=movie,tmdb_id=877269)",
+                    "contextmenuaction(6)": "Runscript(plugin.video.themoviedb.helper,set_chosenplayer=Avalonia, l'\u00e9trange voyage,tmdb_type=movie,tmdb_id=877269)",
+                    "contextmenulabel(0)": "$ADDON[plugin.video.themoviedb.helper 32322]",
+                    "contextmenulabel(1)": "$ADDON[plugin.video.themoviedb.helper 32235]",
+                    "contextmenulabel(2)": "$ADDON[plugin.video.themoviedb.helper 32295]",
+                    "contextmenulabel(3)": "$ADDON[plugin.video.themoviedb.helper 32222]",
+                    "contextmenulabel(4)": "$ADDON[plugin.video.themoviedb.helper 32233]",
+                    "contextmenulabel(5)": "$LOCALIZE[20444]",
+                    "contextmenulabel(6)": "$ADDON[plugin.video.themoviedb.helper 32476]",
+                    "dbtype": "movie",
+                    "digital_release": "2022-12-23",
+                    "imdb_id": "tt10298840",
+                    "isplayable": "true",
+                    "item.info": "play",
+                    "item.tmdb_id": "877269",
+                    "item.tmdb_type": "movie",
+                    "item.type": "movie",
+                    "param.info": "trakt_userlist",
+                    "param.list_name": "Les plus populaires de la semaine (Kids Films)",
+                    "param.list_slug": "les-plus-populaires-de-la-semaine-kids-films",
+                    "param.owner": "true",
+                    "param.plugin_category": "Les plus populaires de la semaine (Kids Films)",
+                    "param.user_slug": "jukebox8786",
+                    "param.widget": "True",
+                    "popularity": "450.346",
+                    "provider.link": "https://www.themoviedb.org/movie/877269-strange-world/watch?locale=FR",
+                    "providers": "Disney Plus / Apple TV / Google Play Movies / Orange VOD / Microsoft Store / YouTube / Rakuten TV / Amazon Video",
+                    "revenue": "$73,621,640",
+                    "slug_id": "strange-world-2022",
+                    "studio": "Walt Disney Pictures",
+                    "tmdb_id": "877269",
+                    "tmdb_rating": "6.5",
+                    "tmdb_type": "movie",
+                    "tmdb_votes": "795",
+                    "trakt_id": "702377",
+                    "widget": "Les plus populaires de la semaine (Kids Films)"
+                },
+                "dateadded": "",
+                "director": [
+                    "Don Hall"
+                ],
+                "episode": -1,
+                "episodeguide": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f5wDBVictj4wUYZ31gR5WzCM9dLD.jpg/",
+                "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=877269",
+                "filetype": "file",
+                "firstaired": "",
+                "genre": [
+                    "Animation",
+                    "Familial",
+                    "Aventure",
+                    "Science-Fiction"
+                ],
+                "imdbnumber": "tt10298840",
+                "label": "Avalonia, l'\u00e9trange voyage",
+                "lastmodified": "",
+                "lastplayed": "",
+                "mimetype": "application/octet-stream",
+                "mpaa": "",
+                "originaltitle": "Strange World",
+                "playcount": 0,
+                "plot": "Les Clade, une famille d\u2019explorateurs l\u00e9gendaires, d\u00e9couvrent un monde inexplor\u00e9, plein de dangers et peupl\u00e9 de cr\u00e9atures fantastiques. Ils sont aid\u00e9s dans leur qu\u00eate d\u2019un blob espi\u00e8gle et de leur chien \u00e0 trois pattes. H\u00e9las, les querelles entre ses diff\u00e9rents membres menacent de faire \u00e9chouer cette nouvelle mission, qui est \u2013 de loin \u2013 la plus cruciale.",
+                "plotoutline": "",
+                "premiered": "2022-11-23",
+                "productioncode": "",
+                "rating": 6.539999961853027,
+                "resume": {
+                    "position": 0.0,
+                    "total": 0.0
+                },
+                "runtime": 6120,
+                "season": -1,
+                "set": "",
+                "setid": -1,
+                "showlink": [],
+                "showtitle": "",
+                "size": 0,
+                "sorttitle": "",
+                "specialsortepisode": -1,
+                "specialsortseason": -1,
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "studio": [
+                    "Walt Disney Pictures",
+                    "Walt Disney Animation Studios"
+                ],
+                "tag": [],
+                "tagline": "D\u00e9couvrez une aventure au-del\u00e0 de l'impossible.",
+                "thumbnail": "",
+                "title": "Avalonia, l'\u00e9trange voyage",
+                "top250": 0,
+                "track": -1,
+                "trailer": "plugin://plugin.video.youtube/play/?video_id=GCEBqvLSqOo",
+                "tvshowid": -1,
+                "type": "movie",
+                "uniqueid": {
+                    "imdb": "tt10298840",
+                    "slug": "strange-world-2022",
+                    "tmdb": "877269",
+                    "trakt": "702377",
+                    "unknown": "tt10298840"
+                },
+                "userrating": 0,
+                "votes": "795",
+                "writer": [
+                    "Burny Mattinson",
+                    "Qui Nguyen",
+                    "Amy Henkels",
+                    "Hannah Leung",
+                    "Carrie Liao",
+                    "Teny Issakhanian"
+                ],
+                "year": 2022
+            }
+        ],
+        "limits": {
+            "end": 7,
+            "start": 0,
+            "total": 7
+        }
+    }
+}

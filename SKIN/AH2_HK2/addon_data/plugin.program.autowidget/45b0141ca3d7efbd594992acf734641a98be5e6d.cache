@@ -50,7 +50,7 @@
                     "param.plugin_category": "concerts",
                     "param.user_slug": "jmacca87",
                     "param.widget": "True",
-                    "popularity": "0.6",
+                    "popularity": "1.028",
                     "revenue": "$0",
                     "slug_id": "pink-live-from-wembley-arena-2007",
                     "tmdb_id": "29757",
@@ -184,7 +184,7 @@
                     "param.plugin_category": "concerts",
                     "param.user_slug": "jmacca87",
                     "param.widget": "True",
-                    "popularity": "3.681",
+                    "popularity": "4.56",
                     "provider.link": "https://www.themoviedb.org/movie/27308-p-nk-funhouse-tour-live-in-australia/watch?locale=FR",
                     "providers": "Apple iTunes",
                     "revenue": "$0",
@@ -324,7 +324,7 @@
                     "param.plugin_category": "concerts",
                     "param.user_slug": "jmacca87",
                     "param.widget": "True",
-                    "popularity": "2.087",
+                    "popularity": "1.882",
                     "provider.link": "https://www.themoviedb.org/movie/252384-p-nk-the-truth-about-love-tour-live-from-melbourne/watch?locale=FR",
                     "providers": "Apple iTunes",
                     "revenue": "$0",
@@ -458,7 +458,7 @@
                     "param.plugin_category": "concerts",
                     "param.user_slug": "jmacca87",
                     "param.widget": "True",
-                    "popularity": "2.178",
+                    "popularity": "5.234",
                     "provider.link": "https://www.themoviedb.org/movie/829125-sam-smith-love-goes-live-at-abbey-road-studios/watch?locale=FR",
                     "providers": "Netflix / Netflix basic with Ads",
                     "revenue": "$0",
@@ -497,7 +497,7 @@
                 "plotoutline": "",
                 "premiered": "2021-05-22",
                 "productioncode": "",
-                "rating": 8.265000343322754,
+                "rating": 8.300000190734863,
                 "resume": {
                     "position": 0.0,
                     "total": 3660.0
@@ -548,7 +548,7 @@
             {
                 "album": "",
                 "art": {
-                    "icon": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fdefault.png/"
+                    "icon": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p(1)%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fdefault.png/"
                 },
                 "artist": [],
                 "cast": [
@@ -715,7 +715,7 @@
                     "param.plugin_category": "concerts",
                     "param.user_slug": "jmacca87",
                     "param.widget": "True",
-                    "popularity": "0.6",
+                    "popularity": "0.879",
                     "revenue": "$0",
                     "slug_id": "snow-patrol-live-in-rock-in-rio-2010-2010",
                     "tmdb_id": "147019",
@@ -943,7 +943,7 @@
                     "param.plugin_category": "concerts",
                     "param.user_slug": "jmacca87",
                     "param.widget": "True",
-                    "popularity": "0.6",
+                    "popularity": "1.016",
                     "revenue": "$0",
                     "slug_id": "pink-live-in-europe-2006",
                     "tmdb_id": "22720",
@@ -1022,7 +1022,7 @@
             {
                 "album": "",
                 "art": {
-                    "icon": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fdefault.png/"
+                    "icon": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p(1)%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fdefault.png/"
                 },
                 "artist": [],
                 "cast": [],
@@ -1130,7 +1130,7 @@
             {
                 "album": "",
                 "art": {
-                    "icon": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fdefault.png/"
+                    "icon": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p(1)%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fdefault.png/"
                 },
                 "artist": [],
                 "cast": [],
@@ -1303,7 +1303,8 @@
                     {
                         "name": "Lockhart Brownlie",
                         "order": 10,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fyFg2Wtr3BtUeAGunq1lrXVxO0VF.jpg/"
                     },
                     {
                         "name": "Bryan Gaw",
@@ -1324,7 +1325,8 @@
                     {
                         "name": "Scott Myrick",
                         "order": 14,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fsORXPcKRW9W0f9TPGyCQqf6g84D.jpg/"
                     },
                     {
                         "name": "Cassidy Noblett",
@@ -1377,7 +1379,7 @@
                     "param.plugin_category": "concerts",
                     "param.user_slug": "jmacca87",
                     "param.widget": "True",
-                    "popularity": "3.294",
+                    "popularity": "5.163",
                     "provider.link": "https://www.themoviedb.org/movie/333122-katy-perry-the-prismatic-world-tour-live/watch?locale=FR",
                     "providers": "Apple iTunes",
                     "revenue": "$0",
@@ -1521,13 +1523,13 @@
                         "name": "Leigh-Anne Pinnock",
                         "order": 8,
                         "role": "Self",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f2NPjvQefq8PmirRC9oh1gcuXIyD.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fcr1syA4nh0tP38VqVJV6LvRfmUV.jpg/"
                     },
                     {
                         "name": "Jade Thirlwall",
                         "order": 9,
                         "role": "Self",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fn17qf9OF5RntqsjIaQOCvOol5h9.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fhqgrmWbJUHMdTudQ7nWn5wXbLgx.jpg/"
                     },
                     {
                         "name": "Perrie Edwards",
@@ -1635,7 +1637,7 @@
                         "name": "Justin Bieber",
                         "order": 27,
                         "role": "Self",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fdymYT6QiSDkybK8Tudrir3dVysn.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fmMbpZKhwXGXw87W450kky6z1A26.jpg/"
                     },
                     {
                         "name": "Liam Gallagher",
@@ -1702,7 +1704,7 @@
                     "param.plugin_category": "concerts",
                     "param.user_slug": "jmacca87",
                     "param.widget": "True",
-                    "popularity": "5.498",
+                    "popularity": "6.184",
                     "revenue": "$0",
                     "slug_id": "one-love-manchester-2017",
                     "studio": "BBC Music",
@@ -1738,7 +1740,7 @@
                 "plotoutline": "",
                 "premiered": "2017-06-04",
                 "productioncode": "",
-                "rating": 8.532999992370605,
+                "rating": 8.5,
                 "resume": {
                     "position": 0.0,
                     "total": 10800.0
@@ -1893,7 +1895,7 @@
                     "param.plugin_category": "concerts",
                     "param.user_slug": "jmacca87",
                     "param.widget": "True",
-                    "popularity": "6.687",
+                    "popularity": "7.597",
                     "provider.link": "https://www.themoviedb.org/movie/554152-coldplay-a-head-full-of-dreams/watch?locale=FR",
                     "providers": "Amazon Prime Video",
                     "revenue": "$0",
@@ -1903,7 +1905,7 @@
                     "tmdb_id": "554152",
                     "tmdb_rating": "8.0",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "123",
+                    "tmdb_votes": "124",
                     "trakt_id": "405291",
                     "widget": "concerts"
                 },
@@ -1933,7 +1935,7 @@
                 "plotoutline": "",
                 "premiered": "2018-11-14",
                 "productioncode": "",
-                "rating": 7.9720001220703125,
+                "rating": 8.0,
                 "resume": {
                     "position": 0.0,
                     "total": 6900.0
@@ -1973,7 +1975,7 @@
                     "unknown": "tt9095324"
                 },
                 "userrating": 0,
-                "votes": "123",
+                "votes": "124",
                 "writer": [],
                 "year": 2018
             },
@@ -2038,7 +2040,7 @@
                     "param.plugin_category": "concerts",
                     "param.user_slug": "jmacca87",
                     "param.widget": "True",
-                    "popularity": "0.6",
+                    "popularity": "0.684",
                     "revenue": "$0",
                     "slug_id": "p-nk-vh1-storytellers-2012",
                     "studio": "VH1 Television",
@@ -2182,7 +2184,7 @@
                     "param.plugin_category": "concerts",
                     "param.user_slug": "jmacca87",
                     "param.widget": "True",
-                    "popularity": "5.068",
+                    "popularity": "8.8",
                     "provider.link": "https://www.themoviedb.org/movie/807597-p-nk-all-i-know-so-far/watch?locale=FR",
                     "providers": "Amazon Prime Video",
                     "revenue": "$0",
@@ -2221,7 +2223,7 @@
                 "plotoutline": "",
                 "premiered": "2021-05-21",
                 "productioncode": "",
-                "rating": 7.875,
+                "rating": 7.900000095367432,
                 "resume": {
                     "position": 0.0,
                     "total": 5940.0
@@ -2323,7 +2325,7 @@
                     "param.plugin_category": "concerts",
                     "param.user_slug": "jmacca87",
                     "param.widget": "True",
-                    "popularity": "0.669",
+                    "popularity": "0.6",
                     "revenue": "$0",
                     "slug_id": "beautiful-trauma-live-p-nk-2017",
                     "studio": "Done+Dusted",
@@ -2402,7 +2404,7 @@
             {
                 "album": "",
                 "art": {
-                    "icon": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fdefault.png/"
+                    "icon": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p(1)%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fdefault.png/"
                 },
                 "artist": [],
                 "cast": [],
@@ -2603,7 +2605,7 @@
                     "param.plugin_category": "concerts",
                     "param.user_slug": "jmacca87",
                     "param.widget": "True",
-                    "popularity": "0.879",
+                    "popularity": "0.6",
                     "revenue": "$0",
                     "slug_id": "on-the-record-p-nk-beautiful-trauma-2017",
                     "studio": "Scheme Engine",
@@ -2688,8 +2690,8 @@
             {
                 "album": "",
                 "art": {
-                    "icon": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage.png/",
-                    "landscape": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage_wide.png/"
+                    "icon": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p(1)%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage.png/",
+                    "landscape": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p(1)%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage_wide.png/"
                 },
                 "artist": [],
                 "cast": [],

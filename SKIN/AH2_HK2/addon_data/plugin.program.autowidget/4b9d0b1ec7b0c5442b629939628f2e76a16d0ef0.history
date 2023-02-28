@@ -1,0 +1,31 @@
+{
+    "history": [
+        [
+            1668455531.7887537,
+            "77a6525cc2dcd64fa0db4eabbe77e7539f7f33c3"
+        ],
+        [
+            1668455857.2486126,
+            "77a6525cc2dcd64fa0db4eabbe77e7539f7f33c3"
+        ],
+        [
+            1668455857.4896185,
+            "77a6525cc2dcd64fa0db4eabbe77e7539f7f33c3"
+        ],
+        [
+            1668456112.586412,
+            "77a6525cc2dcd64fa0db4eabbe77e7539f7f33c3"
+        ],
+        [
+            1668538486.0747662,
+            "8cd10a19cd595a908f849c71f4f0b77ff4803c03"
+        ]
+    ],
+    "widgets": [
+        "99db70d3-1526-4a7e-91ad-ab25eee51d06",
+        null,
+        "8aa94bdf-24ba-48a5-b84b-b4385345d443",
+        "e9f810dd-ab7c-4022-bdd4-810a25bd4ca2"
+    ],
+    "path": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=Mon%20historique&offset=0&suite=1"
+}

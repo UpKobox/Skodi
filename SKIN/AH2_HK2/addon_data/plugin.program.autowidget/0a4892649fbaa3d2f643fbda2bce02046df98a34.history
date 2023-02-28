@@ -1,0 +1,45 @@
+{
+    "history": [
+        [
+            1677193509.4780393,
+            "87a09638273274e8c957dbdbb41e9765b64c0201"
+        ],
+        [
+            1677193932.5724657,
+            "87a09638273274e8c957dbdbb41e9765b64c0201"
+        ],
+        [
+            1677211486.8622856,
+            "87a09638273274e8c957dbdbb41e9765b64c0201"
+        ],
+        [
+            1677249319.5399373,
+            "2ae401beced66ef7d0307a49b847f388d59af8c2"
+        ],
+        [
+            1677261012.6337004,
+            "2ae401beced66ef7d0307a49b847f388d59af8c2"
+        ],
+        [
+            1677284334.7935796,
+            "2ae401beced66ef7d0307a49b847f388d59af8c2"
+        ],
+        [
+            1677317315.7914882,
+            "2ae401beced66ef7d0307a49b847f388d59af8c2"
+        ],
+        [
+            1677352572.8696554,
+            "2ae401beced66ef7d0307a49b847f388d59af8c2"
+        ],
+        [
+            1677363587.3174622,
+            "2ae401beced66ef7d0307a49b847f388d59af8c2"
+        ]
+    ],
+    "widgets": [
+        "372b7791-51b6-4199-9aed-8601d474b5ef",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Les%20plus%20populaires%20de%20la%20semaine%20(Kids%20Films)&list_slug=les-plus-populaires-de-la-semaine-kids-films&owner=true&plugin_category=Les%20plus%20populaires%20de%20la%20semaine%20(Kids%20Films)&user_slug=jukebox8786&widget=True"
+}

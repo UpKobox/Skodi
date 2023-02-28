@@ -96,7 +96,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "bassman22pu",
                     "param.widget": "True",
-                    "popularity": "0.704",
+                    "popularity": "1.555",
                     "revenue": "$0",
                     "slug_id": "joe-bonamassa-muddy-wolf-at-red-rocks-2015",
                     "tmdb_id": "332777",
@@ -264,7 +264,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "bassman22pu",
                     "param.widget": "True",
-                    "popularity": "0.6",
+                    "popularity": "0.618",
                     "provider.link": "https://www.themoviedb.org/movie/36973-joe-bonamassa-live-from-the-royal-albert-hall/watch?locale=FR",
                     "providers": "Apple iTunes",
                     "revenue": "$0",
@@ -302,7 +302,7 @@
                 "plotoutline": "",
                 "premiered": "2009-10-06",
                 "productioncode": "",
-                "rating": 3.1670000553131104,
+                "rating": 3.200000047683716,
                 "resume": {
                     "position": 0.0,
                     "total": 13800.0
@@ -367,8 +367,7 @@
                     {
                         "name": "Doyle Bramhall II",
                         "order": 2,
-                        "role": "Himself",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fhyvh1fPEEkaYdJa6ArtKRy3jJw1.jpg/"
+                        "role": "Himself"
                     },
                     {
                         "name": "Chris Stainton",
@@ -415,7 +414,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "bassman22pu",
                     "param.widget": "True",
-                    "popularity": "1.026",
+                    "popularity": "1.746",
                     "revenue": "$0",
                     "slug_id": "eric-clapton-live-in-san-diego-with-special-guest-jj-cale-2017",
                     "studio": "Reprise Records",
@@ -681,8 +680,199 @@
                     {
                         "name": "Eric Clapton",
                         "order": 0,
-                        "role": "Himself",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fxAt8X2SzU4gghOyf8xjPPknHNyv.jpg/"
+                    },
+                    {
+                        "name": "Blake Mills",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Booker T. Jones",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Buddy Guy",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f9J2mWgbZ39QCRASLKtiTeQV23Wr.jpg/"
+                    },
+                    {
+                        "name": "Derek Trucks",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Doyle Bramhall II",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Gary Clark Jr.",
+                        "order": 6,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fw0ePaQi3UUOaejzNGmHpc2V87lK.jpg/"
+                    },
+                    {
+                        "name": "Gregg Allman",
+                        "order": 7,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2faf4x6C09lXLzXRw8L97xmXFlLWT.jpg/"
+                    },
+                    {
+                        "name": "Jeff Beck",
+                        "order": 8,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fX16Bn8VOBYiLenre7ufN7Kzdi.jpg/"
+                    },
+                    {
+                        "name": "John Mayer",
+                        "order": 9,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fj6W5imosdIvPQ2PLZCRMlKiIy4h.jpg/"
+                    },
+                    {
+                        "name": "Keith Richards",
+                        "order": 10,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ft1oa5UsJMmrhNqCIks4jQnAYSQT.jpg/"
+                    },
+                    {
+                        "name": "Keith Urban",
+                        "order": 11,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f6jB3gPO4yhdr24iqLjNS1Nw83SL.jpg/"
+                    },
+                    {
+                        "name": "Los Lobos",
+                        "order": 12,
+                        "role": ""
+                    },
+                    {
+                        "name": "Robert Cray",
+                        "order": 13,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2furFJxPChtAaaz4b2MmlPSeVwNnN.jpg/"
+                    },
+                    {
+                        "name": "Sonny Landreth",
+                        "order": 14,
+                        "role": ""
+                    },
+                    {
+                        "name": "Vince Gill",
+                        "order": 15,
+                        "role": ""
+                    },
+                    {
+                        "name": "Warren Haynes",
+                        "order": 16,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fdMvZ9E5v3wVq7hirdtdYuMlfgf.jpg/"
+                    },
+                    {
+                        "name": "Paul Carrack",
+                        "order": 17,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fkxjGYVkeFInefgNGIAO3pzqokpR.jpg/"
+                    },
+                    {
+                        "name": "Citizen Cope",
+                        "order": 18,
+                        "role": ""
+                    },
+                    {
+                        "name": "Steve Cropper",
+                        "order": 19,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fbpM7BVFPrnasFEecozKmeI34714.jpg/"
+                    },
+                    {
+                        "name": "Andy Fairweather-Low",
+                        "order": 20,
+                        "role": ""
+                    },
+                    {
+                        "name": "Beth Hart",
+                        "order": 21,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f7ylG2gNnOXvieNupT0Mq5ZP6AN.jpg/"
+                    },
+                    {
+                        "name": "B.B. King",
+                        "order": 22,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fyKZKHoX5AKZr2paJpYWaeYq0RuW.jpg/"
+                    },
+                    {
+                        "name": "Earl Klugh",
+                        "order": 23,
+                        "role": ""
+                    },
+                    {
+                        "name": "Albert Lee",
+                        "order": 24,
+                        "role": ""
+                    },
+                    {
+                        "name": "Taj Mahal",
+                        "order": 25,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fq8essPzbetB5NFX0KkaaQdmnMmS.jpg/"
+                    },
+                    {
+                        "name": "Keb' Mo'",
+                        "order": 26,
+                        "role": ""
+                    },
+                    {
+                        "name": "Matt \"Guitar\" Murphy",
+                        "order": 27,
+                        "role": ""
+                    },
+                    {
+                        "name": "Robert Randolph",
+                        "order": 28,
+                        "role": ""
+                    },
+                    {
+                        "name": "Robbie Robertson",
+                        "order": 29,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fpUhQhGrerErQGZKy0kKn6e6m1X7.jpg/"
+                    },
+                    {
+                        "name": "Kurt Rosenwinkel",
+                        "order": 30,
+                        "role": ""
+                    },
+                    {
+                        "name": "Alice Smith",
+                        "order": 31,
+                        "role": ""
+                    },
+                    {
+                        "name": "Quinn Sullivan",
+                        "order": 32,
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2faK10XY2xc8vbQFw5hgp7S4dCWdD.jpg/"
+                    },
+                    {
+                        "name": "Jimmie Vaughan",
+                        "order": 33,
+                        "role": ""
+                    },
+                    {
+                        "name": "Tal Wilkenfeld",
+                        "order": 34,
+                        "role": ""
+                    },
+                    {
+                        "name": "Johnny Radelat",
+                        "order": 35,
+                        "role": ""
                     }
                 ],
                 "country": [
@@ -690,7 +880,7 @@
                 ],
                 "customproperties": {
                     "budget": "$0",
-                    "cast": "Eric Clapton",
+                    "cast": "Eric Clapton / Blake Mills / Booker T. Jones / Buddy Guy / Derek Trucks / Doyle Bramhall II / Gary Clark Jr. / Gregg Allman / Jeff Beck / John Mayer / Keith Richards / Keith Urban / Los Lobos / Robert Cray / Sonny Landreth / Vince Gill / Warren Haynes / Paul Carrack / Citizen Cope / Steve Cropper / Andy Fairweather-Low / Beth Hart / B.B. King / Earl Klugh / Albert Lee / Taj Mahal / Keb' Mo' / Matt \"Guitar\" Murphy / Robert Randolph / Robbie Robertson / Kurt Rosenwinkel / Alice Smith / Quinn Sullivan / Jimmie Vaughan / Tal Wilkenfeld / Johnny Radelat",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=238470&ignore_default=true)",
                     "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=238470)",
                     "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=238470)",
@@ -719,8 +909,12 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "bassman22pu",
                     "param.widget": "True",
-                    "popularity": "1.4",
+                    "popularity": "1.195",
                     "revenue": "$0",
+                    "set.fanart": "",
+                    "set.name": "Crossroads Guitar Festival Collection",
+                    "set.poster": "https://image.tmdb.org/t/p/w500/j52QAw4rar3mxUAHrsqtJPNbZhq.jpg",
+                    "set.tmdb_id": "1073874",
                     "slug_id": "eric-clapton-s-crossroads-guitar-festival-2013-2013",
                     "studio": "Parallel 28 Equipe",
                     "tmdb_id": "238470",
@@ -762,7 +956,7 @@
                 },
                 "runtime": 17340,
                 "season": -1,
-                "set": "",
+                "set": "Crossroads Guitar Festival Collection",
                 "setid": -1,
                 "showlink": [],
                 "showtitle": "",
@@ -817,7 +1011,8 @@
                     {
                         "name": "Roger Glover",
                         "order": 1,
-                        "role": "Himself"
+                        "role": "Himself",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fjxJu9RZ1PwqlkwQiABwT3keoOKK.jpg/"
                     },
                     {
                         "name": "Ian Paice",
@@ -882,7 +1077,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "bassman22pu",
                     "param.widget": "True",
-                    "popularity": "1.338",
+                    "popularity": "0.918",
                     "provider.link": "https://www.themoviedb.org/movie/451711-deep-purple-from-here-to-infinite/watch?locale=FR",
                     "providers": "Apple iTunes",
                     "revenue": "$0",
@@ -1033,7 +1228,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "bassman22pu",
                     "param.widget": "True",
-                    "popularity": "1.343",
+                    "popularity": "1.056",
                     "revenue": "$0",
                     "slug_id": "beth-hart-joe-bonamassa-live-in-amsterdam-2014",
                     "tmdb_id": "260694",
@@ -1066,7 +1261,7 @@
                 "plotoutline": "",
                 "premiered": "2014-03-23",
                 "productioncode": "",
-                "rating": 5.833000183105469,
+                "rating": 5.800000190734863,
                 "resume": {
                     "position": 0.0,
                     "total": 6840.0
@@ -1268,7 +1463,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "bassman22pu",
                     "param.widget": "True",
-                    "popularity": "0.655",
+                    "popularity": "0.737",
                     "revenue": "$0",
                     "slug_id": "rock-candy-funk-party-takes-new-york-live-at-the-iridium-2014",
                     "tmdb_id": "258411",
@@ -1400,7 +1595,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "bassman22pu",
                     "param.widget": "True",
-                    "popularity": "1.086",
+                    "popularity": "0.961",
                     "provider.link": "https://www.themoviedb.org/movie/356167-jimi-hendrix-electric-church/watch?locale=FR",
                     "providers": "Apple iTunes",
                     "revenue": "$0",
@@ -1408,7 +1603,7 @@
                     "tmdb_id": "356167",
                     "tmdb_rating": "7.3",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "8",
+                    "tmdb_votes": "9",
                     "trakt_id": "222667",
                     "widget": "Concerts"
                 },
@@ -1476,7 +1671,7 @@
                     "unknown": "tt5217608"
                 },
                 "userrating": 0,
-                "votes": "8",
+                "votes": "9",
                 "writer": [],
                 "year": 2015
             },
@@ -1492,89 +1687,88 @@
                     {
                         "name": "Eric Clapton",
                         "order": 0,
-                        "role": "Self",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fxAt8X2SzU4gghOyf8xjPPknHNyv.jpg/"
                     },
                     {
                         "name": "Robert Cray",
                         "order": 1,
-                        "role": "Self",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2furFJxPChtAaaz4b2MmlPSeVwNnN.jpg/"
                     },
                     {
                         "name": "Joe Walsh",
                         "order": 2,
-                        "role": "Self",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f2cihrXQeODd0JiYd78IVu9whHW.jpg/"
                     },
                     {
                         "name": "Larry Carlton",
                         "order": 3,
-                        "role": "Self"
+                        "role": ""
                     },
                     {
                         "name": "Steve Vai",
                         "order": 4,
-                        "role": "Self",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2ffnXN8KGFMjAZ9aI5N7GpZBVBVMs.jpg/"
                     },
                     {
                         "name": "Jonny Lang",
                         "order": 5,
-                        "role": "Self",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f8JsuvtIlnMVknntqxRtL2EGcN1M.jpg/"
                     },
                     {
                         "name": "Carlos Santana",
                         "order": 6,
-                        "role": "Self",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fhphAanWETS2h42G7mx4QLzV2w0s.jpg/"
                     },
                     {
                         "name": "J.J. Cale",
                         "order": 7,
-                        "role": "Self",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2feHYyuRJNaJHLAwGxZCJhwsLRY1D.jpg/"
                     },
                     {
                         "name": "James Taylor",
                         "order": 8,
-                        "role": "Self",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fz2cFkO0XP2zXXdlVK97WOY2nZBC.jpg/"
                     },
                     {
                         "name": "Buddy Guy",
                         "order": 9,
-                        "role": "Self",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f9J2mWgbZ39QCRASLKtiTeQV23Wr.jpg/"
                     },
                     {
                         "name": "Jimmie Vaughan",
                         "order": 10,
-                        "role": "Self",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f5fDNvlMCXNCXhT7POHfholwoI74.jpg/"
+                        "role": ""
                     },
                     {
                         "name": "B.B. King",
                         "order": 11,
-                        "role": "Self",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fyKZKHoX5AKZr2paJpYWaeYq0RuW.jpg/"
                     },
                     {
                         "name": "Eric Johnson",
                         "order": 12,
-                        "role": "Self"
+                        "role": ""
                     },
                     {
                         "name": "Billy Gibbons",
                         "order": 13,
-                        "role": "Self",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fskJrc3ls3z79mh4vxIAWvLi5MUb.jpg/"
                     },
                     {
                         "name": "Vince Gill",
                         "order": 14,
-                        "role": "Self",
+                        "role": "",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2flECxxuWpwtZiXkdE6MUjgVfFHRZ.jpg/"
                     }
                 ],
@@ -1611,8 +1805,12 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "bassman22pu",
                     "param.widget": "True",
-                    "popularity": "1.164",
+                    "popularity": "1.804",
                     "revenue": "$0",
+                    "set.fanart": "",
+                    "set.name": "Crossroads Guitar Festival Collection",
+                    "set.poster": "https://image.tmdb.org/t/p/w500/j52QAw4rar3mxUAHrsqtJPNbZhq.jpg",
+                    "set.tmdb_id": "1073874",
                     "slug_id": "eric-clapton-s-crossroads-guitar-festival-2004-2004",
                     "studio": "Crossroads Films",
                     "tmdb_id": "247378",
@@ -1654,7 +1852,7 @@
                 },
                 "runtime": 12600,
                 "season": -1,
-                "set": "",
+                "set": "Crossroads Guitar Festival Collection",
                 "setid": -1,
                 "showlink": [],
                 "showtitle": "",
@@ -1763,7 +1961,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "bassman22pu",
                     "param.widget": "True",
-                    "popularity": "2.867",
+                    "popularity": "6.444",
                     "provider.link": "https://www.themoviedb.org/movie/137366-led-zeppelin-celebration-day/watch?locale=FR",
                     "providers": "Apple iTunes",
                     "revenue": "$10,000,000",
@@ -1802,7 +2000,7 @@
                 "plotoutline": "",
                 "premiered": "2012-10-17",
                 "productioncode": "",
-                "rating": 8.01200008392334,
+                "rating": 8.0,
                 "resume": {
                     "position": 0.0,
                     "total": 7440.0
@@ -1858,7 +2056,8 @@
                     {
                         "name": "Ritchie Blackmore",
                         "order": 0,
-                        "role": "Guitar"
+                        "role": "Guitar",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fdMiEyxI3boBNbeUUZ4yo58FsVgG.jpg/"
                     },
                     {
                         "name": "Ronnie Romero",
@@ -1918,7 +2117,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "bassman22pu",
                     "param.widget": "True",
-                    "popularity": "1.272",
+                    "popularity": "1.953",
                     "provider.link": "https://www.themoviedb.org/movie/426762-rainbow-memories-in-rock/watch?locale=FR",
                     "providers": "Apple iTunes",
                     "revenue": "$0",
@@ -2000,8 +2199,11 @@
             {
                 "album": "",
                 "art": {
-                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fzH2LDkY9u87D79F3gmuIet5bfNr.jpg/",
-                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fzH2LDkY9u87D79F3gmuIet5bfNr.jpg/"
+                    "clearlogo": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fA3YOpXhg6EkU2I6AkeOp0zXMgAO.png/",
+                    "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f4lFnbFxbGXUSE2fi0WkzVRrUjTi.jpg/",
+                    "icon": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fsDQy1qblq0Z93ygq0BuPinu4mrQ.jpg/",
+                    "landscape": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2ffWJUUDDbPsxBUEZjz6z61UHrEoU.jpg/",
+                    "poster": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fsDQy1qblq0Z93ygq0BuPinu4mrQ.jpg/"
                 },
                 "artist": [],
                 "cast": [
@@ -2056,7 +2258,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "bassman22pu",
                     "param.widget": "True",
-                    "popularity": "0.6",
+                    "popularity": "0.951",
                     "revenue": "$0",
                     "slug_id": "lee-ritenour-overtime-2005",
                     "studio": "Eagle Rock Entertainment",
@@ -2072,7 +2274,7 @@
                 "director": [],
                 "episode": -1,
                 "episodeguide": "",
-                "fanart": "",
+                "fanart": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f4lFnbFxbGXUSE2fi0WkzVRrUjTi.jpg/",
                 "file": "plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=114437",
                 "filetype": "file",
                 "firstaired": "",
@@ -2201,7 +2403,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "bassman22pu",
                     "param.widget": "True",
-                    "popularity": "0.873",
+                    "popularity": "0.6",
                     "revenue": "$0",
                     "slug_id": "lee-ritenour-mike-stern-live-at-blue-note-tokyo-2012",
                     "studio": "As Is Productions",
@@ -2357,7 +2559,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "bassman22pu",
                     "param.widget": "True",
-                    "popularity": "0.6",
+                    "popularity": "0.627",
                     "revenue": "$0",
                     "slug_id": "uli-jon-roth-tokyo-tapes-revisited-2016",
                     "studio": "UDR Music",
@@ -2497,7 +2699,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "bassman22pu",
                     "param.widget": "True",
-                    "popularity": "0.6",
+                    "popularity": "1.249",
                     "revenue": "$0",
                     "slug_id": "john-mayall-the-bluesbreakers-and-friends-70th-birthday-concert-2003",
                     "tmdb_id": "86585",
@@ -2621,7 +2823,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "bassman22pu",
                     "param.widget": "True",
-                    "popularity": "0.6",
+                    "popularity": "1.071",
                     "provider.link": "https://www.themoviedb.org/movie/238586-george-thorogood-the-destroyers-live-at-montreux-2013/watch?locale=FR",
                     "providers": "Apple iTunes / INA  madelen Amazon Channel",
                     "revenue": "$0",
@@ -2746,7 +2948,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "bassman22pu",
                     "param.widget": "True",
-                    "popularity": "0.6",
+                    "popularity": "0.876",
                     "revenue": "$0",
                     "slug_id": "reggae-britannia-2011",
                     "tmdb_id": "85212",
@@ -2827,8 +3029,8 @@
             {
                 "album": "",
                 "art": {
-                    "icon": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage.png/",
-                    "landscape": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage_wide.png/"
+                    "icon": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p(1)%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage.png/",
+                    "landscape": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p(1)%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage_wide.png/"
                 },
                 "artist": [],
                 "cast": [],

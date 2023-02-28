@@ -1,0 +1,21 @@
+{
+    "history": [
+        [
+            1677193652.8108451,
+            "2bbd278c0338dc375a19f6c99283519429201c03"
+        ],
+        [
+            1677193981.7917225,
+            "2bbd278c0338dc375a19f6c99283519429201c03"
+        ],
+        [
+            1677211492.2879012,
+            "2bbd278c0338dc375a19f6c99283519429201c03"
+        ]
+    ],
+    "widgets": [
+        "3d3d0b5e-fcad-4801-9c95-33ea150b287e",
+        null
+    ],
+    "path": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Les+nouveaute%CC%81s+%28Kids+Se%CC%81ries+TV%29&list_slug=les-nouveautes-kids-series-tv&owner=true&plugin_category=Les+nouveaute%CC%81s+%28Kids+Se%CC%81ries+TV%29&user_slug=jukebox8786&page=2&widget=true&reload=$INFO[Window(Home).Property(TMDbHelper.Widgets.Reload)]"
+}

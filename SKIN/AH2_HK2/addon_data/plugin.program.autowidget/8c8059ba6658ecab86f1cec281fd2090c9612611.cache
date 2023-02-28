@@ -76,7 +76,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "pretendah",
                     "param.widget": "True",
-                    "popularity": "1.4",
+                    "popularity": "0.926",
                     "revenue": "$0",
                     "slug_id": "ac-dc-live-77-at-the-hippodrome-golders-green-london-2003",
                     "studio": "BBC",
@@ -195,12 +195,17 @@
                         "order": 4,
                         "role": "Self - Drums",
                         "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fczZz5dfcHnZthFnQnt4lDYbapXa.jpg/"
+                    },
+                    {
+                        "name": "AC/DC",
+                        "order": 5,
+                        "role": "Themselves"
                     }
                 ],
                 "country": [],
                 "customproperties": {
                     "budget": "$0",
-                    "cast": "Angus Young / Malcolm Young / Brian Johnson / Cliff Williams / Chris Slade",
+                    "cast": "Angus Young / Malcolm Young / Brian Johnson / Cliff Williams / Chris Slade / AC/DC",
                     "contextmenuaction(0)": "RunPlugin(plugin://plugin.video.themoviedb.helper/?info=play&tmdb_type=movie&tmdb_id=19027&ignore_default=true)",
                     "contextmenuaction(1)": "RunScript(plugin.video.themoviedb.helper,related_lists,tmdb_type=movie,tmdb_id=19027)",
                     "contextmenuaction(2)": "RunScript(plugin.video.themoviedb.helper,sync_trakt,tmdb_type=movie,tmdb_id=19027)",
@@ -229,7 +234,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "pretendah",
                     "param.widget": "True",
-                    "popularity": "7.224",
+                    "popularity": "7.333",
                     "provider.link": "https://www.themoviedb.org/movie/19027-ac-dc-live-at-donington/watch?locale=FR",
                     "providers": "Apple iTunes",
                     "revenue": "$1,000,000",
@@ -387,16 +392,16 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "pretendah",
                     "param.widget": "True",
-                    "popularity": "2.363",
+                    "popularity": "2.152",
                     "provider.link": "https://www.themoviedb.org/movie/24983-ac-dc-no-bull/watch?locale=FR",
                     "providers": "Apple iTunes",
                     "revenue": "$0",
                     "slug_id": "ac-dc-no-bull-1996",
                     "studio": "Cowboy Films",
                     "tmdb_id": "24983",
-                    "tmdb_rating": "6.9",
+                    "tmdb_rating": "6.8",
                     "tmdb_type": "movie",
-                    "tmdb_votes": "15",
+                    "tmdb_votes": "16",
                     "trakt_id": "15078",
                     "widget": "Concerts"
                 },
@@ -425,7 +430,7 @@
                 "plotoutline": "",
                 "premiered": "1996-11-02",
                 "productioncode": "",
-                "rating": 6.867000102996826,
+                "rating": 6.800000190734863,
                 "resume": {
                     "position": 0.0,
                     "total": 7200.0
@@ -466,7 +471,7 @@
                     "unknown": "tt0255773"
                 },
                 "userrating": 0,
-                "votes": "15",
+                "votes": "16",
                 "writer": [],
                 "year": 1996
             },
@@ -544,7 +549,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "pretendah",
                     "param.widget": "True",
-                    "popularity": "0.697",
+                    "popularity": "1.164",
                     "revenue": "$0",
                     "slug_id": "aerosmith-mtv-unplugged-1990",
                     "studio": "MTV",
@@ -690,7 +695,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "pretendah",
                     "param.widget": "True",
-                    "popularity": "3.382",
+                    "popularity": "3.097",
                     "revenue": "$0",
                     "slug_id": "alice-in-chains-mtv-unplugged-1996",
                     "studio": "MTV Productions",
@@ -727,7 +732,7 @@
                 "plotoutline": "",
                 "premiered": "1996-04-10",
                 "productioncode": "",
-                "rating": 8.532999992370605,
+                "rating": 8.5,
                 "resume": {
                     "position": 0.0,
                     "total": 4320.0
@@ -812,7 +817,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "pretendah",
                     "param.widget": "True",
-                    "popularity": "0.6",
+                    "popularity": "0.71",
                     "revenue": "$0",
                     "slug_id": "alice-in-chains-live-facelift-1991",
                     "tmdb_id": "69259",
@@ -952,7 +957,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "pretendah",
                     "param.widget": "True",
-                    "popularity": "1.082",
+                    "popularity": "0.952",
                     "provider.link": "https://www.themoviedb.org/movie/55417-audioslave-live-in-cuba/watch?locale=FR",
                     "providers": "Apple iTunes",
                     "revenue": "$0",
@@ -1097,7 +1102,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "pretendah",
                     "param.widget": "True",
-                    "popularity": "0.6",
+                    "popularity": "1.043",
                     "revenue": "$0",
                     "slug_id": "arctic-monkeys-live-at-glastonbury-2013-2013",
                     "tmdb_id": "204887",
@@ -1236,7 +1241,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "pretendah",
                     "param.widget": "True",
-                    "popularity": "1.128",
+                    "popularity": "0.902",
                     "revenue": "$0",
                     "slug_id": "arctic-monkeys-itunes-festival-2013-2013",
                     "studio": "Apple",
@@ -1315,7 +1320,7 @@
             {
                 "album": "",
                 "art": {
-                    "icon": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fdefault.png/"
+                    "icon": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p(1)%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fdefault.png/"
                 },
                 "artist": [],
                 "cast": [],
@@ -1425,7 +1430,7 @@
             {
                 "album": "",
                 "art": {
-                    "icon": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fdefault.png/"
+                    "icon": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p(1)%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fdefault.png/"
                 },
                 "artist": [],
                 "cast": [],
@@ -1571,7 +1576,7 @@
                     "param.user_slug": "pretendah",
                     "param.widget": "True",
                     "physical_release": "1991-07-01",
-                    "popularity": "0.84",
+                    "popularity": "0.74",
                     "revenue": "$0",
                     "slug_id": "bob-marley-and-the-wailers-live-at-the-rainbow-1977",
                     "tmdb_id": "38552",
@@ -1695,7 +1700,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "pretendah",
                     "param.widget": "True",
-                    "popularity": "1.577",
+                    "popularity": "1.081",
                     "revenue": "$0",
                     "slug_id": "bob-marley-live-in-concert-2012-04-12",
                     "tmdb_id": "121441",
@@ -1785,7 +1790,7 @@
                         "name": "George Harrison",
                         "order": 0,
                         "role": "",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2frbcU4QSEWTKvLoJCRXGPati4KjJ.jpg/"
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fzwUO2gnKBnSrKOB9hnhI9GdOX6e.jpg/"
                     },
                     {
                         "name": "Ringo Starr",
@@ -1802,8 +1807,7 @@
                     {
                         "name": "Ravi Shankar",
                         "order": 3,
-                        "role": "",
-                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2f6yKXSdWMh3F77XCsf87FAAHINnl.jpg/"
+                        "role": ""
                     },
                     {
                         "name": "Bob Dylan",
@@ -1865,7 +1869,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "pretendah",
                     "param.widget": "True",
-                    "popularity": "2.278",
+                    "popularity": "1.903",
                     "revenue": "$0",
                     "slug_id": "the-concert-for-bangladesh-1972",
                     "studio": "20th Century Fox",
@@ -1959,7 +1963,8 @@
                     {
                         "name": "Ritchie Blackmore",
                         "order": 0,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fdMiEyxI3boBNbeUUZ4yo58FsVgG.jpg/"
                     },
                     {
                         "name": "Rod Evans",
@@ -1994,7 +1999,8 @@
                     {
                         "name": "Roger Glover",
                         "order": 6,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fjxJu9RZ1PwqlkwQiABwT3keoOKK.jpg/"
                     },
                     {
                         "name": "David Coverdale",
@@ -2045,7 +2051,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "pretendah",
                     "param.widget": "True",
-                    "popularity": "0.652",
+                    "popularity": "0.696",
                     "revenue": "$0",
                     "slug_id": "deep-purple-history-hits-highlights-68-76-2009",
                     "tmdb_id": "67533",
@@ -2135,7 +2141,8 @@
                     {
                         "name": "Ritchie Blackmore",
                         "order": 1,
-                        "role": "Guitar"
+                        "role": "Guitar",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fdMiEyxI3boBNbeUUZ4yo58FsVgG.jpg/"
                     },
                     {
                         "name": "David Coverdale",
@@ -2188,7 +2195,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "pretendah",
                     "param.widget": "True",
-                    "popularity": "0.6",
+                    "popularity": "0.727",
                     "revenue": "$0",
                     "slug_id": "deep-purple-live-in-california-74-2005",
                     "tmdb_id": "63246",
@@ -2221,7 +2228,7 @@
                 "plotoutline": "",
                 "premiered": "2005-11-21",
                 "productioncode": "",
-                "rating": 5.875,
+                "rating": 5.900000095367432,
                 "resume": {
                     "position": 0.0,
                     "total": 7380.0
@@ -2266,7 +2273,7 @@
             {
                 "album": "",
                 "art": {
-                    "icon": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fdefault.png/"
+                    "icon": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p(1)%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fdefault.png/"
                 },
                 "artist": [],
                 "cast": [
@@ -2467,7 +2474,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "pretendah",
                     "param.widget": "True",
-                    "popularity": "1.4",
+                    "popularity": "0.6",
                     "provider.link": "https://www.themoviedb.org/movie/55716-the-doors-live-in-europe-1968/watch?locale=FR",
                     "providers": "Apple iTunes",
                     "revenue": "$0",
@@ -2571,12 +2578,14 @@
                     {
                         "name": "Roger Glover",
                         "order": 1,
-                        "role": "Himself"
+                        "role": "Himself",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fjxJu9RZ1PwqlkwQiABwT3keoOKK.jpg/"
                     },
                     {
                         "name": "Ritchie Blackmore",
                         "order": 2,
-                        "role": "Himself"
+                        "role": "Himself",
+                        "thumbnail": "image://https%3a%2f%2fimage.tmdb.org%2ft%2fp%2fw500%2fdMiEyxI3boBNbeUUZ4yo58FsVgG.jpg/"
                     },
                     {
                         "name": "Jon Lord",
@@ -2622,7 +2631,7 @@
                     "param.plugin_category": "Concerts",
                     "param.user_slug": "pretendah",
                     "param.widget": "True",
-                    "popularity": "0.6",
+                    "popularity": "0.62",
                     "revenue": "$0",
                     "slug_id": "deep-purple-made-in-japan-1972",
                     "tmdb_id": "183069",
@@ -2696,8 +2705,8 @@
             {
                 "album": "",
                 "art": {
-                    "icon": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage.png/",
-                    "landscape": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage_wide.png/"
+                    "icon": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p(1)%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage.png/",
+                    "landscape": "image://C%3a%5cKodiTest%5ckodi%2021%20testu2p(1)%5cKodi%5cportable_data%5caddons%5cplugin.video.themoviedb.helper%5c%2fresources%2ficons%2fthemoviedb%2fnextpage_wide.png/"
                 },
                 "artist": [],
                 "cast": [],
