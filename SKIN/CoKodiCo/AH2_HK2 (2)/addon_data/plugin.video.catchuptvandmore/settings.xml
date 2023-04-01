@@ -1,0 +1,62 @@
+<settings version="2">
+    <setting id="auto_run">true</setting>
+    <setting id="quality">1</setting>
+    <setting id="stream_bitrate_limit" default="true">0</setting>
+    <setting id="use_ia_hls_stream">true</setting>
+    <setting id="use_ytdl_stream" default="true">false</setting>
+    <setting id="tv_guide">true</setting>
+    <setting id="active_subtitle" default="true">false</setting>
+    <setting id="arte.language" default="true">FR</setting>
+    <setting id="euronews.language" default="true">FR</setting>
+    <setting id="france24.language" default="true">FR</setting>
+    <setting id="dw.language" default="true">EN</setting>
+    <setting id="qvc.language" default="true">UK</setting>
+    <setting id="nhkworld.language" default="true">Outside Japan</setting>
+    <setting id="cgtn.language" default="true">FR</setting>
+    <setting id="rt.language" default="true">FR</setting>
+    <setting id="tv5monde.region" default="true">0</setting>
+    <setting id="tv5mondeplus.language" default="true">fr</setting>
+    <setting id="france3regions.language" default="true">Alpes</setting>
+    <setting id="la_1ere.language" default="true">Guadeloupe</setting>
+    <setting id="BFM_regions.language" default="true">BFM PARIS ILE-DE-FRANCE</setting>
+    <setting id="equidia-racing.language" default="true">1</setting>
+    <setting id="realmadridtv.language" default="true">ES</setting>
+    <setting id="tvp3.language" default="true">Białystok</setting>
+    <setting id="icitele.language" default="true">Montréal</setting>
+    <setting id="cbc.language" default="true">Ottawa</setting>
+    <setting id="dl_folder" default="true" />
+    <setting id="dl_quality" default="true">Highest available</setting>
+    <setting id="dl_background" default="true">false</setting>
+    <setting id="dl_item_filename" default="true">false</setting>
+    <setting id="nrj.login" default="true" />
+    <setting id="nrj.password" default="true" />
+    <setting id="6play.login" default="true" />
+    <setting id="6play.password" default="true" />
+    <setting id="abweb.login" default="true" />
+    <setting id="abweb.password" default="true" />
+    <setting id="rmcbfmplay.login" default="true" />
+    <setting id="rmcbfmplay.password" default="true" />
+    <setting id="vrt.login" default="true" />
+    <setting id="vrt.password" default="true" />
+    <setting id="rtlplaybe.login" default="true" />
+    <setting id="rtlplaybe.password" default="true" />
+    <setting id="rtbf.login" default="true" />
+    <setting id="rtbf.password" default="true" />
+    <setting id="uktvplay.login" default="true" />
+    <setting id="uktvplay.password" default="true" />
+    <setting id="schedulesdirect.login" default="true" />
+    <setting id="schedulesdirect.password" default="true" />
+    <setting id="schedulesdirect.lineup" default="true">CAN-0005993-X</setting>
+    <setting id="iptv.enabled">true</setting>
+    <setting id="iptv.channels_uri" default="true">plugin://plugin.video.catchuptvandmore/resources/lib/iptvmanager/channels/</setting>
+    <setting id="iptv.epg_uri" default="true">plugin://plugin.video.catchuptvandmore/resources/lib/iptvmanager/epg/</setting>
+    <setting id="vpn.hide">false</setting>
+    <setting id="vpn.openvpnfilepath" default="true">/usr/bin/openvpn</setting>
+    <setting id="vpn.args" default="true" />
+    <setting id="vpn.sudo" default="true">false</setting>
+    <setting id="vpn.sudopsw" default="true">false</setting>
+    <setting id="log_pop_up">false</setting>
+    <setting id="show_hidden_items_information">true</setting>
+    <setting id="show_live_tv_m3u_info">false</setting>
+    <setting id="header_x-forwarded-for" default="true" />
+</settings>

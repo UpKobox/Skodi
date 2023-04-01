@@ -1,0 +1,21 @@
+{
+    "action": "random",
+    "id": "6b02c620-662c-4a0f-ac6e-556c2080d362",
+    "group": "films_autowidget-1661598449.2327583",
+    "refresh": 0.25,
+    "path": "tendance-1661598595.0915592",
+    "version": "3.7.0",
+    "current": 0,
+    "cycle_paths": [
+        "imdb-top-250-movies-full-recurrence_by_jaygreene_(movies)-1661598457.575219",
+        "trakt-popular-movies_by_justin_(movies)-1661598481.0455067",
+        "populaire-1661598574.1039712",
+        "tendance-1661598595.0915592",
+        "recommande_pour_vous-1661598622.171045",
+        "latest_4k_releases-1661599701.8645954",
+        "1001_movies_you_must_see_before_you_die-1661599722.2194898"
+    ],
+    "stack": [],
+    "label": "Tendance",
+    "updated": 1662544506.002282
+}

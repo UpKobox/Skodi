@@ -1,0 +1,34 @@
+<shortcuts>
+	<shortcut>
+		<defaultID>135</defaultID>
+		<label>$SKIN[31050|skin.titan.bingie.mod|Tous les films]</label>
+		<label2>Elément personnalisé</label2>
+		<icon>$INFO[Window(Home).Property(SkinHelper.AllMoviesBackground)]</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&amp;famille=film&amp;offset=0",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Nouveautés</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://special%3a%2f%2fhome%2faddons%2fplugin.video.sendtokodiU2P%2fresources%2fpng%2fliste.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&amp;famille=nouveau",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>135</defaultID>
+		<label>135</label>
+		<label2>Elément personnalisé</label2>
+		<icon>$INFO[Window(Home).Property(SkinHelper.AllMoviesBackground)]</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=genresHK&amp;typM=movie",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>135</defaultID>
+		<label>Listes</label>
+		<label2>Elément personnalisé</label2>
+		<icon>$INFO[Window(Home).Property(SkinHelper.InProgressMoviesBackground)]</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&amp;famille=specialWid",return)</action>
+	</shortcut>
+</shortcuts>

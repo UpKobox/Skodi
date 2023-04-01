@@ -1,0 +1,316 @@
+{
+    "label": "Menu S\u00e9ries",
+    "type": "shortcut",
+    "paths": [
+        {
+            "label": "Recherche",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=Recherche",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/search.png",
+                    "thumb": "special://masterprofile/addon_data/icones/recherche.png"
+                },
+                "title": "Recherche",
+                "plot": "ben recherche ..... (astuce le _ remplace n'importe quel caract\u00e9re ex search => r_m donnera tous les titres qui contiennent ram, rom , rum etc... Interressant pour la recherche simultan\u00e9es de 'e \u00e9 \u00e8 \u00ea'",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "recherche-1666037439.4164796",
+            "version": "3.7.0"
+        },
+        {
+            "label": "On continue...",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=Mon%20historique&offset=0&suite=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/thenuit.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/Mon historique.png",
+                    "thumb": "special://masterprofile/addon_data/icones/oncontinue.png"
+                },
+                "title": "On continue...",
+                "plot": "on continue nos series",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "on_continue...-1666037360.465236",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Mes favoris HK",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=Mes%20favoris%20HK",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://masterprofile/addon_data/icones/favorishk2 (2).png"
+                },
+                "title": "Mes favoris HK",
+                "plot": "Mes envies de voir",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "mes_favoris_hk-1666037414.5325062",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Mon historique",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=Mon%20historique&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/Mon historique.png",
+                    "thumb": "special://masterprofile/addon_data/icones/historique.png"
+                },
+                "title": "Mon historique",
+                "plot": "La liste de m\u00e9dias commenc\u00e9s ou la reprise est possible",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "mon_historique-1666037424.332743",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Series (toutes)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=serieserie",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/thenuit.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/Serie.png",
+                    "thumb": "special://masterprofile/addon_data/icones/tvseries3pird.png"
+                },
+                "title": "Series",
+                "plot": "Liste series hors animation et documentaire",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "series_(toutes)-1666037376.1657581",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Derniers Ajouts",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=seriesall",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/Serie.png",
+                    "thumb": "special://masterprofile/addon_data/icones/tvseries3pird.png"
+                },
+                "title": "Derniers Ajouts",
+                "plot": "Liste series tous genres",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "derniers_ajouts-1666037386.5488663",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Genre Series",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.program.autowidget/?group=genre_series-1661363901.910443&mode=group&refresh&reload",
+                "filetype": "directory",
+                "art": {
+                    "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/fanart (2).jpg",
+                    "icon": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png",
+                    "poster": "special://masterprofile/addon_data/icones/tvseries3pird.png",
+                    "thumb": "special://masterprofile/addon_data/icones/tvseries3pird.png"
+                },
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "programs",
+            "target": "shortcut",
+            "id": "genre_series-1666037486.4005566",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Collections S\u00e9ries",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.program.autowidget/?group=collections_series-1656858473.361034&mode=group&refresh&reload",
+                "filetype": "directory",
+                "art": {
+                    "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/thenuit.png",
+                    "icon": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png",
+                    "poster": "special://masterprofile/addon_data/icones/tvseries3pird.png",
+                    "thumb": "special://masterprofile/addon_data/icones/tvseries3pird.png"
+                },
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "programs",
+            "target": "shortcut",
+            "id": "collections_series-1666476604.1976573",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Ann\u00e9e(s)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=Ann%c3%a9e(s)&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons/plugin.video.sendtokodiU2P/fanart.jpg",
+                    "icon": "special://masterprofile/addon_data/icones/ann\u00e9ept.png",
+                    "thumb": "special://masterprofile/addon_data/icones/ann\u00e9e.png"
+                },
+                "title": "Ann\u00e9e(s)",
+                "plot": "filtres par Ann\u00e9e(s)",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "annee(s)-1666037432.0829866",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Liste Al\u00e9atoire",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=Liste%20Al%c3%a9atoire",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/Liste Al\u00e9atoire.png",
+                    "thumb": "special://masterprofile/addon_data/icones/liste (4).png"
+                },
+                "title": "Liste Al\u00e9atoire",
+                "plot": "Liste Al\u00e9atoire, tous genres",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "liste_aleatoire-1666037401.8988655",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Listes S\u00e9ries",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.program.autowidget/?group=listes_series-1656865176.4931984&mode=group&refresh&reload",
+                "filetype": "directory",
+                "art": {
+                    "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+                    "fanart": "special://home/userdata/addon_data/icones/fonds/thenuit.png",
+                    "icon": "special://masterprofile/addon_data/icones/liste (2).png",
+                    "poster": "special://masterprofile/addon_data/icones/liste (2).png",
+                    "thumb": "special://masterprofile/addon_data/icones/liste (2).png"
+                },
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "programs",
+            "target": "shortcut",
+            "id": "listes_series-1666037498.7832625",
+            "version": "3.7.0"
+        },
+        {
+            "label": "S\u00e9ries (r\u00e9solution)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.program.autowidget/?group=series_(resolution)-1662309704.573811&mode=group&refresh&reload",
+                "filetype": "directory",
+                "art": {
+                    "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/thenuit.png",
+                    "icon": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png",
+                    "poster": "special://masterprofile/addon_data/icones/tvseries3pird.png",
+                    "thumb": "special://masterprofile/addon_data/icones/tvseries3pird.png"
+                },
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "programs",
+            "target": "shortcut",
+            "id": "series_(resolution)-1666037531.4006133",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Trakt S\u00e9ries",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.program.autowidget/?group=trakt_series-1662930971.187265&mode=group&refresh&reload",
+                "filetype": "directory",
+                "art": {
+                    "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/fanart (2).jpg",
+                    "icon": "special://masterprofile/addon_data/icones/trakt tv.png",
+                    "poster": "special://masterprofile/addon_data/icones/trakt tv.png",
+                    "thumb": "special://masterprofile/addon_data/icones/trakt (2).png"
+                },
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "programs",
+            "target": "shortcut",
+            "id": "trakt_series-1666037550.1342504",
+            "version": "3.7.0"
+        },
+        {
+            "label": "S\u00e9ries TV TMDB",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=dir_tv&tmdb_type=None&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://masterprofile/addon_data/icones/tmdb (3).png",
+                    "landscape": "special://masterprofile/addon_data/icones/tmdb (3).png"
+                },
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "series_tv_tmdb-1667748375.417391",
+            "version": "3.7.0"
+        }
+    ],
+    "id": "menu_series-1666037354.202666",
+    "art": {
+        "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+        "fanart": "special://home/addons\\plugin.program.autowidget\\resources\\media\\fanart\\folder-shortcut.png",
+        "icon": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png",
+        "poster": "special://home/addons\\plugin.program.autowidget\\resources\\media\\poster\\folder-shortcut.png",
+        "thumb": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png"
+    },
+    "version": "3.7.0",
+    "content": "",
+    "sort_order": "36"
+}

@@ -1,0 +1,215 @@
+{
+    "label": "Amime [COLORorange]Series[/COLOR]",
+    "type": "shortcut",
+    "paths": [
+        {
+            "label": "Animes populaires",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=specialWid&nomListe=Animes%20populaires&typM=tvshow",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/serie.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/serie.png"
+                },
+                "title": "Animes populaires",
+                "plot": "Animes populaires",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "animes_populaires-1658644813.7087343",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Animes r\u00e9cents",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=specialWid&nomListe=Animes%20r%c3%a9cents&typM=tvshow",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/serie.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/serie.png"
+                },
+                "title": "Animes r\u00e9cents",
+                "plot": "Animes r\u00e9cents",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "animes_recents-1658644828.249359",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Anime 80",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=groupes&nom=anime%2080&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png"
+                },
+                "title": "Anime 80",
+                "plot": "anime 80",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "anime_80-1658645050.141688",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Serie anime adulte",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=groupes&nom=serie%20anime%20adulte&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png"
+                },
+                "title": "Serie anime adulte",
+                "plot": "serie anime adulte",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "serie_anime_adulte-1658645412.2111437",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Animes top ecchi",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=groupes&nom=animes%20top%20ecchi&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png"
+                },
+                "title": "Animes top ecchi",
+                "plot": "animes top ecchi",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "animes_top_ecchi-1664389099.8406024",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Manga",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=groupes&nom=manga&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/manga.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/manga.png"
+                },
+                "title": "Manga",
+                "plot": "manga",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "manga-1664389119.4778893",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Manga vostfr",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=groupes&nom=manga%20vostfr&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png"
+                },
+                "title": "Manga vostfr",
+                "plot": "manga vostfr",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "manga_vostfr-1664389139.76523",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Manga-anime",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=groupes&nom=manga-anime&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png"
+                },
+                "title": "Manga-anime",
+                "plot": "manga-anime",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "manga-anime-1664389156.6714675",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Anime-Jap",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=genres&limit=500&offset=0&typgenre=Anime-Jap",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/genre/Anime-Jap.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/genre/Anime-Jap.png"
+                },
+                "title": "Anime-Jap",
+                "plot": "Anime-Jap",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "anime-jap-1664389181.671803",
+            "version": "3.7.0"
+        }
+    ],
+    "id": "amime_colororangeseriescolor-1658644810.094804",
+    "art": {
+        "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+        "fanart": "special://home/addons\\plugin.program.autowidget\\resources\\media\\fanart\\folder-shortcut.png",
+        "icon": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png",
+        "poster": "special://home/addons\\plugin.program.autowidget\\resources\\media\\poster\\folder-shortcut.png",
+        "thumb": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png"
+    },
+    "version": "3.7.0",
+    "content": "",
+    "sort_order": "12"
+}

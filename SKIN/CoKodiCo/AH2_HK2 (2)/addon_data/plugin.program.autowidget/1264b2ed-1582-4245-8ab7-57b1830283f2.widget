@@ -1,0 +1,15 @@
+{
+    "action": "next",
+    "id": "1264b2ed-1582-4245-8ab7-57b1830283f2",
+    "group": "concerts_live-1675340768.9877484",
+    "refresh": 2.0,
+    "path": "music_concerts_artists__bands_(2_of4)-1675344031.5348115",
+    "version": "3.7.0",
+    "current": 0,
+    "cycle_paths": [
+        "music_concerts_artists__bands_(2_of4)-1675344031.5348115",
+        "live_concerts__music-1675344053.3678124",
+        "live_concerts-1675344075.5502698",
+        "concerts-1675344100.799797"
+    ]
+}

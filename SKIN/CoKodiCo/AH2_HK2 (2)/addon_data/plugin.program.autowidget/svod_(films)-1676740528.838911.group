@@ -1,0 +1,170 @@
+{
+    "label": "SVOD (Films)",
+    "type": "shortcut",
+    "paths": [
+        {
+            "label": "Netflix (Films)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Netflix%20(Films)&list_slug=netflix-films&owner=true&plugin_category=Netflix%20(Films)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Netflix.jpg"
+                },
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "netflix_(films)-1676740536.7554936",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Disney+ (Films)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Disney%2b%20(Films)&list_slug=disney-films&owner=true&plugin_category=Disney%2b%20(Films)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Disney+.jpg"
+                },
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "disney_(films)-1676740549.671566",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Prime Video (Films)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Prime%20Video%20(Films)&list_slug=prime-video-films&owner=true&plugin_category=Prime%20Video%20(Films)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Amazon Prime.jpg"
+                },
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "prime_video_(films)-1676740562.7878556",
+            "version": "3.7.0"
+        },
+        {
+            "label": "HBO Max (Films)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=HBO%20Max%20(Films)&list_slug=hbo-max-films&owner=true&plugin_category=HBO%20Max%20(Films)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/HBO Max.jpg"
+                },
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "hbo_max_(films)-1676740572.7704418",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Apple TV+ (Films)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Apple%20TV%2b%20(Films)&list_slug=apple-tv-films&owner=true&plugin_category=Apple%20TV%2b%20(Films)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Apple TV+.jpg"
+                },
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "apple_tv_(films)-1676740580.7535145",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Paramount+ (Films)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Paramount%2b%20(Films)&list_slug=paramount-films&owner=true&plugin_category=Paramount%2b%20(Films)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Paramount+.jpg"
+                },
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "paramount_(films)-1676740592.1369486",
+            "version": "3.7.0"
+        },
+        {
+            "label": "SALTO (Films)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=SALTO%20(Films)&list_slug=salto-films&owner=true&plugin_category=SALTO%20(Films)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/SALTO.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/salto-films\r\nUpdated at 2023-02-25 21:15:44",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "salto_(films)-1677354999.7705564",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Canal+ (Films)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Canal%2b%20(Films)&list_slug=canal-films&owner=true&plugin_category=Canal%2b%20(Films)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Canal+.jpg"
+                },
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "canal_(films)-1676740611.8184361",
+            "version": "3.7.0"
+        }
+    ],
+    "id": "svod_(films)-1676740528.838911",
+    "art": {
+        "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+        "fanart": "special://home/addons\\plugin.program.autowidget\\resources\\media\\fanart\\folder-shortcut.png",
+        "icon": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png",
+        "poster": "special://home/addons\\plugin.program.autowidget\\resources\\media\\poster\\folder-shortcut.png",
+        "thumb": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png"
+    },
+    "version": "3.7.0",
+    "content": "",
+    "sort_order": "2"
+}

@@ -1,0 +1,132 @@
+[
+    [
+        "::PROFILELIST::",
+        [
+            [
+                "special://home//userdata//",
+                "String.IsEqual(System.ProfileName,Master user)",
+                "Master user"
+            ]
+        ]
+    ],
+    [
+        "::SCRIPTVER::",
+        "2.0.1"
+    ],
+    [
+        "::XBMCVER::",
+        "19"
+    ],
+    [
+        "::HIDEPVR::",
+        "false"
+    ],
+    [
+        "::SHARED::",
+        "true"
+    ],
+    [
+        "::SKINDIR::",
+        "skin.aeon.nox.silvo"
+    ],
+    [
+        "::FULLMENU::",
+        "True"
+    ],
+    [
+        "::SKINVER::",
+        "8.0.1"
+    ],
+    [
+        "C:\\kodi pack\\U2P Light\\Kodi\\portable_data\\addons\\skin.aeon.nox.silvo\\shortcuts\\mainmenu.DATA.xml",
+        "221b02570af0857b0d001fafcfb9d236"
+    ],
+    [
+        "C:\\kodi pack\\U2P Light\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\13009.DATA.xml",
+        "d26031713b85de8197bd00f58b1a1dbc"
+    ],
+    [
+        "C:\\kodi pack\\U2P Light\\Kodi\\portable_data\\addons\\skin.aeon.nox.silvo\\shortcuts\\livetv.DATA.xml",
+        "a75b3ce76253bdd15eebcdd691f0f479"
+    ],
+    [
+        "C:\\kodi pack\\U2P Light\\Kodi\\portable_data\\addons\\script.skinshortcuts\\resources\\shortcuts\\mainmenu.DATA.xml",
+        "8523f5b50afc14f67af449ca99ee21f8"
+    ],
+    [
+        "C:\\kodi pack\\U2P Light\\Kodi\\portable_data\\addons\\script.skinshortcuts\\resources\\shortcuts\\overrides.xml",
+        "5d367b4cf434ffcb86069273d402dc28"
+    ],
+    [
+        "C:\\kodi pack\\U2P Light\\Kodi\\portable_data\\addons\\skin.aeon.nox.silvo\\shortcuts\\template.xml",
+        "8babc923a246afefe8cc40aad4dc1c10"
+    ],
+    [
+        "C:\\kodi pack\\U2P Light\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\skin.aeon.nox.silvo.properties",
+        "d8f4fdd2735b784d0fb64c9912916438"
+    ],
+    [
+        "C:\\kodi pack\\U2P Light\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\tvreplay.DATA.xml",
+        "f8592429b91281d0521d9db9ecc97de6"
+    ],
+    [
+        "C:\\kodi pack\\U2P Light\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\spectacles.DATA.xml",
+        "650aec4d54dfdfb46151bcb168dbc400"
+    ],
+    [
+        "C:\\kodi pack\\U2P Light\\Kodi\\portable_data\\addons\\script.skinshortcuts\\resources\\shortcuts\\livetv.DATA.xml",
+        "3d409a85845a37633a956e43636c0535"
+    ],
+    [
+        "C:\\kodi pack\\U2P Light\\Kodi\\portable_data\\addons\\skin.aeon.nox.silvo\\shortcuts\\overrides.xml",
+        "cc4b2181f8ff18c708094234db9f67ba"
+    ],
+    [
+        "C:\\kodi pack\\U2P Light\\Kodi\\portable_data\\addons\\skin.aeon.nox.silvo\\16x9\\script-skinshortcuts-includes.xml",
+        "a8e78efdd2efb0ef331c068e38da5ea7"
+    ],
+    [
+        "C:\\kodi pack\\U2P Light\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\mainmenu.DATA.xml",
+        "dd59075bfa5cb41c646e763776a58b77"
+    ],
+    [
+        "C:\\kodi pack\\U2P Light\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\series.DATA.xml",
+        "08201d169f76111c5d5959f8c2dbaf14"
+    ],
+    [
+        "C:\\kodi pack\\U2P Light\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\docsfilms.DATA.xml",
+        "3c3b01f2e468dfa4d4c39c568bf47b18"
+    ],
+    [
+        "C:\\kodi pack\\U2P Light\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\31103.DATA.xml",
+        "870e4b60609c5ee4fe1dc328eda1176f"
+    ],
+    [
+        "C:\\kodi pack\\U2P Light\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\accueil.DATA.xml",
+        "bde6eeb9c4534331e24a6be2067c1a7f"
+    ],
+    [
+        "C:\\kodi pack\\U2P Light\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\mangas.DATA.xml",
+        "7cbe4a98c305b7141974d9b3458981ca"
+    ],
+    [
+        "C:\\kodi pack\\U2P Light\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\addons.DATA.xml",
+        "1709e96b981987e94378b99ef4e08e57"
+    ],
+    [
+        "C:\\kodi pack\\U2P Light\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\d-afilms.DATA.xml",
+        "ba2953f3aa7e4487994c0820283bf455"
+    ],
+    [
+        "C:\\kodi pack\\U2P Light\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\docsseries.DATA.xml",
+        "3a5270704505413fe458abbb66fd6547"
+    ],
+    [
+        "C:\\kodi pack\\U2P Light\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\d-aseries.DATA.xml",
+        "5f2962cb96c72d1aaea0ffe69d04d4ec"
+    ],
+    [
+        "C:\\kodi pack\\U2P Light\\Kodi\\portable_data\\userdata\\addon_data\\script.skinshortcuts\\films.DATA.xml",
+        "7af3db6f3e6b0c19c3d1295be7275bf8"
+    ]
+]

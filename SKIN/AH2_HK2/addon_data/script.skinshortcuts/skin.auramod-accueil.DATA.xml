@@ -1,0 +1,98 @@
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>Favoris Films (Fav's HK)</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/_star3.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=MenuFilm&amp;famille=Fav%27S+HK",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Favoris Séries (Fav's HK)</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/_star4.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=MenuSerie&amp;famille=Fav%27S+HK",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>1036</defaultID>
+		<label>Favoris Kodi</label>
+		<label2>Elément de menu commun</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/_star5.png</thumb>
+		<action>ActivateWindow(Favourites)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Films En Cours</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/brightness.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=MenuFilm&amp;famille=Last+View",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Séries En Cours</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/brightness.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=MenuSerie&amp;famille=Last+View",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Mon Trakt</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/_trakt.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=affTraktPerso",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Mise A Jour Skin</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/update.png</thumb>
+		<action>RunScript(special://home/addons/plugin.program.skinrayflix/resources/lib/full_films.py)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.youtube</defaultID>
+		<label>YouTube</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/youtube.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.youtube",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Uptobox</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/playlist.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.vstream/?site=siteuptobox&amp;function=load&amp;title=%5BCOLOR+dodgerblue%5DCompte+UpToBox%5B%2FCOLOR%5D&amp;siteUrl=http%3A%2F%2Fvenom&amp;sFav=load",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>744</defaultID>
+		<label>Fichiers Local</label>
+		<label2>Elément personnalisé</label2>
+		<icon>special://skin/extras/icons/folder.png</icon>
+		<thumb>special://skin/extras/icons/folder.png</thumb>
+		<action>ActivateWindow(Videos,sources://video/,return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Films Local</label>
+		<label2>Vidéos</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/artist.png</thumb>
+		<action>ActivateWindow(Videos,"library://video/movies/",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Séries TV Local</label>
+		<label2>Vidéos</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/artist.png</thumb>
+		<action>ActivateWindow(Videos,"library://video/tvshows/",return)</action>
+		</shortcut>
+	</shortcuts>

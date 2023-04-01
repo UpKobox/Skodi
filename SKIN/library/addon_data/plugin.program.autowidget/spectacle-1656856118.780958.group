@@ -1,0 +1,104 @@
+{
+    "label": "Spectacle (divers)",
+    "type": "shortcut",
+    "paths": [
+        {
+            "label": "Concert",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&famille=groupes&nom=concert&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/deep_purple.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/concert.png",
+                    "thumb": "special://masterprofile/addon_data/icones/concerts.png"
+                },
+                "title": "Concert",
+                "plot": "concert",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "concert-1656856123.8142273",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Karaok\u00e9",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.program.autowidget/?group=karaoke-1661872874.9917662&mode=group&refresh&reload",
+                "filetype": "directory",
+                "art": {
+                    "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/sky_blue.png",
+                    "icon": "special://masterprofile/addon_data/icones/karaok\u00e9 (2).png",
+                    "poster": "special://masterprofile/addon_data/icones/karaok\u00e9 (2).png",
+                    "thumb": "special://masterprofile/addon_data/icones/karaok\u00e9 (2).png"
+                },
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "programs",
+            "target": "shortcut",
+            "id": "karaoke-1663189015.3300736",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Spectacle",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&famille=groupes&nom=spectacle&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/light_green.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/spectacle.png",
+                    "thumb": "special://masterprofile/addon_data/icones/spectacle (4).png"
+                },
+                "title": "Spectacle",
+                "plot": "spectacle",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "spectacle-1656856146.914502",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Theatre",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&famille=groupes&nom=theatre&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/sky_blue.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://masterprofile/addon_data/icones/theatre (2).png"
+                },
+                "title": "Theatre",
+                "plot": "theatre",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "theatre-1656856155.6849523",
+            "version": "3.6.1"
+        }
+    ],
+    "id": "spectacle-1656856118.780958",
+    "art": {
+        "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+        "fanart": "special://home/addons\\plugin.program.autowidget\\resources\\media\\fanart\\folder-shortcut.png",
+        "icon": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png",
+        "poster": "special://home/addons\\plugin.program.autowidget\\resources\\media\\poster\\folder-shortcut.png",
+        "thumb": "special://home/addons/skin.arctic.horizon.2/extras/icons/wand.png"
+    },
+    "version": "3.7.0",
+    "content": "",
+    "sort_order": "25"
+}

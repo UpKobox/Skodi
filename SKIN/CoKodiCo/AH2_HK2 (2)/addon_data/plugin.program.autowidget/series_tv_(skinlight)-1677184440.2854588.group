@@ -1,0 +1,255 @@
+{
+    "label": "S\u00e9ries TV (Nouveaut\u00e9s)",
+    "type": "shortcut",
+    "paths": [
+        {
+            "label": "Les nouveaut\u00e9s (S\u00e9ries TV)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Les%20nouveaut%c3%a9s%20(S%c3%a9ries%20TV)&list_slug=les-nouveautes-series-tv&owner=true&plugin_category=Les%20nouveaut%c3%a9s%20(S%c3%a9ries%20TV)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Nouveaut\u00e9s.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/les-nouveautes-series-tv\r\nUpdated at 2023-02-23 17:28:09",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "les_nouveautes_(series_tv)-1677184443.75185",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Les plus populaires (S\u00e9ries TV)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Les%20plus%20populaires%20(S%c3%a9ries%20TV)&list_slug=les-plus-populaires-series-tv&owner=true&plugin_category=Les%20plus%20populaires%20(S%c3%a9ries%20TV)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Populaires.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/les-plus-populaires-series-tv\r\nUpdated at 2023-02-23 18:09:45",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "les_plus_populaires_(series_tv)-1677184492.8828735",
+            "version": "3.7.0"
+        },
+        {
+            "label": "S\u00e9ries TV Recommand\u00e9 pour vous",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_recommendations&tmdb_type=tv&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/trakt/recommended.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Recommand\u00e9s.jpg"
+                },
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "series_tv_recommande_pour_vous-1677185016.1081583",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Action & Aventure (S\u00e9ries TV r\u00e9centes)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Action%20%26%20Aventure%20(S%c3%a9ries%20TV%20r%c3%a9centes)&list_slug=action-aventure-series-tv-recentes&owner=true&plugin_category=Action%20%26%20Aventure%20(S%c3%a9ries%20TV%20r%c3%a9centes)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/New-Action.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/action-aventure-series-tv\r\nUpdated at 2023-03-05 13:43:21",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "action__aventure_(series_tv_recentes)-1678017327.815531",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Com\u00e9die (S\u00e9ries TV r\u00e9centes)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Com%c3%a9die%20(S%c3%a9ries%20TV%20r%c3%a9centes)&list_slug=comedie-series-tv-recentes&owner=true&plugin_category=Com%c3%a9die%20(S%c3%a9ries%20TV%20r%c3%a9centes)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/New-Com\u00e9die.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/comedie-series-tv-recentes\r\nUpdated at 2023-03-05 13:51:23",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "comedie_(series_tv_recentes)-1678017343.731366",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Crime & Thriller (S\u00e9ries TV r\u00e9centes)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Crime%20%26%20Thriller%20(S%c3%a9ries%20TV%20r%c3%a9centes)&list_slug=crime-thriller-series-tv-recentes&owner=true&plugin_category=Crime%20%26%20Thriller%20(S%c3%a9ries%20TV%20r%c3%a9centes)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/New-Crime.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/crime-thriller\r\nUpdated at 2023-03-05 13:43:23",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "crime__thriller_(series_tv_recentes)-1678017360.5145636",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Drame & Romance (S\u00e9ries TV r\u00e9centes)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Drame%20%26%20Romance%20(S%c3%a9ries%20TV%20r%c3%a9centes)&list_slug=drame-romance-series-tv-recentes&owner=true&plugin_category=Drame%20%26%20Romance%20(S%c3%a9ries%20TV%20r%c3%a9centes)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/New-Drame.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/drame-romance-series-tv\r\nUpdated at 2023-03-05 13:40:16",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "drame__romance_(series_tv_recentes)-1678017370.4305782",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Familial (S\u00e9ries TV r\u00e9centes)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Familial%20(S%c3%a9ries%20TV%20r%c3%a9centes)&list_slug=familial-series-tv-recentes&owner=true&plugin_category=Familial%20(S%c3%a9ries%20TV%20r%c3%a9centes)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/New-Familial.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/familial-series-tv\r\nUpdated at 2023-03-05 13:40:17",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "familial_(series_tv_recentes)-1678017387.062798",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Fantastique & Science-Fiction (S\u00e9ries TV r\u00e9centes)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Fantastique%20%26%20Science-Fiction%20(S%c3%a9ries%20TV%20r%c3%a9centes)&list_slug=fantastique-science-fiction-series-tv-recentes&owner=true&plugin_category=Fantastique%20%26%20Science-Fiction%20(S%c3%a9ries%20TV%20r%c3%a9centes)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/New-Fantastique.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/fantastique-science-fiction-series-tv\r\nUpdated at 2023-03-05 13:40:15",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "fantastique__science-fiction_(series_tv_recentes)-1678017394.5459502",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Guerre & Histoire (S\u00e9ries TV r\u00e9centes)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Guerre%20%26%20Histoire%20(S%c3%a9ries%20TV%20r%c3%a9centes)&list_slug=guerre-histoire-series-tv-recentes&owner=true&plugin_category=Guerre%20%26%20Histoire%20(S%c3%a9ries%20TV%20r%c3%a9centes)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/New-Guerre.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/guerre-histoire-series-tv\r\nUpdated at 2023-03-05 13:40:16",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "guerre__histoire_(series_tv_recentes)-1678017407.4787366",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Horreur (S\u00e9ries TV r\u00e9centes)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Horreur%20(S%c3%a9ries%20TV%20r%c3%a9centes)&list_slug=horreur-series-tv-recentes&owner=true&plugin_category=Horreur%20(S%c3%a9ries%20TV%20r%c3%a9centes)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/New-Horreur.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/horreur-series-tv\r\nUpdated at 2023-03-05 13:40:14",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "horreur_(series_tv_recentes)-1678017418.3109884",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Super-h\u00e9ros (S\u00e9ries TV r\u00e9centes)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Super-h%c3%a9ros%20(S%c3%a9ries%20TV%20r%c3%a9centes)&list_slug=super-heros-series-tv-recentes&owner=true&plugin_category=Super-h%c3%a9ros%20(S%c3%a9ries%20TV%20r%c3%a9centes)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/New-Super-h\u00e9ros.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/super-heros-series-tv-recentes\r\nUpdated at 2023-03-05 13:48:40",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "super-heros_(series_tv_recentes)-1678017433.8273106",
+            "version": "3.7.0"
+        }
+    ],
+    "id": "series_tv_(skinlight)-1677184440.2854588",
+    "art": {
+        "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+        "fanart": "special://home/addons\\plugin.program.autowidget\\resources\\media\\fanart\\folder-shortcut.png",
+        "icon": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png",
+        "poster": "special://home/addons\\plugin.program.autowidget\\resources\\media\\poster\\folder-shortcut.png",
+        "thumb": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png"
+    },
+    "version": "3.7.0",
+    "content": "",
+    "sort_order": "14"
+}

@@ -1,0 +1,38 @@
+{
+    "label": "divers",
+    "type": "shortcut",
+    "paths": [
+        {
+            "label": "Karaok\u00e9",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.program.autowidget/?group=karaoke-1661872874.9917662&mode=group&refresh&reload",
+                "filetype": "directory",
+                "art": {
+                    "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+                    "fanart": "special://home/addons\\plugin.program.autowidget\\resources\\media\\fanart\\folder-shortcut.png",
+                    "icon": "special://masterprofile/addon_data/icones/karaok\u00e9 (2).png",
+                    "poster": "special://home/addons\\plugin.program.autowidget\\resources\\media\\poster\\folder-shortcut.png",
+                    "thumb": "special://masterprofile/addon_data/icones/karaok\u00e9 (2).png"
+                },
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "programs",
+            "target": "shortcut",
+            "id": "karaoke-1673302983.5228786",
+            "version": "3.7.0"
+        }
+    ],
+    "id": "divers-1673302978.668235",
+    "art": {
+        "banner": "special://home/addons/plugin.program.autowidget/resources/media/banner/folder-shortcut.png",
+        "fanart": "special://home/addons/plugin.program.autowidget/resources/media/fanart/folder-shortcut.png",
+        "icon": "special://home/addons/plugin.program.autowidget/resources/media/icon/folder-shortcut.png",
+        "poster": "special://home/addons/plugin.program.autowidget/resources/media/poster/folder-shortcut.png",
+        "thumb": "special://home/addons/plugin.program.autowidget/resources/media/icon/folder-shortcut.png"
+    },
+    "version": "3.7.0",
+    "content": "",
+    "sort_order": "46"
+}

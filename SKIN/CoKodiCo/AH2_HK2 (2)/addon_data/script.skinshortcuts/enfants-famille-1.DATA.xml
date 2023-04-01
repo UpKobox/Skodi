@@ -1,0 +1,18 @@
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>Films d'animation récents</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://special%3a%2f%2fhome%2faddons%2fplugin.video.sendtokodiU2P%2fresources%2fpng%2fgroupe.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=MenuFilm&amp;trakt=Films+d%27animation+r%C3%A9cents",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Séries d'animation récentes</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=MenuSerie&amp;trakt=S%C3%A9ries+d%27animation+r%C3%A9centes",return)</action>
+		</shortcut>
+	</shortcuts>

@@ -1,0 +1,101 @@
+{
+    "label": "Catch-up TV",
+    "type": "shortcut",
+    "paths": [
+        {
+            "label": "TV en direct",
+            "content": "files",
+            "file": {
+                "file": "plugin://plugin.video.catchuptvandmore/resources/lib/main/generic_menu/?_pickle_=8004953e000000000000007d94288c075f7469746c655f948c0c545620656e20646972656374948c08786d6c74765f6964944e8c076974656d5f6964948c076c6976655f747694752e",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.catchuptvandmore\\fanart.jpg",
+                    "icon": "resource://resource.images.catchuptvandmore/live_tv.png",
+                    "thumb": "resource://resource.images.catchuptvandmore/live_tv.png"
+                },
+                "title": "TV en direct",
+                "plot": "TV en direct",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "tv_en_direct-1669119041.054563",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Replay TV",
+            "content": "files",
+            "file": {
+                "file": "plugin://plugin.video.catchuptvandmore/resources/lib/main/generic_menu/?_pickle_=8004953a000000000000007d94288c075f7469746c655f948c095265706c6179205456948c08786d6c74765f6964944e8c076974656d5f6964948c067265706c617994752e",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.catchuptvandmore\\fanart.jpg",
+                    "icon": "resource://resource.images.catchuptvandmore/replay.png",
+                    "thumb": "resource://resource.images.catchuptvandmore/replay.png"
+                },
+                "title": "Replay TV",
+                "plot": "Replay TV",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "replay_tv-1669119052.6385186",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Sites internet",
+            "content": "files",
+            "file": {
+                "file": "plugin://plugin.video.catchuptvandmore/resources/lib/main/generic_menu/?_pickle_=80049541000000000000007d94288c075f7469746c655f948c0e536974657320696e7465726e6574948c08786d6c74765f6964944e8c076974656d5f6964948c08776562736974657394752e",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.catchuptvandmore\\fanart.jpg",
+                    "icon": "resource://resource.images.catchuptvandmore/websites.png",
+                    "thumb": "resource://resource.images.catchuptvandmore/websites.png"
+                },
+                "title": "Sites internet",
+                "plot": "Sites internet",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "sites_internet-1669119060.1044827",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Favoris",
+            "content": "files",
+            "file": {
+                "file": "plugin://plugin.video.catchuptvandmore/resources/lib/main/favourites/?_pickle_=8004953c000000000000007d94288c075f7469746c655f948c074661766f726973948c08786d6c74765f6964944e8c076974656d5f6964948c0a6661766f75726974657394752e",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.catchuptvandmore\\fanart.jpg",
+                    "icon": "resource://resource.images.catchuptvandmore/favourites.png",
+                    "thumb": "resource://resource.images.catchuptvandmore/favourites.png"
+                },
+                "title": "Favoris",
+                "plot": "Favoris",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "favoris-1669119074.338583",
+            "version": "3.7.0"
+        }
+    ],
+    "id": "catch-up_tv-1669119037.3378081",
+    "art": {
+        "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+        "fanart": "special://home/addons\\plugin.program.autowidget\\resources\\media\\fanart\\folder-shortcut.png",
+        "icon": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png",
+        "poster": "special://home/addons\\plugin.program.autowidget\\resources\\media\\poster\\folder-shortcut.png",
+        "thumb": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png"
+    },
+    "version": "3.7.0",
+    "content": "",
+    "sort_order": "45"
+}

@@ -1,0 +1,58 @@
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>Recherche</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/search.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=filtres&amp;typM=tvshow",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Documentaire</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/_ revolution sun studios.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=MenuSerie&amp;famille=genres&amp;typgenre=Documentaire&amp;offset=0&amp;limit=50",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Discovery</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/_Discovery_14.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=MenuSerie&amp;network=1&amp;namenetwork=Discovery",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>National Geographic</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/_ national geographic.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=MenuSerie&amp;network=1&amp;namenetwork=National+Geographic",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>RMC Découverte</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/_rmc.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=MenuSerie&amp;network=1&amp;namenetwork=RMC+D%C3%A9couverte",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Sélection de ray</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/boxing.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=MenuSerie&amp;groupe=Selection+de+ray",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>showTV (vo)</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/userrating.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=MenuDivers&amp;repo=showTV",return)</action>
+		</shortcut>
+	</shortcuts>

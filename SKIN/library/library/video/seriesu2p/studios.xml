@@ -1,0 +1,5 @@
+<node order="70" type="folder">
+	<label>Studios</label>
+	<icon>DefaultStudios.png</icon>
+	<path>plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&amp;network=1</path>
+</node>

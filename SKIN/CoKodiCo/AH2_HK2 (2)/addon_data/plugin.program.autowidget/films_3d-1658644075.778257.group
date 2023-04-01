@@ -1,0 +1,61 @@
+{
+    "label": "Films 3D",
+    "type": "shortcut",
+    "paths": [
+        {
+            "label": "Anime 3d",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&famille=groupes&nom=anime%203d&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png"
+                },
+                "title": "Anime 3d",
+                "plot": "anime 3d",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "anime_3d-1658644079.509949",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Films 3d",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&famille=groupes&nom=films%203d&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png"
+                },
+                "title": "Films 3d",
+                "plot": "films 3d",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "films_3d-1658644104.2269318",
+            "version": "3.6.1"
+        }
+    ],
+    "id": "films_3d-1658644075.778257",
+    "art": {
+        "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+        "fanart": "special://home/addons\\plugin.program.autowidget\\resources\\media\\fanart\\folder-shortcut.png",
+        "icon": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png",
+        "poster": "special://home/addons\\plugin.program.autowidget\\resources\\media\\poster\\folder-shortcut.png",
+        "thumb": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png"
+    },
+    "version": "3.6.1",
+    "content": "",
+    "sort_order": "10"
+}

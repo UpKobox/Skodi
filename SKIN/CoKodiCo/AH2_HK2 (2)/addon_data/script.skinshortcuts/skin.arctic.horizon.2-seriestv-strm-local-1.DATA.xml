@@ -1,0 +1,58 @@
+<shortcuts>
+	<shortcut>
+		<defaultID>1034</defaultID>
+		<label>1034</label>
+		<label2 />
+		<icon>special://skin/extras/icons/shortcut.png</icon>
+		<thumb />
+		<action>Submenu</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>31090</defaultID>
+		<label>$SKIN[31090|skin.arctic.horizon.2|En cours]</label>
+		<label2>Elément personnalisé</label2>
+		<icon>special://skin/extras/icons/timer.png</icon>
+		<thumb />
+		<action>special://home/addons/skin.arctic.horizon.2/extras/playlists/InProgressEpisodes.xsp</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>20382</defaultID>
+		<label>EpisodesAjouté récemment</label>
+		<label2>Elément personnalisé</label2>
+		<icon>special://skin/extras/icons/recentlyadded.png</icon>
+		<thumb />
+		<action>special://home/addons/skin.arctic.horizon.2/extras/playlists/NewEpisodes.xsp</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>20382</defaultID>
+		<label>20382</label>
+		<label2>Elément personnalisé</label2>
+		<icon>special://skin/extras/icons/recentlyadded.png</icon>
+		<thumb />
+		<action>special://home/addons/skin.arctic.horizon.2/extras/playlists/NewShows.xsp</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>31089</defaultID>
+		<label>$SKIN[31089|skin.arctic.horizon.2|Vu récemment]</label>
+		<label2>Elément personnalisé</label2>
+		<icon>special://skin/extras/icons/recent.png</icon>
+		<thumb />
+		<action>special://home/addons/skin.arctic.horizon.2/extras/playlists/RecentTvShows.xsp</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>31091</defaultID>
+		<label>$SKIN[31091|skin.arctic.horizon.2|Les mieux notés]</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultMusicTop100Albums.png</icon>
+		<thumb />
+		<action>special://home/addons/skin.arctic.horizon.2/extras/playlists/TopRatedTvShows.xsp</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>31371</defaultID>
+		<label>$SKIN[31371|skin.arctic.horizon.2|Stacked - Displays folder of item focused in widget above]</label>
+		<label2 />
+		<icon>special://skin/extras/icons/shortcut.png</icon>
+		<thumb />
+		<action>Stacked</action>
+	</shortcut>
+</shortcuts>

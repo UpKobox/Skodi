@@ -1,0 +1,43 @@
+<shortcuts>
+	<shortcut>
+		<defaultID>5</defaultID>
+		<label>5</label>
+		<label2>Kodi Command</label2>
+		<icon>common/settings1.png</icon>
+		<thumb />
+		<action>ActivateWindow(Settings)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>137</defaultID>
+		<label>Mise a jour</label>
+		<label2>Elément personnalisé</label2>
+		<icon>shortcuts/search.png</icon>
+		<thumb />
+		<action>PlayMedia("plugin://plugin.video.sendtokodiU2P/?action=majhkneww")</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>31714</defaultID>
+		<label>$SKIN[31714|skin.titan.bingie.mod|Reload]</label>
+		<label2>Kodi Command</label2>
+		<icon>common/reload-skin.png</icon>
+		<thumb />
+		<action>ReloadSkin()</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>13012</defaultID>
+		<label>320029</label>
+		<label2>Kodi Command</label2>
+		<icon>common/exit1.png</icon>
+		<thumb />
+		<action>Quit()</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>20126</defaultID>
+		<label>20126</label>
+		<label2>Kodi Command</label2>
+		<icon>common/lock.png</icon>
+		<thumb />
+		<action>System.LogOff</action>
+		<visible>System.HasLoginScreen</visible>
+	</shortcut>
+</shortcuts>

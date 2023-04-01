@@ -1,0 +1,105 @@
+{
+    "label": "Recherche HK2",
+    "type": "shortcut",
+    "paths": [
+        {
+            "label": "Recherche Globale",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=affGlobalHK2",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/search.png",
+                    "thumb": "special://masterprofile/addon_data/icones/recherche.png"
+                },
+                "title": "Recherche Globale",
+                "plot": "ben recherche .....",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "recherche_globale-1673447750.844788",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Recherche Acteurs",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=affSearchCast",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/search.png",
+                    "thumb": "special://masterprofile/addon_data/icones/mesacteurs.png"
+                },
+                "title": "Recherche Acteurs",
+                "plot": "ben recherche .....",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "recherche_acteurs-1673447735.4449437",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Recherche Films",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&famille=Search&limit=500&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/search.png",
+                    "thumb": "special://masterprofile/addon_data/icones/cine2.png"
+                },
+                "title": "Recherche Films",
+                "plot": "ben recherche .....",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "recherche_films-1673447743.4114857",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Recherche Series",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=Search&limit=500&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/search.png",
+                    "thumb": "special://masterprofile/addon_data/icones/tvseries3pird.png"
+                },
+                "title": "Recherche Series",
+                "plot": "ben recherche .....",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "recherche_series-1673447757.8611002",
+            "version": "3.7.0"
+        }
+    ],
+    "id": "recherche_hk2-1673447710.660492",
+    "art": {
+        "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+        "fanart": "special://home/addons\\plugin.program.autowidget\\resources\\media\\fanart\\folder-shortcut.png",
+        "icon": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png",
+        "poster": "special://home/addons\\plugin.program.autowidget\\resources\\media\\poster\\folder-shortcut.png",
+        "thumb": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png"
+    },
+    "version": "3.7.0",
+    "content": "",
+    "sort_order": "49"
+}

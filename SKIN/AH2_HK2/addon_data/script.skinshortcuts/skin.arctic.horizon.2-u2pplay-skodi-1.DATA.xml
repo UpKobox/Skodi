@@ -1,0 +1,60 @@
+<shortcuts>
+	<shortcut>
+		<defaultID>35232</defaultID>
+		<label>35232</label>
+		<label2 />
+		<icon>special://skin/extras/icons/shortcut.png</icon>
+		<thumb />
+		<action>Fullscreen</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>1037</defaultID>
+		<label>1037</label>
+		<label2 />
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,addons://sources/video/,return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>31371</defaultID>
+		<label>$SKIN[31371|skin.arctic.horizon.2|Stacked - Displays folder of item focused in widget above]</label>
+		<label2 />
+		<icon>special://skin/extras/icons/shortcut.png</icon>
+		<thumb />
+		<action>Stacked</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.program.Skodi</defaultID>
+		<label>[COLOR limegreen]Skodi[/COLOR]</label>
+		<label2>Programme</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>thumb</thumb>
+		<action>ActivateWindow(Programs,"plugin://plugin.program.Skodi",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR aqua]Choisissez un skin préconfiguré[/COLOR][COLOR yellow](Menu par Skin)[/COLOR]</label>
+		<label2>Programme</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>thumb</thumb>
+		<action>ActivateWindow(Programs,"plugin://plugin.program.Skodi/?action=MSkin",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>U2P Médiathèque</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://special%3a%2f%2fhome%2faddons%2fplugin.video.sendtokodiU2P%2fresources%2fpng%2fpastebin.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=menuRepCrypte",return)</action>
+		<disabled>True</disabled>
+	</shortcut>
+	<shortcut>
+		<defaultID>1034</defaultID>
+		<label>1034</label>
+		<label2 />
+		<icon>special://skin/extras/icons/shortcut.png</icon>
+		<thumb />
+		<action>Submenu</action>
+		<disabled>True</disabled>
+	</shortcut>
+</shortcuts>

@@ -1,0 +1,416 @@
+{
+    "label": "Genres (S\u00e9ries TV)",
+    "type": "shortcut",
+    "paths": [
+        {
+            "label": "Action (S\u00e9ries TV)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Action%20(S%c3%a9ries%20TV)&list_slug=action-series-tv&owner=true&plugin_category=Action%20(S%c3%a9ries%20TV)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Action.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/action-series-tv\r\nUpdated at 2023-02-20 10:09:12",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "action_(series_tv)-1676913967.6628563",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Animation (S\u00e9ries TV)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Animation%20(S%c3%a9ries%20TV)&list_slug=animation-series-tv&owner=true&plugin_category=Animation%20(S%c3%a9ries%20TV)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Animation2.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/animation-series-tv\r\nUpdated at 2023-02-20 11:30:40",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "animation_(series_tv)-1676913976.3963277",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Aventure (S\u00e9ries TV)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Aventure%20(S%c3%a9ries%20TV)&list_slug=aventure-series-tv&owner=true&plugin_category=Aventure%20(S%c3%a9ries%20TV)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Aventure.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/aventure-series-tv\r\nUpdated at 2023-02-20 10:51:29",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "aventure_(series_tv)-1676913984.3627431",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Com\u00e9die (S\u00e9ries TV)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Com%c3%a9die%20(S%c3%a9ries%20TV)&list_slug=comedie-series-tv&owner=true&plugin_category=Com%c3%a9die%20(S%c3%a9ries%20TV)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Com\u00e9die.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/comedie-series-tv\r\nUpdated at 2023-02-20 11:12:19",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "comedie_(series_tv)-1676913991.3288627",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Crime (S\u00e9ries TV)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Crime%20(S%c3%a9ries%20TV)&list_slug=crime-series-tv&owner=true&plugin_category=Crime%20(S%c3%a9ries%20TV)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Crime.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/crime-series-tv\r\nUpdated at 2023-02-20 19:21:16",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "crime_(series_tv)-1676913998.777795",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Documentaire (S\u00e9ries TV)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Documentaire%20(S%c3%a9ries%20TV)&list_slug=documentaire-series-tv&owner=true&plugin_category=Documentaire%20(S%c3%a9ries%20TV)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Documentaire.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/documentaire-series-tv\r\nUpdated at 2023-02-20 11:45:38",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "documentaire_(series_tv)-1676914007.8603103",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Drame (S\u00e9ries TV)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Drame%20(S%c3%a9ries%20TV)&list_slug=drame-series-tv&owner=true&plugin_category=Drame%20(S%c3%a9ries%20TV)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Drame.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/drame-series-tv\r\nUpdated at 2023-02-20 11:33:42",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "drame_(series_tv)-1676914014.3770223",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Familial (S\u00e9ries TV)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Familial%20(S%c3%a9ries%20TV)&list_slug=familial-series-tv-24736466&owner=true&plugin_category=Familial%20(S%c3%a9ries%20TV)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Familial.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/familial-2-series-tv\r\nUpdated at 2023-02-20 18:18:09",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "familial_(series_tv)-1676914021.2430096",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Fantastique (S\u00e9ries TV)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Fantastique%20(S%c3%a9ries%20TV)&list_slug=fantastique-series-tv&owner=true&plugin_category=Fantastique%20(S%c3%a9ries%20TV)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Fantastique.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/fantastique-series-tv\r\nUpdated at 2023-02-20 11:43:01",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "fantastique_(series_tv)-1676914029.5936747",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Fran\u00e7ais (S\u00e9ries TV)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=S%c3%a9ries%20TV%20Fran%c3%a7aises%20(S%c3%a9ries%20TV)&list_slug=series-tv-francaises-series-tv&owner=true&plugin_category=S%c3%a9ries%20TV%20Fran%c3%a7aises%20(S%c3%a9ries%20TV)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Fran\u00e7ais.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/series-tv-francaises-series-tv\r\nUpdated at 2023-03-04 00:33:40",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "series_tv_francaises_(series_tv)-1677883019.3337483",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Guerre (S\u00e9ries TV)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Guerre%20(S%c3%a9ries%20TV)&list_slug=guerre-series-tv&owner=true&plugin_category=Guerre%20(S%c3%a9ries%20TV)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Guerre.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/guerre-series-tv\r\nUpdated at 2023-02-20 19:03:07",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "guerre_(series_tv)-1676914042.8258414",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Histoire (S\u00e9ries TV)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Histoire%20(S%c3%a9ries%20TV)&list_slug=histoire-series-tv&owner=true&plugin_category=Histoire%20(S%c3%a9ries%20TV)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Histoire.jpg"
+                },
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "histoire_(series_tv)-1676914050.325066",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Horreur  (S\u00e9ries TV)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Horreur%20%20(S%c3%a9ries%20TV)&list_slug=horreur-series-tv-3d86ce3c-d2f2-4092-92b1-10f6837d684e&owner=true&plugin_category=Horreur%20%20(S%c3%a9ries%20TV)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Horreur.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/horreur-series-tv-i2tfy1sttq\r\nUpdated at 2023-02-20 19:06:12",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "horreur__(series_tv)-1676914058.2084098",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Musique (S\u00e9ries TV)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Musique%20(S%c3%a9ries%20TV)&list_slug=musique-series-tv&owner=true&plugin_category=Musique%20(S%c3%a9ries%20TV)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Musique.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/musique-series-tv\r\nUpdated at 2023-02-20 19:12:09",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "musique_(series_tv)-1676914074.4738333",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Myst\u00e8re (S\u00e9ries TV)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Myst%c3%a8re%20(S%c3%a9ries%20TV)&list_slug=mystere-series-tv&owner=true&plugin_category=Myst%c3%a8re%20(S%c3%a9ries%20TV)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Myst\u00e8re.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/mystere-series-tv\r\nUpdated at 2023-02-20 19:15:21",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "mystere_(series_tv)-1676914082.5736656",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Romance (S\u00e9ries TV)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Romance%20(S%c3%a9ries%20TV)&list_slug=romance-series-tv&owner=true&plugin_category=Romance%20(S%c3%a9ries%20TV)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Romance.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/romance-series-tv\r\nUpdated at 2023-02-20 19:15:14",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "romance_(series_tv)-1676914089.6731646",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Science-Fiction (S\u00e9ries TV)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Science-Fiction%20(S%c3%a9ries%20TV)&list_slug=science-fiction-series-tv&owner=true&plugin_category=Science-Fiction%20(S%c3%a9ries%20TV)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Science-Fiction.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/science-fiction-series-tv\r\nUpdated at 2023-02-20 19:18:15",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "science-fiction_(series_tv)-1676914096.3398137",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Super-h\u00e9ros (S\u00e9ries TV)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Super-h%c3%a9ros%20(S%c3%a9ries%20TV)&list_slug=super-heros-series-tv&owner=true&plugin_category=Super-h%c3%a9ros%20(S%c3%a9ries%20TV)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Super-h\u00e9ros.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/super-heros-series-tv\r\nUpdated at 2023-03-03 04:57:19",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "super-heros_(series_tv)-1677883007.2174585",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Thriller (S\u00e9ries TV)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Thriller%20(S%c3%a9ries%20TV)&list_slug=thriller-series-tv&owner=true&plugin_category=Thriller%20(S%c3%a9ries%20TV)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Thriller.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/thriller-series-tv\r\nUpdated at 2023-02-20 19:18:16",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "thriller_(series_tv)-1676914104.0390286",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Western (S\u00e9ries TV)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Western%20(S%c3%a9ries%20TV)&list_slug=western-series-tv&owner=true&plugin_category=Western%20(S%c3%a9ries%20TV)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Western.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/western-series-tv\r\nUpdated at 2023-02-20 19:21:08",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "western_(series_tv)-1676914110.6223965",
+            "version": "3.7.0"
+        }
+    ],
+    "id": "genres_(series_tv)-1676913963.7799406",
+    "art": {
+        "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+        "fanart": "special://home/addons\\plugin.program.autowidget\\resources\\media\\fanart\\folder-shortcut.png",
+        "icon": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png",
+        "poster": "special://home/addons\\plugin.program.autowidget\\resources\\media\\poster\\folder-shortcut.png",
+        "thumb": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png"
+    },
+    "version": "3.7.0",
+    "content": "",
+    "sort_order": "12"
+}

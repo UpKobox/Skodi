@@ -1,0 +1,259 @@
+{
+    "label": "Anime [COLORorange]Films[/COLOR]",
+    "type": "shortcut",
+    "paths": [
+        {
+            "label": "Animes populaires",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&famille=specialWid&nomListe=Animes%20populaires&typM=movie",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/film.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/film.png"
+                },
+                "title": "Animes populaires",
+                "plot": "Animes populaires",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "animes_populaires-1658643563.8208666",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Animes r\u00e9cents",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&famille=specialWid&nomListe=Animes%20r%c3%a9cents&typM=movie",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/film.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/film.png"
+                },
+                "title": "Animes r\u00e9cents",
+                "plot": "Animes r\u00e9cents",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "animes_recents-1658643577.5789683",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Manga films",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&famille=groupes&nom=manga%20films&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png"
+                },
+                "title": "Manga films",
+                "plot": "manga films",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "manga_films-1658644268.73889",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Manga oav-cobra",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&famille=groupes&nom=manga%20oav-cobra&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png"
+                },
+                "title": "Manga oav-cobra",
+                "plot": "manga oav-cobra",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "manga_oav-cobra-1664388367.690085",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Manga oav-dragon ball z",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&famille=groupes&nom=manga%20oav-dragon%20ball%20z&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png"
+                },
+                "title": "Manga oav-dragon ball z",
+                "plot": "manga oav-dragon ball z",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "manga_oav-dragon_ball_z-1664388379.6842618",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Manga oav-ken",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&famille=groupes&nom=manga%20oav-ken&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png"
+                },
+                "title": "Manga oav-ken",
+                "plot": "manga oav-ken",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "manga_oav-ken-1664388410.0456762",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Manga oav-resident evil",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&famille=groupes&nom=manga%20oav-resident%20evil&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png"
+                },
+                "title": "Manga oav-resident evil",
+                "plot": "manga oav-resident evil",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "manga_oav-resident_evil-1664388426.4352992",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Manga vostfr",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&famille=groupes&nom=manga%20vostfr&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png"
+                },
+                "title": "Manga vostfr",
+                "plot": "manga vostfr",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "manga_vostfr-1664388445.4898486",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Nouveaute anime",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&famille=groupes&nom=nouveaute%20anime&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png"
+                },
+                "title": "Nouveaute anime",
+                "plot": "nouveaute anime",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "nouveaute_anime-1664388458.6312323",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Animes populaires",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&famille=specialWid&nomListe=Animes%20populaires&typM=movie",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/film.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/film.png"
+                },
+                "title": "Animes populaires",
+                "plot": "Animes populaires",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "animes_populaires-1664388533.8002841",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Animes r\u00e9cents",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&famille=specialWid&nomListe=Animes%20r%c3%a9cents&typM=movie",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/film.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/film.png"
+                },
+                "title": "Animes r\u00e9cents",
+                "plot": "Animes r\u00e9cents",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "animes_recents-1664388566.4128902",
+            "version": "3.7.0"
+        }
+    ],
+    "id": "anime_colororangefilmscolor-1658643559.2739787",
+    "art": {
+        "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+        "fanart": "special://home/addons\\plugin.program.autowidget\\resources\\media\\fanart\\folder-shortcut.png",
+        "icon": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png",
+        "poster": "special://home/addons\\plugin.program.autowidget\\resources\\media\\poster\\folder-shortcut.png",
+        "thumb": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png"
+    },
+    "version": "3.7.0",
+    "content": "",
+    "sort_order": "8"
+}

@@ -1,0 +1,149 @@
+{
+    "label": "Emissions TV",
+    "type": "shortcut",
+    "paths": [
+        {
+            "label": "Emission tv",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=groupes&nom=emission%20tv&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png"
+                },
+                "title": "Emission tv",
+                "plot": "emission tv",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "emission_tv-1658645190.668768",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Travel Channel",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=209&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/8SwN81R7P5vD5mhtOE0taw5mji4.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/8SwN81R7P5vD5mhtOE0taw5mji4.png"
+                },
+                "title": "Travel Channel",
+                "plot": "Travel Channel",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "travel_channel-1658646379.095844",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Canal D",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=841&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/s3hn7KdtX26EYXFa0MRtLtoG8P6.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/s3hn7KdtX26EYXFa0MRtLtoG8P6.png"
+                },
+                "title": "Canal D",
+                "plot": "Canal D",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "canal_d-1658646624.60584",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Reality",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=genres&limit=500&offset=0&typgenre=Reality",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/genre/Reality.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/genre/Reality.png"
+                },
+                "title": "Reality",
+                "plot": "Reality",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "reality-1664389245.2146037",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Talk",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=genres&limit=500&offset=0&typgenre=Talk",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/genre/Talk.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/genre/Talk.png"
+                },
+                "title": "Talk",
+                "plot": "Talk",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "talk-1664389275.61221",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Emission tv",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=groupes&nom=emission%20tv&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png"
+                },
+                "title": "Emission tv",
+                "plot": "emission tv",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "emission_tv-1664389425.0169835",
+            "version": "3.7.0"
+        }
+    ],
+    "id": "eimssions_tv-1658645186.639181",
+    "art": {
+        "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+        "fanart": "special://home/addons\\plugin.program.autowidget\\resources\\media\\fanart\\folder-shortcut.png",
+        "icon": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png",
+        "poster": "special://home/addons\\plugin.program.autowidget\\resources\\media\\poster\\folder-shortcut.png",
+        "thumb": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png"
+    },
+    "version": "3.7.0",
+    "content": "",
+    "sort_order": "15"
+}

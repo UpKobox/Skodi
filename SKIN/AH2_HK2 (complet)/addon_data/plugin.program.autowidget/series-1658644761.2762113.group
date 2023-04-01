@@ -1,0 +1,369 @@
+{
+    "label": "Series",
+    "type": "shortcut",
+    "paths": [
+        {
+            "label": "Series",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=serieserie",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/Serie.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/Serie.png"
+                },
+                "title": "Series",
+                "plot": "Liste series hors animation et documentaire",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "series-1658644764.540273",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Derniers Ajouts",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=seriesall",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/Serie.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/Serie.png"
+                },
+                "title": "Derniers Ajouts",
+                "plot": "Liste series tous genres",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "derniers_ajouts-1658644778.3642583",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Les plus populaires",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=specialWid&nomListe=Les%20plus%20populaires&typM=tvshow",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/serie.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/serie.png"
+                },
+                "title": "Les plus populaires",
+                "plot": "Les plus populaires",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "les_plus_populaires-1658644842.7734058",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Nouveaut\u00e9s",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=specialWid&nomListe=Nouveaut%c3%a9s&typM=tvshow",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/serie.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/serie.png"
+                },
+                "title": "Nouveaut\u00e9s",
+                "plot": "Nouveaut\u00e9s",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "nouveautes-1658644856.6479638",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Tendances de la semaine",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=specialWid&nomListe=Tendances%20de%20la%20semaine&typM=tvshow",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/serie.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/serie.png"
+                },
+                "title": "Tendances de la semaine",
+                "plot": "Tendances de la semaine",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "tendances_de_la_semaine-1658644966.3114834",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Tendances du jour",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=specialWid&nomListe=Tendances%20du%20jour&typM=tvshow",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/serie.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/serie.png"
+                },
+                "title": "Tendances du jour",
+                "plot": "Tendances du jour",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "tendances_du_jour-1658644978.0540988",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Nouveaute series",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=groupes&nom=nouveaute%20series&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png"
+                },
+                "title": "Nouveaute series",
+                "plot": "nouveaute series",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "nouveaute_series-1658645372.686219",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Serie",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=groupes&nom=serie&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/serie.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/serie.png"
+                },
+                "title": "Serie",
+                "plot": "serie",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "serie-1658645385.5116293",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Serie 4k",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=groupes&nom=serie%204k&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png"
+                },
+                "title": "Serie 4k",
+                "plot": "serie 4k",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "serie_4k-1658645398.486466",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Serie avant 2000",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=groupes&nom=serie%20avant%202000&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png"
+                },
+                "title": "Serie avant 2000",
+                "plot": "serie avant 2000",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "serie_avant_2000-1658645425.3193834",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Series",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=groupes&nom=series&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png"
+                },
+                "title": "Series",
+                "plot": "series",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "series-1658645462.962005",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Superheros series",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=groupes&nom=superheros%20series&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png"
+                },
+                "title": "Superheros series",
+                "plot": "superheros series",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "superheros_series-1658645495.4743452",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Diffuseurs [COLORorange]Tous[/COLOR]",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&network=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/groupe.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/groupe.png"
+                },
+                "title": "Diffuseurs",
+                "plot": "Diffuseur",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "diffuseurs_colororangetouscolor-1658645582.9386547",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Qc",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=groupes&nom=qc&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png"
+                },
+                "title": "Qc",
+                "plot": "qc",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "qc-1664388983.1978984",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Serie 4k ultra hd",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=groupes&nom=serie%204k%20ultra%20hd&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png"
+                },
+                "title": "Serie 4k ultra hd",
+                "plot": "serie 4k ultra hd",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "serie_4k_ultra_hd-1664388999.3545704",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Serie remux",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=groupes&nom=serie%20remux&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png"
+                },
+                "title": "Serie remux",
+                "plot": "serie remux",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "serie_remux-1664389021.8899848",
+            "version": "3.7.0"
+        }
+    ],
+    "id": "series-1658644761.2762113",
+    "art": {
+        "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+        "fanart": "special://home/addons\\plugin.program.autowidget\\resources\\media\\fanart\\folder-shortcut.png",
+        "icon": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png",
+        "poster": "special://home/addons\\plugin.program.autowidget\\resources\\media\\poster\\folder-shortcut.png",
+        "thumb": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png"
+    },
+    "version": "3.7.0",
+    "content": "",
+    "sort_order": "11"
+}

@@ -1,0 +1,18 @@
+{
+    "action": "merged",
+    "id": "f4317707-8a39-428d-8683-e5325aceb0d8",
+    "group": "series_autowidget-1661598940.8711307",
+    "refresh": 2.0,
+    "path": [
+        "hbo_shows-1661599800.848179",
+        "disney_shows-1661599831.6610835",
+        "netflix_shows-1661599850.446551",
+        "hbo_max-1661599936.04886",
+        "imdb_top_rated_tv_shows-1662289106.8368793",
+        "trakt_popular_tv_shows-1662289217.8459537",
+        "trakt_popular_tv_shows-1662289458.9036489",
+        "imdb_popular_tv_shows-1662289471.744109"
+    ],
+    "version": "3.7.0",
+    "current": 0
+}

@@ -1,0 +1,151 @@
+{
+    "label": "SVOD (Kids Films)",
+    "type": "shortcut",
+    "paths": [
+        {
+            "label": "Netflix (Kids Films)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Netflix%20(Kids%20Films)&list_slug=netflix-kids-films&owner=true&plugin_category=Netflix%20(Kids%20Films)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Netflix.jpg"
+                },
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "netflix_(kids_films)-1676809771.8188143",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Disney+ (Kids Films)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Disney%2b%20(Kids%20Films)&list_slug=disney-kids-films&owner=true&plugin_category=Disney%2b%20(Kids%20Films)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Disney+.jpg"
+                },
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "disney_(kids_films)-1676809780.6345787",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Amazon Prime (Kids Films)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Amazon%20Prime%20(Kids%20Films)&list_slug=amazon-prime-kids-films&owner=true&plugin_category=Amazon%20Prime%20(Kids%20Films)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Amazon Prime.jpg"
+                },
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "amazon_prime_(kids_films)-1676809793.151364",
+            "version": "3.7.0"
+        },
+        {
+            "label": "HBO Max (Kids Films)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=HBO%20Max%20(Kids%20Films)&list_slug=hbo-max-kids-films&owner=true&plugin_category=HBO%20Max%20(Kids%20Films)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/HBO Max.jpg"
+                },
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "hbo_max_(kids_films)-1676809801.9341998",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Apple TV+ (Kids Films)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Apple%20TV%2b%20(Kids%20Films)&list_slug=apple-tv-kids-films&owner=true&plugin_category=Apple%20TV%2b%20(Kids%20Films)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Apple TV+.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/apple-tv-kids-films\r\nUpdated at 2023-02-19 13:57:31",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "apple_tv_(kids_films)-1676809813.7832484",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Paramount+ (Kids Films)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Paramount%2b%20(Kids%20Films)&list_slug=paramount-kids-films&owner=true&plugin_category=Paramount%2b%20(Kids%20Films)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Paramount+.jpg"
+                },
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "paramount_(kids_films)-1676809823.899294",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Canal+ (Kids Films)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Canal%2b%20(Kids%20Films)&list_slug=canal-kids-films&owner=true&plugin_category=Canal%2b%20(Kids%20Films)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Canal+.jpg"
+                },
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "canal_(kids_films)-1676809836.431619",
+            "version": "3.7.0"
+        }
+    ],
+    "id": "svod_(kids_films)-1676809766.9018545",
+    "art": {
+        "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+        "fanart": "special://home/addons\\plugin.program.autowidget\\resources\\media\\fanart\\folder-shortcut.png",
+        "icon": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png",
+        "poster": "special://home/addons\\plugin.program.autowidget\\resources\\media\\poster\\folder-shortcut.png",
+        "thumb": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png"
+    },
+    "version": "3.7.0",
+    "content": "",
+    "sort_order": "7"
+}

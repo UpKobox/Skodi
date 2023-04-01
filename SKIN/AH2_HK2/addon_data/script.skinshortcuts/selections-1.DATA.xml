@@ -1,0 +1,18 @@
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>Les mieux notés</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://special%3a%2f%2fhome%2faddons%2fplugin.video.sendtokodiU2P%2fresources%2fpng%2fliste.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=MenuFilm&amp;famille=Les+mieux+not%C3%A9s",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Les plus populaires</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://special%3a%2f%2fhome%2faddons%2fplugin.video.sendtokodiU2P%2fresources%2fpng%2fgroupe.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=MenuFilm&amp;trakt=Les+plus+populaires",return)</action>
+		</shortcut>
+	</shortcuts>

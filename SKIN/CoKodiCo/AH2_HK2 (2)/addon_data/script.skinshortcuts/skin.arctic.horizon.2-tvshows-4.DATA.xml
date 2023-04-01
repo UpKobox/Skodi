@@ -1,0 +1,10 @@
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>Series Diffuseurs</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://special%3a%2f%2fhome%2faddons%2fplugin.program.autowidget%2fresources%2fmedia%2ficon%2ffolder-shortcut.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.program.autowidget/?mode=group&amp;group=series_diffuseurs-1660554934.188611&amp;refresh=&amp;reload=",return)</action>
+		</shortcut>
+	</shortcuts>

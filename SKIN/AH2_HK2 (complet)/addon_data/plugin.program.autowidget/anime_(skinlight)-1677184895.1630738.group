@@ -1,0 +1,76 @@
+{
+    "label": "Anime (skinLight)",
+    "type": "shortcut",
+    "paths": [
+        {
+            "label": "Les nouveaut\u00e9s (Anime)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Les%20nouveaut%c3%a9s%20(Anime)&list_slug=les-nouveautes-anime&owner=true&plugin_category=Les%20nouveaut%c3%a9s%20(Anime)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Nouveaut\u00e9s.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/les-nouveautes-anime\r\nUpdated at 2023-02-23 18:24:55",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "les_nouveautes_(anime)-1677184898.34713",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Les plus populaires (Anime)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Les%20plus%20populaires%20(Anime)&list_slug=les-plus-populaires-anime&owner=true&plugin_category=Les%20plus%20populaires%20(Anime)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Populaires.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/les-plus-populaires-anime\r\nUpdated at 2023-02-23 18:33:35",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "les_plus_populaires_(anime)-1677184909.1961076",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Les mieux not\u00e9s (Anime)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Les%20mieux%20not%c3%a9s%20(Anime)&list_slug=les-mieux-notes-anime&owner=true&plugin_category=Les%20mieux%20not%c3%a9s%20(Anime)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Top.jpg"
+                },
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "les_mieux_notes_(anime)-1677253506.0536904",
+            "version": "3.7.0"
+        }
+    ],
+    "id": "anime_(skinlight)-1677184895.1630738",
+    "art": {
+        "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+        "fanart": "special://home/addons\\plugin.program.autowidget\\resources\\media\\fanart\\folder-shortcut.png",
+        "icon": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png",
+        "poster": "special://home/addons\\plugin.program.autowidget\\resources\\media\\poster\\folder-shortcut.png",
+        "thumb": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png"
+    },
+    "version": "3.7.0",
+    "content": "",
+    "sort_order": "19"
+}

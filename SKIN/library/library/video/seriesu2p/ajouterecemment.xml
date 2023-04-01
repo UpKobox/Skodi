@@ -1,0 +1,5 @@
+<node order="10" type="folder">
+	<label>Ajouté récemment</label>
+	<icon>DefaultRecentlyAddedEpisodes.png</icon>
+	<path>plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&amp;famille=seriesall</path>
+</node>

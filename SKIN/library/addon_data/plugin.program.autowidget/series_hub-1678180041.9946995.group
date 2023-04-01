@@ -1,0 +1,164 @@
+{
+    "label": "Series Hub",
+    "type": "shortcut",
+    "paths": [
+        {
+            "label": "Series Diffuseurs",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.program.autowidget/?group=series_diffuseurs-1660554934.188611&mode=group&refresh&reload",
+                "filetype": "directory",
+                "art": {
+                    "banner": "special://home/addons/plugin.program.autowidget/resources/media/banner/folder-shortcut.png",
+                    "fanart": "special://home/addons/plugin.program.autowidget/resources/media/fanart/folder-shortcut.png",
+                    "icon": "special://home/addons/plugin.program.autowidget/resources/media/icon/folder-shortcut.png",
+                    "poster": "special://home/addons/plugin.program.autowidget/resources/media/poster/folder-shortcut.png",
+                    "thumb": "special://home/addons/plugin.program.autowidget/resources/media/icon/folder-shortcut.png"
+                },
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "programs",
+            "target": "shortcut",
+            "id": "series_diffuseurs-1678180068.7446163",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Collections S\u00e9ries",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.program.autowidget/?group=collections_series-1656858473.361034&mode=group&refresh&reload",
+                "filetype": "directory",
+                "art": {
+                    "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+                    "fanart": "special://home/addons\\plugin.program.autowidget\\resources\\media\\fanart\\folder-shortcut.png",
+                    "icon": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png",
+                    "poster": "special://home/addons\\plugin.program.autowidget\\resources\\media\\poster\\folder-shortcut.png",
+                    "thumb": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png"
+                },
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "programs",
+            "target": "shortcut",
+            "id": "collections_series-1678180046.0775828",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Series autowidget",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.program.autowidget/?group=series_autowidget-1661598940.8711307&mode=group&refresh&reload",
+                "filetype": "directory",
+                "art": {
+                    "banner": "special://home/addons/plugin.program.autowidget/resources/media/banner/folder-sync.png",
+                    "fanart": "special://home/addons/plugin.program.autowidget/resources/media/fanart/folder-sync.png",
+                    "icon": "special://home/addons/plugin.program.autowidget/resources/media/icon/folder-sync.png",
+                    "poster": "special://home/addons/plugin.program.autowidget/resources/media/poster/folder-sync.png",
+                    "thumb": "special://home/addons/plugin.program.autowidget/resources/media/icon/folder-sync.png"
+                },
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "programs",
+            "target": "shortcut",
+            "id": "series_autowidget-1678180131.4778159",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Animes autowidget",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.program.autowidget/?group=animes_autowidget-1661599000.3136003&mode=group&refresh&reload",
+                "filetype": "directory",
+                "art": {
+                    "banner": "special://home/addons/plugin.program.autowidget/resources/media/banner/folder-sync.png",
+                    "fanart": "special://home/addons/plugin.program.autowidget/resources/media/fanart/folder-sync.png",
+                    "icon": "special://home/addons/plugin.program.autowidget/resources/media/icon/folder-sync.png",
+                    "poster": "special://home/addons/plugin.program.autowidget/resources/media/poster/folder-sync.png",
+                    "thumb": "special://home/addons/plugin.program.autowidget/resources/media/icon/folder-sync.png"
+                },
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "programs",
+            "target": "shortcut",
+            "id": "animes_autowidget-1678180141.844531",
+            "version": "3.7.0"
+        },
+        {
+            "label": "S\u00e9ries Famille",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.program.autowidget/?group=series_famille-1656858235.5926993&mode=group&refresh&reload",
+                "filetype": "directory",
+                "art": {
+                    "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+                    "fanart": "special://home/addons\\plugin.program.autowidget\\resources\\media\\fanart\\folder-shortcut.png",
+                    "icon": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png",
+                    "poster": "special://home/addons\\plugin.program.autowidget\\resources\\media\\poster\\folder-shortcut.png",
+                    "thumb": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png"
+                },
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "programs",
+            "target": "shortcut",
+            "id": "series_famille-1678180171.2443006",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Trakt S\u00e9ries",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.program.autowidget/?group=trakt_series-1662930971.187265&mode=group&refresh&reload",
+                "filetype": "directory",
+                "art": {
+                    "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+                    "fanart": "special://home/addons\\plugin.program.autowidget\\resources\\media\\fanart\\folder-shortcut.png",
+                    "icon": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png",
+                    "poster": "special://home/addons\\plugin.program.autowidget\\resources\\media\\poster\\folder-shortcut.png",
+                    "thumb": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png"
+                },
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "programs",
+            "target": "shortcut",
+            "id": "trakt_series-1678180219.5606966",
+            "version": "3.7.0"
+        },
+        {
+            "label": "S\u00e9ries (r\u00e9solution)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.program.autowidget/?group=series_(resolution)-1662309704.573811&mode=group&refresh&reload",
+                "filetype": "directory",
+                "art": {
+                    "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+                    "fanart": "special://home/addons\\plugin.program.autowidget\\resources\\media\\fanart\\folder-shortcut.png",
+                    "icon": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png",
+                    "poster": "special://home/addons\\plugin.program.autowidget\\resources\\media\\poster\\folder-shortcut.png",
+                    "thumb": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png"
+                },
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "programs",
+            "target": "shortcut",
+            "id": "series_(resolution)-1678180199.3609257",
+            "version": "3.7.0"
+        }
+    ],
+    "id": "series_hub-1678180041.9946995",
+    "art": {
+        "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+        "fanart": "special://home/addons\\plugin.program.autowidget\\resources\\media\\fanart\\folder-shortcut.png",
+        "icon": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png",
+        "poster": "special://home/addons\\plugin.program.autowidget\\resources\\media\\poster\\folder-shortcut.png",
+        "thumb": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png"
+    },
+    "version": "3.7.0",
+    "content": "",
+    "sort_order": "52"
+}

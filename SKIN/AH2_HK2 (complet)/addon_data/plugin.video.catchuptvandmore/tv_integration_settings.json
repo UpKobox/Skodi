@@ -1,0 +1,1470 @@
+{
+    "enabled_channels": {
+        "be_live": {
+            "rtl_tvi": {
+                "enabled": false
+            },
+            "plug_rtl": {
+                "enabled": false
+            },
+            "club_rtl": {
+                "enabled": false
+            },
+            "telemb": {
+                "enabled": false
+            },
+            "rtc": {
+                "enabled": false
+            },
+            "tvlux": {
+                "enabled": false
+            },
+            "rtl_info": {
+                "enabled": false
+            },
+            "bel_rtl": {
+                "enabled": false
+            },
+            "contact": {
+                "enabled": false
+            },
+            "bx1": {
+                "enabled": false
+            },
+            "een": {
+                "enabled": false
+            },
+            "canvas": {
+                "enabled": false
+            },
+            "ketnet": {
+                "enabled": false
+            },
+            "nrjhitstvbe": {
+                "enabled": false
+            },
+            "rtl_sport": {
+                "enabled": false
+            },
+            "tvcom": {
+                "enabled": false
+            },
+            "bouke": {
+                "enabled": false
+            },
+            "abxplore": {
+                "enabled": false
+            },
+            "ab3": {
+                "enabled": false
+            },
+            "ln24": {
+                "enabled": false
+            },
+            "laune": {
+                "enabled": false
+            },
+            "tipiktv": {
+                "enabled": false
+            },
+            "latrois": {
+                "enabled": false
+            },
+            "tipik": {
+                "enabled": false
+            },
+            "actv": {
+                "enabled": false
+            },
+            "telesambre": {
+                "enabled": false
+            },
+            "atv": {
+                "enabled": false
+            },
+            "bruzz": {
+                "enabled": false
+            },
+            "focuswtv": {
+                "enabled": false
+            },
+            "robtv": {
+                "enabled": false
+            },
+            "tvl": {
+                "enabled": false
+            },
+            "tvoost": {
+                "enabled": false
+            },
+            "hln_live": {
+                "enabled": false
+            },
+            "canalzoom": {
+                "enabled": false
+            },
+            "matele": {
+                "enabled": false
+            },
+            "notele": {
+                "enabled": false
+            },
+            "mnm": {
+                "enabled": false
+            },
+            "citymusic": {
+                "enabled": false
+            }
+        },
+        "cm_live": {
+            "crtv": {
+                "enabled": false
+            },
+            "crtvnews": {
+                "enabled": false
+            }
+        },
+        "ca_live": {
+            "telequebec": {
+                "enabled": false
+            },
+            "tva": {
+                "enabled": false
+            },
+            "icitele Vancouver": {
+                "enabled": false
+            },
+            "icitele Regina": {
+                "enabled": false
+            },
+            "icitele Toronto": {
+                "enabled": false
+            },
+            "icitele Edmonton": {
+                "enabled": false
+            },
+            "icitele Rimouski": {
+                "enabled": false
+            },
+            "icitele Qu\u00e9bec": {
+                "enabled": false
+            },
+            "icitele Winnipeg": {
+                "enabled": false
+            },
+            "icitele Moncton": {
+                "enabled": false
+            },
+            "icitele Ottawa": {
+                "enabled": false
+            },
+            "icitele Sherbrooke": {
+                "enabled": false
+            },
+            "icitele Trois-Rivi\u00e8res": {
+                "enabled": false
+            },
+            "icitele Montr\u00e9al": {
+                "enabled": false
+            },
+            "ntvca": {
+                "enabled": false
+            },
+            "telemag": {
+                "enabled": false
+            },
+            "noovo": {
+                "enabled": false
+            },
+            "cbc Ottawa": {
+                "enabled": false
+            },
+            "cbc Montreal": {
+                "enabled": false
+            },
+            "cbc Charlottetown": {
+                "enabled": false
+            },
+            "cbc Fredericton": {
+                "enabled": false
+            },
+            "cbc Halifax": {
+                "enabled": false
+            },
+            "cbc Windsor": {
+                "enabled": false
+            },
+            "cbc Yellowknife": {
+                "enabled": false
+            },
+            "cbc Winnipeg": {
+                "enabled": false
+            },
+            "cbc Regina": {
+                "enabled": false
+            },
+            "cbc Calgary": {
+                "enabled": false
+            },
+            "cbc Edmonton": {
+                "enabled": false
+            },
+            "cbc Vancouver": {
+                "enabled": false
+            },
+            "cbc Toronto": {
+                "enabled": false
+            },
+            "cbc St. John's": {
+                "enabled": false
+            },
+            "icirdi": {
+                "enabled": false
+            }
+        },
+        "cn_live": {
+            "cctv1": {
+                "enabled": false
+            },
+            "cctv13": {
+                "enabled": false
+            }
+        },
+        "es_live": {
+            "realmadridtv EN": {
+                "enabled": false
+            },
+            "realmadridtv ES": {
+                "enabled": false
+            },
+            "paramountchannel_es": {
+                "enabled": false
+            },
+            "la1": {
+                "enabled": false
+            },
+            "la2": {
+                "enabled": false
+            },
+            "tdp": {
+                "enabled": false
+            },
+            "24h": {
+                "enabled": false
+            },
+            "trece": {
+                "enabled": false
+            }
+        },
+        "et_live": {
+            "adis": {
+                "enabled": false
+            },
+            "afri": {
+                "enabled": false
+            },
+            "ahadu": {
+                "enabled": false
+            },
+            "aleph": {
+                "enabled": false
+            },
+            "amma": {
+                "enabled": false
+            },
+            "arts": {
+                "enabled": false
+            },
+            "asham": {
+                "enabled": false
+            },
+            "asrat": {
+                "enabled": false
+            },
+            "ava": {
+                "enabled": false
+            },
+            "balage": {
+                "enabled": false
+            },
+            "bisrat": {
+                "enabled": false
+            },
+            "dws": {
+                "enabled": false
+            },
+            "etvm": {
+                "enabled": false
+            },
+            "etvq": {
+                "enabled": false
+            },
+            "etvz": {
+                "enabled": false
+            },
+            "ectv": {
+                "enabled": false
+            },
+            "eritr": {
+                "enabled": false
+            },
+            "esat": {
+                "enabled": false
+            },
+            "estv": {
+                "enabled": false
+            },
+            "fbctv": {
+                "enabled": false
+            },
+            "gloryg": {
+                "enabled": false
+            },
+            "holys": {
+                "enabled": false
+            },
+            "jtv": {
+                "enabled": false
+            },
+            "ltv": {
+                "enabled": false
+            },
+            "moe": {
+                "enabled": false
+            },
+            "nahoo": {
+                "enabled": false
+            },
+            "obn": {
+                "enabled": false
+            },
+            "obs": {
+                "enabled": false
+            },
+            "omn": {
+                "enabled": false
+            },
+            "onn": {
+                "enabled": false
+            },
+            "south": {
+                "enabled": false
+            },
+            "tigrai": {
+                "enabled": false
+            },
+            "walta": {
+                "enabled": false
+            }
+        },
+        "fr_live": {
+            "tf1": {
+                "enabled": true
+            },
+            "france-2": {
+                "enabled": true
+            },
+            "france-3": {
+                "enabled": true
+            },
+            "canalplus": {
+                "enabled": true
+            },
+            "france-5": {
+                "enabled": true
+            },
+            "m6": {
+                "enabled": true
+            },
+            "c8": {
+                "enabled": true
+            },
+            "w9": {
+                "enabled": true
+            },
+            "tmc": {
+                "enabled": true
+            },
+            "tfx": {
+                "enabled": true
+            },
+            "nrj12": {
+                "enabled": true
+            },
+            "lcp": {
+                "enabled": true
+            },
+            "france-4": {
+                "enabled": true
+            },
+            "BFM TV": {
+                "enabled": true
+            },
+            "cnews": {
+                "enabled": true
+            },
+            "cstar": {
+                "enabled": true
+            },
+            "gulli": {
+                "enabled": true
+            },
+            "tf1-series-films": {
+                "enabled": true
+            },
+            "lequipe": {
+                "enabled": true
+            },
+            "6ter": {
+                "enabled": true
+            },
+            "RMC STORY": {
+                "enabled": true
+            },
+            "RMC D\u00e9couverte": {
+                "enabled": true
+            },
+            "cherie25": {
+                "enabled": true
+            },
+            "lci": {
+                "enabled": true
+            },
+            "franceinfo": {
+                "enabled": true
+            },
+            "publicsenat": {
+                "enabled": true
+            },
+            "spectacles-et-culture": {
+                "enabled": true
+            },
+            "france3regions": {
+                "enabled": true
+            },
+            "la_1ere Guadeloupe": {
+                "enabled": false
+            },
+            "la_1ere Guyane": {
+                "enabled": false
+            },
+            "la_1ere Martinique": {
+                "enabled": false
+            },
+            "la_1ere Mayotte": {
+                "enabled": false
+            },
+            "la_1ere Nouvelle Cal\u00e9donie": {
+                "enabled": false
+            },
+            "la_1ere Polyn\u00e9sie": {
+                "enabled": false
+            },
+            "la_1ere R\u00e9union": {
+                "enabled": false
+            },
+            "la_1ere St-Pierre et Miquelon": {
+                "enabled": false
+            },
+            "la_1ere Wallis et Futuna": {
+                "enabled": false
+            },
+            "antennereunion": {
+                "enabled": false
+            },
+            "tntv": {
+                "enabled": false
+            },
+            "viaatv": {
+                "enabled": false
+            },
+            "viagrandparis": {
+                "enabled": false
+            },
+            "vialmtv": {
+                "enabled": false
+            },
+            "viamatele": {
+                "enabled": false
+            },
+            "viamoselle": {
+                "enabled": false
+            },
+            "viaoccitanie": {
+                "enabled": false
+            },
+            "viavosges": {
+                "enabled": false
+            },
+            "BFM_regions BFM ALSACE": {
+                "enabled": false
+            },
+            "BFM_regions BFM DICI HAUTE-PROVENCE": {
+                "enabled": false
+            },
+            "BFM_regions BFM Grand Lille": {
+                "enabled": false
+            },
+            "BFM_regions BFM Grand Littoral": {
+                "enabled": false
+            },
+            "BFM_regions BFM Lyon": {
+                "enabled": false
+            },
+            "BFM_regions BFM MARSEILLE PROVENCE": {
+                "enabled": false
+            },
+            "BFM_regions BFM NICE COTE D'AZUR": {
+                "enabled": false
+            },
+            "BFM_regions BFM NORMANDIE": {
+                "enabled": false
+            },
+            "BFM_regions BFM PARIS ILE-DE-FRANCE": {
+                "enabled": false
+            },
+            "BFM_regions BFM TOULON VAR": {
+                "enabled": false
+            },
+            "albitv": {
+                "enabled": false
+            },
+            "biptv": {
+                "enabled": false
+            },
+            "dicitv": {
+                "enabled": false
+            },
+            "idf1": {
+                "enabled": false
+            },
+            "tebeo": {
+                "enabled": false
+            },
+            "tebesud": {
+                "enabled": false
+            },
+            "telegrenoble": {
+                "enabled": false
+            },
+            "telenantes": {
+                "enabled": false
+            },
+            "tl7": {
+                "enabled": false
+            },
+            "tlc": {
+                "enabled": false
+            },
+            "tv7colmar": {
+                "enabled": false
+            },
+            "tv7bordeaux": {
+                "enabled": false
+            },
+            "tv8montblanc": {
+                "enabled": false
+            },
+            "tvpifr": {
+                "enabled": false
+            },
+            "tvr": {
+                "enabled": false
+            },
+            "tvt": {
+                "enabled": false
+            },
+            "tvvendee": {
+                "enabled": false
+            },
+            "tvv78": {
+                "enabled": false
+            },
+            "weo": {
+                "enabled": false
+            },
+            "BFM Business": {
+                "enabled": false
+            },
+            "bsmart": {
+                "enabled": false
+            },
+            "gong": {
+                "enabled": false
+            },
+            "TECH & CO": {
+                "enabled": false
+            },
+            "kto": {
+                "enabled": false
+            },
+            "europe1": {
+                "enabled": true
+            },
+            "franceinter": {
+                "enabled": true
+            },
+            "funradio": {
+                "enabled": true
+            },
+            "rtl": {
+                "enabled": true
+            },
+            "rtl2": {
+                "enabled": true
+            },
+            "sudradio": {
+                "enabled": true
+            },
+            "sportenfrance": {
+                "enabled": true
+            },
+            "lequipelive": {
+                "enabled": true
+            },
+            "equidia-live2": {
+                "enabled": true
+            },
+            "equidia-racingtrot": {
+                "enabled": false
+            },
+            "equidia-racingmag": {
+                "enabled": false
+            },
+            "equidia-racinggalop": {
+                "enabled": false
+            },
+            "equidia-racing 1": {
+                "enabled": false
+            },
+            "equidia-racing 2": {
+                "enabled": false
+            },
+            "equidia-racing 3": {
+                "enabled": false
+            },
+            "equidia-racing 4": {
+                "enabled": false
+            },
+            "equidia-racing 5": {
+                "enabled": false
+            },
+            "equidia-racing 6": {
+                "enabled": false
+            },
+            "equidia-racing 7": {
+                "enabled": false
+            },
+            "equidia-racing 8": {
+                "enabled": false
+            }
+        },
+        "gr_live": {
+            "ept1": {
+                "enabled": false
+            },
+            "ept2": {
+                "enabled": false
+            },
+            "ept3": {
+                "enabled": false
+            },
+            "eptsport": {
+                "enabled": false
+            },
+            "eptnews": {
+                "enabled": false
+            }
+        },
+        "wo_live": {
+            "euronews FR": {
+                "enabled": true
+            },
+            "euronews EN": {
+                "enabled": false
+            },
+            "euronews AR": {
+                "enabled": false
+            },
+            "euronews DE": {
+                "enabled": false
+            },
+            "euronews IT": {
+                "enabled": false
+            },
+            "euronews ES": {
+                "enabled": false
+            },
+            "euronews PT": {
+                "enabled": false
+            },
+            "euronews RU": {
+                "enabled": false
+            },
+            "euronews RO": {
+                "enabled": false
+            },
+            "euronews TR": {
+                "enabled": false
+            },
+            "euronews FA": {
+                "enabled": false
+            },
+            "euronews GR": {
+                "enabled": false
+            },
+            "euronews HU": {
+                "enabled": false
+            },
+            "euronews BG": {
+                "enabled": false
+            },
+            "arte FR": {
+                "enabled": true
+            },
+            "arte DE": {
+                "enabled": false
+            },
+            "france24 FR": {
+                "enabled": true
+            },
+            "france24 EN": {
+                "enabled": false
+            },
+            "france24 AR": {
+                "enabled": false
+            },
+            "france24 ES": {
+                "enabled": false
+            },
+            "nhkworld Outside Japan": {
+                "enabled": false
+            },
+            "nhkworld In Japan": {
+                "enabled": false
+            },
+            "tivi5monde": {
+                "enabled": false
+            },
+            "bvn": {
+                "enabled": false
+            },
+            "icitelevision": {
+                "enabled": false
+            },
+            "arirang": {
+                "enabled": false
+            },
+            "dw EN": {
+                "enabled": false
+            },
+            "dw AR": {
+                "enabled": false
+            },
+            "dw ES": {
+                "enabled": false
+            },
+            "dw DE": {
+                "enabled": false
+            },
+            "eptw": {
+                "enabled": false
+            },
+            "qvc JP": {
+                "enabled": false
+            },
+            "qvc DE": {
+                "enabled": false
+            },
+            "qvc IT": {
+                "enabled": false
+            },
+            "qvc UK": {
+                "enabled": false
+            },
+            "qvc US": {
+                "enabled": false
+            },
+            "cgtn FR": {
+                "enabled": true
+            },
+            "cgtn EN": {
+                "enabled": false
+            },
+            "cgtn AR": {
+                "enabled": false
+            },
+            "cgtn ES": {
+                "enabled": false
+            },
+            "cgtn RU": {
+                "enabled": false
+            },
+            "cgtndocumentary": {
+                "enabled": false
+            },
+            "afriquemedia": {
+                "enabled": false
+            },
+            "tv5mondefbs": {
+                "enabled": true
+            },
+            "tv5mondeinfo": {
+                "enabled": true
+            },
+            "channelnewsasia": {
+                "enabled": false
+            },
+            "rt FR": {
+                "enabled": true
+            },
+            "rt EN": {
+                "enabled": false
+            },
+            "rt AR": {
+                "enabled": false
+            },
+            "rt ES": {
+                "enabled": false
+            },
+            "africa24": {
+                "enabled": false
+            },
+            "aljazeera": {
+                "enabled": false
+            }
+        },
+        "it_live": {
+            "la7": {
+                "enabled": false
+            },
+            "rainews24": {
+                "enabled": false
+            },
+            "rai1": {
+                "enabled": false
+            },
+            "rai2": {
+                "enabled": false
+            },
+            "rai3": {
+                "enabled": false
+            },
+            "rai4": {
+                "enabled": false
+            },
+            "rai5": {
+                "enabled": false
+            },
+            "raisportpiuhd": {
+                "enabled": false
+            },
+            "raimovie": {
+                "enabled": false
+            },
+            "raipremium": {
+                "enabled": false
+            },
+            "raiyoyo": {
+                "enabled": false
+            },
+            "raigulp": {
+                "enabled": false
+            },
+            "raistoria": {
+                "enabled": false
+            },
+            "raiscuola": {
+                "enabled": false
+            },
+            "paramountchannel_it": {
+                "enabled": false
+            },
+            "C5": {
+                "enabled": false
+            },
+            "I1": {
+                "enabled": false
+            },
+            "R4": {
+                "enabled": false
+            },
+            "LB": {
+                "enabled": false
+            },
+            "KA": {
+                "enabled": false
+            },
+            "I2": {
+                "enabled": false
+            },
+            "B6": {
+                "enabled": false
+            },
+            "KQ": {
+                "enabled": false
+            },
+            "FU": {
+                "enabled": false
+            },
+            "LT": {
+                "enabled": false
+            },
+            "KI": {
+                "enabled": false
+            },
+            "BP": {
+                "enabled": false
+            },
+            "LA": {
+                "enabled": false
+            },
+            "KF": {
+                "enabled": false
+            }
+        },
+        "jp_live": {
+            "ntvnews24": {
+                "enabled": false
+            },
+            "japanetshoppingdx": {
+                "enabled": false
+            },
+            "weathernewsjp": {
+                "enabled": false
+            }
+        },
+        "lt_live": {
+            "LTV1": {
+                "enabled": false
+            },
+            "LTV2": {
+                "enabled": false
+            },
+            "WORLD": {
+                "enabled": false
+            }
+        },
+        "ma_live": {
+            "alAoula": {
+                "enabled": false
+            },
+            "laayoune": {
+                "enabled": false
+            },
+            "arryadia": {
+                "enabled": false
+            },
+            "athaqafia": {
+                "enabled": false
+            },
+            "alMaghribia": {
+                "enabled": false
+            },
+            "assadissa": {
+                "enabled": false
+            },
+            "tamazight": {
+                "enabled": false
+            },
+            "t\u00e9l\u00e9maroc": {
+                "enabled": false
+            },
+            "maghreb": {
+                "enabled": false
+            },
+            "arabic": {
+                "enabled": false
+            },
+            "afrique": {
+                "enabled": false
+            },
+            "m24": {
+                "enabled": false
+            }
+        },
+        "nl_live": {
+            "npo-1": {
+                "enabled": false
+            },
+            "npo-2": {
+                "enabled": false
+            },
+            "npo-zapp": {
+                "enabled": false
+            },
+            "npo-1-extra": {
+                "enabled": false
+            },
+            "npo-2-extra": {
+                "enabled": false
+            },
+            "npo-zappelin-extra": {
+                "enabled": false
+            },
+            "npo-nieuws": {
+                "enabled": false
+            },
+            "npo-politiek": {
+                "enabled": false
+            },
+            "at5": {
+                "enabled": false
+            },
+            "ob": {
+                "enabled": false
+            }
+        },
+        "pl_live": {
+            "tvp3 Bia\u0142ystok": {
+                "enabled": false
+            },
+            "tvp3 Bydgoszcz": {
+                "enabled": false
+            },
+            "tvp3 Gda\u0144sk": {
+                "enabled": false
+            },
+            "tvp3 Gorz\u00f3w Wielkopolski": {
+                "enabled": false
+            },
+            "tvp3 Katowice": {
+                "enabled": false
+            },
+            "tvp3 Kielce": {
+                "enabled": false
+            },
+            "tvp3 Krak\u00f3w": {
+                "enabled": false
+            },
+            "tvp3 Lublin": {
+                "enabled": false
+            },
+            "tvp3 \u0141\u00f3d\u017a": {
+                "enabled": false
+            },
+            "tvp3 Olsztyn": {
+                "enabled": false
+            },
+            "tvp3 Opole": {
+                "enabled": false
+            },
+            "tvp3 Pozna\u0144": {
+                "enabled": false
+            },
+            "tvp3 Rzesz\u00f3w": {
+                "enabled": false
+            },
+            "tvp3 Szczecin": {
+                "enabled": false
+            },
+            "tvp3 Warszawa": {
+                "enabled": false
+            },
+            "tvp3 Wroc\u0142aw": {
+                "enabled": false
+            },
+            "tvpinfo": {
+                "enabled": false
+            },
+            "tvppolonia": {
+                "enabled": false
+            },
+            "tvpworld": {
+                "enabled": false
+            },
+            "tvpwilno": {
+                "enabled": false
+            }
+        },
+        "pe_live": {
+            "atv": {
+                "enabled": false
+            },
+            "atvmas": {
+                "enabled": false
+            },
+            "enlace": {
+                "enabled": false
+            },
+            "panamericana": {
+                "enabled": false
+            }
+        },
+        "uk_live": {
+            "blaze": {
+                "enabled": false
+            },
+            "dave": {
+                "enabled": false
+            },
+            "yesterday": {
+                "enabled": false
+            },
+            "drama": {
+                "enabled": false
+            },
+            "skynews": {
+                "enabled": false
+            },
+            "stv": {
+                "enabled": false
+            },
+            "kerrang": {
+                "enabled": false
+            },
+            "magic": {
+                "enabled": false
+            },
+            "kiss": {
+                "enabled": false
+            },
+            "the-box": {
+                "enabled": false
+            },
+            "box-hits": {
+                "enabled": false
+            },
+            "box-upfront": {
+                "enabled": false
+            },
+            "freesports": {
+                "enabled": false
+            },
+            "stv_plusone": {
+                "enabled": false
+            },
+            "edgesport": {
+                "enabled": false
+            },
+            "thepetcollective": {
+                "enabled": false
+            },
+            "failarmy": {
+                "enabled": false
+            },
+            "qello": {
+                "enabled": false
+            },
+            "dust": {
+                "enabled": false
+            },
+            "C4": {
+                "enabled": false
+            },
+            "E4": {
+                "enabled": false
+            },
+            "M4": {
+                "enabled": false
+            },
+            "F4": {
+                "enabled": false
+            },
+            "4S": {
+                "enabled": false
+            },
+            "birminghamlocal": {
+                "enabled": false
+            },
+            "bristollocal": {
+                "enabled": false
+            },
+            "cardifflocal": {
+                "enabled": false
+            },
+            "leedslocal": {
+                "enabled": false
+            },
+            "liverpoollocal": {
+                "enabled": false
+            },
+            "northwaleslocal": {
+                "enabled": false
+            },
+            "teessidelocal": {
+                "enabled": false
+            },
+            "twlocal": {
+                "enabled": false
+            },
+            "C5": {
+                "enabled": false
+            },
+            "C6": {
+                "enabled": false
+            },
+            "C7": {
+                "enabled": false
+            },
+            "C0": {
+                "enabled": false
+            },
+            "C8": {
+                "enabled": false
+            }
+        },
+        "sg_live": {
+            "cna": {
+                "enabled": false
+            }
+        },
+        "sk_live": {
+            "joj": {
+                "enabled": false
+            },
+            "jojplus": {
+                "enabled": false
+            },
+            "jojwau": {
+                "enabled": false
+            },
+            "jojfamily": {
+                "enabled": false
+            }
+        },
+        "si_live": {
+            "slo1": {
+                "enabled": false
+            },
+            "slo2": {
+                "enabled": false
+            },
+            "slo3": {
+                "enabled": false
+            },
+            "koper": {
+                "enabled": false
+            },
+            "maribor": {
+                "enabled": false
+            },
+            "mmc": {
+                "enabled": false
+            }
+        },
+        "ch_live": {
+            "rougetv": {
+                "enabled": false
+            },
+            "tvm3": {
+                "enabled": false
+            },
+            "rtsun": {
+                "enabled": false
+            },
+            "rtsdeux": {
+                "enabled": false
+            },
+            "rtsinfo": {
+                "enabled": false
+            },
+            "rtscouleur3": {
+                "enabled": false
+            },
+            "rsila1": {
+                "enabled": false
+            },
+            "rsila2": {
+                "enabled": false
+            },
+            "srf1": {
+                "enabled": false
+            },
+            "srfinfo": {
+                "enabled": false
+            },
+            "srfzwei": {
+                "enabled": false
+            },
+            "rtraufsrf1": {
+                "enabled": false
+            },
+            "rtraufsrfinfo": {
+                "enabled": false
+            },
+            "rtraufsrf2": {
+                "enabled": false
+            },
+            "teleticino": {
+                "enabled": false
+            },
+            "lemanbleu": {
+                "enabled": false
+            },
+            "telem1": {
+                "enabled": false
+            },
+            "lfmtv": {
+                "enabled": false
+            },
+            "latele": {
+                "enabled": false
+            }
+        },
+        "tn_live": {
+            "elhiwarettounsi": {
+                "enabled": false
+            },
+            "nessma": {
+                "enabled": false
+            },
+            "watania1": {
+                "enabled": false
+            },
+            "watania2": {
+                "enabled": false
+            }
+        },
+        "tr_live": {
+            "24tv": {
+                "enabled": false
+            },
+            "360tv": {
+                "enabled": false
+            },
+            "a2tv": {
+                "enabled": false
+            },
+            "ahaberhd": {
+                "enabled": false
+            },
+            "aparahd": {
+                "enabled": false
+            },
+            "asporhd": {
+                "enabled": false
+            },
+            "atvhd": {
+                "enabled": false
+            },
+            "atvavrupa": {
+                "enabled": false
+            },
+            "beyaz": {
+                "enabled": false
+            },
+            "bloomberght": {
+                "enabled": false
+            },
+            "cine5": {
+                "enabled": false
+            },
+            "cnnturk": {
+                "enabled": false
+            },
+            "dmax": {
+                "enabled": false
+            },
+            "eurod": {
+                "enabled": false
+            },
+            "eurostar": {
+                "enabled": false
+            },
+            "fox": {
+                "enabled": false
+            },
+            "haberglobal": {
+                "enabled": false
+            },
+            "haberturk": {
+                "enabled": false
+            },
+            "kanal7": {
+                "enabled": false
+            },
+            "kanal7avrupa": {
+                "enabled": false
+            },
+            "kanald": {
+                "enabled": false
+            },
+            "minikagococuk": {
+                "enabled": false
+            },
+            "minikago": {
+                "enabled": false
+            },
+            "ntv": {
+                "enabled": false
+            },
+            "showtv": {
+                "enabled": false
+            },
+            "showmax": {
+                "enabled": false
+            },
+            "showturk": {
+                "enabled": false
+            },
+            "star": {
+                "enabled": false
+            },
+            "tele1": {
+                "enabled": false
+            },
+            "teve2": {
+                "enabled": false
+            },
+            "tlc": {
+                "enabled": false
+            },
+            "trt1": {
+                "enabled": false
+            },
+            "trt2": {
+                "enabled": false
+            },
+            "trtavaz": {
+                "enabled": false
+            },
+            "trtbelgesel": {
+                "enabled": false
+            },
+            "trtcocuk": {
+                "enabled": false
+            },
+            "trthaber": {
+                "enabled": false
+            },
+            "tv5": {
+                "enabled": false
+            },
+            "tv8": {
+                "enabled": false
+            },
+            "tv8int": {
+                "enabled": false
+            },
+            "tvnet": {
+                "enabled": false
+            },
+            "ulke": {
+                "enabled": false
+            },
+            "vavtv": {
+                "enabled": false
+            }
+        },
+        "ve_live": {
+            "venezolana": {
+                "enabled": false
+            }
+        },
+        "us_live": {
+            "cbsnews": {
+                "enabled": false
+            },
+            "tbd": {
+                "enabled": false
+            },
+            "abcnews": {
+                "enabled": false
+            },
+            "pbskids": {
+                "enabled": false
+            }
+        }
+    }
+}

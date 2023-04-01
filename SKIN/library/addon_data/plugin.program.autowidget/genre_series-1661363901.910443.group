@@ -1,0 +1,413 @@
+{
+    "label": "Genre Series",
+    "type": "shortcut",
+    "paths": [
+        {
+            "label": "Action & Adventure",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=genres&limit=500&offset=0&typgenre=Action%20%26%20Adventure",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/deep_purple.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/genre/Action & Adventure.png",
+                    "thumb": "special://masterprofile/addon_data/icones/action.png"
+                },
+                "title": "Action & Adventure",
+                "plot": "Action & Adventure",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "action__adventure-1661363905.9763112",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Animation",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=genres&limit=500&offset=0&typgenre=Animation",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/light_green.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/genre/Animation.png",
+                    "thumb": "special://masterprofile/addon_data/icones/anim\u00e9s.png"
+                },
+                "title": "Animation",
+                "plot": "Animation",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "animation-1661363919.276446",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Anime-Jap",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=genres&limit=500&offset=0&typgenre=Anime-Jap",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/mango.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/genre/Anime-Jap.png",
+                    "thumb": "special://masterprofile/addon_data/icones/jap.png"
+                },
+                "title": "Anime-Jap",
+                "plot": "Anime-Jap",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "anime-jap-1661363929.7612848",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Com\u00e9die",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=genres&limit=500&offset=0&typgenre=Com%c3%a9die",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/mango.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/genre/Com\u00e9die.png",
+                    "thumb": "special://masterprofile/addon_data/icones/humoursp.png"
+                },
+                "title": "Com\u00e9die",
+                "plot": "Com\u00e9die",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "comedie-1661363939.343969",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Crime",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=genres&limit=500&offset=0&typgenre=Crime",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/pretty_pink.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/genre/Crime.png",
+                    "thumb": "special://masterprofile/addon_data/icones/crime2.png"
+                },
+                "title": "Crime",
+                "plot": "Crime",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "crime-1661363956.9943109",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Documentaire",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=genres&limit=500&offset=0&typgenre=Documentaire",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/sunflower_yellow.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/genre/Documentaire.png",
+                    "thumb": "special://masterprofile/addon_data/icones/video (4).png"
+                },
+                "title": "Documentaire",
+                "plot": "Documentaire",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "documentaire-1661363966.2942119",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Drame",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=genres&limit=500&offset=0&typgenre=Drame",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/sky_blue.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/genre/Drame.png",
+                    "thumb": "special://masterprofile/addon_data/icones/drame.png"
+                },
+                "title": "Drame",
+                "plot": "Drame",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "drame-1661363975.3275096",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Familial",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=genres&limit=500&offset=0&typgenre=Familial",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/pretty_pink.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/genre/Familial.png",
+                    "thumb": "special://masterprofile/addon_data/icones/famille (2).png"
+                },
+                "title": "Familial",
+                "plot": "Familial",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "familial-1661363984.4445028",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Kids",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=genres&limit=500&offset=0&typgenre=Kids",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/sunflower_yellow.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/genre/Kids.png",
+                    "thumb": "special://masterprofile/addon_data/icones/enfants (2).png"
+                },
+                "title": "Kids",
+                "plot": "Kids",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "kids-1661363995.2283614",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Myst\u00e8re",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=genres&limit=500&offset=0&typgenre=Myst%c3%a8re",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/deep_purple.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/genre/Myst\u00e8re.png",
+                    "thumb": "special://masterprofile/addon_data/icones/mystere (4).png"
+                },
+                "title": "Myst\u00e8re",
+                "plot": "Myst\u00e8re",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "mystere-1661364004.0111978",
+            "version": "3.7.0"
+        },
+        {
+            "label": "News",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=genres&limit=500&offset=0&typgenre=News",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/teal.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/genre/News.png",
+                    "thumb": "special://masterprofile/addon_data/icones/news (2).png"
+                },
+                "title": "News",
+                "plot": "News",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "news-1661364012.6612878",
+            "version": "3.7.0"
+        },
+        {
+            "label": "QC",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=genres&limit=500&offset=0&typgenre=QC",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/light_green.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/genre/QC.png",
+                    "thumb": "special://masterprofile/addon_data/icones/quebec (5).png"
+                },
+                "title": "QC",
+                "plot": "QC",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "qc-1661364021.3947356",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Reality",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=genres&limit=500&offset=0&typgenre=Reality",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/teal.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/genre/Reality.png",
+                    "thumb": "special://masterprofile/addon_data/icones/realitytv.png"
+                },
+                "title": "Reality",
+                "plot": "Reality",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "reality-1661364031.8280833",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Science-Fiction & Fantastique",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=genres&limit=500&offset=0&typgenre=Science-Fiction%20%26%20Fantastique",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/mango.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/genre/Science-Fiction & Fantastique.png",
+                    "thumb": "special://masterprofile/addon_data/icones/syfy (1).png"
+                },
+                "title": "Science-Fiction & Fantastique",
+                "plot": "Science-Fiction & Fantastique",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "science-fiction__fantastique-1661364040.261754",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Soap",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=genres&limit=500&offset=0&typgenre=Soap",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/mango.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/genre/Soap.png",
+                    "thumb": "special://masterprofile/addon_data/icones/soap.png"
+                },
+                "title": "Soap",
+                "plot": "Soap",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": -1,
+            "window": "videos",
+            "target": "shortcut",
+            "id": "soap-1661364049.8451169",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Talk",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=genres&limit=500&offset=0&typgenre=Talk",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/rich_magenta.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/genre/Talk.png",
+                    "thumb": "special://masterprofile/addon_data/icones/talk (3).png"
+                },
+                "title": "Talk",
+                "plot": "Talk",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "talk-1661364059.595898",
+            "version": "3.7.0"
+        },
+        {
+            "label": "War & Politics",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=genres&limit=500&offset=0&typgenre=War%20%26%20Politics",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/deep_purple.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/genre/War & Politics.png",
+                    "thumb": "special://masterprofile/addon_data/icones/warpolitic.png"
+                },
+                "title": "War & Politics",
+                "plot": "War & Politics",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "war__politics-1661364069.2960699",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Western",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=genres&limit=500&offset=0&typgenre=Western",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/mango.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/genre/Western.png",
+                    "thumb": "special://masterprofile/addon_data/icones/westernclint (2).png"
+                },
+                "title": "Western",
+                "plot": "Western",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "western-1661364078.112666",
+            "version": "3.7.0"
+        }
+    ],
+    "id": "genre_series-1661363901.910443",
+    "art": {
+        "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+        "fanart": "special://home/addons\\plugin.program.autowidget\\resources\\media\\fanart\\folder-shortcut.png",
+        "icon": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png",
+        "poster": "special://home/addons\\plugin.program.autowidget\\resources\\media\\poster\\folder-shortcut.png",
+        "thumb": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png"
+    },
+    "version": "3.7.0",
+    "content": "",
+    "sort_order": "12"
+}

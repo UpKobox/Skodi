@@ -1,0 +1,77 @@
+{
+    "label": "Kids S\u00e9ries TV 2 (skinLight)",
+    "type": "shortcut",
+    "paths": [
+        {
+            "label": "Pour les plus petits (Kids S\u00e9ries TV)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Pour%20les%20plus%20petits%20(Kids%20S%c3%a9ries%20TV)&list_slug=pour-les-plus-petits-kids-series-tv&owner=true&plugin_category=Pour%20les%20plus%20petits%20(Kids%20S%c3%a9ries%20TV)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Petits.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/pour-les-plus-petits-kids-series-tv\r\nUpdated at 2023-02-23 19:06:44",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "pour_les_plus_petits_(kids_series_tv)-1677184740.6879215",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Pour les plus grands (Kids S\u00e9ries TV)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Pour%20les%20plus%20grands%20(Kids%20S%c3%a9ries%20TV)&list_slug=pour-les-plus-grands-kids-series-tv&owner=true&plugin_category=Pour%20les%20plus%20grands%20(Kids%20S%c3%a9ries%20TV)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Grands.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/pour-les-ados-kids-series-tv\r\nUpdated at 2023-02-23 19:18:14",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "pour_les_plus_grands_(kids_series_tv)-1677184748.4039717",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Super-h\u00e9ros (Kids S\u00e9ries TV)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Super-h%c3%a9ros%20(Kids%20S%c3%a9ries%20TV)&list_slug=super-heros-kids-series-tv&owner=true&plugin_category=Super-h%c3%a9ros%20(Kids%20S%c3%a9ries%20TV)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Super-h\u00e9ros.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/super-heros-kids-series-tv\r\nUpdated at 2023-02-23 19:27:27",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "super-heros_(kids_series_tv)-1677184759.120022",
+            "version": "3.7.0"
+        }
+    ],
+    "id": "kids_series_tv_2_(skinlight)-1677184737.1711254",
+    "art": {
+        "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+        "fanart": "special://home/addons\\plugin.program.autowidget\\resources\\media\\fanart\\folder-shortcut.png",
+        "icon": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png",
+        "poster": "special://home/addons\\plugin.program.autowidget\\resources\\media\\poster\\folder-shortcut.png",
+        "thumb": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png"
+    },
+    "version": "3.7.0",
+    "content": "",
+    "sort_order": "18"
+}

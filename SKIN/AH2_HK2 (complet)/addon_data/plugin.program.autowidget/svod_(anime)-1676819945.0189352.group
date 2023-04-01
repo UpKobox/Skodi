@@ -1,0 +1,115 @@
+{
+    "label": "SVOD (Anime)",
+    "type": "shortcut",
+    "paths": [
+        {
+            "label": "Crunchyroll (Anime)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Crunchyroll%20(Anime)&list_slug=crunchyroll-anime&owner=true&plugin_category=Crunchyroll%20(Anime)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Crunchyroll.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/crunchyroll-anime\r\nUpdated at 2023-02-19 14:24:40",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "crunchyroll_(anime)-1676819949.9346898",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Anime Digital Network (Anime)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Anime%20Digital%20Network%20(Anime)&list_slug=anime-digital-network-anime&owner=true&plugin_category=Anime%20Digital%20Network%20(Anime)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Anime Digital Network.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/anime-digital-network-anime\r\nUpdated at 2023-02-19 14:21:03",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "anime_digital_network_(anime)-1676819982.7840712",
+            "version": "3.7.0"
+        },
+        {
+            "label": "HiDive (Anime)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=HiDive%20(Anime)&list_slug=hidive-anime&owner=true&plugin_category=HiDive%20(Anime)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/HiDive.jpg"
+                },
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "hidive_(anime)-1676819992.5831907",
+            "version": "3.7.0"
+        },
+        {
+            "label": "WAKANIM (Anime)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=WAKANIM%20(Anime)&list_slug=wakanim-anime&owner=true&plugin_category=WAKANIM%20(Anime)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/WAKANIM.jpg"
+                },
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "wakanim_(anime)-1676820000.932432",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Netflix (Anime)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Netflix%20(Anime)&list_slug=netflix-anime&owner=true&plugin_category=Netflix%20(Anime)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Netflix.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/netflix-anime\r\nUpdated at 2023-02-19 14:16:55",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "netflix_(anime)-1676820008.265427",
+            "version": "3.7.0"
+        }
+    ],
+    "id": "svod_(anime)-1676819945.0189352",
+    "art": {
+        "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+        "fanart": "special://home/addons\\plugin.program.autowidget\\resources\\media\\fanart\\folder-shortcut.png",
+        "icon": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png",
+        "poster": "special://home/addons\\plugin.program.autowidget\\resources\\media\\poster\\folder-shortcut.png",
+        "thumb": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png"
+    },
+    "version": "3.7.0",
+    "content": "",
+    "sort_order": "11"
+}

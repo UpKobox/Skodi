@@ -1,0 +1,76 @@
+{
+    "label": "Kids S\u00e9ries TV (skinLight)",
+    "type": "shortcut",
+    "paths": [
+        {
+            "label": "Les nouveaut\u00e9s (Kids S\u00e9ries TV)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Les%20nouveaut%c3%a9s%20(Kids%20S%c3%a9ries%20TV)&list_slug=les-nouveautes-kids-series-tv&owner=true&plugin_category=Les%20nouveaut%c3%a9s%20(Kids%20S%c3%a9ries%20TV)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Nouveaut\u00e9s.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/les-nouveautes-kids-series-tv\r\nUpdated at 2023-02-23 16:22:43",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "les_nouveautes_(kids_series_tv)-1677184691.1066496",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Les plus populaires (Kids S\u00e9ries TV)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Les%20plus%20populaires%20(Kids%20S%c3%a9ries%20TV)&list_slug=les-plus-populaires-kids-series-tv&owner=true&plugin_category=Les%20plus%20populaires%20(Kids%20S%c3%a9ries%20TV)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Populaires.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/les-plus-populaires-kids-series-tv\r\nUpdated at 2023-02-23 17:15:15",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "les_plus_populaires_(kids_series_tv)-1677184700.4058132",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Les mieux not\u00e9s (Kids S\u00e9ries TV)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Les%20mieux%20not%c3%a9s%20(Kids%20S%c3%a9ries%20TV)&list_slug=les-mieux-notes-kids-series-tv&owner=true&plugin_category=Les%20mieux%20not%c3%a9s%20(Kids%20S%c3%a9ries%20TV)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Top.jpg"
+                },
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "les_mieux_notes_(kids_series_tv)-1677250026.9550807",
+            "version": "3.7.0"
+        }
+    ],
+    "id": "kids_series_tv_(skinlight)-1677184687.207458",
+    "art": {
+        "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+        "fanart": "special://home/addons\\plugin.program.autowidget\\resources\\media\\fanart\\folder-shortcut.png",
+        "icon": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png",
+        "poster": "special://home/addons\\plugin.program.autowidget\\resources\\media\\poster\\folder-shortcut.png",
+        "thumb": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png"
+    },
+    "version": "3.7.0",
+    "content": "",
+    "sort_order": "17"
+}

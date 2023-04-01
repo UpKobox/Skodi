@@ -1,0 +1,4 @@
+<node order="50" visible="Library.HasContent(TVShows)">
+	<label>Séries U2P</label>
+	<icon>DefaultTVShows.png</icon>
+</node>

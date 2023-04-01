@@ -1,0 +1,4 @@
+<node order="30" visible="Library.HasContent(Movies)">
+	<label>Films U2P</label>
+	<icon>DefaultMovies.png</icon>
+</node>

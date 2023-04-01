@@ -1,0 +1,42 @@
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>Mes favoris HK (films)</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://special%3a%2f%2fhome%2faddons%2fplugin.video.sendtokodiU2P%2fresources%2fpng%2fliste.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=MenuFilm&amp;famille=Mes+favoris+HK",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Mes favoris HK (séries)</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://special%3a%2f%2fhome%2faddons%2fplugin.video.sendtokodiU2P%2fresources%2fpng%2fliste.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=MenuSerie&amp;famille=Mes+favoris+HK",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Listes lecture</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://special%3a%2f%2fhome%2faddons%2fplugin.video.sendtokodiU2P%2fresources%2fpng%2fliste.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=MenuFilm&amp;famille=Listes+lecture",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Mes Widgets (films)</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://special%3a%2f%2fhome%2faddons%2fplugin.video.sendtokodiU2P%2fresources%2fpng%2fliste.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=MenuFilm&amp;famille=Mes+Widgets",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Mes Widgets (séries)</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://special%3a%2f%2fhome%2faddons%2fplugin.video.sendtokodiU2P%2fresources%2fpng%2fliste.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=MenuSerie&amp;famille=Mes+Widgets",return)</action>
+		</shortcut>
+	</shortcuts>

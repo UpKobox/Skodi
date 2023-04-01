@@ -1,0 +1,5 @@
+<node order="10" type="folder">
+	<label>20382</label>
+	<icon>DefaultRecentlyAddedMusicVideos.png</icon>
+	<path>plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&amp;famille=concert&amp;offset=0</path>
+</node>

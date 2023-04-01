@@ -1,0 +1,18 @@
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>Tendances de la semaine - Film</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://special%3a%2f%2fhome%2faddons%2fplugin.video.sendtokodiU2P%2fresources%2fpng%2ffilm.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&amp;famille=specialWid&amp;nomListe=Tendances+de+la+semaine&amp;typM=movie",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Tendances de la semaine - serie</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://special%3a%2f%2fhome%2faddons%2fplugin.video.sendtokodiU2P%2fresources%2fpng%2fserie.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&amp;famille=specialWid&amp;nomListe=Tendances+de+la+semaine&amp;typM=tvshow",return)</action>
+		</shortcut>
+	</shortcuts>

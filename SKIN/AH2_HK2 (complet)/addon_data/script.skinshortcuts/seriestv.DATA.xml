@@ -1,0 +1,106 @@
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>Recherche</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/tv-search.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=filtres&amp;typM=tvshow",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Mes favoris HK</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/bookmark-star.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=MenuSerie&amp;famille=Mes+favoris+HK",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Mon historique</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://special%3a%2f%2fhome%2faddons%2fplugin.video.sendtokodiU2P%2fresources%2fpng%2fMon%20historique.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=MenuSerie&amp;famille=Mon+historique",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Derniers Ajouts</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://special%3a%2f%2fhome%2faddons%2fplugin.video.sendtokodiU2P%2fresources%2fpng%2fDerniers%20Ajouts.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=MenuSerie&amp;famille=Derniers+Ajouts",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Derniers Ajouts Series</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/livetv.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=MenuSerie&amp;famille=Derniers+Ajouts+Series",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Nouveautés par année</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/livetv.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=MenuSerie&amp;famille=Nouveaut%C3%A9s+par+ann%C3%A9e",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Listes lecture</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/playlist2.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=MenuSerie&amp;famille=Listes+lecture",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Listes Trakt Séries</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/playlist2.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=MenuSerie&amp;famille=Listes+Trakt",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Genres</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=genres&amp;typM=tvshow",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Diffuseurs</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/tv.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.program.autowidget/?mode=group&amp;group=diffuseurs-1648224731.7668045&amp;refresh=&amp;reload=",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Séries (dossier)</label>
+		<label2>Programme</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/playlist2.png</thumb>
+		<action>ActivateWindow(Programs,"plugin://plugin.program.autowidget/?mode=group&amp;group=series-1646513822.308634&amp;refresh=&amp;reload=",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Séries (alpha)</label>
+		<label2>Programme</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/playlist.png</thumb>
+		<action>ActivateWindow(Programs,"plugin://plugin.program.autowidget/?mode=group&amp;group=series_%28alpha%29-1646514700.1677954&amp;refresh=&amp;reload=",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Series 4k</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/livetv.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=MenuSerie&amp;groupe=Series+4k",return)</action>
+		</shortcut>
+	</shortcuts>

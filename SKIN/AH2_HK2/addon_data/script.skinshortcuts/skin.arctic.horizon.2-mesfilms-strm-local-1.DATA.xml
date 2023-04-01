@@ -1,0 +1,66 @@
+<shortcuts>
+	<shortcut>
+		<defaultID>1034</defaultID>
+		<label>1034</label>
+		<label2 />
+		<icon>special://skin/extras/icons/shortcut.png</icon>
+		<thumb />
+		<action>Submenu</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>31090</defaultID>
+		<label>$SKIN[31090|skin.arctic.horizon.2|En cours]</label>
+		<label2>Elément personnalisé</label2>
+		<icon>special://skin/extras/icons/timer.png</icon>
+		<thumb />
+		<action>special://home/addons/skin.arctic.horizon.2/extras/playlists/InProgressMovies.xsp</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>20382</defaultID>
+		<label>20382</label>
+		<label2>Elément personnalisé</label2>
+		<icon>special://skin/extras/icons/recentlyadded.png</icon>
+		<thumb />
+		<action>special://home/addons/skin.arctic.horizon.2/extras/playlists/NewMovies.xsp</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>31092</defaultID>
+		<label>$SKIN[31092|skin.arctic.horizon.2|Top 250 IMDb]</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultMusicTop100Albums.png</icon>
+		<thumb />
+		<action>special://home/addons/skin.arctic.horizon.2/extras/playlists/Top250Movies.xsp</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>31089</defaultID>
+		<label>$SKIN[31089|skin.arctic.horizon.2|Vu récemment]</label>
+		<label2>Elément personnalisé</label2>
+		<icon>special://skin/extras/icons/recent.png</icon>
+		<thumb />
+		<action>special://home/addons/skin.arctic.horizon.2/extras/playlists/RecentMovies.xsp</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>31091</defaultID>
+		<label>$SKIN[31091|skin.arctic.horizon.2|Les mieux notés]</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultMusicTop100Albums.png</icon>
+		<thumb />
+		<action>special://home/addons/skin.arctic.horizon.2/extras/playlists/TopRatedMovies.xsp</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>20434</defaultID>
+		<label>20434</label>
+		<label2>videos</label2>
+		<icon>special://skin/extras/icons/sets.png</icon>
+		<thumb />
+		<action>videodb://movies/sets/</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>31371</defaultID>
+		<label>$SKIN[31371|skin.arctic.horizon.2|Stacked - Displays folder of item focused in widget above]</label>
+		<label2 />
+		<icon>special://skin/extras/icons/shortcut.png</icon>
+		<thumb />
+		<action>Stacked</action>
+	</shortcut>
+</shortcuts>

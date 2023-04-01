@@ -1,0 +1,71 @@
+{
+    "label": "Films",
+    "type": "widget",
+    "paths": [
+        {
+            "label": "Les plus pirat\u00e9s (Films)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Les%20plus%20pirat%c3%a9s%20(Films)&list_slug=les-plus-pirates-films&owner=true&plugin_category=Les%20plus%20pirat%c3%a9s%20(Films)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png"
+                },
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "les_plus_pirates_(films)-1676730553.6381204",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Les plus populaires de la semaine (Films)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Les%20plus%20populaires%20de%20la%20semaine%20(Films)&list_slug=les-plus-populaires-de-la-semaine-films&owner=true&plugin_category=Les%20plus%20populaires%20de%20la%20semaine%20(Films)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png"
+                },
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "les_plus_populaires_de_la_semaine_(films)-1676732766.0816488",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Les plus tendances (Films)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Les%20plus%20tendances%20(Films)&list_slug=les-plus-tendances-films&owner=true&plugin_category=Les%20plus%20tendances%20(Films)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png"
+                },
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "les_plus_tendances_(films)-1676732786.6305707",
+            "version": "3.7.0"
+        }
+    ],
+    "id": "films-1676730545.7554471",
+    "art": {
+        "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-sync.png",
+        "fanart": "special://home/addons\\plugin.program.autowidget\\resources\\media\\fanart\\folder-sync.png",
+        "icon": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-sync.png",
+        "poster": "special://home/addons\\plugin.program.autowidget\\resources\\media\\poster\\folder-sync.png",
+        "thumb": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-sync.png"
+    },
+    "version": "3.7.0",
+    "content": "",
+    "sort_order": "1"
+}

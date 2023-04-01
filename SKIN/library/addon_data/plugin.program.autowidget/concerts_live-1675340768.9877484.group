@@ -1,0 +1,90 @@
+{
+    "label": "concerts live",
+    "type": "widget",
+    "paths": [
+        {
+            "label": "Music Concerts, Artists & Bands (2 of4)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Music%20Concerts%2c%20Artists%20%26%20Bands%20(2%20of4)&list_slug=music-concerts-artists-bands-2-of4&plugin_category=Music%20Concerts%2c%20Artists%20%26%20Bands%20(2%20of4)&user_slug=krissykk&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png"
+                },
+                "plot": "Music Concerts Artists & Bands : PRE 60'S - PRESENT\r\n\r\nOTHER MUSIC LISTS\r\nMUSIC Bio-Documentaries Musicians/Singers/Bands (1 of 4) https://trakt.tv/users/krissykk/lists/music-bio-documentaries-musicians-singers-bands-1-of-4?sort=title,asc\r\nMusic Concerts, Artists & Bands (2 of4) https://trakt.tv/users/krissykk/lists/music-concerts-artists-bands-2-of4?sort=title,asc\r\nMUSIC Elvis Presley (3 of 4) https://trakt.tv/users/krissykk/lists/music-elvis-presley-3-of-4?sort=released,asc\r\nMUSICALS Movies & Shows (4 of 4) https://trakt.tv/users/krissykk/lists/musicals-movies-shows-4-of-4?sort=rank,asc\r\nFLASHBACK TO GOLDEN OLDIES - Movies & Dance pre 60's https://trakt.tv/users/krissykk/lists/flashback-to-the-golden-oldies-movies-actors-pre-60-s?sort=rank,asc\r\nANIMATION-PIXAR- FAMILY (1of2) - SHORT FILMS (Also see Family 2of2) https://trakt.tv/users/krissykk/lists/animation-pixar-family-1of2-short-films-also-see-family-2of2?sort=rank,asc\r\nFAERIE TALE THEATRE LIVE ACTION THEATER https://trakt.tv/users/krissykk/lists/faerie-tale-theatre-live-action-theatre?sort=rank,asc",
+                "studio": "Krissykk",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "music_concerts_artists__bands_(2_of4)-1675344031.5348115",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Live Concerts & Music",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Live%20Concerts%20%26%20Music&list_slug=live-concerts-music&plugin_category=Live%20Concerts%20%26%20Music&user_slug=dwarnes1970&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png"
+                },
+                "studio": "dwarnes1970",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "live_concerts__music-1675344053.3678124",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Live concerts",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Live%20concerts&list_slug=live-concerts&plugin_category=Live%20concerts&user_slug=hazeyboy&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png"
+                },
+                "studio": "hazeyboy",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "live_concerts-1675344075.5502698",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Concerts",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Concerts&list_slug=concerts&plugin_category=Concerts&user_slug=rjchignell&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png"
+                },
+                "studio": "Chiggerz",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "concerts-1675344100.799797",
+            "version": "3.7.0"
+        }
+    ],
+    "id": "concerts_live-1675340768.9877484",
+    "art": {
+        "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-sync.png",
+        "fanart": "special://home/addons\\plugin.program.autowidget\\resources\\media\\fanart\\folder-sync.png",
+        "icon": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-sync.png",
+        "poster": "special://home/addons\\plugin.program.autowidget\\resources\\media\\poster\\folder-sync.png",
+        "thumb": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-sync.png"
+    },
+    "version": "3.7.0",
+    "content": "",
+    "sort_order": "50"
+}

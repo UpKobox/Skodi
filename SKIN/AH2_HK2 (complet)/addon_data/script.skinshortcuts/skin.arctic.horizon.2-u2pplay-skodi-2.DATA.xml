@@ -1,0 +1,58 @@
+<shortcuts>
+	<shortcut>
+		<defaultID>plugin.video.sendtokodiU2P</defaultID>
+		<label>U2Pplay</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>thumb</thumb>
+		<action>CustomNode2</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>customnode1</defaultID>
+		<label>Documentaires Films</label>
+		<label2>Elément personnalisé</label2>
+		<icon>special://skin/extras/icons/shortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&amp;famille=docu&amp;offset=0",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Documentaire Series</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://special%3a%2f%2fhome%2faddons%2fplugin.video.sendtokodiU2P%2fresources%2fpng%2fgenre%2fDocumentaire.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&amp;famille=genres&amp;typgenre=Documentaire&amp;offset=0&amp;limit=500",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>customnode2</defaultID>
+		<label>Sports TMDB</label>
+		<label2>Elément personnalisé</label2>
+		<icon>special://skin/extras/icons/shortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&amp;famille=sport&amp;offset=0",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Sports (divers)</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://special%3a%2f%2fhome%2faddons%2fplugin.video.sendtokodiU2P%2fresources%2fpng%2fliste.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=folderPub&amp;offset=0&amp;typM=divers&amp;repo=sport",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>customnode3</defaultID>
+		<label>Spectacles</label>
+		<label2>Elément personnalisé</label2>
+		<icon>special://skin/extras/icons/shortcut.png</icon>
+		<thumb />
+		<action>CustomNode3</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>customnode1</defaultID>
+		<label>Skodi</label>
+		<label2>Elément personnalisé</label2>
+		<icon>special://skin/extras/icons/shortcut.png</icon>
+		<thumb />
+		<action>CustomNode1</action>
+		</shortcut>
+	</shortcuts>

@@ -1,0 +1,18 @@
+<shortcuts>
+	<shortcut>
+		<defaultID>35232</defaultID>
+		<label>35232</label>
+		<label2 />
+		<icon>special://skin/extras/icons/shortcut.png</icon>
+		<thumb />
+		<action>Fullscreen</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>1037</defaultID>
+		<label>1037</label>
+		<label2>videos</label2>
+		<icon>special://skin/extras/icons/video-addons.png</icon>
+		<thumb />
+		<action>addons://sources/video/</action>
+	</shortcut>
+</shortcuts>

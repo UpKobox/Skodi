@@ -1,0 +1,5 @@
+<node order="70" type="folder">
+	<label>Studios</label>
+	<icon>DefaultStudios.png</icon>
+	<path>plugin://plugin.video.themoviedb.helper/?info=watch_providers&amp;tmdb_type=movie</path>
+</node>

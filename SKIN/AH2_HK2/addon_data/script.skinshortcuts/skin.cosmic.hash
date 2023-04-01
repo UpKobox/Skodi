@@ -1,0 +1,116 @@
+[
+    [
+        "::PROFILELIST::",
+        [
+            [
+                "/Users/didibz/Library/Application Support/Kodi/userdata/",
+                "String.IsEqual(System.ProfileName,Master user)",
+                "Master user"
+            ]
+        ]
+    ],
+    [
+        "::SCRIPTVER::",
+        "2.0.1"
+    ],
+    [
+        "::XBMCVER::",
+        "19"
+    ],
+    [
+        "::HIDEPVR::",
+        "false"
+    ],
+    [
+        "::SHARED::",
+        "true"
+    ],
+    [
+        "::SKINDIR::",
+        "skin.cosmic"
+    ],
+    [
+        "::FULLMENU::",
+        "True"
+    ],
+    [
+        "::SKINVER::",
+        "1.0.65"
+    ],
+    [
+        "/Users/didibz/Library/Application Support/Kodi/addons/skin.cosmic/shortcuts/overrides.xml",
+        "7c3c78aea2e69f7545684c4691528761"
+    ],
+    [
+        "/Users/didibz/Library/Application Support/Kodi/userdata/addon_data/script.skinshortcuts/31103.DATA.xml",
+        "e8a9cfd9523cf97139a105d892cd699e"
+    ],
+    [
+        "/Users/didibz/Library/Application Support/Kodi/userdata/addon_data/script.skinshortcuts/acceuil.DATA.xml",
+        "80496cc67fd646ad0e4f5776186b056d"
+    ],
+    [
+        "/Users/didibz/Library/Application Support/Kodi/userdata/addon_data/script.skinshortcuts/series-1.DATA.xml",
+        "72743854e974efe9c3e20a63b7645743"
+    ],
+    [
+        "/Users/didibz/Library/Application Support/Kodi/userdata/addon_data/script.skinshortcuts/films-1.DATA.xml",
+        "b4285015cf79571b630ac19857c24fd0"
+    ],
+    [
+        "/Users/didibz/Library/Application Support/Kodi/addons/script.skinshortcuts/resources/shortcuts/mainmenu.DATA.xml",
+        "8523f5b50afc14f67af449ca99ee21f8"
+    ],
+    [
+        "/Users/didibz/Library/Application Support/Kodi/addons/skin.cosmic/shortcuts/mainmenu.DATA.xml",
+        "51d9e9048d49ddf9862db1859abef052"
+    ],
+    [
+        "/Users/didibz/Library/Application Support/Kodi/userdata/addon_data/script.skinshortcuts/japanime-1.DATA.xml",
+        "a18cf125a6040605099df00861704131"
+    ],
+    [
+        "/Users/didibz/Library/Application Support/Kodi/userdata/addon_data/script.skinshortcuts/films.DATA.xml",
+        "f34e7feffa39ad44d653fe5b25a8b5e1"
+    ],
+    [
+        "/Users/didibz/Library/Application Support/Kodi/addons/skin.cosmic/xml/script-skinshortcuts-includes.xml",
+        "7e50ce95c15c79337188ed31ef6872aa"
+    ],
+    [
+        "/Users/didibz/Library/Application Support/Kodi/addons/script.skinshortcuts/resources/shortcuts/livetv.DATA.xml",
+        "3d409a85845a37633a956e43636c0535"
+    ],
+    [
+        "/Users/didibz/Library/Application Support/Kodi/userdata/addon_data/script.skinshortcuts/acceuil-1.DATA.xml",
+        "7ac68e40b098b34ebd1f8565de004b98"
+    ],
+    [
+        "/Users/didibz/Library/Application Support/Kodi/addons/skin.cosmic/shortcuts/shutdown.DATA.xml",
+        "e8c5408a7a8d7c12be1da5c6bc7e5e89"
+    ],
+    [
+        "/Users/didibz/Library/Application Support/Kodi/userdata/addon_data/script.skinshortcuts/parametres.DATA.xml",
+        "97d8c19357ff773db79bdeaa292014ce"
+    ],
+    [
+        "/Users/didibz/Library/Application Support/Kodi/addons/script.skinshortcuts/resources/shortcuts/overrides.xml",
+        "5d367b4cf434ffcb86069273d402dc28"
+    ],
+    [
+        "/Users/didibz/Library/Application Support/Kodi/userdata/addon_data/script.skinshortcuts/mainmenu.DATA.xml",
+        "06aaf7ed77bf15e4c3bad1ae4f7fb973"
+    ],
+    [
+        "/Users/didibz/Library/Application Support/Kodi/addons/skin.cosmic/shortcuts/template.xml",
+        "9425dc35f8c9766addbd57151734f9a1"
+    ],
+    [
+        "/Users/didibz/Library/Application Support/Kodi/userdata/addon_data/script.skinshortcuts/japanime.DATA.xml",
+        "5aaaa4be7ff5240279f78964f6c4bf68"
+    ],
+    [
+        "/Users/didibz/Library/Application Support/Kodi/userdata/addon_data/script.skinshortcuts/series.DATA.xml",
+        "7881530a0effa72e8d4be284e0872939"
+    ]
+]

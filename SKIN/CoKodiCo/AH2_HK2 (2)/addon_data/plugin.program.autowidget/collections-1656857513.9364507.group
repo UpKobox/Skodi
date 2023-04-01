@@ -1,0 +1,303 @@
+{
+    "label": "Collections Films",
+    "type": "shortcut",
+    "paths": [
+        {
+            "label": "Bollywood",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&famille=groupes&nom=bollywood&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/deep_purple.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://masterprofile/addon_data/icones/boolywood (2) (1).png"
+                },
+                "title": "Bollywood",
+                "plot": "bollywood",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "bollywood-1662458047.2230604",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Bud spencer & t\u00e9rence hill",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&famille=groupes&nom=bud%20spencer%20%26%20t%c3%a9rence%20hill&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/deep_purple.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://masterprofile/addon_data/icones/burdspencersp.png"
+                },
+                "title": "Bud spencer & t\u00e9rence hill",
+                "plot": "bud spencer & t\u00e9rence hill",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "bud_spencer__terence_hill-1656857517.28624",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Films avant 70",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&famille=groupes&nom=films%20avant%2070&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/light_green.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://masterprofile/addon_data/icones/films (3).png"
+                },
+                "title": "Films avant 70",
+                "plot": "films avant 70",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "films_avant_70-1656857551.30286",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Films de dance",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&famille=groupes&nom=films%20de%20dance&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/sunflower_yellow.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://masterprofile/addon_data/icones/danse (2) (1).png"
+                },
+                "title": "Films de dance",
+                "plot": "films de dance",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "films_de_dance-1661529395.2545671",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Films de gangsters",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&famille=groupes&nom=films%20de%20gangsters&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/deep_purple.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://masterprofile/addon_data/icones/ganster (4) (1).png"
+                },
+                "title": "Films de gangsters",
+                "plot": "films de gangsters",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "films_de_gangsters-1660894076.6316502",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Films de noel",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&famille=groupes&nom=films%20de%20noel&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/pretty_pink.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://masterprofile/addon_data/icones/noel.png"
+                },
+                "title": "Films de noel",
+                "plot": "films de noel",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "films_de_noel-1656857559.320264",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Gagnants des cesars",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&famille=groupes&nom=gagnants%20des%20cesars&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/mango.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://masterprofile/addon_data/icones/cesar (2).png"
+                },
+                "title": "Gagnants des cesars",
+                "plot": "gagnants des cesars",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "gagnants_des_cesars-1661529421.988752",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Quebec",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&famille=quebec&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/sunflower_yellow.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://masterprofile/addon_data/icones/quebec (5).png"
+                },
+                "title": "Quebec",
+                "plot": "quebec",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "quebec-1658940001.327942",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Superheros films",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&famille=groupes&nom=superheros%20films&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/pretty_pink.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://masterprofile/addon_data/icones/superheros (5).png"
+                },
+                "title": "Superheros films",
+                "plot": "superheros films",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "superheros_films-1656857590.8046525",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Superheros anime films",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&famille=groupes&nom=superheros%20anime%20films&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/sky_blue.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://masterprofile/addon_data/icones/superheros.png"
+                },
+                "title": "Superheros anime films",
+                "plot": "superheros anime films",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "superheros_anime_films-1656857581.920205",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Superman (1941-1942)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&famille=groupes&nom=superman%20(1941-1942)&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/light_green.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://masterprofile/addon_data/icones/superman__40.png"
+                },
+                "title": "Superman (1941-1942)",
+                "plot": "superman (1941-1942)",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "superman_(1941-1942)-1660893913.1608434",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Vieux_films",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&famille=groupes&nom=vieux_films&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/deep_purple.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://masterprofile/addon_data/icones/vieuxfilms (1).png"
+                },
+                "title": "Vieux_films",
+                "plot": "vieux_films",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "vieux_films-1656857598.837512",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Westerns",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&famille=groupes&nom=westerns&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/teal.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://masterprofile/addon_data/icones/westernclint (2).png"
+                },
+                "title": "Westerns",
+                "plot": "westerns",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "westerns-1656857606.2874546",
+            "version": "3.6.1"
+        }
+    ],
+    "id": "collections-1656857513.9364507",
+    "art": {
+        "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+        "fanart": "special://home/addons\\plugin.program.autowidget\\resources\\media\\fanart\\folder-shortcut.png",
+        "icon": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png",
+        "poster": "special://home/addons\\plugin.program.autowidget\\resources\\media\\poster\\folder-shortcut.png",
+        "thumb": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png"
+    },
+    "version": "3.7.0",
+    "content": "",
+    "sort_order": "2"
+}

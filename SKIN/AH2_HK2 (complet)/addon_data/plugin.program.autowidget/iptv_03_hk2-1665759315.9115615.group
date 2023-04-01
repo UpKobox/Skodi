@@ -1,0 +1,80 @@
+{
+    "label": "IPTV 03 HK2",
+    "type": "shortcut",
+    "paths": [
+        {
+            "label": "Ajouter adresse",
+            "content": "files",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=ajoutIPTV",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/deep_purple.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/iptv.png",
+                    "thumb": "special://masterprofile/addon_data/icones/tvajout.png"
+                },
+                "title": "Ajouter adresse",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "ajouter_adresse-1665759325.02849",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Bank",
+            "content": "files",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=IPTVbank",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/light_green.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/iptv.png",
+                    "thumb": "special://masterprofile/addon_data/icones/tvbank.png"
+                },
+                "title": "Bank",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "bank-1665759340.9288719",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Favoris",
+            "content": "files",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=IPTVfav",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/teal.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/iptv.png",
+                    "thumb": "special://masterprofile/addon_data/icones/tvfavs.png"
+                },
+                "title": "Favoris",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "favoris-1665759353.9120798",
+            "version": "3.7.0"
+        }
+    ],
+    "id": "iptv_03_hk2-1665759315.9115615",
+    "art": {
+        "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+        "fanart": "special://home/addons\\plugin.program.autowidget\\resources\\media\\fanart\\folder-shortcut.png",
+        "icon": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png",
+        "poster": "special://home/addons\\plugin.program.autowidget\\resources\\media\\poster\\folder-shortcut.png",
+        "thumb": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png"
+    },
+    "version": "3.7.0",
+    "content": "",
+    "sort_order": "35"
+}

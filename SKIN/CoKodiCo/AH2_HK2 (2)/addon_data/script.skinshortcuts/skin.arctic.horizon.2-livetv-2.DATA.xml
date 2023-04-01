@@ -1,0 +1,18 @@
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>IPTV</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://special%3a%2f%2fhome%2faddons%2fplugin.video.sendtokodiU2P%2fresources%2fpng%2fspecial%3a%2f%2fhome%2faddons%2fplugin.video.sendtokodiU2P%2fresources%2fpng%2fiptv.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=iptvLoad",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>customnode1</defaultID>
+		<label>Custom Node 1</label>
+		<label2 />
+		<icon>special://skin/extras/icons/shortcut.png</icon>
+		<thumb />
+		<action>CustomNode1</action>
+		</shortcut>
+	</shortcuts>

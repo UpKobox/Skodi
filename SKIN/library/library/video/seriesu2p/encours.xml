@@ -1,0 +1,4 @@
+<node order="20" type="folder">
+	<label>En cours</label>
+	<path>plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&amp;famille=Mon+historique&amp;offset=0&amp;suite=1</path>
+</node>

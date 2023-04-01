@@ -1,0 +1,5 @@
+<node order="30" type="folder">
+	<label>genres</label>
+	<icon>DefaultGenre.png</icon>
+	<path>plugin://plugin.video.sendtokodiU2P/?action=genresHK&amp;typM=tvshow</path>
+</node>

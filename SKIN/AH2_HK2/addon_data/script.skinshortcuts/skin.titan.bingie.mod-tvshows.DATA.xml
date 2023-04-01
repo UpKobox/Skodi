@@ -1,0 +1,34 @@
+<shortcuts>
+	<shortcut>
+		<defaultID>369</defaultID>
+		<label>$SKIN[31051|skin.titan.bingie.mod|Toutes les séries TV]</label>
+		<label2>Elément personnalisé</label2>
+		<icon>$INFO[Window(Home).Property(SkinHelper.AllTvShowsBackground)]</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&amp;famille=seriesall",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Nouveautées</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://special%3a%2f%2fhome%2faddons%2fplugin.video.sendtokodiU2P%2fresources%2fpng%2fSerie.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&amp;famille=serieserie",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Listes</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://special%3a%2f%2fhome%2faddons%2fplugin.video.sendtokodiU2P%2fresources%2fpng%2fliste.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&amp;famille=specialWid",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>135</defaultID>
+		<label>135</label>
+		<label2>Elément personnalisé</label2>
+		<icon>resource://resource.images.skinicons.wide/defaultgenre.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=genresHK&amp;typM=tvshow",return)</action>
+	</shortcut>
+</shortcuts>

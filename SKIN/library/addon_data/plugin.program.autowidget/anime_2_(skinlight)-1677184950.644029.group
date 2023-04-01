@@ -1,0 +1,77 @@
+{
+    "label": "Anime 2 (skinLight)",
+    "type": "shortcut",
+    "paths": [
+        {
+            "label": "Ann\u00e9es 80 (Anime)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Ann%c3%a9es%2080%20(Anime)&list_slug=annees-80-anime&owner=true&plugin_category=Ann%c3%a9es%2080%20(Anime)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/80.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/annees-80-anime\r\nUpdated at 2023-02-23 18:12:32",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "annees_80_(anime)-1677184953.6276643",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Studio Ghibli (Anime)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Studio%20Ghibli%20(Anime)&list_slug=studio-ghibli-anime&owner=true&plugin_category=Studio%20Ghibli%20(Anime)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Ghibli.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/studio-ghibli-anime\r\nUpdated at 2023-02-22 17:49:37",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "studio_ghibli_(anime)-1677184960.5100677",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Films les plus populaires (Anime)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Films%20les%20plus%20populaires%20(Anime)&list_slug=films-les-plus-populaires-anime&owner=true&plugin_category=Films%20les%20plus%20populaires%20(Anime)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Anime-Films.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/films-les-plus-populaires-anime\r\nUpdated at 2023-02-23 20:27:04",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "films_les_plus_populaires_(anime)-1677184969.8438284",
+            "version": "3.7.0"
+        }
+    ],
+    "id": "anime_2_(skinlight)-1677184950.644029",
+    "art": {
+        "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+        "fanart": "special://home/addons\\plugin.program.autowidget\\resources\\media\\fanart\\folder-shortcut.png",
+        "icon": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png",
+        "poster": "special://home/addons\\plugin.program.autowidget\\resources\\media\\poster\\folder-shortcut.png",
+        "thumb": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png"
+    },
+    "version": "3.7.0",
+    "content": "",
+    "sort_order": "20"
+}

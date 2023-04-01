@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<node order="10" type="folder">
+	<label>ajouté récemment</label>
+	<icon>DefaultRecentlyAddedMovies.png</icon>
+	<path>plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&amp;famille=nouveau</path>
+</node>

@@ -1,0 +1,34 @@
+{
+    "label": "Installer Addon Zip",
+    "type": "shortcut",
+    "paths": [
+        {
+            "label": "Installer d'un fichier Zip",
+            "content": null,
+            "file": {
+                "file": "addons://install/",
+                "filetype": "file",
+                "art": {
+                    "icon": "special://masterprofile/addon_data/icones/zipaddon.png"
+                },
+                "size": "0 B"
+            },
+            "color": "white",
+            "window": "addonbrowser",
+            "target": "shortcut",
+            "id": "installer_dun_fichier_zip-1661339593.3752291",
+            "version": "3.7.0"
+        }
+    ],
+    "id": "installer_addon_zip-1661339583.4254944",
+    "art": {
+        "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+        "fanart": "special://home/addons\\plugin.program.autowidget\\resources\\media\\fanart\\folder-shortcut.png",
+        "icon": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png",
+        "poster": "special://home/addons\\plugin.program.autowidget\\resources\\media\\poster\\folder-shortcut.png",
+        "thumb": "special://masterprofile/addon_data/icones/zipaddon (2).png"
+    },
+    "version": "3.7.0",
+    "content": "",
+    "sort_order": "29"
+}

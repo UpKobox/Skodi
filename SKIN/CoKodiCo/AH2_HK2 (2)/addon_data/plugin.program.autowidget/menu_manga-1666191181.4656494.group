@@ -1,0 +1,80 @@
+{
+    "label": "Menu Manga",
+    "type": "shortcut",
+    "paths": [
+        {
+            "label": "Manga (adulte)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.program.autowidget/?group=manga_(adulte)-1659272979.6575255&mode=group&refresh&reload",
+                "filetype": "directory",
+                "art": {
+                    "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/thenuit.png",
+                    "icon": "special://masterprofile/addon_data/icones/MANGAADULTE.png",
+                    "poster": "special://masterprofile/addon_data/icones/mangapetit (3).png",
+                    "thumb": "special://masterprofile/addon_data/icones/mangapetit (3).png"
+                },
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "programs",
+            "target": "shortcut",
+            "id": "manga_(adulte)-1666191200.7156994",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Manga Films",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.program.autowidget/?group=manga-1656857391.2525618&mode=group&refresh&reload",
+                "filetype": "directory",
+                "art": {
+                    "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/thenuit.png",
+                    "icon": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png",
+                    "poster": "special://masterprofile/addon_data/icones/manga1_-_Copie__3_-removebg-preview (8) (1).png",
+                    "thumb": "special://masterprofile/addon_data/icones/mangapetit (1).png"
+                },
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "programs",
+            "target": "shortcut",
+            "id": "manga_films-1666191208.632796",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Manga S\u00e9ries",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.program.autowidget/?group=manga_series-1659274377.996836&mode=group&refresh&reload",
+                "filetype": "directory",
+                "art": {
+                    "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/thenuit.png",
+                    "icon": "special://masterprofile/addon_data/icones/manga1_-_Copie__3_-removebg-preview (6).png",
+                    "poster": "special://masterprofile/addon_data/icones/mangapetit (2).png",
+                    "thumb": "special://masterprofile/addon_data/icones/manga1_-_Copie__3_-removebg-preview (6).png"
+                },
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "programs",
+            "target": "shortcut",
+            "id": "manga_series-1666191217.2487967",
+            "version": "3.7.0"
+        }
+    ],
+    "id": "menu_manga-1666191181.4656494",
+    "art": {
+        "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+        "fanart": "special://home/addons\\plugin.program.autowidget\\resources\\media\\fanart\\folder-shortcut.png",
+        "icon": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png",
+        "poster": "special://home/addons\\plugin.program.autowidget\\resources\\media\\poster\\folder-shortcut.png",
+        "thumb": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png"
+    },
+    "version": "3.7.0",
+    "content": "",
+    "sort_order": "40"
+}

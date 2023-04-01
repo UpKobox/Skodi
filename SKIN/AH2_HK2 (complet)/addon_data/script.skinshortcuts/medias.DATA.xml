@@ -1,0 +1,10 @@
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>Films Sélections</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://special%3a%2f%2fhome%2faddons%5cplugin.program.autowidget%5cresources%5cmedia%5cicon%5cfolder-shortcut.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.program.autowidget/?mode=group&amp;group=films_hk-1647777504.7701712&amp;refresh=&amp;reload=",return)</action>
+		</shortcut>
+	</shortcuts>

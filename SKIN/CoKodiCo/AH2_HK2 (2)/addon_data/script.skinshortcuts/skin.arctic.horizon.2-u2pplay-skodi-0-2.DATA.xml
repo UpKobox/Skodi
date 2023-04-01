@@ -1,0 +1,26 @@
+<shortcuts>
+	<shortcut>
+		<defaultID>customnode1</defaultID>
+		<label>Custom Node 1</label>
+		<label2 />
+		<icon>special://skin/extras/icons/shortcut.png</icon>
+		<thumb />
+		<action>CustomNode1</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>customnode2</defaultID>
+		<label>Custom Node 2</label>
+		<label2 />
+		<icon>special://skin/extras/icons/shortcut.png</icon>
+		<thumb />
+		<action>CustomNode2</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>customnode3</defaultID>
+		<label>Custom Node 3</label>
+		<label2 />
+		<icon>special://skin/extras/icons/shortcut.png</icon>
+		<thumb />
+		<action>CustomNode3</action>
+	</shortcut>
+</shortcuts>

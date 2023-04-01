@@ -1,0 +1,5 @@
+<node order="80" type="folder" visible="Library.HasContent(MovieSets)">
+	<label>Sagas</label>
+	<icon>DefaultSets.png</icon>
+	<path>plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&amp;famille=sagas&amp;offset=0&amp;limit=100</path>
+</node>

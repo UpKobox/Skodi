@@ -1,0 +1,54 @@
+{
+    "label": "Kids Films",
+    "type": "widget",
+    "paths": [
+        {
+            "label": "Les plus populaires de la semaine (Kids Films)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Les%20plus%20populaires%20de%20la%20semaine%20(Kids%20Films)&list_slug=les-plus-populaires-de-la-semaine-kids-films&owner=true&plugin_category=Les%20plus%20populaires%20de%20la%20semaine%20(Kids%20Films)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png"
+                },
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "les_plus_populaires_de_la_semaine_(kids_films)-1676809685.2898927",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Les plus tendances (Kids Films)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Les%20plus%20tendances%20(Kids%20Films)&list_slug=les-plus-tendances-kids-films&owner=true&plugin_category=Les%20plus%20tendances%20(Kids%20Films)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/les-plus-tendances-kids-films\r\nUpdated at 2023-02-19 12:52:11",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "les_plus_tendances_(kids_films)-1676809704.4216373",
+            "version": "3.7.0"
+        }
+    ],
+    "id": "kids_films-1676809680.2394857",
+    "art": {
+        "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-sync.png",
+        "fanart": "special://home/addons\\plugin.program.autowidget\\resources\\media\\fanart\\folder-sync.png",
+        "icon": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-sync.png",
+        "poster": "special://home/addons\\plugin.program.autowidget\\resources\\media\\poster\\folder-sync.png",
+        "thumb": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-sync.png"
+    },
+    "version": "3.7.0",
+    "content": "",
+    "sort_order": "6"
+}

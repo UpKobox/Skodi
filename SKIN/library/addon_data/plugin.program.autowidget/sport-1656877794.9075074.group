@@ -1,0 +1,171 @@
+{
+    "label": "Sport",
+    "type": "shortcut",
+    "paths": [
+        {
+            "label": "Sport",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&famille=sport&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/deep_purple.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://masterprofile/addon_data/icones/wwe.png"
+                },
+                "title": "Sport",
+                "plot": "sport",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "sport-1656878027.7660484",
+            "version": "3.6.1"
+        },
+        {
+            "label": "[Sport]",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=folderPub&offset=0&repo=sport&typM=divers",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/light_green.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://masterprofile/addon_data/icones/sportdossier.png"
+                },
+                "title": "[Sport]",
+                "plot": "Partage alternatif Divers rep publique crypt\u00e9",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "sport-1656877806.8071382",
+            "version": "3.6.1"
+        },
+        {
+            "label": "[Sport2]",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=folderPub&offset=0&repo=sport2&typM=divers",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/mango.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://masterprofile/addon_data/icones/sportdossier.png"
+                },
+                "title": "[Sport2]",
+                "plot": "Partage alternatif Divers rep publique crypt\u00e9",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "sport2-1656877798.6398845",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Moto",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&famille=groupes&nom=moto&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/rich_magenta.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://masterprofile/addon_data/icones/moto (1).png"
+                },
+                "title": "Moto",
+                "plot": "moto",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "moto-1659278298.8166518",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Ufc catch",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&famille=groupes&nom=ufc%20catch&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/teal.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://masterprofile/addon_data/icones/ufcsp (1).png"
+                },
+                "title": "Ufc catch",
+                "plot": "ufc catch",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "ufc_catch-1659278315.6999485",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Wwe doc",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&famille=groupes&nom=wwe%20doc&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/sky_blue.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://masterprofile/addon_data/icones/wwe.png"
+                },
+                "title": "Wwe doc",
+                "plot": "wwe doc",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "wwe_doc-1659278340.7676027",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Wwe show",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&famille=groupes&nom=wwe%20show&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/pretty_pink.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://masterprofile/addon_data/icones/wwe.png"
+                },
+                "title": "Wwe show",
+                "plot": "wwe show",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "wwe_show-1659278356.3345509",
+            "version": "3.6.1"
+        }
+    ],
+    "id": "sport-1656877794.9075074",
+    "art": {
+        "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+        "fanart": "special://home/addons\\plugin.program.autowidget\\resources\\media\\fanart\\folder-shortcut.png",
+        "icon": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png",
+        "poster": "special://home/addons\\plugin.program.autowidget\\resources\\media\\poster\\folder-shortcut.png",
+        "thumb": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png"
+    },
+    "version": "3.7.0",
+    "content": "",
+    "sort_order": "26"
+}

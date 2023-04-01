@@ -1,0 +1,90 @@
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>Recherche</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/search.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=filtres&amp;typM=tvshow",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Nouveautés</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/eye.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=MenuSerie&amp;groupe=-Les+Nouveautes",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Derniers Ajouts</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/shuffle.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=MenuSerie&amp;famille=Derniers+Ajouts+Series",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Populaires</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/_ this is that productions.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=MenuSerie&amp;trakt=Les+plus+populaires",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Super Héros</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/_ marvel enterprises.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=MenuSerie&amp;trakt=Series+Super+Heros",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Par Diffuseur</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/_ netflix.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=MenuSerie&amp;trakt=Contenus+originaux",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Animés Adultes</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/man.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=MenuSerie&amp;trakt=Series+Animes+Adultes",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Séries Apocalyptique</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/skull.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=MenuSerie&amp;trakt=Series+Apocalyptique",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Dossiers Tous</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/playlist.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=MenuSerie",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Dossiers Alkodique</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/playlist.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=MenuSerie&amp;trakt=alKODIque",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Séries TV Local</label>
+		<label2>Vidéos</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/artist.png</thumb>
+		<action>ActivateWindow(Videos,"library://video/tvshows/",return)</action>
+		</shortcut>
+	</shortcuts>

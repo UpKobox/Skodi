@@ -1,0 +1,254 @@
+{
+    "label": "Films (Nouveaut\u00e9s)",
+    "type": "shortcut",
+    "paths": [
+        {
+            "label": "Les nouveaut\u00e9s (Films)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Les%20nouveaut%c3%a9s%20(Films)&list_slug=les-nouveautes-films&owner=true&plugin_category=Les%20nouveaut%c3%a9s%20(Films)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Nouveaut\u00e9s.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/les-nouveautes-films\r\nUpdated at 2023-02-23 05:29:25",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "les_nouveautes_(films)-1677166878.4318452",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Les plus populaires (Films)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Les%20plus%20populaires%20(Films)&list_slug=les-plus-populaires-films&owner=true&plugin_category=Les%20plus%20populaires%20(Films)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Populaires.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/les-plus-populaires-films\r\nUpdated at 2023-02-23 17:21:20",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "les_plus_populaires_(films)-1677166892.714719",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Films Recommand\u00e9 pour vous",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_recommendations&tmdb_type=movie&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/trakt/recommended.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Recommand\u00e9s.jpg"
+                },
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "films_recommande_pour_vous-1677171097.4779637",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Action & Aventure (Films r\u00e9cents)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Action%20%26%20Aventure%20(Films%20r%c3%a9cents)&list_slug=action-aventure-films-recents&owner=true&plugin_category=Action%20%26%20Aventure%20(Films%20r%c3%a9cents)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/New-Action.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/action-films\r\nUpdated at 2023-03-05 00:24:48",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "action__aventure_(films_recents)-1677974074.6334102",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Com\u00e9die (Films r\u00e9cents)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Com%c3%a9die%20(Films%20r%c3%a9cents)&list_slug=comedie-films-recents&owner=true&plugin_category=Com%c3%a9die%20(Films%20r%c3%a9cents)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/New-Com\u00e9die.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/comedy-movies-top-rated-from-1960-to-today\r\nUpdated at 2023-03-04 20:45:13",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "comedie_(films_recents)-1677974091.8832366",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Crime & Thriller (Films r\u00e9cents)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Crime%20%26%20Thriller%20(Films%20r%c3%a9cents)&list_slug=crime-thriller-films-recents&owner=true&plugin_category=Crime%20%26%20Thriller%20(Films%20r%c3%a9cents)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/New-Crime.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/crime-films-recents\r\nUpdated at 2023-03-04 23:36:26",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "crime__thriller_(films_recents)-1677974105.14909",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Drame & Romance (Films r\u00e9cents)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Drame%20%26%20Romance%20(Films%20r%c3%a9cents)&list_slug=drame-romance-films-recents&owner=true&plugin_category=Drame%20%26%20Romance%20(Films%20r%c3%a9cents)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/New-Drame.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/drama-movies-top-rated-from-1980-to-today\r\nUpdated at 2023-03-04 19:12:09",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "drame__romance_(films_recents)-1677974116.5315151",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Familial (Films r\u00e9cents)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Familial%20(Films%20r%c3%a9cents)&list_slug=familial-films-recents&owner=true&plugin_category=Familial%20(Films%20r%c3%a9cents)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/New-Familial.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/familial-films-recents\r\nUpdated at 2023-03-04 20:09:09",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "familial_(films_recents)-1677974134.5304523",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Fantastique & Science-Fiction (Films r\u00e9cents)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Fantastique%20%26%20Science-Fiction%20(Films%20r%c3%a9cents)&list_slug=fantastique-science-fiction-films-recents&owner=true&plugin_category=Fantastique%20%26%20Science-Fiction%20(Films%20r%c3%a9cents)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/New-Fantastique.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/fantastique-science-fiction-films-recents\r\nUpdated at 2023-03-04 19:36:09",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "fantastique__science-fiction_(films_recents)-1677974142.4467192",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Guerre & Histoire (Films r\u00e9cents)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Guerre%20%26%20Histoire%20(Films%20r%c3%a9cents)&list_slug=guerre-histoire-films-recents&owner=true&plugin_category=Guerre%20%26%20Histoire%20(Films%20r%c3%a9cents)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/New-Guerre.jpg"
+                },
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "guerre__histoire_(films_recents)-1678017228.486971",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Horreur (Films r\u00e9cents)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Horreur%20(Films%20r%c3%a9cents)&list_slug=horreur-films-recents&owner=true&plugin_category=Horreur%20(Films%20r%c3%a9cents)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/New-Horreur.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/horreur-films-recents\r\nUpdated at 2023-03-04 21:18:11",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "horreur_(films_recents)-1677974151.7129366",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Super-h\u00e9ros (Films r\u00e9cents)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Super-h%c3%a9ros%20(Films%20r%c3%a9cents)&list_slug=super-heros-films-recents&owner=true&plugin_category=Super-h%c3%a9ros%20(Films%20r%c3%a9cents)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/New-Super-h\u00e9ros.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/super-heros-films-recents\r\nUpdated at 2023-03-04 22:18:16",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "super-heros_(films_recents)-1677974159.7466512",
+            "version": "3.7.0"
+        }
+    ],
+    "id": "films_(skinlight)-1677166868.2487783",
+    "art": {
+        "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+        "fanart": "special://home/addons\\plugin.program.autowidget\\resources\\media\\fanart\\folder-shortcut.png",
+        "icon": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png",
+        "poster": "special://home/addons\\plugin.program.autowidget\\resources\\media\\poster\\folder-shortcut.png",
+        "thumb": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png"
+    },
+    "version": "3.7.0",
+    "content": "",
+    "sort_order": "13"
+}

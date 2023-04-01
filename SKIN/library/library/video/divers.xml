@@ -1,0 +1,4 @@
+<node order="70" type="folder">
+	<label>Divers</label>
+	<path>plugin://plugin.video.sendtokodiU2P/?action=folderPubDetails&amp;offset=0&amp;typM=divers</path>
+</node>

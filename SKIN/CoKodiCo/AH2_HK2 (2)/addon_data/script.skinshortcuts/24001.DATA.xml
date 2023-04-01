@@ -1,0 +1,50 @@
+<shortcuts>
+	<shortcut>
+		<defaultID>1037</defaultID>
+		<label>1037</label>
+		<label2 />
+		<icon>special://skin/extras/icons/video-addons.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,addons://sources/video,return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>1043</defaultID>
+		<label>1043</label>
+		<label2 />
+		<icon>special://skin/extras/icons/addons.png</icon>
+		<thumb />
+		<action>ActivateWindow(Programs,addons://sources/executable,return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>24032</defaultID>
+		<label>24032</label>
+		<label2 />
+		<icon>special://skin/extras/icons/database.png</icon>
+		<thumb />
+		<action>ActivateWindow(AddonBrowser,addons://user/all,return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>plugin.program.preniumuptobox</defaultID>
+		<label>Prenium Uptobox</label>
+		<label2>Programme</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/artist.png</thumb>
+		<action>ActivateWindow(Programs,"plugin://plugin.program.preniumuptobox",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>plugin.program.skinrayflix</defaultID>
+		<label>Skin Rayflix</label>
+		<label2>Programme</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/atom.png</thumb>
+		<action>ActivateWindow(Programs,"plugin://plugin.program.skinrayflix",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>plugin.program.saverayflix</defaultID>
+		<label>Save Rayflix</label>
+		<label2>Programme</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/calendar2.png</thumb>
+		<action>ActivateWindow(Programs,"plugin://plugin.program.saverayflix",return)</action>
+		</shortcut>
+	</shortcuts>

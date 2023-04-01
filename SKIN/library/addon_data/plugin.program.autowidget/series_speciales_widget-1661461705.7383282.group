@@ -1,0 +1,237 @@
+{
+    "label": "S\u00e9ries Sp\u00e9ciales Widget",
+    "type": "shortcut",
+    "paths": [
+        {
+            "label": "Animes populaires",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=specialWid&nomListe=Animes%20populaires&typM=tvshow",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/deep_purple.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/serie.png",
+                    "thumb": "special://masterprofile/addon_data/icones/anim\u00e9s.png"
+                },
+                "title": "Animes populaires",
+                "plot": "Animes populaires",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "animes_populaires-1661461710.3553014",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Animes r\u00e9cents",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=specialWid&nomListe=Animes%20r%c3%a9cents&typM=tvshow",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/light_green.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/serie.png",
+                    "thumb": "special://masterprofile/addon_data/icones/anim\u00e9s.png"
+                },
+                "title": "Animes r\u00e9cents",
+                "plot": "Animes r\u00e9cents",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "animes_recents-1661461721.7054923",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Les plus populaires",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=specialWid&nomListe=Les%20plus%20populaires&typM=tvshow",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/mango.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/serie.png",
+                    "thumb": "special://masterprofile/addon_data/icones/tvseries.png"
+                },
+                "title": "Les plus populaires",
+                "plot": "Les plus populaires",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "les_plus_populaires-1661461730.4385695",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Nouveaut\u00e9s",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=specialWid&nomListe=Nouveaut%c3%a9s&typM=tvshow",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/pretty_pink.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/serie.png",
+                    "thumb": "special://masterprofile/addon_data/icones/tvseries.png"
+                },
+                "title": "Nouveaut\u00e9s",
+                "plot": "Nouveaut\u00e9s",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "nouveautes-1661461742.3053596",
+            "version": "3.7.0"
+        },
+        {
+            "label": "S\u00e9ries d'animation populaires",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=specialWid&nomListe=S%c3%a9ries%20d%27animation%20populaires&typM=tvshow",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/rich_magenta.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/serie.png",
+                    "thumb": "special://masterprofile/addon_data/icones/anim\u00e9s.png"
+                },
+                "title": "S\u00e9ries d'animation populaires",
+                "plot": "S\u00e9ries d'animation populaires",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "series_danimation_populaires-1661461760.122064",
+            "version": "3.7.0"
+        },
+        {
+            "label": "S\u00e9ries d'animation r\u00e9centes",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=specialWid&nomListe=S%c3%a9ries%20d%27animation%20r%c3%a9centes&typM=tvshow",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/teal.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/serie.png",
+                    "thumb": "special://masterprofile/addon_data/icones/anim\u00e9s.png"
+                },
+                "title": "S\u00e9ries d'animation r\u00e9centes",
+                "plot": "S\u00e9ries d'animation r\u00e9centes",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "series_danimation_recentes-1661461769.1712143",
+            "version": "3.7.0"
+        },
+        {
+            "label": "S\u00e9ries populaires",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=specialWid&nomListe=S%c3%a9ries%20populaires&typM=tvshow",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/sunflower_yellow.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/serie.png",
+                    "thumb": "special://masterprofile/addon_data/icones/tvseries.png"
+                },
+                "title": "S\u00e9ries populaires",
+                "plot": "S\u00e9ries populaires",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "series_populaires-1661461778.3052177",
+            "version": "3.7.0"
+        },
+        {
+            "label": "S\u00e9ries r\u00e9centes",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=specialWid&nomListe=S%c3%a9ries%20r%c3%a9centes&typM=tvshow",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/sky_blue.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/serie.png",
+                    "thumb": "special://masterprofile/addon_data/icones/tvseries.png"
+                },
+                "title": "S\u00e9ries r\u00e9centes",
+                "plot": "S\u00e9ries r\u00e9centes",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "series_recentes-1661461787.7713928",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Tendances de la semaine",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=specialWid&nomListe=Tendances%20de%20la%20semaine&typM=tvshow",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/mango.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/serie.png",
+                    "thumb": "special://masterprofile/addon_data/icones/tvseries.png"
+                },
+                "title": "Tendances de la semaine",
+                "plot": "Tendances de la semaine",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "tendances_de_la_semaine-1661461800.822046",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Tendances du jour",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=specialWid&nomListe=Tendances%20du%20jour&typM=tvshow",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/teal.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/serie.png",
+                    "thumb": "special://masterprofile/addon_data/icones/tvseries.png"
+                },
+                "title": "Tendances du jour",
+                "plot": "Tendances du jour",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "tendances_du_jour-1661461809.604961",
+            "version": "3.7.0"
+        }
+    ],
+    "id": "series_speciales_widget-1661461705.7383282",
+    "art": {
+        "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+        "fanart": "special://home/addons\\plugin.program.autowidget\\resources\\media\\fanart\\folder-shortcut.png",
+        "icon": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png",
+        "poster": "special://home/addons\\plugin.program.autowidget\\resources\\media\\poster\\folder-shortcut.png",
+        "thumb": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png"
+    },
+    "version": "3.7.0",
+    "content": "",
+    "sort_order": "24"
+}

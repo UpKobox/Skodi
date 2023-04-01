@@ -1,0 +1,83 @@
+{
+    "label": "Series Doc",
+    "type": "shortcut",
+    "paths": [
+        {
+            "label": "Docu",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=groupes&nom=docu&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/deep_purple.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/docu.png",
+                    "thumb": "special://masterprofile/addon_data/icones/video (4).png"
+                },
+                "title": "Docu",
+                "plot": "docu",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "docu-1662309301.3546386",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Docu news",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=groupes&nom=docu%20news&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/light_green.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://masterprofile/addon_data/icones/video (4).png"
+                },
+                "title": "Docu news",
+                "plot": "docu news",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "docu_news-1662309312.8716602",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Documentaire",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=groupes&nom=documentaire&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/mango.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://masterprofile/addon_data/icones/video (4).png"
+                },
+                "title": "Documentaire",
+                "plot": "documentaire",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "documentaire-1662309323.2381387",
+            "version": "3.7.0"
+        }
+    ],
+    "id": "series_doc-1662309296.804915",
+    "art": {
+        "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+        "fanart": "special://home/addons\\plugin.program.autowidget\\resources\\media\\fanart\\folder-shortcut.png",
+        "icon": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png",
+        "poster": "special://home/addons\\plugin.program.autowidget\\resources\\media\\poster\\folder-shortcut.png",
+        "thumb": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png"
+    },
+    "version": "3.7.0",
+    "content": "",
+    "sort_order": "21"
+}

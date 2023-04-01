@@ -1,0 +1,18 @@
+{
+    "action": "next",
+    "id": "8e1ccea5-8c10-40f8-8f3f-a4f5b05606d5",
+    "group": "films_autowidget-1661598449.2327583",
+    "refresh": 2.0,
+    "path": "tendance-1661598595.0915592",
+    "version": "3.7.0",
+    "current": 1,
+    "cycle_paths": [
+        "populaire-1661598574.1039712",
+        "tendance-1661598595.0915592",
+        "recommande_pour_vous-1661598622.171045",
+        "trakt_popular_movies-1662289506.9916837"
+    ],
+    "stack": [],
+    "label": "Tendance",
+    "updated": 1679581778.3116963
+}

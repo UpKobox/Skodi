@@ -1,0 +1,134 @@
+#EXTM3U
+## Catch-up TV & More
+#EXTINF:-1 tvg-name="TF1" tvg-id="C192.api.telerama.fr" tvg-logo="resource://resource.images.catchuptvandmore/channels/fr/tf1.png" tvg-chno="1" group-title="Catch-up TV & More" catchup="vod",TF1
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/fr/mytf1/get_live_url/?item_id=tf1
+
+#EXTINF:-1 tvg-name="France 2" tvg-id="C4.api.telerama.fr" tvg-logo="resource://resource.images.catchuptvandmore/channels/fr/france2.png" tvg-chno="2" group-title="Catch-up TV & More" catchup="vod",France 2
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/fr/francetv/get_live_url/?item_id=france-2
+
+#EXTINF:-1 tvg-name="France 3" tvg-id="C80.api.telerama.fr" tvg-logo="resource://resource.images.catchuptvandmore/channels/fr/france3.png" tvg-chno="3" group-title="Catch-up TV & More" catchup="vod",France 3
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/fr/francetv/get_live_url/?item_id=france-3
+
+#EXTINF:-1 tvg-name="Canal +" tvg-id="C34.api.telerama.fr" tvg-logo="resource://resource.images.catchuptvandmore/channels/fr/canalplus.png" tvg-chno="4" group-title="Catch-up TV & More" catchup="vod",Canal +
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/fr/mycanal/get_live_url/?item_id=canalplus
+
+#EXTINF:-1 tvg-name="France 5" tvg-id="C47.api.telerama.fr" tvg-logo="resource://resource.images.catchuptvandmore/channels/fr/france5.png" tvg-chno="5" group-title="Catch-up TV & More" catchup="vod",France 5
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/fr/francetv/get_live_url/?item_id=france-5
+
+#EXTINF:-1 tvg-name="M6" tvg-id="C118.api.telerama.fr" tvg-logo="resource://resource.images.catchuptvandmore/channels/fr/m6.png" tvg-chno="6" group-title="Catch-up TV & More" catchup="vod",M6
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/fr/6play/get_live_url/?item_id=m6
+
+#EXTINF:-1 tvg-name="C8" tvg-id="C445.api.telerama.fr" tvg-logo="resource://resource.images.catchuptvandmore/channels/fr/c8.png" tvg-chno="8" group-title="Catch-up TV & More" catchup="vod",C8
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/fr/mycanal/get_live_url/?item_id=c8
+
+#EXTINF:-1 tvg-name="W9" tvg-id="C119.api.telerama.fr" tvg-logo="resource://resource.images.catchuptvandmore/channels/fr/w9.png" tvg-chno="9" group-title="Catch-up TV & More" catchup="vod",W9
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/fr/6play/get_live_url/?item_id=w9
+
+#EXTINF:-1 tvg-name="TMC" tvg-id="C195.api.telerama.fr" tvg-logo="resource://resource.images.catchuptvandmore/channels/fr/tmc.png" tvg-chno="10" group-title="Catch-up TV & More" catchup="vod",TMC
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/fr/mytf1/get_live_url/?item_id=tmc
+
+#EXTINF:-1 tvg-name="TFX" tvg-id="C446.api.telerama.fr" tvg-logo="resource://resource.images.catchuptvandmore/channels/fr/tfx.png" tvg-chno="11" group-title="Catch-up TV & More" catchup="vod",TFX
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/fr/mytf1/get_live_url/?item_id=tfx
+
+#EXTINF:-1 tvg-name="NRJ 12" tvg-id="C444.api.telerama.fr" tvg-logo="resource://resource.images.catchuptvandmore/channels/fr/nrj12.png" tvg-chno="12" group-title="Catch-up TV & More" catchup="vod",NRJ 12
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/fr/nrj/get_live_url/?item_id=nrj12
+
+#EXTINF:-1 tvg-name="LCP Assemblée Nationale" tvg-id="C234.api.telerama.fr" tvg-logo="resource://resource.images.catchuptvandmore/channels/fr/lcp.png" tvg-chno="13" group-title="Catch-up TV & More" catchup="vod",LCP Assemblée Nationale
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/fr/lcp/get_live_url/?item_id=lcp
+
+#EXTINF:-1 tvg-name="France 4" tvg-id="C78.api.telerama.fr" tvg-logo="resource://resource.images.catchuptvandmore/channels/fr/france4.png" tvg-chno="14" group-title="Catch-up TV & More" catchup="vod",France 4
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/fr/francetv/get_live_url/?item_id=france-4
+
+#EXTINF:-1 tvg-name="BFM TV" tvg-id="C481.api.telerama.fr" tvg-logo="resource://resource.images.catchuptvandmore/channels/fr/bfmtv.png" tvg-chno="15" group-title="Catch-up TV & More" catchup="vod",BFM TV
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/fr/rmcbfmplay/get_live_url/?item_id=BFM+TV
+
+#EXTINF:-1 tvg-name="CNews" tvg-id="C226.api.telerama.fr" tvg-logo="resource://resource.images.catchuptvandmore/channels/fr/cnews.png" tvg-chno="16" group-title="Catch-up TV & More" catchup="vod",CNews
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/fr/cnews/get_live_url/?item_id=cnews
+
+#EXTINF:-1 tvg-name="CStar" tvg-id="C458.api.telerama.fr" tvg-logo="resource://resource.images.catchuptvandmore/channels/fr/cstar.png" tvg-chno="17" group-title="Catch-up TV & More" catchup="vod",CStar
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/fr/mycanal/get_live_url/?item_id=cstar
+
+#EXTINF:-1 tvg-name="Gulli" tvg-id="C482.api.telerama.fr" tvg-logo="resource://resource.images.catchuptvandmore/channels/fr/gulli.png" tvg-chno="18" group-title="Catch-up TV & More" catchup="vod",Gulli
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/fr/6play/get_live_url/?item_id=gulli
+
+#EXTINF:-1 tvg-name="TF1 Séries Films" tvg-id="C1404.api.telerama.fr" tvg-logo="resource://resource.images.catchuptvandmore/channels/fr/tf1seriesfilms.png" tvg-chno="18" group-title="Catch-up TV & More" catchup="vod",TF1 Séries Films
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/fr/mytf1/get_live_url/?item_id=tf1-series-films
+
+#EXTINF:-1 tvg-name="L'Équipe" tvg-id="C1401.api.telerama.fr" tvg-logo="resource://resource.images.catchuptvandmore/channels/fr/lequipe.png" tvg-chno="19" group-title="Catch-up TV & More" catchup="vod",L'Équipe
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/fr/lequipe/get_live_url/?item_id=lequipe
+
+#EXTINF:-1 tvg-name="6ter" tvg-id="C1403.api.telerama.fr" tvg-logo="resource://resource.images.catchuptvandmore/channels/fr/6ter.png" tvg-chno="20" group-title="Catch-up TV & More" catchup="vod",6ter
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/fr/6play/get_live_url/?item_id=6ter
+
+#EXTINF:-1 tvg-name="RMC Story" tvg-id="C1402.api.telerama.fr" tvg-logo="resource://resource.images.catchuptvandmore/channels/fr/rmcstory.png" tvg-chno="21" group-title="Catch-up TV & More" catchup="vod",RMC Story
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/fr/rmcbfmplay/get_live_url/?item_id=RMC+STORY
+
+#EXTINF:-1 tvg-name="RMC Découverte" tvg-id="C1400.api.telerama.fr" tvg-logo="resource://resource.images.catchuptvandmore/channels/fr/rmcdecouverte.png" tvg-chno="22" group-title="Catch-up TV & More" catchup="vod",RMC Découverte
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/fr/rmcbfmplay/get_live_url/?item_id=RMC+D%C3%A9couverte
+
+#EXTINF:-1 tvg-name="Chérie 25" tvg-id="C1399.api.telerama.fr" tvg-logo="resource://resource.images.catchuptvandmore/channels/fr/cherie25.png" tvg-chno="23" group-title="Catch-up TV & More" catchup="vod",Chérie 25
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/fr/nrj/get_live_url/?item_id=cherie25
+
+#EXTINF:-1 tvg-name="LCI" tvg-id="C112.api.telerama.fr" tvg-logo="resource://resource.images.catchuptvandmore/channels/fr/lci.png" tvg-chno="24" group-title="Catch-up TV & More" catchup="vod",LCI
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/fr/lci/get_live_url/?item_id=lci
+
+#EXTINF:-1 tvg-name="France Info" tvg-id="C2111.api.telerama.fr" tvg-logo="resource://resource.images.catchuptvandmore/channels/fr/franceinfo.png" tvg-chno="25" group-title="Catch-up TV & More" catchup="vod",France Info
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/fr/francetv/get_live_url/?item_id=franceinfo
+
+#EXTINF:-1 tvg-name="Public Sénat" tvg-id="C234.api.telerama.fr" tvg-logo="resource://resource.images.catchuptvandmore/channels/fr/publicsenat.png" tvg-chno="26" group-title="Catch-up TV & More" catchup="vod",Public Sénat
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/fr/publicsenat/get_live_url/?item_id=publicsenat
+
+#EXTINF:-1 tvg-name="Culturebox" tvg-id="C3163.api.telerama.fr" tvg-logo="resource://resource.images.catchuptvandmore/channels/fr/culturebox.png" group-title="Catch-up TV & More" catchup="vod",Culturebox
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/fr/francetv/get_live_url/?item_id=spectacles-et-culture
+
+#EXTINF:-1 tvg-name="France 3 Régions" tvg-logo="resource://resource.images.catchuptvandmore/channels/fr/france3regions.png" group-title="Catch-up TV & More" catchup="vod",France 3 Régions
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/fr/france3regions/get_live_url/?item_id=france3regions
+
+#EXTINF:-1 tvg-name="Europe 1" tvg-logo="resource://resource.images.catchuptvandmore/channels/fr/europe1.png" group-title="Catch-up TV & More" catchup="vod",Europe 1
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/fr/europe1/get_live_url/?item_id=europe1
+
+#EXTINF:-1 tvg-name="France Inter" tvg-logo="resource://resource.images.catchuptvandmore/channels/fr/franceinter.png" group-title="Catch-up TV & More" catchup="vod",France Inter
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/fr/franceinter/get_live_url/?item_id=franceinter
+
+#EXTINF:-1 tvg-name="Fun Radio" tvg-logo="resource://resource.images.catchuptvandmore/channels/fr/funradio.png" group-title="Catch-up TV & More" catchup="vod",Fun Radio
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/fr/rtl/get_live_url/?item_id=funradio
+
+#EXTINF:-1 tvg-name="RTL" tvg-logo="resource://resource.images.catchuptvandmore/channels/fr/rtl.png" group-title="Catch-up TV & More" catchup="vod",RTL
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/fr/rtl/get_live_url/?item_id=rtl
+
+#EXTINF:-1 tvg-name="RTL 2" tvg-logo="resource://resource.images.catchuptvandmore/channels/fr/rtl2.png" group-title="Catch-up TV & More" catchup="vod",RTL 2
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/fr/rtl/get_live_url/?item_id=rtl2
+
+#EXTINF:-1 tvg-name="Sud Radio" tvg-logo="resource://resource.images.catchuptvandmore/channels/fr/sudradio.png" group-title="Catch-up TV & More" catchup="vod",Sud Radio
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/fr/sudradio/get_live_url/?item_id=sudradio
+
+#EXTINF:-1 tvg-name="Sport en France" tvg-logo="resource://resource.images.catchuptvandmore/channels/fr/sportenfrance.png" group-title="Catch-up TV & More" catchup="vod",Sport en France
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/fr/sportenfrance/get_live_url/?item_id=sportenfrance
+
+#EXTINF:-1 tvg-name="L'Equipe Live" tvg-logo="resource://resource.images.catchuptvandmore/channels/fr/lequipelive.png" group-title="Catch-up TV & More" catchup="vod",L'Equipe Live
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/fr/lequipe/get_live_url/?item_id=lequipelive
+
+#EXTINF:-1 tvg-name="Equidia" tvg-id="C64.api.telerama.fr" tvg-logo="resource://resource.images.catchuptvandmore/channels/fr/equidia.png" group-title="Catch-up TV & More" catchup="vod",Equidia
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/fr/equidia/get_live_url/?item_id=equidia-live2
+
+#EXTINF:-1 tvg-name="Euronews (FR)" tvg-id="C140.api.telerama.fr" tvg-logo="resource://resource.images.catchuptvandmore/channels/wo/euronews.png" group-title="Catch-up TV & More" catchup="vod",Euronews (FR)
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/wo/euronews/get_live_url/?item_id=euronews&language=FR
+
+#EXTINF:-1 tvg-name="Arte (FR)" tvg-id="C111.api.telerama.fr" tvg-logo="resource://resource.images.catchuptvandmore/channels/wo/arte.png" tvg-chno="7" group-title="Catch-up TV & More" catchup="vod",Arte (FR)
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/wo/arte/get_live_url/?item_id=arte&language=FR
+
+#EXTINF:-1 tvg-name="France 24 (FR)" tvg-id="C529.api.telerama.fr" tvg-logo="resource://resource.images.catchuptvandmore/channels/wo/france24.png" group-title="Catch-up TV & More" catchup="vod",France 24 (FR)
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/wo/france24/get_live_url/?item_id=france24&language=FR
+
+#EXTINF:-1 tvg-name="CGTN (FR)" tvg-logo="resource://resource.images.catchuptvandmore/channels/wo/cgtn.png" group-title="Catch-up TV & More" catchup="vod",CGTN (FR)
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/wo/cgtn/get_live_url/?item_id=cgtn&language=FR
+
+#EXTINF:-1 tvg-name="TV5Monde France Belgique Suisse" tvg-id="C205.api.telerama.fr" tvg-logo="resource://resource.images.catchuptvandmore/channels/wo/tv5mondefbs.png" group-title="Catch-up TV & More" catchup="vod",TV5Monde France Belgique Suisse
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/wo/tv5monde/get_live_url/?item_id=tv5mondefbs
+
+#EXTINF:-1 tvg-name="TV5Monde Info" tvg-logo="resource://resource.images.catchuptvandmore/channels/wo/tv5mondeinfo.png" group-title="Catch-up TV & More" catchup="vod",TV5Monde Info
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/wo/tv5monde/get_live_url/?item_id=tv5mondeinfo
+
+#EXTINF:-1 tvg-name="RT (FR)" tvg-logo="resource://resource.images.catchuptvandmore/channels/wo/rt.png" group-title="Catch-up TV & More" catchup="vod",RT (FR)
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/wo/rt/get_live_url/?item_id=rt&language=FR
+

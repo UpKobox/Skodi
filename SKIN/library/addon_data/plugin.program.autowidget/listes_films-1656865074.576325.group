@@ -1,0 +1,127 @@
+{
+    "label": "Listes Films",
+    "type": "shortcut",
+    "paths": [
+        {
+            "label": "Mes Widgets",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&famille=Mes%20Widgets",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/sky_blue.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://masterprofile/addon_data/icones/liste.png"
+                },
+                "title": "Mes Widgets",
+                "plot": "Listes Widgets perso",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "mes_widgets-1656865108.2762802",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Liste Al\u00e9atoire",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&famille=Liste%20Al%c3%a9atoire",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/rich_magenta.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/Liste Al\u00e9atoire.png",
+                    "thumb": "special://masterprofile/addon_data/icones/liste (4).png"
+                },
+                "title": "Liste Al\u00e9atoire",
+                "plot": "Liste de m\u00e9dias sortis au hazard, quand tu ne sais pas quoi regarder",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "liste_aleatoire-1656865082.8265154",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Listes Lecture",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&famille=Listes%20lecture",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/sunflower_yellow.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://masterprofile/addon_data/icones/liste (3).png"
+                },
+                "title": "Listes Lecture",
+                "plot": "Listes lecture ou favoris d\u00e9di\u00e9s",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "listes_lecture-1656865115.10958",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Listes Sp\u00e9cial Widget",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&famille=specialWid",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/rich_magenta.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://masterprofile/addon_data/icones/liste (3).png"
+                },
+                "title": "Listes Sp\u00e9cial Widget",
+                "plot": "Liste Sp\u00e9cial Widget",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "listes_special_widget-1656865100.509731",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Listes Trakt",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&famille=Listes%20Trakt",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/pretty_pink.png",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/trakt.png",
+                    "thumb": "special://masterprofile/addon_data/icones/liste (5).png"
+                },
+                "title": "Listes Trakt",
+                "plot": "Liste trakt de users",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "listes_trakt-1656865092.4765475",
+            "version": "3.6.1"
+        }
+    ],
+    "id": "listes_films-1656865074.576325",
+    "art": {
+        "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+        "fanart": "special://home/addons\\plugin.program.autowidget\\resources\\media\\fanart\\folder-shortcut.png",
+        "icon": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png",
+        "poster": "special://home/addons\\plugin.program.autowidget\\resources\\media\\poster\\folder-shortcut.png",
+        "thumb": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png"
+    },
+    "version": "3.7.0",
+    "content": "",
+    "sort_order": "14"
+}

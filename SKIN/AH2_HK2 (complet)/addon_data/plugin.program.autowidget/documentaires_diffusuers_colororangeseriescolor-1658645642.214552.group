@@ -1,0 +1,347 @@
+{
+    "label": "Documentaires Diffuseurs [COLORorange]Series[/COLOR]",
+    "type": "shortcut",
+    "paths": [
+        {
+            "label": "Historia",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=1245&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/iGSOVzEREhbziFFcww4D9nLzKwy.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/iGSOVzEREhbziFFcww4D9nLzKwy.png"
+                },
+                "title": "Historia",
+                "plot": "Historia",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "historia-1658645648.7437267",
+            "version": "3.6.1"
+        },
+        {
+            "label": "History",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=65&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/9fGgdJz17aBX7dOyfHJtsozB7bf.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/9fGgdJz17aBX7dOyfHJtsozB7bf.png"
+                },
+                "title": "History",
+                "plot": "History",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "history-1658645713.0527744",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Moi & Cie",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=1298&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/cJ1qV5JrgyEWe4s2zTb3jiqPSym.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/cJ1qV5JrgyEWe4s2zTb3jiqPSym.png"
+                },
+                "title": "Moi & Cie",
+                "plot": "Moi & Cie",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "moi__cie-1658645756.5419638",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Nat Geo Wild",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=1043&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/esXeePrsUGpF6mGQXs3jImz9QoN.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/esXeePrsUGpF6mGQXs3jImz9QoN.png"
+                },
+                "title": "Nat Geo Wild",
+                "plot": "Nat Geo Wild",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "nat_geo_wild-1658645768.866933",
+            "version": "3.6.1"
+        },
+        {
+            "label": "National Geographic",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=43&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/q9rPBG1rHbUjII1Qn98VG2v7cFa.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/q9rPBG1rHbUjII1Qn98VG2v7cFa.png"
+                },
+                "title": "National Geographic",
+                "plot": "National Geographic",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "national_geographic-1658645778.0613396",
+            "version": "3.6.1"
+        },
+        {
+            "label": "National Geographic Channel",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=1825&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/q9rPBG1rHbUjII1Qn98VG2v7cFa.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/q9rPBG1rHbUjII1Qn98VG2v7cFa.png"
+                },
+                "title": "National Geographic Channel",
+                "plot": "National Geographic Channel",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "national_geographic_channel-1658645785.4903388",
+            "version": "3.6.1"
+        },
+        {
+            "label": "PLAN\u00c8TE+",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=2032&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/7wJmmffmEUVrvypzWI3AfL5xuro.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/7wJmmffmEUVrvypzWI3AfL5xuro.png"
+                },
+                "title": "PLAN\u00c8TE+",
+                "plot": "PLAN\u00c8TE+",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "planete-1658645802.6958067",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Plan\u00e8te+ A&E",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=3050&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/h8WAnO9OIO0k2hLyKxTbXplYFUz.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/h8WAnO9OIO0k2hLyKxTbXplYFUz.png"
+                },
+                "title": "Plan\u00e8te+ A&E",
+                "plot": "Plan\u00e8te+ A&E",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "planete_ae-1658645821.100673",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Plan\u00e8te+ Crime Investigation",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=3659&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/8jkl8MtsINobD2IAZbA0bYDdUf4.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/8jkl8MtsINobD2IAZbA0bYDdUf4.png"
+                },
+                "title": "Plan\u00e8te+ Crime Investigation",
+                "plot": "Plan\u00e8te+ Crime Investigation",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "planete_crime_investigation-1658645833.5767384",
+            "version": "3.6.1"
+        },
+        {
+            "label": "RMC D\u00e9couverte",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=1064&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/xU5g31CXgsP7BhcDtXx9yW0Emrj.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/xU5g31CXgsP7BhcDtXx9yW0Emrj.png"
+                },
+                "title": "RMC D\u00e9couverte",
+                "plot": "RMC D\u00e9couverte",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "rmc_decouverte-1658645847.4839494",
+            "version": "3.6.1"
+        },
+        {
+            "label": "RMC Story",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=3674&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/uKuCdsGlB3QETtIqoReAkEFS8am.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/uKuCdsGlB3QETtIqoReAkEFS8am.png"
+                },
+                "title": "RMC Story",
+                "plot": "RMC Story",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "rmc_story-1658645859.7594404",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Science",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=226&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/orcpefChr3hPSipPcoYa9gSq7ev.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/orcpefChr3hPSipPcoYa9gSq7ev.png"
+                },
+                "title": "Science",
+                "plot": "Science",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "science-1658645876.282207",
+            "version": "3.6.1"
+        },
+        {
+            "label": "TV5 Qu\u00e9bec Canada",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=1533&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/5KU8oRvXX9I1bWdiATsSlYqx6em.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/5KU8oRvXX9I1bWdiATsSlYqx6em.png"
+                },
+                "title": "TV5 Qu\u00e9bec Canada",
+                "plot": "TV5 Qu\u00e9bec Canada",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "tv5_quebec_canada-1658645895.619879",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Discovery",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=64&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/tmttRFo2OiXQD0EHMxxlw8EzUuZ.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/tmttRFo2OiXQD0EHMxxlw8EzUuZ.png"
+                },
+                "title": "Discovery",
+                "plot": "Discovery",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "discovery-1658645949.735442",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Toute l'Histoire",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=2273&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/x805Xveq5h4eSUZ9rbgXJe8R3ie.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/x805Xveq5h4eSUZ9rbgXJe8R3ie.png"
+                },
+                "title": "Toute l'Histoire",
+                "plot": "Toute l'Histoire",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "toute_lhistoire-1658646350.8300498",
+            "version": "3.6.1"
+        }
+    ],
+    "id": "documentaires_diffusuers_colororangeseriescolor-1658645642.214552",
+    "art": {
+        "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+        "fanart": "special://home/addons\\plugin.program.autowidget\\resources\\media\\fanart\\folder-shortcut.png",
+        "icon": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png",
+        "poster": "special://home/addons\\plugin.program.autowidget\\resources\\media\\poster\\folder-shortcut.png",
+        "thumb": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png"
+    },
+    "version": "3.6.1",
+    "content": "",
+    "sort_order": "16"
+}

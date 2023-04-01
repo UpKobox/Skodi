@@ -1,0 +1,6 @@
+<node order="60" type="filter">
+	<label>132</label>
+	<icon>DefaultMusicAlbums.png</icon>
+	<content>musicvideos</content>
+	<group>albums</group>
+</node>

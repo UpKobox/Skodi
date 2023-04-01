@@ -1,0 +1,58 @@
+<shortcuts>
+	<shortcut>
+		<defaultID>plugin.program.Skodi</defaultID>
+		<label>[COLOR limegreen]Skodi[/COLOR]</label>
+		<label2>Programme</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>thumb</thumb>
+		<action>ActivateWindow(Programs,"plugin://plugin.program.Skodi",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR aqua]Menu par Skin[/COLOR][COLOR yellow](Choisissez un skin préconfiguré)[/COLOR]</label>
+		<label2>Programme</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>thumb</thumb>
+		<action>ActivateWindow(Programs,"plugin://plugin.program.Skodi/?action=MSkin",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR yellow]Menu Skin [/COLOR] (installation repo et icones ...)</label>
+		<label2>Programme</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>thumb</thumb>
+		<action>ActivateWindow(Programs,"plugin://plugin.program.Skodi/?action=menu_skinstall",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR aqua]Menu par Skinner[/COLOR][COLOR yellow](Choisissez un skin préconfiguré)[/COLOR]</label>
+		<label2>Programme</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>thumb</thumb>
+		<action>ActivateWindow(Programs,"plugin://plugin.program.Skodi/?action=hk2",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR lime]Menu U2Pplay[/COLOR]</label>
+		<label2>Programme</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>thumb</thumb>
+		<action>ActivateWindow(Programs,"plugin://plugin.program.Skodi/?action=menumajhk2",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR darkorange]Menu TMDB H.[/COLOR]</label>
+		<label2>Programme</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>thumb</thumb>
+		<action>ActivateWindow(Programs,"plugin://plugin.program.Skodi/?action=menu_tmdbh",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR magenta]Menu Nettoyage[/COLOR]</label>
+		<label2>Programme</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>thumb</thumb>
+		<action>ActivateWindow(Programs,"plugin://plugin.program.Skodi/?action=nettoye",return)</action>
+	</shortcut>
+</shortcuts>

@@ -1,0 +1,26 @@
+<shortcuts>
+	<shortcut>
+		<defaultID>10821</defaultID>
+		<label>10821</label>
+		<label2>Prédéfini</label2>
+		<icon>special://skin/extras/icons/gamepad.png</icon>
+		<thumb>special://skin/extras/icons/gamepad.png</thumb>
+		<action>ActivateWindow(games)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>programs</defaultID>
+		<label>10001</label>
+		<label2>Elément de menu commun</label2>
+		<icon>special://skin/extras/icons/addons.png</icon>
+		<thumb />
+		<action>ActivateWindow(Programs,Addons,return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>10007</defaultID>
+		<label>10007</label>
+		<label2>Elément de menu commun</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(SystemInfo)</action>
+		</shortcut>
+	</shortcuts>

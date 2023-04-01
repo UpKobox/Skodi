@@ -1,0 +1,117 @@
+{
+    "label": "S\u00e9ries Family Tmdb",
+    "type": "shortcut",
+    "paths": [
+        {
+            "label": "Animation",
+            "content": "genres",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=discover&tmdb_type=tv&with_genres=16&with_id=True&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/sky_blue.png",
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/poster.png",
+                    "thumb": "special://masterprofile/addon_data/icones/anim\u00e9s.png"
+                },
+                "title": "Animation",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "animation-1657545793.0686736",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Comedy",
+            "content": "genres",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=discover&tmdb_type=tv&with_genres=35&with_id=True&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/sky_blue.png",
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/poster.png",
+                    "thumb": "special://masterprofile/addon_data/icones/humoursp.png"
+                },
+                "title": "Comedy",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "comedy-1657545801.8692908",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Family",
+            "content": "genres",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=discover&tmdb_type=tv&with_genres=10751&with_id=True&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/light_green.png",
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/poster.png",
+                    "thumb": "special://masterprofile/addon_data/icones/famille (3).png"
+                },
+                "title": "Family",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "family-1657545814.353422",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Kids",
+            "content": "genres",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=discover&tmdb_type=tv&with_genres=10762&with_id=True&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/mango.png",
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/poster.png",
+                    "thumb": "special://masterprofile/addon_data/icones/enfants (2).png"
+                },
+                "title": "Kids",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "kids-1657545823.586837",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Soap",
+            "content": "genres",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=discover&tmdb_type=tv&with_genres=10766&with_id=True&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://masterprofile/addon_data/icones/fonds/rich_magenta.png",
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/poster.png",
+                    "thumb": "special://masterprofile/addon_data/icones/soap.png"
+                },
+                "title": "Soap",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "soap-1657545864.5873425",
+            "version": "3.6.1"
+        }
+    ],
+    "id": "series_family_tmdb-1657545789.318977",
+    "art": {
+        "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+        "fanart": "special://home/addons\\plugin.program.autowidget\\resources\\media\\fanart\\folder-shortcut.png",
+        "icon": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png",
+        "poster": "special://home/addons\\plugin.program.autowidget\\resources\\media\\poster\\folder-shortcut.png",
+        "thumb": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png"
+    },
+    "version": "3.7.0",
+    "content": "",
+    "sort_order": "23"
+}

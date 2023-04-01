@@ -1,0 +1,710 @@
+{
+    "label": "Films Francais autowidget",
+    "type": "widget",
+    "paths": [
+        {
+            "label": "Charts - Trending French Movies",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Charts%20-%20Trending%20French%20Movies&list_slug=charts-trending-french-movies&plugin_category=Charts%20-%20Trending%20French%20Movies&user_slug=mraniki&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "plot": ":new: :robot::movie_camera::fr: Automatically updated list of latest trending french movies",
+                "studio": "MrAniki",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "charts_-_trending_french_movies-1661599405.368357",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Charts - Top French Movies",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Charts%20-%20Top%20French%20Movies&list_slug=charts-top-french-movies&plugin_category=Charts%20-%20Top%20French%20Movies&user_slug=mraniki&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "plot": ":thumbsup: :robot::movie_camera::fr:  Automatically updated list of Top French Movies from 1970 to 2022",
+                "studio": "MrAniki",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "charts_-_top_french_movies-1661599420.9505973",
+            "version": "3.7.0"
+        },
+        {
+            "label": "fr-2020-2025",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=fr-2020-2025&list_slug=fr-2020-2025&plugin_category=fr-2020-2025&user_slug=exosmart&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "plot": "List created and maintained by https://listrr.pro\r\n\r\nNormal Filters:\r\nContent Type: Filters\r\nCountries: fr, fr\r\nGenres: action, adventure, animation, anime, comedy, crime, drama, family, fantasy, history, holiday, horror, mystery, romance, science-fiction, superhero, suspense, thriller, war, western\r\nLanguages: fr\r\nMin rating: 0\r\nMax rating: 100\r\nMin votes: 0\r\nMin runtime: 30\r\nMax runtime: 250\r\nMin year: 2020\r\nMax year: 2025",
+                "studio": "ExoSmart",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "fr-2020-2025-1661599484.8977497",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Films fran\u00e7ais > 70%",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Films%20fran%c3%a7ais%20%3e%2070%25&list_slug=films-francais-70&plugin_category=Films%20fran%c3%a7ais%20%3e%2070%25&user_slug=atipoul&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "plot": "List created and maintained by https://listrr.pro\r\n\r\nNormal Filters:\r\nCountries: fr\r\nLanguages: fr\r\nMin rating: 70\r\nMax rating: 100\r\nMin votes: 10\r\nMin runtime: 30\r\nMax runtime: 250\r\nMin year: 1910\r\nMax year: 2100",
+                "studio": "atipoul",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "films_francais__70-1661599617.530323",
+            "version": "3.7.0"
+        },
+        {
+            "label": "French",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=French&list_slug=french&plugin_category=French&user_slug=elion&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "plot": "Mostly French comedy movies",
+                "studio": "ET",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "french-1662287506.5288715",
+            "version": "3.7.0"
+        },
+        {
+            "label": "com\u00e9die fran\u00e7aise",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=com%c3%a9die%20fran%c3%a7aise&list_slug=comedie-francaise&plugin_category=com%c3%a9die%20fran%c3%a7aise&user_slug=arthur_parsy&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "plot": "toute les com\u00e9dies fran\u00e7aises",
+                "studio": "Arthur parsy",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "comedie_francaise-1662287530.4410596",
+            "version": "3.7.0"
+        },
+        {
+            "label": "French films",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=French%20films&list_slug=french-films&plugin_category=French%20films&user_slug=ahuitema&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "studio": "ahuitema",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "french_films-1662287571.497708",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Films Francais",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Films%20Francais&list_slug=films-francais&owner=true&plugin_category=Films%20Francais&user_slug=llguillaumell&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "plot": "This list is maintained by mdblist.comCreate your own: https://mdblist.com/lists/llguillaumell/films-francaisUpdated at 2022-09-03 11:57:36",
+                "studio": "Guillaume",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "films_francais-1662287667.365245",
+            "version": "3.7.0"
+        },
+        {
+            "label": "The Times' 100 Best French Films",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=The%20Times%27%20100%20Best%20French%20Films&list_slug=the-times-100-best-french-films&owner=true&plugin_category=The%20Times%27%20100%20Best%20French%20Films&user_slug=maxwelldeux&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "plot": "The 100 best French Films as chosen by The Times(UK), chosen in groups of ten films: Modern Classics, Modern Cults, Dramas, Romances, Thrillers, Comedies, Nouvelle Vague, Landmarks, Shorts, and Icons.Source: http://web.archive.org/web/20051029151003/http://e-paper.timesonline.co.uk:80/frenchfilm/1/articles/artikel_TMXA_1XA_20050409_1_39.html",
+                "studio": "maxwelldeux",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "the_times_100_best_french_films-1662287717.6179018",
+            "version": "3.7.0"
+        },
+        {
+            "label": "C\u00e9sar Award - Best French Film",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=C%c3%a9sar%20Award%20-%20Best%20French%20Film&list_slug=cesar-award-best-french-film&owner=true&plugin_category=C%c3%a9sar%20Award%20-%20Best%20French%20Film&user_slug=maxwelldeux&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "plot": "The C\u00e9sar Award is the national film award of France, first given out in 1975. The nominations are selected by the members of the Acad\u00e9mie des Arts et Techniques du Cin\u00e9ma. The name of the award comes from the sculptor C\u00e9sar Baldaccini. They are considered to be the French equivalent of the American Academy Awards.Source: http://www.imdb.com/event/ev0000157/",
+                "studio": "maxwelldeux",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "cesar_award_-_best_french_film-1662287749.5887258",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Time Out's The 100 Best French Films",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Time%20Out%27s%20The%20100%20Best%20French%20Films&list_slug=time-out-s-the-100-best-french-films&owner=true&plugin_category=Time%20Out%27s%20The%20100%20Best%20French%20Films&user_slug=maxwelldeux&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "plot": "The 100 best French films according to a diversified professional jury, published in Timeout France.Source: https://www.timeout.fr/paris/films/100-meilleurs-films-francais-home",
+                "studio": "maxwelldeux",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "time_outs_the_100_best_french_films-1662287772.722022",
+            "version": "3.7.0"
+        },
+        {
+            "label": "French Sex Comedy",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=French%20Sex%20Comedy&list_slug=french-sex-comedy&owner=true&plugin_category=French%20Sex%20Comedy&user_slug=ld667&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "studio": "ld667",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "french_sex_comedy-1662287856.720675",
+            "version": "3.7.0"
+        },
+        {
+            "label": "French Movies",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=French%20Movies&list_slug=french-movies&owner=true&plugin_category=French%20Movies&user_slug=alreadytakenby_&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "studio": "alreadytakenby_",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "french_movies-1662287878.8553998",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Notable French movies 1950s to 1980s",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Notable%20French%20movies%201950s%20to%201980s&list_slug=notable-french-movies-1950s-to-1980s&owner=true&plugin_category=Notable%20French%20movies%201950s%20to%201980s&user_slug=rxb1&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "plot": "This is a list of movies made in France by release date which I've seen mostly on TV or on theaters when I was growing up. Some are masterpieces, some are mindless entertainment and everything in between, the point being all were enjoyable to me as a kid.",
+                "studio": "rxb1",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "notable_french_movies_1950s_to_1980s-1662287915.6599476",
+            "version": "3.7.0"
+        },
+        {
+            "label": "The Beauty Of French Cinema",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=The%20Beauty%20Of%20French%20Cinema&list_slug=the-beauty-of-french-cinema&owner=true&plugin_category=The%20Beauty%20Of%20French%20Cinema&user_slug=sarek&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "plot": "Tribute to the french cinema made by the youtube channel The Beauty Of.https://youtu.be/PZgamsxGtiM",
+                "studio": "Sarek",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "the_beauty_of_french_cinema-1662287939.464458",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Charts - Top French Movies",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Charts%20-%20Top%20French%20Movies&list_slug=charts-top-french-movies&owner=true&plugin_category=Charts%20-%20Top%20French%20Movies&user_slug=mraniki&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "plot": ":thumbsup: :robot::movie_camera::fr:  Automatically updated list of Top French Movies from 1970 to 2022",
+                "studio": "MrAniki",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "charts_-_top_french_movies-1662287959.3165112",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Charts - Trending French Movies",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Charts%20-%20Trending%20French%20Movies&list_slug=charts-trending-french-movies&owner=true&plugin_category=Charts%20-%20Trending%20French%20Movies&user_slug=mraniki&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "plot": ":new: :robot::movie_camera::fr: Automatically updated list of latest trending french movies",
+                "studio": "MrAniki",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "charts_-_trending_french_movies-1662287984.9770744",
+            "version": "3.7.0"
+        },
+        {
+            "label": "French",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=French&list_slug=french&owner=true&plugin_category=French&user_slug=g0g0&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "studio": "g0g0",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "french-1662288014.3646164",
+            "version": "3.7.0"
+        },
+        {
+            "label": "French",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=French&list_slug=french&owner=true&plugin_category=French&user_slug=pauletss&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "studio": "pauletssss",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "french-1662288061.415218",
+            "version": "3.7.0"
+        },
+        {
+            "label": "French",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=French&list_slug=french&owner=true&plugin_category=French&user_slug=devalabra&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "studio": "Devalabra",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "french-1662288084.654901",
+            "version": "3.7.0"
+        },
+        {
+            "label": "French Comedy",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=French%20Comedy&list_slug=french-comedy&owner=true&plugin_category=French%20Comedy&user_slug=davide9_4&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "plot": "All the French comedies I watched",
+                "studio": "Davide",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "french_comedy-1662288109.26918",
+            "version": "3.7.0"
+        },
+        {
+            "label": "French",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=French&list_slug=french&owner=true&plugin_category=French&user_slug=colinprieto&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "plot": "List created and maintained by https://listrr.proNormal Filters:Content Type: FiltersCountries: fr, frLanguages: frTrakt ratings: Between 75 and 100 with at least 10Rumtime: Between 30 and 250 minutesYears: Between 1990 and 2022",
+                "studio": "colinprieto",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "french-1662288129.5876174",
+            "version": "3.7.0"
+        },
+        {
+            "label": "French Movies",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=French%20Movies&list_slug=french-movies&owner=true&plugin_category=French%20Movies&user_slug=elementmedia&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "plot": "List created and maintained by https://listrr.proNormal Filters:Content Type: FiltersLanguages: frMin rating: 65Max rating: 100Min votes: 10Min runtime: 30Max runtime: 250Min year: 1910Max year: 2020",
+                "studio": "elementmedia",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "french_movies-1662288172.3883553",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Best French Films - C\u00e9sar Award Winners",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Best%20French%20Films%20-%20C%c3%a9sar%20Award%20Winners&list_slug=best-french-films-cesar-award-winners&owner=true&plugin_category=Best%20French%20Films%20-%20C%c3%a9sar%20Award%20Winners&user_slug=majeed_pk&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "plot": "The C\u00e9sar Award is the national film award of France, first given out in 1975. The nominations are selected by the members of the Acad\u00e9mie des Arts et Techniques du Cin\u00e9ma. The name of the award comes from the sculptor C\u00e9sar Baldaccini. They are considered to be the French equivalent of the American Academy Awards.Source: http://www.imdb.com/event/ev0000157/",
+                "studio": "majeedpk",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "best_french_films_-_cesar_award_winners-1662288209.5949638",
+            "version": "3.7.0"
+        },
+        {
+            "label": "French",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=French&list_slug=french&owner=true&plugin_category=French&user_slug=ransurfing&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "plot": "This list is maintained by mdblist.comCreate your own: https://mdblist.com/lists/ransurfing/frenchUpdated at 2022-09-04 06:58:27",
+                "studio": "ransurfing",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "french-1662288240.7761488",
+            "version": "3.7.0"
+        },
+        {
+            "label": "French Comedy",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=French%20Comedy&list_slug=french-comedy&owner=true&plugin_category=French%20Comedy&user_slug=gwenvador&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "plot": "List created and maintained by https://listrr.proNormal Filters:Countries: frGenres: comedyLanguages: frMin rating: 75Max rating: 100Min votes: 10Min runtime: 30Max runtime: 250Min year: 1910Max year: 2020",
+                "studio": "gwenvador",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "french_comedy-1662288259.1762109",
+            "version": "3.7.0"
+        },
+        {
+            "label": "French Movies",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=French%20Movies&list_slug=french-movies&owner=true&plugin_category=French%20Movies&user_slug=gwenvador&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "plot": "List created and maintained by https://listrr.proNormal Filters:Countries: frLanguages: frMin rating: 75Max rating: 100Min votes: 10Min runtime: 30Max runtime: 250Min year: 1910Max year: 2020",
+                "studio": "gwenvador",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "french_movies-1662288283.8543167",
+            "version": "3.7.0"
+        },
+        {
+            "label": "French Movies",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=French%20Movies&list_slug=french-movies&owner=true&plugin_category=French%20Movies&user_slug=titou78210&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "plot": "french",
+                "studio": "titou78210",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "french_movies-1662288305.8187628",
+            "version": "3.7.0"
+        },
+        {
+            "label": "French Touch",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=French%20Touch&list_slug=french-touch&owner=true&plugin_category=French%20Touch&user_slug=george-kaplan&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "studio": "George Kaplan",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "french_touch-1662288326.8251433",
+            "version": "3.7.0"
+        },
+        {
+            "label": "French Latest Movies",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=French%20Latest%20Movies&list_slug=french-latest-movies&owner=true&plugin_category=French%20Latest%20Movies&user_slug=omelettedufromage&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "plot": "This list is maintained by mdblist.comCreate your own: https://mdblist.com/lists/omelettedufromage/french-latest-moviesUpdated at 2022-09-04 11:36:38",
+                "studio": "Omelette Du Fromage",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "french_latest_movies-1662288408.721345",
+            "version": "3.7.0"
+        },
+        {
+            "label": "French Cinema",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=French%20Cinema&list_slug=french-cinema&owner=true&plugin_category=French%20Cinema&user_slug=walter-guzzo&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "studio": "Walter Guzzo",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "french_cinema-1662288445.8939884",
+            "version": "3.7.0"
+        },
+        {
+            "label": "French Movies",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=French%20Movies&list_slug=french-movies&owner=true&plugin_category=French%20Movies&user_slug=ragebond&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "studio": "ragebond",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "french_movies-1662288498.8056617",
+            "version": "3.7.0"
+        },
+        {
+            "label": "French 2021 (ALL)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=French%202021%20(ALL)&list_slug=french-2021-all&owner=true&plugin_category=French%202021%20(ALL)&user_slug=corpsenthym&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "plot": "List created and maintained by https://listrr.proNormal Filters:Content Type: FiltersCountries: fr, frLanguages: frTrakt ratings: Between 0 and 100 with at least 0IMDb ratings: Between 0 and 100 with at least 0Rumtime: Between 0 and 250 minutesYears: Between 2021 and 2021",
+                "studio": "CorpsEnThym",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "french_2021_(all)-1662288619.0421705",
+            "version": "3.7.0"
+        },
+        {
+            "label": "French 2000-2020",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=French%202000-2020&list_slug=french-2000-2020&owner=true&plugin_category=French%202000-2020&user_slug=corpsenthym&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "plot": "List created and maintained by https://listrr.proNormal Filters:Content Type: FiltersCountries: fr, frLanguages: frMin rating: 0Max rating: 100Min votes: 0Min runtime: 0Max runtime: 250Min year: 2000Max year: 2020",
+                "studio": "CorpsEnThym",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "french_2000-2020-1662288715.20096",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Best french comedy",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Best%20french%20comedy&list_slug=best-french-comedy&owner=true&plugin_category=Best%20french%20comedy&user_slug=koubic1&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "studio": "Petr Kouba",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "best_french_comedy-1662288745.2810004",
+            "version": "3.7.0"
+        },
+        {
+            "label": "French Movies 50+ Rating",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=French%20Movies%2050%2b%20Rating&list_slug=french-movies-50-rating&owner=true&plugin_category=French%20Movies%2050%2b%20Rating&user_slug=foulou&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "plot": "This list is maintained by mdblist.comCreate your own: https://mdblist.com/lists/foulou/french-movies-50-ratingUpdated at 2022-09-04 11:51:19",
+                "studio": "FouLou",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "french_movies_50_rating-1662288784.6930046",
+            "version": "3.7.0"
+        },
+        {
+            "label": "French 1900-2050 - 1 vote",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=French%201900-2050%20-%201%20vote&list_slug=french-1900-2050-1-vote&owner=true&plugin_category=French%201900-2050%20-%201%20vote&user_slug=corpsenthym&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "plot": "List created and maintained by https://listrr.proNormal Filters:Content Type: FiltersCountries: fr, frLanguages: frTrakt ratings: Between 0 and 100 with at least 10Rumtime: Between 30 and 250 minutesYears: Between 1900 and 2050",
+                "studio": "CorpsEnThym",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "french_1900-2050_-_1_vote-1662288973.0879736",
+            "version": "3.7.0"
+        }
+    ],
+    "id": "films_francais_autowidget-1661599398.3946514",
+    "art": {
+        "banner": "special://home/addons/plugin.program.autowidget/resources/media/banner/folder-sync.png",
+        "fanart": "special://home/addons/plugin.program.autowidget/resources/media/fanart/folder-sync.png",
+        "icon": "special://home/addons/plugin.program.autowidget/resources/media/icon/folder-sync.png",
+        "poster": "special://home/addons/plugin.program.autowidget/resources/media/poster/folder-sync.png",
+        "thumb": "special://home/addons/plugin.program.autowidget/resources/media/icon/folder-sync.png"
+    },
+    "version": "3.7.0",
+    "content": "",
+    "sort_order": "22"
+}

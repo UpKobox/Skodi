@@ -1,0 +1,143 @@
+{
+    "label": "Films Hub",
+    "type": "shortcut",
+    "paths": [
+        {
+            "label": "Films Diffuseurs",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.program.autowidget/?group=films_diffuseurs-1660553879.6137402&mode=group&refresh&reload",
+                "filetype": "directory",
+                "art": {
+                    "banner": "special://home/addons/plugin.program.autowidget/resources/media/banner/folder-shortcut.png",
+                    "fanart": "special://home/addons/plugin.program.autowidget/resources/media/fanart/folder-shortcut.png",
+                    "icon": "special://home/addons/plugin.program.autowidget/resources/media/icon/folder-shortcut.png",
+                    "poster": "special://home/addons/plugin.program.autowidget/resources/media/poster/folder-shortcut.png",
+                    "thumb": "special://home/addons/plugin.program.autowidget/resources/media/icon/folder-shortcut.png"
+                },
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "programs",
+            "target": "shortcut",
+            "id": "films_diffuseurs-1678179702.1445131",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Films autowidget",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.program.autowidget/?group=films_autowidget-1661598449.2327583&mode=group&refresh&reload",
+                "filetype": "directory",
+                "art": {
+                    "banner": "special://home/addons/plugin.program.autowidget/resources/media/banner/folder-sync.png",
+                    "fanart": "special://home/addons/plugin.program.autowidget/resources/media/fanart/folder-sync.png",
+                    "icon": "special://home/addons/plugin.program.autowidget/resources/media/icon/folder-sync.png",
+                    "poster": "special://home/addons/plugin.program.autowidget/resources/media/poster/folder-sync.png",
+                    "thumb": "special://home/addons/plugin.program.autowidget/resources/media/icon/folder-sync.png"
+                },
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "programs",
+            "target": "shortcut",
+            "id": "films_autowidget-1678179745.5444624",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Films Francais autowidget",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.program.autowidget/?group=films_francais_autowidget-1661599398.3946514&mode=group&refresh&reload",
+                "filetype": "directory",
+                "art": {
+                    "banner": "special://home/addons/plugin.program.autowidget/resources/media/banner/folder-sync.png",
+                    "fanart": "special://home/addons/plugin.program.autowidget/resources/media/fanart/folder-sync.png",
+                    "icon": "special://home/addons/plugin.program.autowidget/resources/media/icon/folder-sync.png",
+                    "poster": "special://home/addons/plugin.program.autowidget/resources/media/poster/folder-sync.png",
+                    "thumb": "special://home/addons/plugin.program.autowidget/resources/media/icon/folder-sync.png"
+                },
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "programs",
+            "target": "shortcut",
+            "id": "films_francais_autowidget-1678179762.577628",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Films Famille",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.program.autowidget/?group=films_famille-1656856477.5542638&mode=group&refresh&reload",
+                "filetype": "directory",
+                "art": {
+                    "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+                    "fanart": "special://home/addons\\plugin.program.autowidget\\resources\\media\\fanart\\folder-shortcut.png",
+                    "icon": "special://home/addons/skin.arctic.horizon.2/extras/icons/girl2.png",
+                    "poster": "special://home/addons\\plugin.program.autowidget\\resources\\media\\poster\\folder-shortcut.png",
+                    "thumb": "special://home/addons/skin.arctic.horizon.2/extras/icons/girl2.png"
+                },
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "programs",
+            "target": "shortcut",
+            "id": "films_famille-1678179907.0109098",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Trakt Films",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.program.autowidget/?group=trakt_films-1662930712.1132114&mode=group&refresh&reload",
+                "filetype": "directory",
+                "art": {
+                    "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+                    "fanart": "special://home/addons\\plugin.program.autowidget\\resources\\media\\fanart\\folder-shortcut.png",
+                    "icon": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png",
+                    "poster": "special://home/addons\\plugin.program.autowidget\\resources\\media\\poster\\folder-shortcut.png",
+                    "thumb": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png"
+                },
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "programs",
+            "target": "shortcut",
+            "id": "trakt_films-1678180343.2779927",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Films (r\u00e9solution)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.program.autowidget/?group=films_(resolution)-1656856275.5997653&mode=group&refresh&reload",
+                "filetype": "directory",
+                "art": {
+                    "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+                    "fanart": "special://home/addons\\plugin.program.autowidget\\resources\\media\\fanart\\folder-shortcut.png",
+                    "icon": "special://home/addons/skin.arctic.horizon.2/extras/icons/film.png",
+                    "poster": "special://home/addons\\plugin.program.autowidget\\resources\\media\\poster\\folder-shortcut.png",
+                    "thumb": "special://home/addons/skin.arctic.horizon.2/extras/icons/film.png"
+                },
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "programs",
+            "target": "shortcut",
+            "id": "films_(resolution)-1678179940.3107584",
+            "version": "3.7.0"
+        }
+    ],
+    "id": "films_hub-1678179697.1108258",
+    "art": {
+        "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+        "fanart": "special://home/addons\\plugin.program.autowidget\\resources\\media\\fanart\\folder-shortcut.png",
+        "icon": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png",
+        "poster": "special://home/addons\\plugin.program.autowidget\\resources\\media\\poster\\folder-shortcut.png",
+        "thumb": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png"
+    },
+    "version": "3.7.0",
+    "content": "",
+    "sort_order": "51"
+}

@@ -1,0 +1,10 @@
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR=red]Action &amp; Aventure[/COLOR]</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.program.autowidget/?mode=path&amp;action=static&amp;group=films_nouveautes-1677969708.6838126&amp;id=d34054ce-9a65-41a1-8868-314d816aefaa&amp;refresh=$INFO[Window(10000).Property(autowidget-d34054ce-9a65-41a1-8868-314d816aefaa-refresh)]&amp;reload=",return)</action>
+		</shortcut>
+	</shortcuts>

@@ -1,0 +1,5 @@
+<node order="40" type="folder">
+	<label>Années</label>
+	<icon>DefaultYear.png</icon>
+	<path>plugin://plugin.video.sendtokodiU2P/?action=mediasHKFilms&amp;famille=Ann%C3%A9e%28s%29&amp;offset=0</path>
+</node>

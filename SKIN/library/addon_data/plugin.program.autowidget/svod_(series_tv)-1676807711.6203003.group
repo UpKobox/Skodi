@@ -1,0 +1,177 @@
+{
+    "label": "SVOD (S\u00e9ries TV)",
+    "type": "shortcut",
+    "paths": [
+        {
+            "label": "Netflix (S\u00e9ries TV)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Netflix%20(S%c3%a9ries%20TV)&list_slug=netflix-series-tv&owner=true&plugin_category=Netflix%20(S%c3%a9ries%20TV)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Netflix.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/netflix-series-tv\r\nUpdated at 2023-02-19 13:50:45",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "netflix_(series_tv)-1676807716.8537679",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Disney+ (S\u00e9ries TV)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Disney%2b%20(S%c3%a9ries%20TV)&list_slug=disney-series-tv&owner=true&plugin_category=Disney%2b%20(S%c3%a9ries%20TV)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Disney+.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/disney-series-tv\r\nUpdated at 2023-02-19 12:14:05",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "disney_(series_tv)-1676807726.786218",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Prime Video (S\u00e9ries TV)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Prime%20Video%20(S%c3%a9ries%20TV)&list_slug=prime-video-series-tv&owner=true&plugin_category=Prime%20Video%20(S%c3%a9ries%20TV)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Amazon Prime.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/amazon-prime-series-tv\r\nUpdated at 2023-02-19 13:29:08",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "prime_video_(series_tv)-1676807740.0529103",
+            "version": "3.7.0"
+        },
+        {
+            "label": "HBO Max (S\u00e9ries TV)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=HBO%20Max%20(S%c3%a9ries%20TV)&list_slug=hbo-max-series-tv&owner=true&plugin_category=HBO%20Max%20(S%c3%a9ries%20TV)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/HBO Max.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/hbo-max-series-tv\r\nUpdated at 2023-02-19 13:30:20",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "hbo_max_(series_tv)-1676807755.4357963",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Apple TV+ (S\u00e9ries TV)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Apple%20TV%2b%20(S%c3%a9ries%20TV)&list_slug=apple-tv-series-tv&owner=true&plugin_category=Apple%20TV%2b%20(S%c3%a9ries%20TV)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Apple TV+.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/apple-tv-series-tv\r\nUpdated at 2023-02-19 13:30:07",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "apple_tv_(series_tv)-1676807764.617863",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Paramount+ (S\u00e9ries TV)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Paramount%2b%20(S%c3%a9ries%20TV)&list_slug=paramount-series-tv&owner=true&plugin_category=Paramount%2b%20(S%c3%a9ries%20TV)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Paramount+.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/paramount-series-tv\r\nUpdated at 2023-02-19 13:45:58",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "paramount_(series_tv)-1676807784.8835168",
+            "version": "3.7.0"
+        },
+        {
+            "label": "SALTO (S\u00e9ries TV)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=SALTO%20(S%c3%a9ries%20TV)&list_slug=salto-series-tv&owner=true&plugin_category=SALTO%20(S%c3%a9ries%20TV)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/SALTO.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/salto-series-tv\r\nUpdated at 2023-02-25 21:43:01",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "salto_(series_tv)-1677355013.003377",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Canal+ (S\u00e9ries TV)",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Canal%2b%20(S%c3%a9ries%20TV)&list_slug=canal-series-tv&owner=true&plugin_category=Canal%2b%20(S%c3%a9ries%20TV)&user_slug=jukebox8786&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons\\plugin.video.themoviedb.helper\\/resources/icons/themoviedb/default.png",
+                    "landscape": "special://masterprofile/addon_data/iconesah2juke/Canal+.jpg"
+                },
+                "plot": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/jukebox8786/canal-series-tv\r\nUpdated at 2023-02-19 13:29:30",
+                "studio": "JukeBoX",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "canal_(series_tv)-1676807812.5153096",
+            "version": "3.7.0"
+        }
+    ],
+    "id": "svod_(series_tv)-1676807711.6203003",
+    "art": {
+        "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+        "fanart": "special://home/addons\\plugin.program.autowidget\\resources\\media\\fanart\\folder-shortcut.png",
+        "icon": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png",
+        "poster": "special://home/addons\\plugin.program.autowidget\\resources\\media\\poster\\folder-shortcut.png",
+        "thumb": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png"
+    },
+    "version": "3.7.0",
+    "content": "",
+    "sort_order": "5"
+}

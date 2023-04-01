@@ -1,0 +1,584 @@
+{
+    "label": "Karaok\u00e9 0-9/A-Z",
+    "type": "shortcut",
+    "paths": [
+        {
+            "label": "Karaok\u00e9:0 a 9",
+            "content": "files",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=affFoldercryptDivers&nom=Karaok%c3%a9%3a0%20a%209&repo=karaoke",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://masterprofile/addon_data/icones/karaok\u00e9/00-9.png"
+                },
+                "title": "Karaok\u00e9:0 a 9",
+                "genre": "karaoke",
+                "plot": "Karaok\u00e9:0 a 9",
+                "imdbnumber": "0",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "karaoke0_a_9-1666902670.3176115",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Karaok\u00e9:Lettre A",
+            "content": "files",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=affFoldercryptDivers&nom=Karaok%c3%a9%3aLettre%20A&repo=karaoke",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://masterprofile/addon_data/icones/karaok\u00e9/a.png"
+                },
+                "title": "Karaok\u00e9:Lettre A",
+                "genre": "karaoke",
+                "plot": "Karaok\u00e9:Lettre A",
+                "imdbnumber": "0",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "karaokelettre_a-1666902687.9175994",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Karaok\u00e9:Lettre B",
+            "content": "files",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=affFoldercryptDivers&nom=Karaok%c3%a9%3aLettre%20B&repo=karaoke",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://masterprofile/addon_data/icones/karaok\u00e9/b.png"
+                },
+                "title": "Karaok\u00e9:Lettre B",
+                "genre": "karaoke",
+                "plot": "Karaok\u00e9:Lettre B",
+                "imdbnumber": "0",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "karaokelettre_b-1666902695.5178368",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Karaok\u00e9:Lettre C",
+            "content": "files",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=affFoldercryptDivers&nom=Karaok%c3%a9%3aLettre%20C&repo=karaoke",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://masterprofile/addon_data/icones/karaok\u00e9/c.png"
+                },
+                "title": "Karaok\u00e9:Lettre C",
+                "genre": "karaoke",
+                "plot": "Karaok\u00e9:Lettre C",
+                "imdbnumber": "0",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "karaokelettre_c-1666902703.0508869",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Karaok\u00e9:Lettre D",
+            "content": "files",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=affFoldercryptDivers&nom=Karaok%c3%a9%3aLettre%20D&repo=karaoke",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://masterprofile/addon_data/icones/karaok\u00e9/d.png"
+                },
+                "title": "Karaok\u00e9:Lettre D",
+                "genre": "karaoke",
+                "plot": "Karaok\u00e9:Lettre D",
+                "imdbnumber": "0",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "karaokelettre_d-1666902710.8513265",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Karaok\u00e9:Lettre E",
+            "content": "files",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=affFoldercryptDivers&nom=Karaok%c3%a9%3aLettre%20E&repo=karaoke",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://masterprofile/addon_data/icones/karaok\u00e9/e.png"
+                },
+                "title": "Karaok\u00e9:Lettre E",
+                "genre": "karaoke",
+                "plot": "Karaok\u00e9:Lettre E",
+                "imdbnumber": "0",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "karaokelettre_e-1666902717.5345192",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Karaok\u00e9:Lettre F",
+            "content": "files",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=affFoldercryptDivers&nom=Karaok%c3%a9%3aLettre%20F&repo=karaoke",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://masterprofile/addon_data/icones/karaok\u00e9/f.png"
+                },
+                "title": "Karaok\u00e9:Lettre F",
+                "genre": "karaoke",
+                "plot": "Karaok\u00e9:Lettre F",
+                "imdbnumber": "0",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "karaokelettre_f-1666902725.4514",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Karaok\u00e9:Lettre G",
+            "content": "files",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=affFoldercryptDivers&nom=Karaok%c3%a9%3aLettre%20G&repo=karaoke",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://masterprofile/addon_data/icones/karaok\u00e9/g.png"
+                },
+                "title": "Karaok\u00e9:Lettre G",
+                "genre": "karaoke",
+                "plot": "Karaok\u00e9:Lettre G",
+                "imdbnumber": "0",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "karaokelettre_g-1666902732.3187678",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Karaok\u00e9:Lettre H",
+            "content": "files",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=affFoldercryptDivers&nom=Karaok%c3%a9%3aLettre%20H&repo=karaoke",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://masterprofile/addon_data/icones/karaok\u00e9/h.png"
+                },
+                "title": "Karaok\u00e9:Lettre H",
+                "genre": "karaoke",
+                "plot": "Karaok\u00e9:Lettre H",
+                "imdbnumber": "0",
+                "votes": "0"
+            },
+            "color": -1,
+            "window": "videos",
+            "target": "shortcut",
+            "id": "karaokelettre_h-1666902739.5513957",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Karaok\u00e9:Lettre I",
+            "content": "files",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=affFoldercryptDivers&nom=Karaok%c3%a9%3aLettre%20I&repo=karaoke",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://masterprofile/addon_data/icones/karaok\u00e9/i.png"
+                },
+                "title": "Karaok\u00e9:Lettre I",
+                "genre": "karaoke",
+                "plot": "Karaok\u00e9:Lettre I",
+                "imdbnumber": "0",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "karaokelettre_i-1666902746.6517184",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Karaok\u00e9:Lettre J",
+            "content": "files",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=affFoldercryptDivers&nom=Karaok%c3%a9%3aLettre%20J&repo=karaoke",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://masterprofile/addon_data/icones/karaok\u00e9/j.png"
+                },
+                "title": "Karaok\u00e9:Lettre J",
+                "genre": "karaoke",
+                "plot": "Karaok\u00e9:Lettre J",
+                "imdbnumber": "0",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "karaokelettre_j-1666902753.7184079",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Karaok\u00e9:Lettre K",
+            "content": "files",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=affFoldercryptDivers&nom=Karaok%c3%a9%3aLettre%20K&repo=karaoke",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://masterprofile/addon_data/icones/karaok\u00e9/k.png"
+                },
+                "title": "Karaok\u00e9:Lettre K",
+                "genre": "karaoke",
+                "plot": "Karaok\u00e9:Lettre K",
+                "imdbnumber": "0",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "karaokelettre_k-1666902760.5177743",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Karaok\u00e9:Lettre L",
+            "content": "files",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=affFoldercryptDivers&nom=Karaok%c3%a9%3aLettre%20L&repo=karaoke",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://masterprofile/addon_data/icones/karaok\u00e9/l.png"
+                },
+                "title": "Karaok\u00e9:Lettre L",
+                "genre": "karaoke",
+                "plot": "Karaok\u00e9:Lettre L",
+                "imdbnumber": "0",
+                "votes": "0"
+            },
+            "color": -1,
+            "window": "videos",
+            "target": "shortcut",
+            "id": "karaokelettre_l-1666902769.401061",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Karaok\u00e9:Lettre M",
+            "content": "files",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=affFoldercryptDivers&nom=Karaok%c3%a9%3aLettre%20M&repo=karaoke",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://masterprofile/addon_data/icones/karaok\u00e9/m.png"
+                },
+                "title": "Karaok\u00e9:Lettre M",
+                "genre": "karaoke",
+                "plot": "Karaok\u00e9:Lettre M",
+                "imdbnumber": "0",
+                "votes": "0"
+            },
+            "color": -1,
+            "window": "videos",
+            "target": "shortcut",
+            "id": "karaokelettre_m-1666902776.701629",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Karaok\u00e9:Lettre N",
+            "content": "files",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=affFoldercryptDivers&nom=Karaok%c3%a9%3aLettre%20N&repo=karaoke",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://masterprofile/addon_data/icones/karaok\u00e9/n.png"
+                },
+                "title": "Karaok\u00e9:Lettre N",
+                "genre": "karaoke",
+                "plot": "Karaok\u00e9:Lettre N",
+                "imdbnumber": "0",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "karaokelettre_n-1666902783.618309",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Karaok\u00e9:Lettre O",
+            "content": "files",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=affFoldercryptDivers&nom=Karaok%c3%a9%3aLettre%20O&repo=karaoke",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://masterprofile/addon_data/icones/karaok\u00e9/o.png"
+                },
+                "title": "Karaok\u00e9:Lettre O",
+                "genre": "karaoke",
+                "plot": "Karaok\u00e9:Lettre O",
+                "imdbnumber": "0",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "karaokelettre_o-1666902790.935306",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Karaok\u00e9:Lettre P",
+            "content": "files",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=affFoldercryptDivers&nom=Karaok%c3%a9%3aLettre%20P&repo=karaoke",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://masterprofile/addon_data/icones/karaok\u00e9/p.png"
+                },
+                "title": "Karaok\u00e9:Lettre P",
+                "genre": "karaoke",
+                "plot": "Karaok\u00e9:Lettre P",
+                "imdbnumber": "0",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "karaokelettre_p-1666902797.602121",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Karaok\u00e9:Lettre Q",
+            "content": "files",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=affFoldercryptDivers&nom=Karaok%c3%a9%3aLettre%20Q&repo=karaoke",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://masterprofile/addon_data/icones/karaok\u00e9/q.png"
+                },
+                "title": "Karaok\u00e9:Lettre Q",
+                "genre": "karaoke",
+                "plot": "Karaok\u00e9:Lettre Q",
+                "imdbnumber": "0",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "karaokelettre_q-1666902804.3021715",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Karaok\u00e9:Lettre R",
+            "content": "files",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=affFoldercryptDivers&nom=Karaok%c3%a9%3aLettre%20R&repo=karaoke",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://masterprofile/addon_data/icones/karaok\u00e9/r.png"
+                },
+                "title": "Karaok\u00e9:Lettre R",
+                "genre": "karaoke",
+                "plot": "Karaok\u00e9:Lettre R",
+                "imdbnumber": "0",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "karaokelettre_r-1666902811.2852845",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Karaok\u00e9:Lettre S",
+            "content": "files",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=affFoldercryptDivers&nom=Karaok%c3%a9%3aLettre%20S&repo=karaoke",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://masterprofile/addon_data/icones/karaok\u00e9/s.png"
+                },
+                "title": "Karaok\u00e9:Lettre S",
+                "genre": "karaoke",
+                "plot": "Karaok\u00e9:Lettre S",
+                "imdbnumber": "0",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "karaokelettre_s-1666902818.8351746",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Karaok\u00e9:Lettre T",
+            "content": "files",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=affFoldercryptDivers&nom=Karaok%c3%a9%3aLettre%20T&repo=karaoke",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://masterprofile/addon_data/icones/karaok\u00e9/t.png"
+                },
+                "title": "Karaok\u00e9:Lettre T",
+                "genre": "karaoke",
+                "plot": "Karaok\u00e9:Lettre T",
+                "imdbnumber": "0",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "karaokelettre_t-1666902825.8859158",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Karaok\u00e9:Lettre U",
+            "content": "files",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=affFoldercryptDivers&nom=Karaok%c3%a9%3aLettre%20U&repo=karaoke",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://masterprofile/addon_data/icones/karaok\u00e9/u.png"
+                },
+                "title": "Karaok\u00e9:Lettre U",
+                "genre": "karaoke",
+                "plot": "Karaok\u00e9:Lettre U",
+                "imdbnumber": "0",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "karaokelettre_u-1666902832.4365358",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Karaok\u00e9:Lettre V",
+            "content": "files",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=affFoldercryptDivers&nom=Karaok%c3%a9%3aLettre%20V&repo=karaoke",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://masterprofile/addon_data/icones/karaok\u00e9/v.png"
+                },
+                "title": "Karaok\u00e9:Lettre V",
+                "genre": "karaoke",
+                "plot": "Karaok\u00e9:Lettre V",
+                "imdbnumber": "0",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "karaokelettre_v-1666902840.285364",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Karaok\u00e9:Lettre W",
+            "content": "files",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=affFoldercryptDivers&nom=Karaok%c3%a9%3aLettre%20W&repo=karaoke",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://masterprofile/addon_data/icones/karaok\u00e9/w (2).png"
+                },
+                "title": "Karaok\u00e9:Lettre W",
+                "genre": "karaoke",
+                "plot": "Karaok\u00e9:Lettre W",
+                "imdbnumber": "0",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "karaokelettre_w-1666902847.9859307",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Karaok\u00e9:Lettre X",
+            "content": "files",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=affFoldercryptDivers&nom=Karaok%c3%a9%3aLettre%20X&repo=karaoke",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://masterprofile/addon_data/icones/karaok\u00e9/x.png"
+                },
+                "title": "Karaok\u00e9:Lettre X",
+                "genre": "karaoke",
+                "plot": "Karaok\u00e9:Lettre X",
+                "imdbnumber": "0",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "karaokelettre_x-1666902854.652901",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Karaok\u00e9:Lettre Y",
+            "content": "files",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=affFoldercryptDivers&nom=Karaok%c3%a9%3aLettre%20Y&repo=karaoke",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://masterprofile/addon_data/icones/karaok\u00e9/y.png"
+                },
+                "title": "Karaok\u00e9:Lettre Y",
+                "genre": "karaoke",
+                "plot": "Karaok\u00e9:Lettre Y",
+                "imdbnumber": "0",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "karaokelettre_y-1666902861.5022974",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Karaok\u00e9:Lettre Z",
+            "content": "files",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=affFoldercryptDivers&nom=Karaok%c3%a9%3aLettre%20Z&repo=karaoke",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://masterprofile/addon_data/icones/karaok\u00e9/z.png"
+                },
+                "title": "Karaok\u00e9:Lettre Z",
+                "genre": "karaoke",
+                "plot": "Karaok\u00e9:Lettre Z",
+                "imdbnumber": "0",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "karaokelettre_z-1666902870.1692448",
+            "version": "3.7.0"
+        }
+    ],
+    "id": "karaoke_0-9a-z-1666902433.9163108",
+    "art": {
+        "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+        "fanart": "special://home/addons\\plugin.program.autowidget\\resources\\media\\fanart\\folder-shortcut.png",
+        "icon": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png",
+        "poster": "special://home/addons\\plugin.program.autowidget\\resources\\media\\poster\\folder-shortcut.png",
+        "thumb": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png"
+    },
+    "version": "3.7.0",
+    "content": "",
+    "sort_order": "43"
+}

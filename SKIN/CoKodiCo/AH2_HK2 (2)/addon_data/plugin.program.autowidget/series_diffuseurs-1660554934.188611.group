@@ -1,0 +1,206 @@
+{
+    "label": "Series Diffuseurs",
+    "type": "shortcut",
+    "paths": [
+        {
+            "label": "Crunchyroll",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=discover&tmdb_type=tv&watch_region=FR&with_id=True&with_watch_providers=283&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/media/Diffuseurs/55b51dc7b4ed0cc735df3dab1724fbf71658862438_full.png",
+                    "thumb": "/storage/emulated/0/Android/media/Diffuseurs/15612e66f5fc1d55b6f9797aefad3dfd1658144791_full.jpg",
+                    "fanart": "special://home/media/Diffuseurs/crunchyroll fusion big__w1200.jpg",
+                    "landscape": "special://home/media/Diffuseurs/2e76526192a0bb876bff22dc73f245c31658415763_main.png"
+                },
+                "title": "Crunchyroll",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "crunchyroll-1660555020.8930562",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Disney Plus",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=discover&tmdb_type=tv&watch_region=FR&with_id=True&with_watch_providers=337&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/media/Diffuseurs/disneyplus.jpg",
+                    "thumb": "/storage/emulated/0/Android/media/Diffuseurs/disneyplus.jpg",
+                    "fanart": "special://home/media/Diffuseurs/Contrairement-a-Netflix-qui-est-dans-la-tourmente-Disney-Plus-continue-son-ascension-fulgurante.webp",
+                    "landscape": "special://home/media/Diffuseurs/disney-plus-.jpeg"
+                },
+                "title": "Disney Plus",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "disney_plus-1660555079.368028",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Netflix",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=discover&tmdb_type=tv&watch_region=FR&with_id=True&with_watch_providers=8&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/media/Diffuseurs/netflix.jpg",
+                    "thumb": "/storage/emulated/0/Android/media/Diffuseurs/netflix.jpg",
+                    "fanart": "special://home/media/Diffuseurs/netflix-logo.webp",
+                    "landscape": "special://home/media/Diffuseurs/Netflix_Logo.webp"
+                },
+                "title": "Netflix",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "netflix-1660554939.4925091",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Amazon Prime Video",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=discover&tmdb_type=tv&watch_region=FR&with_id=True&with_watch_providers=119&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/media/Diffuseurs/primevideo.jpg",
+                    "thumb": "/storage/emulated/0/Android/media/Diffuseurs/primevideo.jpg",
+                    "fanart": "special://home/media/Diffuseurs/amazon-prime-video.jpg",
+                    "landscape": "special://home/media/Diffuseurs/amazon-prime-video.jpg"
+                },
+                "title": "Amazon Prime Video",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "amazon_prime_video-1660554966.7839396",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Apple TV Plus",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=discover&tmdb_type=tv&watch_region=FR&with_id=True&with_watch_providers=350&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/media/Diffuseurs/appletv.jpg",
+                    "thumb": "/storage/emulated/0/Android/media/Diffuseurs/appletv.jpg",
+                    "fanart": "special://home/media/Diffuseurs/Apple-TV-app_571x321.jpg.large.jpg",
+                    "landscape": "special://home/media/Diffuseurs/apple-tv__e7aqjl2rqzau_og.png"
+                },
+                "title": "Apple TV Plus",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "apple_tv_plus-1660555035.3963602",
+            "version": "3.6.1"
+        },
+        {
+            "label": "OCS",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=discover&tmdb_type=tv&watch_region=FR&with_id=True&with_watch_providers=56&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/media/Diffuseurs/hbomax.jpg",
+                    "thumb": "/storage/emulated/0/Android/media/Diffuseurs/hbomax.jpg",
+                    "fanart": "special://home/media/Diffuseurs/hbo max 2022 .jpg",
+                    "landscape": "special://home/media/Diffuseurs/hbo-max-logo.webp"
+                },
+                "title": "OCS Go",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "ocs-1660554995.488455",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Canal+",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=discover&tmdb_type=tv&watch_region=FR&with_id=True&with_watch_providers=381&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/media/Diffuseurs/canalplus.jpg",
+                    "thumb": "/storage/emulated/0/Android/media/Diffuseurs/canalplus.jpg",
+                    "fanart": "special://home/media/Diffuseurs/canalplus.jpeg",
+                    "landscape": "special://home/media/Diffuseurs/canal-plus-vignette.webp"
+                },
+                "title": "Canal+",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "canal-1660554982.7062042",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Arte",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=discover&tmdb_type=tv&watch_region=FR&with_id=True&with_watch_providers=234&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/media/Diffuseurs/arte.jpg",
+                    "thumb": "/storage/emulated/0/Android/media/Diffuseurs/arte.jpg",
+                    "fanart": "special://home/media/Diffuseurs/arte-logo_1920x1080-6-585x329.jpg",
+                    "landscape": "special://home/media/Diffuseurs/1200x630wa.png"
+                },
+                "title": "Arte",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "arte-1660555052.0610788",
+            "version": "3.6.1"
+        },
+        {
+            "label": "SALTO",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=discover&tmdb_type=tv&watch_region=FR&with_id=True&with_watch_providers=564&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/media/Diffuseurs/salto.jpg",
+                    "thumb": "/storage/emulated/0/Android/media/Diffuseurs/salto.jpg",
+                    "fanart": "special://home/media/Diffuseurs/salto-logo.webp",
+                    "landscape": "special://home/media/Diffuseurs/salto-logo.webp"
+                },
+                "title": "SALTO",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "salto-1660555090.0346632",
+            "version": "3.6.1"
+        }
+    ],
+    "id": "series_diffuseurs-1660554934.188611",
+    "art": {
+        "banner": "special://home/addons/plugin.program.autowidget/resources/media/banner/folder-shortcut.png",
+        "fanart": "special://home/addons/plugin.program.autowidget/resources/media/fanart/folder-shortcut.png",
+        "icon": "special://home/addons/plugin.program.autowidget/resources/media/icon/folder-shortcut.png",
+        "poster": "special://home/addons/plugin.program.autowidget/resources/media/poster/folder-shortcut.png",
+        "thumb": "special://home/addons/plugin.program.autowidget/resources/media/icon/folder-shortcut.png"
+    },
+    "version": "3.7.0",
+    "content": "",
+    "sort_order": "4"
+}

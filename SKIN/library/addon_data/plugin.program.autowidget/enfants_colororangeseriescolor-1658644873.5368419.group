@@ -1,0 +1,413 @@
+{
+    "label": "Enfants [COLORorange]Series[/COLOR]",
+    "type": "shortcut",
+    "paths": [
+        {
+            "label": "S\u00e9ries d'animation populaires",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=specialWid&nomListe=S%c3%a9ries%20d%27animation%20populaires&typM=tvshow",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/serie.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/serie.png"
+                },
+                "title": "S\u00e9ries d'animation populaires",
+                "plot": "S\u00e9ries d'animation populaires",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "series_danimation_populaires-1658644876.4018552",
+            "version": "3.6.1"
+        },
+        {
+            "label": "S\u00e9ries d'animation r\u00e9centes",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=specialWid&nomListe=S%c3%a9ries%20d%27animation%20r%c3%a9centes&typM=tvshow",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/serie.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/serie.png"
+                },
+                "title": "S\u00e9ries d'animation r\u00e9centes",
+                "plot": "S\u00e9ries d'animation r\u00e9centes",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "series_danimation_recentes-1658644890.0435355",
+            "version": "3.6.1"
+        },
+        {
+            "label": "S\u00e9ries populaires",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=specialWid&nomListe=S%c3%a9ries%20populaires&typM=tvshow",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/serie.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/serie.png"
+                },
+                "title": "S\u00e9ries populaires",
+                "plot": "S\u00e9ries populaires",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "series_populaires-1658644936.2140834",
+            "version": "3.6.1"
+        },
+        {
+            "label": "S\u00e9ries r\u00e9centes",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=specialWid&nomListe=S%c3%a9ries%20r%c3%a9centes&typM=tvshow",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/serie.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/serie.png"
+                },
+                "title": "S\u00e9ries r\u00e9centes",
+                "plot": "S\u00e9ries r\u00e9centes",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "series_recentes-1658644950.5048783",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Animation",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=groupes&nom=animation&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png"
+                },
+                "title": "Animation",
+                "plot": "animation",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "animation-1658645015.7468655",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Anime",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=groupes&nom=anime&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/anime.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/anime.png"
+                },
+                "title": "Anime",
+                "plot": "anime",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "anime-1658645029.171758",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Anime 80",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=groupes&nom=anime%2080&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png"
+                },
+                "title": "Anime 80",
+                "plot": "anime 80",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "anime_80-1658645041.6802862",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Animes",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=groupes&nom=animes&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png"
+                },
+                "title": "Animes",
+                "plot": "animes",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "animes-1658645061.4842322",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Disney series",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=groupes&nom=disney%20series&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png"
+                },
+                "title": "Disney series",
+                "plot": "disney series",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "disney_series-1658645073.3266358",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Il etait une fois",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=groupes&nom=il%20etait%20une%20fois&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png"
+                },
+                "title": "Il etait une fois",
+                "plot": "il etait une fois",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "il_etait_une_fois-1658645339.5571554",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Manga",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=groupes&nom=manga&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/manga.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/manga.png"
+                },
+                "title": "Manga",
+                "plot": "manga",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "manga-1658645359.4278383",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Serie jeunes ados",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=groupes&nom=serie%20jeunes%20ados&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png"
+                },
+                "title": "Serie jeunes ados",
+                "plot": "serie jeunes ados",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "serie_jeunes_ados-1658645436.8618743",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Superheros serie anime",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=groupes&nom=superheros%20serie%20anime&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png"
+                },
+                "title": "Superheros serie anime",
+                "plot": "superheros serie anime",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "superheros_serie_anime-1658645478.1519675",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Familial",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=genres&limit=500&offset=0&typgenre=Familial",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/genre/Familial.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/genre/Familial.png"
+                },
+                "title": "Familial",
+                "plot": "Familial",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "familial-1664389199.8102758",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Kids",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=genres&limit=500&offset=0&typgenre=Kids",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/genre/Kids.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/genre/Kids.png"
+                },
+                "title": "Kids",
+                "plot": "Kids",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "kids-1664389225.4606295",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Da lpdm",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=groupes&nom=da%20lpdm&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png"
+                },
+                "title": "Da lpdm",
+                "plot": "da lpdm",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "da_lpdm-1664389320.6169841",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Serie d'animation",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=groupes&nom=serie%20d%27animation&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png"
+                },
+                "title": "Serie d'animation",
+                "plot": "serie d'animation",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "serie_danimation-1664389337.9723172",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Serie jeunes ados",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&famille=groupes&nom=serie%20jeunes%20ados&offset=0",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png",
+                    "thumb": "special://home/addons/plugin.video.sendtokodiU2P/resources/png/liste.png"
+                },
+                "title": "Serie jeunes ados",
+                "plot": "serie jeunes ados",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "serie_jeunes_ados-1664389356.2944524",
+            "version": "3.7.0"
+        }
+    ],
+    "id": "enfants_colororangeseriescolor-1658644873.5368419",
+    "art": {
+        "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+        "fanart": "special://home/addons\\plugin.program.autowidget\\resources\\media\\fanart\\folder-shortcut.png",
+        "icon": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png",
+        "poster": "special://home/addons\\plugin.program.autowidget\\resources\\media\\poster\\folder-shortcut.png",
+        "thumb": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png"
+    },
+    "version": "3.7.0",
+    "content": "",
+    "sort_order": "13"
+}

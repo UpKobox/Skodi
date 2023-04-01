@@ -1,0 +1,985 @@
+{
+    "label": "Anime [COLORorange]Diffuseurs[/COLOR]",
+    "type": "shortcut",
+    "paths": [
+        {
+            "label": "ABEMA",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=1521&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/tEYzkOmnBQ7jmxqdzJ6nAk429aO.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/tEYzkOmnBQ7jmxqdzJ6nAk429aO.png"
+                },
+                "title": "ABEMA",
+                "plot": "ABEMA",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "abema-1658646469.421279",
+            "version": "3.6.1"
+        },
+        {
+            "label": "ANIMAX",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=171&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/5S9xrNouNbaYlhDkaZopIpcmbp2.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/5S9xrNouNbaYlhDkaZopIpcmbp2.png"
+                },
+                "title": "ANIMAX",
+                "plot": "ANIMAX",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "animax-1658646478.7318618",
+            "version": "3.6.1"
+        },
+        {
+            "label": "AT-X",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=173&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/fERjndErEpveJmQZccJbJDi93rj.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/fERjndErEpveJmQZccJbJDi93rj.png"
+                },
+                "title": "AT-X",
+                "plot": "AT-X",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "at-x-1658646489.8818598",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Adult Swim",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=80&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/2ezVEkNx1tvBLONzDcViyfovWBH.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/2ezVEkNx1tvBLONzDcViyfovWBH.png"
+                },
+                "title": "Adult Swim",
+                "plot": "Adult Swim",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "adult_swim-1658646499.0858996",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Asahi Broadcasting Corporation",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=1410&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/ca3Qw7exc3RPSd0CQFOZuSNbGjF.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/ca3Qw7exc3RPSd0CQFOZuSNbGjF.png"
+                },
+                "title": "Asahi Broadcasting Corporation",
+                "plot": "Asahi Broadcasting Corporation",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "asahi_broadcasting_corporation-1658646513.4932876",
+            "version": "3.6.1"
+        },
+        {
+            "label": "BS Fuji",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=1136&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/oMtJVGvqLAyQZvYTvjDIcbVEzwD.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/oMtJVGvqLAyQZvYTvjDIcbVEzwD.png"
+                },
+                "title": "BS Fuji",
+                "plot": "BS Fuji",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "bs_fuji-1658646525.5523672",
+            "version": "3.6.1"
+        },
+        {
+            "label": "BS-TBS",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=881&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/xHtce7jSMnxe2SDxxhWBZZyz0fm.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/xHtce7jSMnxe2SDxxhWBZZyz0fm.png"
+                },
+                "title": "BS-TBS",
+                "plot": "BS-TBS",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "bs-tbs-1658646534.9462326",
+            "version": "3.6.1"
+        },
+        {
+            "label": "BS11",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=861&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png"
+                },
+                "title": "BS11",
+                "plot": "BS11",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "bs11-1658646543.5735848",
+            "version": "3.6.1"
+        },
+        {
+            "label": "BS4",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=3220&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/naTpOY8AjRtgBw0JXafrhAD8ZBT.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/naTpOY8AjRtgBw0JXafrhAD8ZBT.png"
+                },
+                "title": "BS4",
+                "plot": "BS4",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "bs4-1658646552.4684074",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Bandai Channel",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=888&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/xGS6thPrtg4hA4bvjyKuWcpPSrk.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/xGS6thPrtg4hA4bvjyKuWcpPSrk.png"
+                },
+                "title": "Bandai Channel",
+                "plot": "Bandai Channel",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "bandai_channel-1658646561.8119934",
+            "version": "3.6.1"
+        },
+        {
+            "label": "CBC",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=201&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/qNooLje0YQh1y3y9LUM2Y5QCtiF.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/qNooLje0YQh1y3y9LUM2Y5QCtiF.png"
+                },
+                "title": "CBC",
+                "plot": "CBC",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "cbc-1658646576.6369264",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Chiba TV",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=663&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/8XNtModCxAwtvLy86b3phkE1jge.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/8XNtModCxAwtvLy86b3phkE1jge.png"
+                },
+                "title": "Chiba TV",
+                "plot": "Chiba TV",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "chiba_tv-1658646638.98412",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Chukyo TV",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=2727&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/KaIK93kJFD8WKH451owMdmNOSz.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/KaIK93kJFD8WKH451owMdmNOSz.png"
+                },
+                "title": "Chukyo TV",
+                "plot": "Chukyo TV",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "chukyo_tv-1658646648.556491",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Crunchyroll",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=1112&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/81QfupgVijSH5v1H3VUbdlPm2r8.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/81QfupgVijSH5v1H3VUbdlPm2r8.png"
+                },
+                "title": "Crunchyroll",
+                "plot": "Crunchyroll",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "crunchyroll-1658646675.7066236",
+            "version": "3.6.1"
+        },
+        {
+            "label": "FOD",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=2763&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/xMGdd8hvu91BK098UwbUv9IdjM5.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/xMGdd8hvu91BK098UwbUv9IdjM5.png"
+                },
+                "title": "FOD",
+                "plot": "FOD",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "fod-1658646686.3804104",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Fuji TV",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=1&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/yS5UJjsSdZXML0YikWTYYHLPKhQ.png"
+                },
+                "title": "Fuji TV",
+                "plot": "Fuji TV",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "fuji_tv-1658646698.8248687",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Gunma TV",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=343&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/5nhtCgvP4jJ5ZN4ibLzcuw6dUbN.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/5nhtCgvP4jJ5ZN4ibLzcuw6dUbN.png"
+                },
+                "title": "Gunma TV",
+                "plot": "Gunma TV",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "gunma_tv-1658646706.62159",
+            "version": "3.6.1"
+        },
+        {
+            "label": "GyaO!",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=2819&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/e4Zb74V62MpQRgtgZnBeGEt4UE9.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/e4Zb74V62MpQRgtgZnBeGEt4UE9.png"
+                },
+                "title": "GyaO!",
+                "plot": "GyaO!",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "gyao-1658646716.0138016",
+            "version": "3.6.1"
+        },
+        {
+            "label": "HBC",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=3658&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/n77lM12X5dhGHb0I57RmbtqxFsd.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/n77lM12X5dhGHb0I57RmbtqxFsd.png"
+                },
+                "title": "HBC",
+                "plot": "HBC",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "hbc-1658646723.3785133",
+            "version": "3.6.1"
+        },
+        {
+            "label": "HTB",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=12&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/eJSYeF1YIyQbZdTRNxuvVKaZOIK.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/eJSYeF1YIyQbZdTRNxuvVKaZOIK.png"
+                },
+                "title": "HTB",
+                "plot": "HTB",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "htb-1658646738.9662979",
+            "version": "3.6.1"
+        },
+        {
+            "label": "KBS Kyoto",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=1137&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/j12pSWPsDBxE1mmIpB7M8VRzk78.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/j12pSWPsDBxE1mmIpB7M8VRzk78.png"
+                },
+                "title": "KBS Kyoto",
+                "plot": "KBS Kyoto",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "kbs_kyoto-1658646752.9327252",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Kansai TV",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=1163&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/1J33ZvSff1VOEt3aC8CyKmj9GEy.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/1J33ZvSff1VOEt3aC8CyKmj9GEy.png"
+                },
+                "title": "Kansai TV",
+                "plot": "Kansai TV",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "kansai_tv-1658646776.0613668",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Kids Station",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=610&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/7V7vR2yOXblLOZH0qa1Zcqs5BRs.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/7V7vR2yOXblLOZH0qa1Zcqs5BRs.png"
+                },
+                "title": "Kids Station",
+                "plot": "Kids Station",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "kids_station-1658646816.190068",
+            "version": "3.6.1"
+        },
+        {
+            "label": "MBS",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=94&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/7RNXnyiMbjgqtPAjja13wchcrGI.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/7RNXnyiMbjgqtPAjja13wchcrGI.png"
+                },
+                "title": "MBS",
+                "plot": "MBS",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "mbs-1658646838.0918138",
+            "version": "3.6.1"
+        },
+        {
+            "label": "NHK Educational TV",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=622&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/wfkmoG6V2zRURuAGrO54lAwD83u.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/wfkmoG6V2zRURuAGrO54lAwD83u.png"
+                },
+                "title": "NHK Educational TV",
+                "plot": "NHK Educational TV",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "nhk_educational_tv-1658646851.1082237",
+            "version": "3.6.1"
+        },
+        {
+            "label": "NHK G\t",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=469&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/bH9mwMa64tQeVhmTmkC8Qn9Eoe.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/bH9mwMa64tQeVhmTmkC8Qn9Eoe.png"
+                },
+                "title": "NHK G",
+                "plot": "NHK G",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "nhk_g-1658646858.665496",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Nagoya TV",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=576&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/kW9bMQqnMFtPHvdoyCDpRqh7Gxt.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/kW9bMQqnMFtPHvdoyCDpRqh7Gxt.png"
+                },
+                "title": "Nagoya TV",
+                "plot": "Nagoya TV",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "nagoya_tv-1658646874.330452",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Niconico",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=1083&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/rU3iJ1dHKneqKLqZ1H1lc7eNy4T.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/rU3iJ1dHKneqKLqZ1H1lc7eNy4T.png"
+                },
+                "title": "Niconico",
+                "plot": "Niconico",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "niconico-1658646889.703673",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Nippon TV",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=57&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/uxaXSoT8K0S2NE5PWsBpHUl3GGU.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/uxaXSoT8K0S2NE5PWsBpHUl3GGU.png"
+                },
+                "title": "Nippon TV",
+                "plot": "Nippon TV",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "nippon_tv-1658646904.5273995",
+            "version": "3.6.1"
+        },
+        {
+            "label": "ProSieben Maxx",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=3282&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/eQPoTcjYtZocXyv1RFFWZJ3JKZ9.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/eQPoTcjYtZocXyv1RFFWZJ3JKZ9.png"
+                },
+                "title": "ProSieben Maxx",
+                "plot": "ProSieben Maxx",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "prosieben_maxx-1658646925.1320512",
+            "version": "3.6.1"
+        },
+        {
+            "label": "ProSieben Maxx",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=3282&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/eQPoTcjYtZocXyv1RFFWZJ3JKZ9.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/eQPoTcjYtZocXyv1RFFWZJ3JKZ9.png"
+                },
+                "title": "ProSieben Maxx",
+                "plot": "ProSieben Maxx",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "prosieben_maxx-1658646983.2108488",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Sun TV",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=817&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/5g8LER5X7tvziu3We71m9HnBmy6.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/5g8LER5X7tvziu3We71m9HnBmy6.png"
+                },
+                "title": "Sun TV",
+                "plot": "Sun TV",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "sun_tv-1658647001.61589",
+            "version": "3.6.1"
+        },
+        {
+            "label": "TV Osaka",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=824&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/6foQmoPac7WCDnDuDbuCZklmDuA.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/6foQmoPac7WCDnDuDbuCZklmDuA.png"
+                },
+                "title": "TV Osaka",
+                "plot": "TV Osaka",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "tv_osaka-1658647026.184166",
+            "version": "3.6.1"
+        },
+        {
+            "label": "TV Tokyo",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=98&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/kGRavMqgyx4p2X4C96bjRCj50oI.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/kGRavMqgyx4p2X4C96bjRCj50oI.png"
+                },
+                "title": "TV Tokyo",
+                "plot": "TV Tokyo",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "tv_tokyo-1658647034.6448534",
+            "version": "3.6.1"
+        },
+        {
+            "label": "TVQ",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=822&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/koirj3XCAq3J6OK3YpNepJIq7lO.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/koirj3XCAq3J6OK3YpNepJIq7lO.png"
+                },
+                "title": "TVQ",
+                "plot": "TVQ",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "tvq-1658647059.3179624",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Teletama",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=715&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/yhFNPfWqQTOj8olwR4Gk2H5397X.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/yhFNPfWqQTOj8olwR4Gk2H5397X.png"
+                },
+                "title": "Teletama",
+                "plot": "Teletama",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "teletama-1658647070.6741662",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Tochigi TV",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=2478&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/2v82HpzoKRveJEJcGHkeTcktMRM.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/2v82HpzoKRveJEJcGHkeTcktMRM.png"
+                },
+                "title": "Tochigi TV",
+                "plot": "Tochigi TV",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "tochigi_tv-1658647097.9938242",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Tokyo MX",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=614&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/3qFArHw6nrFIdkH2tPht701sNhs.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/3qFArHw6nrFIdkH2tPht701sNhs.png"
+                },
+                "title": "Tokyo MX",
+                "plot": "Tokyo MX",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "tokyo_mx-1658647106.9899554",
+            "version": "3.6.1"
+        },
+        {
+            "label": "WOWOW Prime",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=172&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/dCN47YS5lugkwts5ellpW51cBzL.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/dCN47YS5lugkwts5ellpW51cBzL.png"
+                },
+                "title": "WOWOW Prime",
+                "plot": "WOWOW Prime",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "wowow_prime-1658647148.1059186",
+            "version": "3.6.1"
+        },
+        {
+            "label": "YTV",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=569&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/cIMyE9cw1W4kMFGxmC17HKTnVz9.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/cIMyE9cw1W4kMFGxmC17HKTnVz9.png"
+                },
+                "title": "YTV",
+                "plot": "YTV",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "ytv-1658647161.6839128",
+            "version": "3.6.1"
+        },
+        {
+            "label": "bilibili",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=1605&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/mtmMg3PD4YGfrlmqpEiO6NL2ch9.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/mtmMg3PD4YGfrlmqpEiO6NL2ch9.png"
+                },
+                "title": "bilibili",
+                "plot": "bilibili",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "bilibili-1658647171.5575793",
+            "version": "3.6.1"
+        },
+        {
+            "label": "d Anime Store",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=3685&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/cCbMTimZb14Bk4KL6yHCVJl0ANC.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/cCbMTimZb14Bk4KL6yHCVJl0ANC.png"
+                },
+                "title": "d Anime Store",
+                "plot": "d Anime Store",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "d_anime_store-1658647183.649935",
+            "version": "3.6.1"
+        },
+        {
+            "label": "tv asahi",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=103&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/j3xAzk1SYQQwrQOD7acdSz675Wa.png"
+                },
+                "title": "tv asahi",
+                "plot": "tv asahi",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "tv_asahi-1658647198.8569264",
+            "version": "3.6.1"
+        },
+        {
+            "label": "tvk",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=792&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/onniCKpgZl8VEVSS8oa08Oas9jT.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/onniCKpgZl8VEVSS8oa08Oas9jT.png"
+                },
+                "title": "tvk",
+                "plot": "tvk",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "tvk-1658647208.234436",
+            "version": "3.6.1"
+        }
+    ],
+    "id": "anime_colororangediffuseurscolor-1658646463.5152671",
+    "art": {
+        "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+        "fanart": "special://home/addons\\plugin.program.autowidget\\resources\\media\\fanart\\folder-shortcut.png",
+        "icon": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png",
+        "poster": "special://home/addons\\plugin.program.autowidget\\resources\\media\\poster\\folder-shortcut.png",
+        "thumb": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png"
+    },
+    "version": "3.6.1",
+    "content": "",
+    "sort_order": "18"
+}

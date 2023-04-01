@@ -1,0 +1,167 @@
+{
+    "label": "Series autowidget",
+    "type": "widget",
+    "paths": [
+        {
+            "label": "HBO Shows",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=HBO%20Shows&list_slug=hbo-shows&plugin_category=HBO%20Shows&user_slug=garycrawfordgc&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "plot": "This list is maintained by mdblist.comCreate your own: https://mdblist.com/lists/garycrawfordgc/hbo-showsUpdated at 2022-08-27 03:28:31",
+                "studio": "Gary",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "hbo_shows-1661599800.848179",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Disney+ Shows",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Disney%2b%20Shows&list_slug=disney-shows&plugin_category=Disney%2b%20Shows&user_slug=garycrawfordgc&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "plot": "This list is maintained by mdblist.comCreate your own: https://mdblist.com/lists/garycrawfordgc/disney-showsUpdated at 2022-08-26 23:15:17",
+                "studio": "Gary",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "disney_shows-1661599831.6610835",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Netflix Shows",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Netflix%20Shows&list_slug=netflix-shows&plugin_category=Netflix%20Shows&user_slug=garycrawfordgc&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "plot": "This list is maintained by mdblist.comCreate your own: https://mdblist.com/lists/garycrawfordgc/netflix-showsUpdated at 2022-08-27 00:48:23",
+                "studio": "Gary",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "netflix_shows-1661599850.446551",
+            "version": "3.7.0"
+        },
+        {
+            "label": "HBO MAX",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=HBO%20MAX&list_slug=hbo-max&plugin_category=HBO%20MAX&user_slug=asmobarki&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "studio": "ASM",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "hbo_max-1661599936.04886",
+            "version": "3.7.0"
+        },
+        {
+            "label": "IMDB: Top Rated TV Shows",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=IMDB%3a%20Top%20Rated%20TV%20Shows&list_slug=imdb-top-rated-tv-shows&plugin_category=IMDB%3a%20Top%20Rated%20TV%20Shows&user_slug=justin&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "plot": "The IMDB top 250 TV shows, based on popularity. List updated daily.",
+                "studio": "Justin Nemeth",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "imdb_top_rated_tv_shows-1662289106.8368793",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Trakt: Popular TV Shows",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Trakt%3a%20Popular%20TV%20Shows&list_slug=trakt-popular-tv-shows&plugin_category=Trakt%3a%20Popular%20TV%20Shows&user_slug=justin&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "plot": "The Trakt top 250 TV shows, based on popularity. List updated daily.",
+                "studio": "Justin Nemeth",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "trakt_popular_tv_shows-1662289217.8459537",
+            "version": "3.7.0"
+        },
+        {
+            "label": "Trakt: Popular TV Shows",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=Trakt%3a%20Popular%20TV%20Shows&list_slug=trakt-popular-tv-shows&owner=true&plugin_category=Trakt%3a%20Popular%20TV%20Shows&user_slug=justin&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "plot": "The Trakt top 250 TV shows, based on popularity. List updated daily.",
+                "studio": "Justin Nemeth",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "trakt_popular_tv_shows-1662289458.9036489",
+            "version": "3.7.0"
+        },
+        {
+            "label": "IMDB: Popular TV Shows",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=trakt_userlist&list_name=IMDB%3a%20Popular%20TV%20Shows&list_slug=imdb-popular-tv-shows&owner=true&plugin_category=IMDB%3a%20Popular%20TV%20Shows&user_slug=justin&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/addons/plugin.video.themoviedb.helper//resources/icons/themoviedb/default.png"
+                },
+                "studio": "Justin Nemeth",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "widget",
+            "id": "imdb_popular_tv_shows-1662289471.744109",
+            "version": "3.7.0"
+        }
+    ],
+    "id": "series_autowidget-1661598940.8711307",
+    "art": {
+        "banner": "special://home/addons/plugin.program.autowidget/resources/media/banner/folder-sync.png",
+        "fanart": "special://home/addons/plugin.program.autowidget/resources/media/fanart/folder-sync.png",
+        "icon": "special://home/addons/plugin.program.autowidget/resources/media/icon/folder-sync.png",
+        "poster": "special://home/addons/plugin.program.autowidget/resources/media/poster/folder-sync.png",
+        "thumb": "special://home/addons/plugin.program.autowidget/resources/media/icon/folder-sync.png"
+    },
+    "version": "3.7.0",
+    "content": "",
+    "sort_order": "20"
+}

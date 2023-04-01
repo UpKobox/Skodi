@@ -1,0 +1,10 @@
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>Séries [COLOR lightcoral](Nouveautés)[/COLOR]</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://special%3a%2f%2fhome%2faddons%2fplugin.video.vstream%2fresources%2fart%2fnews.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.vstream/?site=pastebin&amp;function=showMovies&amp;title=S%C3%A9ries+&amp;siteUrl=https%3A%2F%2Fpastebin.com%2Fraw%2F%26numPage%3D1%26sMedia%3Dserie%26sYear%3D2022&amp;sFav=showMovies",return)</action>
+		</shortcut>
+	</shortcuts>

@@ -1,0 +1,26 @@
+<shortcuts>
+	<shortcut>
+		<defaultID>575</defaultID>
+		<label>575</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>special://skin/playlists/inprogress_movies.xsp</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>20382</defaultID>
+		<label>20382</label>
+		<label2>videos</label2>
+		<icon>special://skin/extras/icons/recentlyadded.png</icon>
+		<thumb />
+		<action>special://skin/extras/playlists/NewShows.xsp</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>590</defaultID>
+		<label>590</label>
+		<label2 />
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,C:\KodiTest\Kodi v20.1 (Nexus) - Copie\Kodi\portable_data\addons\skin.arctic.horizon.2\extras/playlists/RandomTvShows.xsp,return)</action>
+	</shortcut>
+</shortcuts>

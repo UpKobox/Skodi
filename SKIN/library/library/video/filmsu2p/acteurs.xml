@@ -1,0 +1,5 @@
+<node order="50" type="folder">
+	<label>Acteurs</label>
+	<icon>DefaultActor.png</icon>
+	<path>plugin://plugin.video.themoviedb.helper/?info=dir_person&amp;tmdb_type=None</path>
+</node>

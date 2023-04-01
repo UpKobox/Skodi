@@ -1,0 +1,479 @@
+{
+    "label": "Enfants [COLORorange]Diffuseurs[/COLOR]",
+    "type": "shortcut",
+    "paths": [
+        {
+            "label": "ABC Family",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=75&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/p57JGkSUBdXbOtqkEKeTnfHn7kd.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/p57JGkSUBdXbOtqkEKeTnfHn7kd.png"
+                },
+                "title": "ABC Family",
+                "plot": "ABC Family",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "abc_family-1658646028.5519369",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Boomerang",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=523&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/lkMfZclFXosrByxWf459NrXBiRY.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/lkMfZclFXosrByxWf459NrXBiRY.png"
+                },
+                "title": "Boomerang",
+                "plot": "Boomerang",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "boomerang-1658646047.805887",
+            "version": "3.6.1"
+        },
+        {
+            "label": "CBBC",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=15&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/9O6hVu6gePt7097QdqKxxSF9Suh.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/9O6hVu6gePt7097QdqKxxSF9Suh.png"
+                },
+                "title": "CBBC",
+                "plot": "CBBC",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "cbbc-1658646056.98415",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Canal J",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=682&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/uMMKGhrUmfXtE5SXLCyNtH6gJsV.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/uMMKGhrUmfXtE5SXLCyNtH6gJsV.png"
+                },
+                "title": "Canal J",
+                "plot": "Canal J",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "canal_j-1658646067.5442834",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Cartoon Network",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=56&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/c5OC6oVCg6QP4eqzW6XIq17CQjI.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/c5OC6oVCg6QP4eqzW6XIq17CQjI.png"
+                },
+                "title": "Cartoon Network",
+                "plot": "Cartoon Network",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "cartoon_network-1658646078.1203222",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Disney Channel",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=54&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/ii7tBmIbRycJHndfAVNjEpDD0o4.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/ii7tBmIbRycJHndfAVNjEpDD0o4.png"
+                },
+                "title": "Disney Channel",
+                "plot": "Disney Channel",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "disney_channel-1658646095.0428996",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Disney Junior",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=281&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/gcKywHY6hQ9ZO8x1R6rSUNQ8P8L.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/gcKywHY6hQ9ZO8x1R6rSUNQ8P8L.png"
+                },
+                "title": "Disney Junior",
+                "plot": "Disney Junior",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "disney_junior-1658646101.8205533",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Disney XD",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=44&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/nKM9EnV7jTpt3MKRbhBusJ03lAY.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/nKM9EnV7jTpt3MKRbhBusJ03lAY.png"
+                },
+                "title": "Disney XD",
+                "plot": "Disney XD",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "disney_xd-1658646109.91685",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Family Channel",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=197&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/uarlhdBymUYsmk0s4EoAaGtxuB6.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/uarlhdBymUYsmk0s4EoAaGtxuB6.png"
+                },
+                "title": "Family Channel",
+                "plot": "Family Channel",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "family_channel-1658646133.9681032",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Fox Kids",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=2686&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/rUb71E91POVCxpXGJ49pf6m8Ukk.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/rUb71E91POVCxpXGJ49pf6m8Ukk.png"
+                },
+                "title": "Fox Kids",
+                "plot": "Fox Kids",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "fox_kids-1658646148.5088468",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Gulli",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=2638&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/4b8ZM73YKqFCJLbQB70Pyw5wQCK.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/4b8ZM73YKqFCJLbQB70Pyw5wQCK.png"
+                },
+                "title": "Gulli",
+                "plot": "Gulli",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "gulli-1658646161.167455",
+            "version": "3.6.1"
+        },
+        {
+            "label": "KiKa",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=239&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/1dtumlarEVXeYX1BrUFS9qLoG2Z.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/1dtumlarEVXeYX1BrUFS9qLoG2Z.png"
+                },
+                "title": "KiKa",
+                "plot": "KiKa",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "kika-1658646188.2169006",
+            "version": "3.6.1"
+        },
+        {
+            "label": "NHK",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=2334&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/rioX0zGJHGnuEm9iGMVL6N9guA0.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/rioX0zGJHGnuEm9iGMVL6N9guA0.png"
+                },
+                "title": "NHK",
+                "plot": "NHK",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "nhk-1658646214.566795",
+            "version": "3.6.1"
+        },
+        {
+            "label": "NHK BS1",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=219&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/8fr5rRhr3avyMYDDl4b3ePardYc.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/8fr5rRhr3avyMYDDl4b3ePardYc.png"
+                },
+                "title": "NHK BS1",
+                "plot": "NHK BS1",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "nhk_bs1-1658646226.7758245",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Nick Jr.",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=35&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/zmXCDvQt7AUf5ci1ldjFfccsmJc.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/zmXCDvQt7AUf5ci1ldjFfccsmJc.png"
+                },
+                "title": "Nick Jr.",
+                "plot": "Nick Jr.",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "nick_jr.-1658646262.1032",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Nickelodeon",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=13&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/ikZXxg6GnwpzqiZbRPhJGaZapqB.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/ikZXxg6GnwpzqiZbRPhJGaZapqB.png"
+                },
+                "title": "Nickelodeon",
+                "plot": "Nickelodeon",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "nickelodeon-1658646269.9482386",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Rai Gulp",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=1422&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/nzYlSSVEia1cj51VU28MNZt70IO.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/nzYlSSVEia1cj51VU28MNZt70IO.png"
+                },
+                "title": "Rai Gulp",
+                "plot": "Rai Gulp",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "rai_gulp-1658646303.110977",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Teletoon",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=83&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/mE2ElX5BSeUhiT3V8qUhLjd3Nbz.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/mE2ElX5BSeUhiT3V8qUhLjd3Nbz.png"
+                },
+                "title": "Teletoon",
+                "plot": "Teletoon",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "teletoon-1658646322.09834",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Toon Disney",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=142&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/7ahoCR2iIFYd0p2xbbrhQgnClJC.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/7ahoCR2iIFYd0p2xbbrhQgnClJC.png"
+                },
+                "title": "Toon Disney",
+                "plot": "Toon Disney",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "toon_disney-1658646337.9382567",
+            "version": "3.6.1"
+        },
+        {
+            "label": "T\u00e9l\u00e9toon+",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=2170&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/nLFQkHAhQXlhLGRXJTbuULYJWuv.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/nLFQkHAhQXlhLGRXJTbuULYJWuv.png"
+                },
+                "title": "T\u00e9l\u00e9toon+",
+                "plot": "T\u00e9l\u00e9toon+",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "teletoon-1658646396.3844495",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Canal J",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&namenetwork=682&network=1&page=1",
+                "filetype": "directory",
+                "art": {
+                    "fanart": "special://home/addons\\plugin.video.sendtokodiU2P\\fanart.jpg",
+                    "icon": "http://image.tmdb.org/t/p/w500/uMMKGhrUmfXtE5SXLCyNtH6gJsV.png",
+                    "thumb": "http://image.tmdb.org/t/p/w500/uMMKGhrUmfXtE5SXLCyNtH6gJsV.png"
+                },
+                "title": "Canal J",
+                "plot": "Canal J",
+                "votes": "0",
+                "type": "video"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "canal_j-1658646604.4352727",
+            "version": "3.6.1"
+        }
+    ],
+    "id": "enfants_colororangediffuseurscolor-1658646024.320864",
+    "art": {
+        "banner": "special://home/addons\\plugin.program.autowidget\\resources\\media\\banner\\folder-shortcut.png",
+        "fanart": "special://home/addons\\plugin.program.autowidget\\resources\\media\\fanart\\folder-shortcut.png",
+        "icon": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png",
+        "poster": "special://home/addons\\plugin.program.autowidget\\resources\\media\\poster\\folder-shortcut.png",
+        "thumb": "special://home/addons\\plugin.program.autowidget\\resources\\media\\icon\\folder-shortcut.png"
+    },
+    "version": "3.6.1",
+    "content": "",
+    "sort_order": "17"
+}

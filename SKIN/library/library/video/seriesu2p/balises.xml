@@ -1,0 +1,5 @@
+<node order="80" type="folder">
+	<label>Balises</label>
+	<icon>DefaultTags.png</icon>
+	<path>plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&amp;groupes=groupe&amp;offset=0</path>
+</node>

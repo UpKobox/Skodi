@@ -1,0 +1,82 @@
+<shortcuts>
+	<shortcut>
+		<defaultID>plugin.program.Skodi</defaultID>
+		<label>[COLOR limegreen]Skodi[/COLOR]</label>
+		<label2>Programme</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons/plugin.program.Skodi/icon.png</thumb>
+		<action>ActivateWindow(Programs,"plugin://plugin.program.Skodi",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Skodi Settings</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/controlpanel.png</thumb>
+		<action>Addon.OpenSettings(plugin.program.Skodi)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.sendtokodiU2P</defaultID>
+		<label>U2Pplay</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons/plugin.video.sendtokodiU2P/icon.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Paramètres U2Pplay</label>
+		<label2>Elément personnalisé</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/addons.png</thumb>
+		<action>Addon.OpenSettings(plugin.video.sendtokodiU2P)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Découvrir</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/atom.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.themoviedb.helper/?info=dir_discover&amp;tmdb_type=None",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Mode aléatoire</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/dice.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.themoviedb.helper/?info=dir_random&amp;tmdb_type=None",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Divers U2Pplay</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/clipboard-user.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=folderPubDetails&amp;offset=0&amp;typM=divers",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>744</defaultID>
+		<label>744</label>
+		<label2>Vidéos</label2>
+		<icon>DefaultFolder.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,Files,return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>1037</defaultID>
+		<label>1037</label>
+		<label2>Vidéos</label2>
+		<icon>DefaultAddonVideo.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,Addons,return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>31375</defaultID>
+		<label>$SKIN[31375|skin.arctic.horizon.2|None]</label>
+		<label2>Prédéfini</label2>
+		<icon>special://skin/extras/icons/favourites2.png</icon>
+		<thumb>special://skin/extras/icons/favourites2.png</thumb>
+		<action>ActivateWindow(favouritesbrowser)</action>
+		</shortcut>
+	</shortcuts>

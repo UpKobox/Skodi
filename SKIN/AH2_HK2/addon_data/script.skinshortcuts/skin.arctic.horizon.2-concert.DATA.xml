@@ -1,0 +1,34 @@
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>Setting Profils</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://special%3a%2f%2fhome%2faddons%2fplugin.video.sendtokodiU2P%2fresources%2fpng%2fprofil.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=affProfils",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Setting U2P</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://special%3a%2f%2fhome%2faddons%2fplugin.video.sendtokodiU2P%2fresources%2fpng%2fsetting.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=setting",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.sendtokodiU2P</defaultID>
+		<label>U2Pplay</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>thumb</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>1036</defaultID>
+		<label>1036</label>
+		<label2>Elément de menu commun</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/favourites2.png</thumb>
+		<action>ActivateWindow(Favourites)</action>
+		</shortcut>
+	</shortcuts>

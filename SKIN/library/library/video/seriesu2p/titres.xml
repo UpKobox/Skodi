@@ -1,0 +1,5 @@
+<node order="40" type="folder">
+	<label>Titres</label>
+	<icon>DefaultTVShowTitle.png</icon>
+	<path>plugin://plugin.video.sendtokodiU2P/?action=mediasHKSeries&amp;famille=serieserie</path>
+</node>

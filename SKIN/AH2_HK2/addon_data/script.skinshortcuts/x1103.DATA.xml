@@ -1,0 +1,58 @@
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>showTV</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://special%3a%2f%2fhome%2faddons%2fplugin.video.sendtokodiU2P%2fresources%2fpng%2fshowTV.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=MenuDivers&amp;repo=showTV",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Emission TV</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://special%3a%2f%2fhome%2faddons%2fplugin.video.sendtokodiU2P%2fresources%2fpng%2fgroupe.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=MenuSerie&amp;groupe=-Emission+TV",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Contenus originaux</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://special%3a%2f%2fhome%2faddons%2fplugin.video.sendtokodiU2P%2fresources%2fpng%2fgroupe.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=MenuSerie&amp;trakt=Contenus+originaux",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Emissions télé et séries documentaire</label>
+		<label2>Extensions Vidéo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://special%3a%2f%2fhome%2faddons%2fplugin.video.sendtokodiU2P%2fresources%2fpng%2fgroupe.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sendtokodiU2P/?action=MenuSerie&amp;groupe=02.+Emissions+t%C3%A9l%C3%A9+et+s%C3%A9ries+documentaire",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>mediahub</defaultID>
+		<label>$SKIN[31830|skin.auramod|None]</label>
+		<label2 />
+		<icon>special://skin/extras/icons/tv.png</icon>
+		<thumb>special://skin/extras/icons/emby.png</thumb>
+		<action>ActivateWindow(3730,return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>tvnetflixhub</defaultID>
+		<label>$SKIN[31828|skin.auramod|None]</label>
+		<label2 />
+		<icon>special://skin/extras/icons/tv.png</icon>
+		<thumb />
+		<action>ActivateWindow(3810,return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>tvaurahub</defaultID>
+		<label>$SKIN[31827|skin.auramod|None]</label>
+		<label2 />
+		<icon>special://skin/extras/icons/tv.png</icon>
+		<thumb />
+		<action>ActivateWindow(3910,return)</action>
+		</shortcut>
+	</shortcuts>

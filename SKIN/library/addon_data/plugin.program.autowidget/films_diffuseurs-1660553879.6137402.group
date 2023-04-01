@@ -1,0 +1,186 @@
+{
+    "label": "Films Diffuseurs",
+    "type": "shortcut",
+    "paths": [
+        {
+            "label": "Netflix",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=discover&tmdb_type=movie&watch_region=FR&with_id=True&with_watch_providers=8&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/media/Diffuseurs/netflix.jpg",
+                    "thumb": "/storage/emulated/0/Android/media/Diffuseurs/netflix.jpg",
+                    "landscape": "special://home/media/Diffuseurs/netflix-MEA-2.jpg",
+                    "fanart": "special://home/media/Diffuseurs/netflix-logo.webp"
+                },
+                "title": "Netflix",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "netflix-1660553884.0307763",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Disney Plus",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=discover&tmdb_type=movie&watch_region=FR&with_id=True&with_watch_providers=337&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/media/Diffuseurs/disneyplus.jpg",
+                    "thumb": "/storage/emulated/0/Android/media/Diffuseurs/disneyplus.jpg",
+                    "fanart": "special://home/media/Diffuseurs/Contrairement-a-Netflix-qui-est-dans-la-tourmente-Disney-Plus-continue-son-ascension-fulgurante.webp",
+                    "landscape": "special://home/media/Diffuseurs/disney-plus-.jpeg"
+                },
+                "title": "Disney Plus",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "disney_plus-1660554183.6997416",
+            "version": "3.6.1"
+        },
+        {
+            "label": "OCS",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=discover&tmdb_type=movie&watch_region=FR&with_id=True&with_watch_providers=56&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/media/Diffuseurs/hbomax.jpg",
+                    "thumb": "special://home/media/Diffuseurs/hbo-max-logo.webp",
+                    "fanart": "special://home/media/Diffuseurs/hbo max 2022 .jpg",
+                    "landscape": "special://home/media/Diffuseurs/hbo-max-logo.png"
+                },
+                "title": "OCS Go",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "ocs-1660554046.2796628",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Apple TV Plus",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=discover&tmdb_type=movie&watch_region=FR&with_id=True&with_watch_providers=350&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/media/Diffuseurs/appletv.jpg",
+                    "thumb": "/storage/emulated/0/Android/media/Diffuseurs/appletv.jpg",
+                    "fanart": "special://home/media/Diffuseurs/Apple-TV-app_571x321.jpg.large.jpg",
+                    "landscape": "special://home/media/Diffuseurs/appletv+.jpg"
+                },
+                "title": "Apple TV Plus",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "apple_tv_plus-1660554111.6700199",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Amazon Prime Video",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=discover&tmdb_type=movie&watch_region=FR&with_id=True&with_watch_providers=119&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/media/Diffuseurs/primevideo.jpg",
+                    "thumb": "/storage/emulated/0/Android/media/Diffuseurs/primevideo.jpg",
+                    "fanart": "special://home/media/Diffuseurs/amazon-prime-video.jpg",
+                    "landscape": "special://home/media/Diffuseurs/primevideo-big.jpg"
+                },
+                "title": "Amazon Prime Video",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "amazon_prime_video-1660553895.9802108",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Canal+",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=discover&tmdb_type=movie&watch_region=FR&with_id=True&with_watch_providers=381&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/media/Diffuseurs/canalplus.jpg",
+                    "thumb": "/storage/emulated/0/Android/media/Diffuseurs/canalplus.jpg",
+                    "fanart": "special://home/media/Diffuseurs/canal-plus-vignette.webp",
+                    "landscape": "special://home/media/Diffuseurs/canalplus.jpeg"
+                },
+                "title": "Canal+",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "canal-1660554030.8647685",
+            "version": "3.6.1"
+        },
+        {
+            "label": "Arte",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=discover&tmdb_type=movie&watch_region=FR&with_id=True&with_watch_providers=234&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/media/Diffuseurs/arte.jpg",
+                    "thumb": "/storage/emulated/0/Android/media/Diffuseurs/arte.jpg",
+                    "fanart": "special://home/media/Diffuseurs/1200x630wa.png",
+                    "landscape": "special://home/media/Diffuseurs/arte-logo_1920x1080-6-585x329.jpg"
+                },
+                "title": "Arte",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "arte-1660554140.6126354",
+            "version": "3.6.1"
+        },
+        {
+            "label": "SALTO",
+            "content": "videos",
+            "file": {
+                "file": "plugin://plugin.video.themoviedb.helper/?info=discover&tmdb_type=movie&watch_region=FR&with_id=True&with_watch_providers=564&widget=True",
+                "filetype": "directory",
+                "art": {
+                    "icon": "special://home/media/Diffuseurs/salto.jpg",
+                    "thumb": "/storage/emulated/0/Android/media/Diffuseurs/salto.jpg",
+                    "fanart": "special://home/media/Diffuseurs/salto-une-ok.jpg",
+                    "poster": "",
+                    "landscape": "special://home/media/Diffuseurs/salto-logo.webp"
+                },
+                "title": "SALTO",
+                "votes": "0"
+            },
+            "color": "white",
+            "window": "videos",
+            "target": "shortcut",
+            "id": "salto-1660554192.6076233",
+            "version": "3.6.1"
+        }
+    ],
+    "id": "films_diffuseurs-1660553879.6137402",
+    "art": {
+        "banner": "special://home/addons/plugin.program.autowidget/resources/media/banner/folder-shortcut.png",
+        "fanart": "special://home/addons/plugin.program.autowidget/resources/media/fanart/folder-shortcut.png",
+        "icon": "special://home/addons/plugin.program.autowidget/resources/media/icon/folder-shortcut.png",
+        "poster": "special://home/addons/plugin.program.autowidget/resources/media/poster/folder-shortcut.png",
+        "thumb": "special://home/addons/plugin.program.autowidget/resources/media/icon/folder-shortcut.png"
+    },
+    "version": "3.7.0",
+    "content": "",
+    "sort_order": "3"
+}
